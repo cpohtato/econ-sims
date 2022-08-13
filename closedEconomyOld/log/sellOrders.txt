@@ -1,0 +1,996 @@
+
+========================= MONTH 1 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 84/4150
+Avg. price: 2.16
+
+Energy Market:
+Sales: 489/3870
+Avg. price: 2.13
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 2 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 42/5156
+Avg. price: 2.20
+
+Energy Market:
+Sales: 442/4311
+Avg. price: 2.12
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 3 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 444/6224
+Avg. price: 2.29
+
+Energy Market:
+Sales: 39/4779
+Avg. price: 2.41
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 4 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 116/6700
+Avg. price: 2.34
+
+Energy Market:
+Sales: 21/5840
+Avg. price: 2.44
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 5 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 371/7484
+Avg. price: 2.52
+
+Energy Market:
+Sales: 24/6939
+Avg. price: 2.64
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 6 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 16/8233
+Avg. price: 2.61
+
+Energy Market:
+Sales: 270/7815
+Avg. price: 2.39
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 7 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 219/9307
+Avg. price: 2.59
+
+Energy Market:
+Sales: 11/8475
+Avg. price: 2.88
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 8 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 149/10178
+Avg. price: 2.77
+
+Energy Market:
+Sales: 7/9394
+Avg. price: 3.09
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 9 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 6/10899
+Avg. price: 3.26
+
+Energy Market:
+Sales: 233/10537
+Avg. price: 3.20
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 10 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 104/11643
+Avg. price: 3.22
+
+Energy Market:
+Sales: 6/11054
+Avg. price: 3.43
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 11 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 83/11919
+Avg. price: 3.14
+
+Energy Market:
+Sales: 6/11768
+Avg. price: 3.33
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+
+========================= MONTH 12 =========================
+
+Ore Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Rare Earths Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Produce Market:
+Sales: 116/12356
+Avg. price: 2.80
+
+Energy Market:
+Sales: 6/12422
+Avg. price: 3.57
+
+Volatiles Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Electronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Quantronics Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Alloys Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Composites Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Specialised Machinery Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Automatons Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Light Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Transport Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Heavy Ordnance Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Services Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Processed Food Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Consumer Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+
+Luxury Goods Market:
+Sales: 0/0
+Avg. price: 0.00
+

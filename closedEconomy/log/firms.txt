@@ -1,0 +1,1792 @@
+
+========================= MONTH 1 =========================
+
+Produce: 24/55, Profit: 4.15
+Produce: 61/1004, Profit: -4.56
+Energy: 54/55, Profit: 16.15
+Energy: 217/1016, Profit: 56.83
+
+========================= MONTH 2 =========================
+
+Produce: 23/55, Profit: 3.73
+Produce: 60/1004, Profit: -5.09
+Energy: 54/55, Profit: 15.33
+Energy: 371/1016, Profit: 112.74
+
+========================= MONTH 3 =========================
+
+Produce: 23/55, Profit: 3.50
+Produce: 60/1004, Profit: -5.78
+Energy: 54/55, Profit: 15.04
+Energy: 679/1016, Profit: 227.52
+
+========================= MONTH 4 =========================
+
+Produce: 22/55, Profit: 2.84
+Produce: 59/1004, Profit: -7.15
+Energy: 54/55, Profit: 14.90
+Energy: 1015/1016, Profit: 352.01
+
+========================= MONTH 5 =========================
+
+Produce: 19/55, Profit: 1.58
+Produce: 54/1016, Profit: -10.56
+Energy: 54/55, Profit: 14.40
+Energy: 1003/1004, Profit: 339.23
+
+========================= MONTH 6 =========================
+
+Produce: 20/55, Profit: 1.88
+Produce: 53/1004, Profit: -10.16
+Energy: 54/55, Profit: 14.64
+Energy: 1015/1016, Profit: 346.89
+
+========================= MONTH 7 =========================
+
+Produce: 23/55, Profit: 2.73
+Produce: 60/1016, Profit: -9.39
+Energy: 54/55, Profit: 15.18
+Energy: 1015/1016, Profit: 357.03
+
+========================= MONTH 8 =========================
+
+Produce: 41/55, Profit: 8.93
+Produce: 110/1020, Profit: 6.69
+Energy: 55/55, Profit: 15.72
+Energy: 991/991, Profit: 352.65
+
+========================= MONTH 9 =========================
+
+Produce: 39/55, Profit: 8.02
+Produce: 102/991, Profit: 6.16
+Energy: 54/55, Profit: 15.68
+Energy: 1019/1020, Profit: 366.54
+
+========================= MONTH 10 =========================
+
+Produce: 54/55, Profit: 12.98
+Produce: 189/1020, Profit: 31.99
+Energy: 55/55, Profit: 16.13
+Energy: 991/991, Profit: 359.50
+
+========================= MONTH 11 =========================
+
+Produce: 54/55, Profit: 12.85
+Produce: 143/991, Profit: 18.80
+Energy: 55/55, Profit: 16.18
+Energy: 1020/1020, Profit: 368.29
+
+========================= MONTH 12 =========================
+
+Produce: 54/55, Profit: 12.62
+Produce: 211/1020, Profit: 37.64
+Energy: 55/55, Profit: 16.69
+Energy: 991/991, Profit: 369.24
+
+========================= MONTH 13 =========================
+
+Produce: 54/55, Profit: 12.11
+Produce: 303/1020, Profit: 65.22
+Energy: 55/55, Profit: 17.21
+Energy: 991/991, Profit: 378.29
+
+========================= MONTH 14 =========================
+
+Produce: 54/55, Profit: 11.46
+Produce: 421/991, Profit: 101.57
+Energy: 55/55, Profit: 17.26
+Energy: 1020/1020, Profit: 387.86
+
+========================= MONTH 15 =========================
+
+Produce: 54/55, Profit: 10.93
+Produce: 601/987, Profit: 153.67
+Energy: 55/55, Profit: 17.72
+Energy: 1020/1020, Profit: 397.02
+
+========================= MONTH 16 =========================
+
+Produce: 54/55, Profit: 10.66
+Produce: 927/1016, Profit: 245.79
+Energy: 55/55, Profit: 18.43
+Energy: 991/991, Profit: 401.84
+
+========================= MONTH 17 =========================
+
+Produce: 55/55, Profit: 10.33
+Produce: 72/72, Profit: 6.14
+Energy: 55/55, Profit: 18.62
+Energy: 1020/1020, Profit: 415.08
+
+========================= MONTH 18 =========================
+
+Produce: 54/55, Profit: 10.18
+Produce: 1015/1016, Profit: 264.82
+Energy: 4/4, Profit: 0.58
+Energy: 987/987, Profit: 414.07
+
+========================= MONTH 19 =========================
+
+Produce: 55/55, Profit: 9.90
+Produce: 1016/1016, Profit: 256.13
+Energy: 55/55, Profit: 19.13
+Energy: 87/87, Profit: 18.75
+
+========================= MONTH 20 =========================
+
+Produce: 55/55, Profit: 10.09
+Produce: 72/72, Profit: 6.06
+Energy: 55/55, Profit: 19.43
+Energy: 1020/1020, Profit: 432.84
+
+========================= MONTH 21 =========================
+
+Produce: 55/55, Profit: 10.27
+Produce: 72/72, Profit: 6.46
+Energy: 55/55, Profit: 20.08
+Energy: 1020/1020, Profit: 445.33
+
+========================= MONTH 22 =========================
+
+Produce: 55/55, Profit: 10.46
+Produce: 72/72, Profit: 6.81
+Energy: 55/55, Profit: 20.57
+Energy: 1020/1020, Profit: 455.20
+
+========================= MONTH 23 =========================
+
+Produce: 55/55, Profit: 10.76
+Produce: 72/72, Profit: 7.38
+Energy: 55/55, Profit: 21.13
+Energy: 1020/1020, Profit: 466.01
+
+========================= MONTH 24 =========================
+
+Produce: 54/55, Profit: 10.97
+Produce: 1015/1016, Profit: 283.48
+Energy: 55/55, Profit: 21.79
+Energy: 987/987, Profit: 466.97
+
+========================= MONTH 25 =========================
+
+Produce: 54/55, Profit: 10.85
+Produce: 1003/1004, Profit: 279.13
+Energy: 55/55, Profit: 22.66
+Energy: 987/987, Profit: 482.91
+
+========================= MONTH 26 =========================
+
+Produce: 54/55, Profit: 10.62
+Produce: 1015/1016, Profit: 278.01
+Energy: 55/55, Profit: 23.67
+Energy: 987/987, Profit: 501.66
+
+========================= MONTH 27 =========================
+
+Produce: 54/55, Profit: 11.10
+Produce: 1015/1016, Profit: 287.20
+Energy: 55/55, Profit: 24.38
+Energy: 987/987, Profit: 514.67
+
+========================= MONTH 28 =========================
+
+Produce: 54/55, Profit: 11.27
+Produce: 1015/1016, Profit: 290.59
+Energy: 55/55, Profit: 25.23
+Energy: 1016/1016, Profit: 543.02
+
+========================= MONTH 29 =========================
+
+Produce: 55/55, Profit: 12.06
+Produce: 76/76, Profit: 9.15
+Energy: 55/55, Profit: 26.39
+Energy: 1020/1020, Profit: 565.96
+
+========================= MONTH 30 =========================
+
+Produce: 55/55, Profit: 12.62
+Produce: 76/76, Profit: 10.23
+Energy: 55/55, Profit: 26.95
+Energy: 1020/1020, Profit: 577.78
+
+========================= MONTH 31 =========================
+
+Produce: 55/55, Profit: 12.97
+Produce: 1020/1020, Profit: 319.97
+Energy: 55/55, Profit: 27.03
+Energy: 90/90, Profit: 32.77
+
+========================= MONTH 32 =========================
+
+Produce: 55/55, Profit: 13.53
+Produce: 76/76, Profit: 11.50
+Energy: 55/55, Profit: 27.20
+Energy: 1020/1020, Profit: 583.86
+
+========================= MONTH 33 =========================
+
+Produce: 55/55, Profit: 13.87
+Produce: 76/76, Profit: 12.29
+Energy: 55/55, Profit: 28.01
+Energy: 1025/1025, Profit: 600.11
+
+========================= MONTH 34 =========================
+
+Produce: 55/55, Profit: 13.86
+Produce: 1020/1020, Profit: 339.52
+Energy: 55/55, Profit: 28.18
+Energy: 90/90, Profit: 35.03
+
+========================= MONTH 35 =========================
+
+Produce: 55/55, Profit: 14.03
+Produce: 76/76, Profit: 12.72
+Energy: 55/55, Profit: 29.36
+Energy: 90/90, Profit: 37.08
+
+========================= MONTH 36 =========================
+
+Produce: 55/55, Profit: 14.40
+Produce: 76/76, Profit: 13.41
+Energy: 55/55, Profit: 29.71
+Energy: 90/90, Profit: 37.90
+
+========================= MONTH 37 =========================
+
+Produce: 55/55, Profit: 15.09
+Produce: 79/79, Profit: 14.54
+Energy: 55/55, Profit: 30.74
+Energy: 90/90, Profit: 39.86
+
+========================= MONTH 38 =========================
+
+Produce: 55/55, Profit: 15.30
+Produce: 79/79, Profit: 15.08
+Energy: 55/55, Profit: 31.20
+Energy: 91/91, Profit: 40.41
+
+========================= MONTH 39 =========================
+
+Produce: 55/55, Profit: 15.53
+Produce: 79/79, Profit: 15.59
+Energy: 55/55, Profit: 31.25
+Energy: 91/91, Profit: 40.72
+
+========================= MONTH 40 =========================
+
+Produce: 55/55, Profit: 15.45
+Produce: 79/79, Profit: 15.80
+Energy: 55/55, Profit: 31.89
+Energy: 91/91, Profit: 42.18
+
+========================= MONTH 41 =========================
+
+Produce: 55/55, Profit: 15.84
+Produce: 79/79, Profit: 16.78
+Energy: 55/55, Profit: 33.23
+Energy: 91/91, Profit: 44.88
+
+========================= MONTH 42 =========================
+
+Produce: 55/55, Profit: 16.01
+Produce: 87/87, Profit: 17.29
+Energy: 55/55, Profit: 33.97
+Energy: 91/91, Profit: 46.41
+
+========================= MONTH 43 =========================
+
+Produce: 55/55, Profit: 16.25
+Produce: 87/87, Profit: 17.85
+Energy: 55/55, Profit: 33.92
+Energy: 91/91, Profit: 46.51
+
+========================= MONTH 44 =========================
+
+Produce: 54/55, Profit: 15.91
+Produce: 86/87, Profit: 17.74
+Energy: 55/55, Profit: 34.45
+Energy: 91/91, Profit: 47.59
+
+========================= MONTH 45 =========================
+
+Produce: 39/55, Profit: 10.05
+Produce: 48/87, Profit: 2.32
+Energy: 54/55, Profit: 33.89
+Energy: 95/96, Profit: 47.86
+
+========================= MONTH 46 =========================
+
+Produce: 54/55, Profit: 15.99
+Produce: 1019/1020, Profit: 405.75
+Energy: 55/55, Profit: 35.07
+Energy: 96/96, Profit: 49.77
+
+========================= MONTH 47 =========================
+
+Produce: 52/55, Profit: 14.98
+Produce: 65/87, Profit: 9.13
+Energy: 54/55, Profit: 35.55
+Energy: 1024/1025, Profit: 776.44
+
+========================= MONTH 48 =========================
+
+Produce: 55/55, Profit: 15.66
+Produce: 87/87, Profit: 17.69
+Energy: 55/55, Profit: 36.69
+Energy: 96/96, Profit: 52.62
+
+========================= MONTH 49 =========================
+
+Produce: 55/55, Profit: 16.20
+Produce: 87/87, Profit: 18.93
+Energy: 55/55, Profit: 38.25
+Energy: 96/96, Profit: 55.76
+
+========================= MONTH 50 =========================
+
+Produce: 55/55, Profit: 16.73
+Produce: 87/87, Profit: 20.09
+Energy: 55/55, Profit: 39.50
+Energy: 96/96, Profit: 58.27
+
+========================= MONTH 51 =========================
+
+Produce: 55/55, Profit: 17.27
+Produce: 90/90, Profit: 21.42
+Energy: 55/55, Profit: 39.60
+Energy: 96/96, Profit: 58.59
+
+========================= MONTH 52 =========================
+
+Produce: 55/55, Profit: 17.80
+Produce: 90/90, Profit: 22.36
+Energy: 55/55, Profit: 39.58
+Energy: 96/96, Profit: 58.59
+
+========================= MONTH 53 =========================
+
+Produce: 55/55, Profit: 17.86
+Produce: 90/90, Profit: 22.68
+Energy: 55/55, Profit: 40.59
+Energy: 96/96, Profit: 60.60
+
+========================= MONTH 54 =========================
+
+Produce: 55/55, Profit: 18.62
+Produce: 90/90, Profit: 24.03
+Energy: 55/55, Profit: 40.86
+Energy: 96/96, Profit: 61.11
+
+========================= MONTH 55 =========================
+
+Produce: 54/55, Profit: 18.49
+Produce: 89/90, Profit: 24.21
+Energy: 55/55, Profit: 41.47
+Energy: 96/96, Profit: 62.27
+
+========================= MONTH 56 =========================
+
+Produce: 51/55, Profit: 16.81
+Produce: 65/90, Profit: 12.39
+Energy: 54/55, Profit: 41.06
+Energy: 95/96, Profit: 62.55
+
+========================= MONTH 57 =========================
+
+Produce: 52/55, Profit: 17.09
+Produce: 65/90, Profit: 12.31
+Energy: 54/55, Profit: 42.11
+Energy: 95/96, Profit: 64.65
+
+========================= MONTH 58 =========================
+
+Produce: 36/55, Profit: 9.16
+Produce: 47/90, Profit: 3.46
+Energy: 54/55, Profit: 40.78
+Energy: 95/96, Profit: 62.43
+
+========================= MONTH 59 =========================
+
+Produce: 53/55, Profit: 17.08
+Produce: 68/90, Profit: 13.39
+Energy: 54/55, Profit: 40.85
+Energy: 95/96, Profit: 62.76
+
+========================= MONTH 60 =========================
+
+Produce: 51/55, Profit: 15.87
+Produce: 65/90, Profit: 11.98
+Energy: 54/55, Profit: 40.14
+Energy: 95/96, Profit: 61.89
+
+========================= MONTH 61 =========================
+
+Produce: 42/55, Profit: 10.74
+Produce: 53/90, Profit: 5.53
+Energy: 54/55, Profit: 38.73
+Energy: 95/96, Profit: 59.76
+
+========================= MONTH 62 =========================
+
+Produce: 48/55, Profit: 12.57
+Produce: 61/90, Profit: 8.11
+Energy: 54/55, Profit: 37.10
+Energy: 95/96, Profit: 57.00
+
+========================= MONTH 63 =========================
+
+Produce: 40/55, Profit: 8.58
+Produce: 51/90, Profit: 3.13
+Energy: 54/55, Profit: 36.46
+Energy: 90/91, Profit: 55.34
+
+========================= MONTH 64 =========================
+
+Produce: 36/55, Profit: 6.15
+Produce: 45/90, Profit: -0.19
+Energy: 54/55, Profit: 34.85
+Energy: 90/91, Profit: 52.85
+
+========================= MONTH 65 =========================
+
+Produce: 42/55, Profit: 8.44
+Produce: 53/87, Profit: 4.11
+Energy: 54/55, Profit: 33.55
+Energy: 90/91, Profit: 50.93
+
+========================= MONTH 66 =========================
+
+Produce: 36/55, Profit: 5.35
+Produce: 45/87, Profit: 0.21
+Energy: 54/55, Profit: 32.83
+Energy: 90/91, Profit: 49.93
+
+========================= MONTH 67 =========================
+
+Produce: 33/55, Profit: 4.06
+Produce: 42/87, Profit: -1.01
+Energy: 54/55, Profit: 31.86
+Energy: 90/91, Profit: 48.42
+
+========================= MONTH 68 =========================
+
+Produce: 31/55, Profit: 3.11
+Produce: 38/87, Profit: -2.94
+Energy: 54/55, Profit: 31.10
+Energy: 90/91, Profit: 46.97
+
+========================= MONTH 69 =========================
+
+Produce: 3/4, Profit: 0.08
+Produce: 68/87, Profit: 8.39
+Energy: 54/55, Profit: 30.32
+Energy: 90/91, Profit: 45.61
+
+========================= MONTH 70 =========================
+
+Produce: 3/4, Profit: 0.06
+Produce: 68/87, Profit: 8.02
+Energy: 54/55, Profit: 29.26
+Energy: 90/91, Profit: 44.06
+
+========================= MONTH 71 =========================
+
+Produce: 33/55, Profit: 2.89
+Produce: 42/87, Profit: -2.59
+Energy: 3/4, Profit: 1.00
+Energy: 90/91, Profit: 42.87
+
+========================= MONTH 72 =========================
+
+Produce: 31/55, Profit: 1.75
+Produce: 40/87, Profit: -3.73
+Energy: 3/4, Profit: 1.04
+Energy: 90/91, Profit: 44.31
+
+========================= MONTH 73 =========================
+
+Produce: 3/4, Profit: -0.04
+Produce: 66/87, Profit: 5.63
+Energy: 54/55, Profit: 28.99
+Energy: 90/91, Profit: 43.75
+
+========================= MONTH 74 =========================
+
+Produce: 3/4, Profit: -0.09
+Produce: 64/87, Profit: 4.07
+Energy: 54/55, Profit: 28.28
+Energy: 90/91, Profit: 42.61
+
+========================= MONTH 75 =========================
+
+Produce: 33/55, Profit: 1.56
+Produce: 40/84, Profit: -3.73
+Energy: 3/4, Profit: 0.90
+Energy: 90/91, Profit: 41.10
+
+========================= MONTH 76 =========================
+
+Produce: 39/55, Profit: 3.51
+Produce: 50/84, Profit: -0.24
+Energy: 54/55, Profit: 26.48
+Energy: 90/91, Profit: 39.71
+
+========================= MONTH 77 =========================
+
+Produce: 55/55, Profit: 8.37
+Produce: 84/84, Profit: 10.81
+Energy: 55/55, Profit: 26.01
+Energy: 1025/1025, Profit: 629.87
+
+========================= MONTH 78 =========================
+
+Produce: 55/55, Profit: 8.75
+Produce: 84/84, Profit: 11.55
+Energy: 55/55, Profit: 26.88
+Energy: 1025/1025, Profit: 647.07
+
+========================= MONTH 79 =========================
+
+Produce: 55/55, Profit: 8.95
+Produce: 84/84, Profit: 12.08
+Energy: 55/55, Profit: 27.30
+Energy: 1025/1025, Profit: 657.12
+
+========================= MONTH 80 =========================
+
+Produce: 55/55, Profit: 9.49
+Produce: 1004/1004, Profit: 324.56
+Energy: 55/55, Profit: 28.11
+Energy: 91/91, Profit: 43.03
+
+========================= MONTH 81 =========================
+
+Produce: 55/55, Profit: 9.65
+Produce: 1004/1004, Profit: 330.99
+Energy: 55/55, Profit: 29.19
+Energy: 90/90, Profit: 45.47
+
+========================= MONTH 82 =========================
+
+Produce: 55/55, Profit: 10.27
+Produce: 1004/1004, Profit: 341.95
+Energy: 55/55, Profit: 30.21
+Energy: 90/90, Profit: 46.96
+
+========================= MONTH 83 =========================
+
+Produce: 55/55, Profit: 10.80
+Produce: 986/986, Profit: 346.28
+Energy: 55/55, Profit: 30.44
+Energy: 90/90, Profit: 47.40
+
+========================= MONTH 84 =========================
+
+Produce: 55/55, Profit: 10.95
+Produce: 87/87, Profit: 15.64
+Energy: 55/55, Profit: 30.83
+Energy: 1010/1010, Profit: 721.28
+
+========================= MONTH 85 =========================
+
+Produce: 55/55, Profit: 11.29
+Produce: 87/87, Profit: 16.23
+Energy: 55/55, Profit: 32.29
+Energy: 991/991, Profit: 735.49
+
+========================= MONTH 86 =========================
+
+Produce: 55/55, Profit: 11.87
+Produce: 87/87, Profit: 17.23
+Energy: 55/55, Profit: 33.42
+Energy: 991/991, Profit: 757.11
+
+========================= MONTH 87 =========================
+
+Produce: 55/55, Profit: 12.68
+Produce: 87/87, Profit: 18.39
+Energy: 55/55, Profit: 34.55
+Energy: 99/99, Profit: 55.22
+
+========================= MONTH 88 =========================
+
+Produce: 55/55, Profit: 12.91
+Produce: 87/87, Profit: 18.61
+Energy: 55/55, Profit: 35.99
+Energy: 97/97, Profit: 57.17
+
+========================= MONTH 89 =========================
+
+Produce: 55/55, Profit: 13.05
+Produce: 87/87, Profit: 18.93
+Energy: 55/55, Profit: 36.04
+Energy: 97/97, Profit: 57.41
+
+========================= MONTH 90 =========================
+
+Produce: 55/55, Profit: 13.05
+Produce: 87/87, Profit: 19.13
+Energy: 55/55, Profit: 37.28
+Energy: 97/97, Profit: 59.83
+
+========================= MONTH 91 =========================
+
+Produce: 55/55, Profit: 13.32
+Produce: 87/87, Profit: 19.46
+Energy: 55/55, Profit: 38.16
+Energy: 94/94, Profit: 59.92
+
+========================= MONTH 92 =========================
+
+Produce: 55/55, Profit: 13.93
+Produce: 87/87, Profit: 20.34
+Energy: 55/55, Profit: 39.45
+Energy: 94/94, Profit: 62.11
+
+========================= MONTH 93 =========================
+
+Produce: 55/55, Profit: 14.74
+Produce: 87/87, Profit: 21.51
+Energy: 55/55, Profit: 39.43
+Energy: 94/94, Profit: 62.02
+
+========================= MONTH 94 =========================
+
+Produce: 55/55, Profit: 15.24
+Produce: 84/84, Profit: 22.14
+Energy: 55/55, Profit: 41.08
+Energy: 94/94, Profit: 64.84
+
+========================= MONTH 95 =========================
+
+Produce: 55/55, Profit: 16.06
+Produce: 87/87, Profit: 23.73
+Energy: 55/55, Profit: 42.58
+Energy: 94/94, Profit: 67.68
+
+========================= MONTH 96 =========================
+
+Produce: 55/55, Profit: 16.87
+Produce: 87/87, Profit: 24.89
+Energy: 55/55, Profit: 44.69
+Energy: 94/94, Profit: 71.16
+
+========================= MONTH 97 =========================
+
+Produce: 55/55, Profit: 17.47
+Produce: 84/84, Profit: 25.60
+Energy: 55/55, Profit: 45.59
+Energy: 97/97, Profit: 72.90
+
+========================= MONTH 98 =========================
+
+Produce: 55/55, Profit: 17.99
+Produce: 87/87, Profit: 26.59
+Energy: 55/55, Profit: 47.63
+Energy: 97/97, Profit: 76.61
+
+========================= MONTH 99 =========================
+
+Produce: 55/55, Profit: 19.09
+Produce: 964/964, Profit: 499.71
+Energy: 55/55, Profit: 48.35
+Energy: 97/97, Profit: 77.94
+
+========================= MONTH 100 =========================
+
+Produce: 55/55, Profit: 19.44
+Produce: 991/991, Profit: 519.88
+Energy: 55/55, Profit: 50.56
+Energy: 100/100, Profit: 83.85
+
+========================= MONTH 101 =========================
+
+Produce: 54/55, Profit: 19.66
+Produce: 86/87, Profit: 29.56
+Energy: 55/55, Profit: 52.82
+Energy: 1028/1028, Profit: 1156.69
+
+========================= MONTH 102 =========================
+
+Produce: 54/55, Profit: 18.88
+Produce: 1009/1010, Profit: 529.05
+Energy: 55/55, Profit: 54.81
+Energy: 1000/1000, Profit: 1160.24
+
+========================= MONTH 103 =========================
+
+Produce: 54/55, Profit: 17.91
+Produce: 1009/1010, Profit: 513.79
+Energy: 55/55, Profit: 56.52
+Energy: 1000/1000, Profit: 1194.07
+
+========================= MONTH 104 =========================
+
+Produce: 54/55, Profit: 17.14
+Produce: 1009/1010, Profit: 500.10
+Energy: 55/55, Profit: 56.46
+Energy: 1000/1000, Profit: 1193.77
+
+========================= MONTH 105 =========================
+
+Produce: 54/55, Profit: 17.81
+Produce: 990/991, Profit: 503.84
+Energy: 55/55, Profit: 56.61
+Energy: 1019/1019, Profit: 1218.61
+
+========================= MONTH 106 =========================
+
+Produce: 55/55, Profit: 18.69
+Produce: 1010/1010, Profit: 522.31
+Energy: 55/55, Profit: 58.69
+Energy: 104/104, Profit: 99.43
+
+========================= MONTH 107 =========================
+
+Produce: 55/55, Profit: 18.56
+Produce: 87/87, Profit: 27.41
+Energy: 55/55, Profit: 59.40
+Energy: 1035/1035, Profit: 1294.32
+
+========================= MONTH 108 =========================
+
+Produce: 55/55, Profit: 19.64
+Produce: 87/87, Profit: 28.98
+Energy: 55/55, Profit: 59.31
+Energy: 1035/1035, Profit: 1294.41
+
+========================= MONTH 109 =========================
+
+Produce: 55/55, Profit: 20.75
+Produce: 1025/1025, Profit: 571.54
+Energy: 55/55, Profit: 61.33
+Energy: 104/104, Profit: 104.39
+
+========================= MONTH 110 =========================
+
+Produce: 55/55, Profit: 21.80
+Produce: 87/87, Profit: 32.48
+Energy: 55/55, Profit: 61.90
+Energy: 105/105, Profit: 105.50
+
+========================= MONTH 111 =========================
+
+Produce: 55/55, Profit: 23.02
+Produce: 87/87, Profit: 34.60
+Energy: 55/55, Profit: 64.41
+Energy: 105/105, Profit: 110.55
+
+========================= MONTH 112 =========================
+
+Produce: 54/55, Profit: 22.61
+Produce: 93/94, Profit: 35.17
+Energy: 54/55, Profit: 63.25
+Energy: 1031/1032, Profit: 1401.23
+
+========================= MONTH 113 =========================
+
+Produce: 55/55, Profit: 22.49
+Produce: 1025/1025, Profit: 616.59
+Energy: 55/55, Profit: 65.66
+Energy: 102/102, Profit: 111.42
+
+========================= MONTH 114 =========================
+
+Produce: 54/55, Profit: 22.16
+Produce: 89/90, Profit: 34.99
+Energy: 54/55, Profit: 65.56
+Energy: 1034/1035, Profit: 1453.51
+
+========================= MONTH 115 =========================
+
+Produce: 54/55, Profit: 21.04
+Produce: 89/90, Profit: 33.22
+Energy: 54/55, Profit: 65.58
+Energy: 1034/1035, Profit: 1457.19
+
+========================= MONTH 116 =========================
+
+Produce: 55/55, Profit: 21.43
+Produce: 1025/1025, Profit: 603.31
+Energy: 55/55, Profit: 68.69
+Energy: 101/101, Profit: 117.11
+
+========================= MONTH 117 =========================
+
+Produce: 55/55, Profit: 21.64
+Produce: 1025/1025, Profit: 607.11
+Energy: 55/55, Profit: 71.45
+Energy: 101/101, Profit: 121.81
+
+========================= MONTH 118 =========================
+
+Produce: 55/55, Profit: 22.30
+Produce: 1025/1025, Profit: 621.85
+Energy: 55/55, Profit: 74.58
+Energy: 103/103, Profit: 128.09
+
+========================= MONTH 119 =========================
+
+Produce: 55/55, Profit: 22.55
+Produce: 1025/1025, Profit: 627.48
+Energy: 55/55, Profit: 76.37
+Energy: 103/103, Profit: 131.16
+
+========================= MONTH 120 =========================
+
+Produce: 54/55, Profit: 22.31
+Produce: 86/87, Profit: 34.17
+Energy: 54/55, Profit: 77.22
+Energy: 1037/1038, Profit: 1683.54
+
+========================= MONTH 121 =========================
+
+Produce: 54/55, Profit: 21.87
+Produce: 86/87, Profit: 33.74
+Energy: 54/55, Profit: 78.68
+Energy: 1036/1037, Profit: 1716.27
+
+========================= MONTH 122 =========================
+
+Produce: 54/55, Profit: 20.85
+Produce: 86/87, Profit: 32.18
+Energy: 54/55, Profit: 80.11
+Energy: 1036/1037, Profit: 1744.80
+
+========================= MONTH 123 =========================
+
+Produce: 54/55, Profit: 20.83
+Produce: 86/87, Profit: 32.22
+Energy: 54/55, Profit: 82.33
+Energy: 1037/1038, Profit: 1787.66
+
+========================= MONTH 124 =========================
+
+Produce: 54/55, Profit: 19.84
+Produce: 86/87, Profit: 30.76
+Energy: 55/56, Profit: 83.20
+Energy: 1036/1037, Profit: 1829.38
+
+========================= MONTH 125 =========================
+
+Produce: 55/55, Profit: 20.95
+Produce: 1025/1025, Profit: 609.24
+Energy: 56/56, Profit: 88.48
+Energy: 103/103, Profit: 155.94
+
+========================= MONTH 126 =========================
+
+Produce: 54/55, Profit: 21.04
+Produce: 86/87, Profit: 33.19
+Energy: 55/56, Profit: 89.05
+Energy: 1036/1037, Profit: 1948.23
+
+========================= MONTH 127 =========================
+
+Produce: 54/55, Profit: 19.69
+Produce: 86/87, Profit: 31.33
+Energy: 55/56, Profit: 90.82
+Energy: 1036/1037, Profit: 1985.42
+
+========================= MONTH 128 =========================
+
+Produce: 54/55, Profit: 20.98
+Produce: 86/87, Profit: 33.37
+Energy: 55/56, Profit: 91.68
+Energy: 1036/1037, Profit: 2002.45
+
+========================= MONTH 129 =========================
+
+Produce: 54/55, Profit: 20.48
+Produce: 86/87, Profit: 32.63
+Energy: 55/56, Profit: 93.98
+Energy: 1034/1035, Profit: 2046.45
+
+========================= MONTH 130 =========================
+
+Produce: 54/55, Profit: 21.11
+Produce: 1020/1021, Profit: 636.96
+Energy: 56/56, Profit: 99.63
+Energy: 1003/1003, Profit: 2058.12
+
+========================= MONTH 131 =========================
+
+Produce: 54/55, Profit: 20.37
+Produce: 996/997, Profit: 608.43
+Energy: 56/56, Profit: 102.13
+Energy: 1028/1028, Profit: 2157.81
+
+========================= MONTH 132 =========================
+
+Produce: 54/55, Profit: 19.90
+Produce: 996/997, Profit: 601.07
+Energy: 56/56, Profit: 102.16
+Energy: 1028/1028, Profit: 2160.48
+
+========================= MONTH 133 =========================
+
+Produce: 54/55, Profit: 19.89
+Produce: 996/997, Profit: 601.66
+Energy: 56/56, Profit: 106.03
+Energy: 1025/1025, Profit: 2228.94
+
+========================= MONTH 134 =========================
+
+Produce: 54/55, Profit: 20.69
+Produce: 1024/1025, Profit: 635.75
+Energy: 56/56, Profit: 108.68
+Energy: 997/997, Profit: 2220.55
+
+========================= MONTH 135 =========================
+
+Produce: 54/55, Profit: 21.55
+Produce: 996/997, Profit: 639.50
+Energy: 56/56, Profit: 111.26
+Energy: 1025/1025, Profit: 2333.59
+
+========================= MONTH 136 =========================
+
+Produce: 55/55, Profit: 21.76
+Produce: 1020/1020, Profit: 649.63
+Energy: 56/56, Profit: 114.70
+Energy: 100/100, Profit: 202.28
+
+========================= MONTH 137 =========================
+
+Produce: 55/55, Profit: 21.58
+Produce: 991/991, Profit: 632.63
+Energy: 56/56, Profit: 117.69
+Energy: 100/100, Profit: 207.95
+
+========================= MONTH 138 =========================
+
+Produce: 55/55, Profit: 21.72
+Produce: 991/991, Profit: 639.04
+Energy: 56/56, Profit: 120.84
+Energy: 100/100, Profit: 214.03
+
+========================= MONTH 139 =========================
+
+Produce: 55/55, Profit: 21.66
+Produce: 87/87, Profit: 35.68
+Energy: 56/56, Profit: 121.86
+Energy: 1001/1001, Profit: 2479.90
+
+========================= MONTH 140 =========================
+
+Produce: 54/55, Profit: 21.65
+Produce: 89/90, Profit: 36.78
+Energy: 55/56, Profit: 124.14
+Energy: 1000/1001, Profit: 2566.97
+
+========================= MONTH 141 =========================
+
+Produce: 54/55, Profit: 20.72
+Produce: 89/90, Profit: 35.62
+Energy: 55/56, Profit: 129.09
+Energy: 1024/1025, Profit: 2725.13
+
+========================= MONTH 142 =========================
+
+Produce: 54/55, Profit: 20.62
+Produce: 89/90, Profit: 35.46
+Energy: 55/56, Profit: 131.32
+Energy: 1024/1025, Profit: 2767.66
+
+========================= MONTH 143 =========================
+
+Produce: 55/55, Profit: 20.92
+Produce: 1016/1016, Profit: 652.20
+Energy: 56/56, Profit: 137.36
+Energy: 97/97, Profit: 240.56
+
+========================= MONTH 144 =========================
+
+Produce: 54/55, Profit: 20.40
+Produce: 89/90, Profit: 36.02
+Energy: 55/56, Profit: 134.64
+Energy: 1024/1025, Profit: 2842.40
+
+========================= MONTH 145 =========================
+
+Produce: 55/55, Profit: 19.68
+Produce: 1016/1016, Profit: 637.79
+Energy: 56/56, Profit: 137.82
+Energy: 99/99, Profit: 245.64
+
+========================= MONTH 146 =========================
+
+Produce: 54/55, Profit: 20.13
+Produce: 86/87, Profit: 35.63
+Energy: 55/56, Profit: 139.64
+Energy: 1031/1032, Profit: 2958.43
+
+========================= MONTH 147 =========================
+
+Produce: 54/55, Profit: 18.88
+Produce: 727/993, Profit: 447.37
+Energy: 56/56, Profit: 148.66
+Energy: 1014/1014, Profit: 3032.12
+
+========================= MONTH 148 =========================
+
+Produce: 54/55, Profit: 17.97
+Produce: 1009/1010, Profit: 628.11
+Energy: 56/56, Profit: 150.54
+Energy: 993/993, Profit: 3011.63
+
+========================= MONTH 149 =========================
+
+Produce: 54/55, Profit: 16.18
+Produce: 1003/1004, Profit: 600.55
+Energy: 56/56, Profit: 155.68
+Energy: 1028/1028, Profit: 3210.88
+
+========================= MONTH 150 =========================
+
+Produce: 54/55, Profit: 15.29
+Produce: 1015/1016, Profit: 590.37
+Energy: 56/56, Profit: 158.24
+Energy: 1017/1017, Profit: 3225.40
+
+========================= MONTH 151 =========================
+
+Produce: 54/55, Profit: 14.37
+Produce: 986/987, Profit: 561.79
+Energy: 56/56, Profit: 163.21
+Energy: 1028/1028, Profit: 3355.49
+
+========================= MONTH 152 =========================
+
+Produce: 54/55, Profit: 13.18
+Produce: 1015/1016, Profit: 559.04
+Energy: 56/56, Profit: 168.19
+Energy: 1028/1028, Profit: 3451.38
+
+========================= MONTH 153 =========================
+
+Produce: 54/55, Profit: 12.41
+Produce: 1003/1004, Profit: 544.51
+Energy: 56/56, Profit: 173.81
+Energy: 1025/1025, Profit: 3554.05
+
+========================= MONTH 154 =========================
+
+Produce: 54/55, Profit: 12.25
+Produce: 1003/1004, Profit: 542.21
+Energy: 56/56, Profit: 178.61
+Energy: 1017/1017, Profit: 3612.63
+
+========================= MONTH 155 =========================
+
+Produce: 54/55, Profit: 11.71
+Produce: 1003/1004, Profit: 534.41
+Energy: 56/56, Profit: 184.39
+Energy: 1017/1017, Profit: 3720.73
+
+========================= MONTH 156 =========================
+
+Produce: 54/55, Profit: 10.62
+Produce: 985/986, Profit: 511.36
+Energy: 56/56, Profit: 186.41
+Energy: 1017/1017, Profit: 3763.98
+
+========================= MONTH 157 =========================
+
+Produce: 55/55, Profit: 10.98
+Produce: 1004/1004, Profit: 519.83
+Energy: 56/56, Profit: 186.35
+Energy: 998/998, Profit: 3696.86
+
+========================= MONTH 158 =========================
+
+Produce: 54/55, Profit: 11.55
+Produce: 985/986, Profit: 533.02
+Energy: 56/56, Profit: 186.23
+Energy: 1017/1017, Profit: 3766.48
+
+========================= MONTH 159 =========================
+
+Produce: 54/55, Profit: 12.40
+Produce: 985/986, Profit: 553.42
+Energy: 56/56, Profit: 189.41
+Energy: 1029/1029, Profit: 3850.34
+
+========================= MONTH 160 =========================
+
+Produce: 54/55, Profit: 11.25
+Produce: 1003/1004, Profit: 544.26
+Energy: 56/56, Profit: 190.42
+Energy: 1012/1012, Profit: 3804.64
+
+========================= MONTH 161 =========================
+
+Produce: 54/55, Profit: 11.27
+Produce: 1003/1004, Profit: 549.58
+Energy: 56/56, Profit: 191.12
+Energy: 1029/1029, Profit: 3891.09
+
+========================= MONTH 162 =========================
+
+Produce: 54/55, Profit: 12.06
+Produce: 1003/1004, Profit: 570.46
+Energy: 56/56, Profit: 198.26
+Energy: 1026/1026, Profit: 4020.58
+
+========================= MONTH 163 =========================
+
+Produce: 54/55, Profit: 11.51
+Produce: 1003/1004, Profit: 561.15
+Energy: 56/56, Profit: 203.53
+Energy: 1035/1035, Profit: 4157.91
+
+========================= MONTH 164 =========================
+
+Produce: 54/55, Profit: 9.81
+Produce: 1003/1004, Profit: 535.80
+Energy: 56/56, Profit: 211.48
+Energy: 1035/1035, Profit: 4312.08
+
+========================= MONTH 165 =========================
+
+Produce: 54/55, Profit: 8.48
+Produce: 1015/1016, Profit: 519.02
+Energy: 56/56, Profit: 212.61
+Energy: 1024/1024, Profit: 4291.82
+
+========================= MONTH 166 =========================
+
+Produce: 54/55, Profit: 8.36
+Produce: 1003/1004, Profit: 516.19
+Energy: 56/56, Profit: 219.88
+Energy: 1024/1024, Profit: 4430.20
+
+========================= MONTH 167 =========================
+
+Produce: 54/55, Profit: 7.52
+Produce: 1003/1004, Profit: 503.85
+Energy: 56/56, Profit: 228.61
+Energy: 1024/1024, Profit: 4594.21
+
+========================= MONTH 168 =========================
+
+Produce: 54/55, Profit: 5.99
+Produce: 1003/1004, Profit: 482.76
+Energy: 56/56, Profit: 229.47
+Energy: 1041/1041, Profit: 4669.70
+
+========================= MONTH 169 =========================
+
+Produce: 54/55, Profit: 5.00
+Produce: 1003/1004, Profit: 467.26
+Energy: 56/56, Profit: 237.80
+Energy: 1029/1029, Profit: 4773.84
+
+========================= MONTH 170 =========================
+
+Produce: 54/55, Profit: 3.86
+Produce: 1003/1004, Profit: 445.97
+Energy: 56/56, Profit: 244.59
+Energy: 1029/1029, Profit: 4898.90
+
+========================= MONTH 171 =========================
+
+Produce: 54/55, Profit: 3.04
+Produce: 863/1004, Profit: 366.51
+Energy: 56/56, Profit: 254.68
+Energy: 1029/1029, Profit: 5090.72
+
+========================= MONTH 172 =========================
+
+Produce: 54/55, Profit: 2.69
+Produce: 1003/1004, Profit: 433.18
+Energy: 56/56, Profit: 257.62
+Energy: 1025/1025, Profit: 5133.08
+
+========================= MONTH 173 =========================
+
+Produce: 54/55, Profit: 2.28
+Produce: 799/1004, Profit: 330.04
+Energy: 56/56, Profit: 265.95
+Energy: 1031/1031, Profit: 5325.88
+
+========================= MONTH 174 =========================
+
+Produce: 54/55, Profit: 1.18
+Produce: 615/987, Profit: 227.84
+Energy: 55/56, Profit: 269.53
+Energy: 1034/1035, Profit: 5507.09
+
+========================= MONTH 175 =========================
+
+Produce: 54/55, Profit: -0.00
+Produce: 689/987, Profit: 250.81
+Energy: 55/56, Profit: 276.21
+Energy: 1034/1035, Profit: 5637.22
+
+========================= MONTH 176 =========================
+
+Produce: 54/55, Profit: -0.91
+Produce: 949/1016, Profit: 356.23
+Energy: 56/56, Profit: 289.60
+Energy: 1003/1003, Profit: 5615.11
+
+========================= MONTH 177 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 704/1016, Profit: 240.91
+Energy: 55/56, Profit: 295.28
+Energy: 1030/1031, Profit: 5984.06
+
+========================= MONTH 178 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 790/1016, Profit: 269.39
+Energy: 55/56, Profit: 297.23
+Energy: 1030/1031, Profit: 6020.83
+
+========================= MONTH 179 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 868/1016, Profit: 299.05
+Energy: 55/56, Profit: 306.60
+Energy: 1030/1031, Profit: 6196.85
+
+========================= MONTH 180 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 906/1016, Profit: 300.82
+Energy: 55/56, Profit: 308.66
+Energy: 1034/1035, Profit: 6257.92
+
+========================= MONTH 181 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 335.00
+Energy: 56/56, Profit: 315.52
+Energy: 1029/1029, Profit: 6270.77
+
+========================= MONTH 182 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1006/1016, Profit: 329.95
+Energy: 55/56, Profit: 315.76
+Energy: 1028/1029, Profit: 6394.20
+
+========================= MONTH 183 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 990/1016, Profit: 308.73
+Energy: 55/56, Profit: 329.40
+Energy: 1028/1029, Profit: 6652.06
+
+========================= MONTH 184 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 312.31
+Energy: 55/56, Profit: 335.15
+Energy: 1028/1029, Profit: 6765.38
+
+========================= MONTH 185 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 297.88
+Energy: 55/56, Profit: 342.02
+Energy: 1028/1029, Profit: 6901.65
+
+========================= MONTH 186 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 289.23
+Energy: 55/56, Profit: 347.27
+Energy: 1028/1029, Profit: 7006.26
+
+========================= MONTH 187 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 287.81
+Energy: 55/56, Profit: 355.00
+Energy: 1028/1029, Profit: 7152.14
+
+========================= MONTH 188 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 272.63
+Energy: 55/56, Profit: 357.52
+Energy: 1028/1029, Profit: 7201.10
+
+========================= MONTH 189 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 265.67
+Energy: 55/56, Profit: 363.25
+Energy: 1028/1029, Profit: 7313.00
+
+========================= MONTH 190 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 261.50
+Energy: 55/56, Profit: 371.28
+Energy: 1024/1025, Profit: 7462.53
+
+========================= MONTH 191 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 253.57
+Energy: 55/56, Profit: 371.10
+Energy: 1024/1025, Profit: 7462.52
+
+========================= MONTH 192 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1015/1016, Profit: 241.73
+Energy: 55/56, Profit: 377.99
+Energy: 1024/1025, Profit: 7591.20
+
+========================= MONTH 193 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1016/1016, Profit: 233.85
+Energy: 56/56, Profit: 390.16
+Energy: 100/100, Profit: 701.30
+
+========================= MONTH 194 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 11/11, Profit: 0.70
+Energy: 0/56, Profit: -35.33
+Energy: 0/1029, Profit: -96.41
+
+========================= MONTH 195 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1016/1016, Profit: 253.05
+Energy: 56/56, Profit: 391.96
+Energy: 100/100, Profit: 702.69
+
+========================= MONTH 196 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 986/986, Profit: 256.26
+Energy: 56/56, Profit: 405.69
+Energy: 100/100, Profit: 727.63
+
+========================= MONTH 197 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 11/11, Profit: 0.98
+Energy: 55/56, Profit: 403.16
+Energy: 844/1025, Profit: 6652.39
+
+========================= MONTH 198 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 986/986, Profit: 260.55
+Energy: 56/56, Profit: 406.98
+Energy: 96/96, Profit: 706.87
+
+========================= MONTH 199 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 11/11, Profit: 1.02
+Energy: 0/56, Profit: -37.43
+Energy: 0/96, Profit: -54.40
+
+========================= MONTH 200 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 11/11, Profit: 1.10
+Energy: 55/56, Profit: 409.77
+Energy: 95/96, Profit: 719.67
+
+========================= MONTH 201 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 11/11, Profit: 1.24
+Energy: 0/56, Profit: -38.39
+Energy: 1/96, Profit: -45.06
+
+========================= MONTH 202 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 11/11, Profit: 1.27
+Energy: 56/56, Profit: 411.82
+Energy: 96/96, Profit: 719.93
+
+========================= MONTH 203 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 11/11, Profit: 1.41
+Energy: 3/56, Profit: -14.49
+Energy: 4/100, Profit: -26.04
+
+========================= MONTH 204 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 18/18, Profit: 1.56
+Energy: 56/56, Profit: 414.22
+Energy: 100/100, Profit: 752.05
+
+========================= MONTH 205 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 18/18, Profit: 1.69
+Energy: 56/56, Profit: 431.11
+Energy: 103/103, Profit: 801.34
+
+========================= MONTH 206 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 18/18, Profit: 1.78
+Energy: 22/56, Profit: 151.54
+Energy: 31/103, Profit: 205.38
+
+========================= MONTH 207 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 25/25, Profit: 2.38
+Energy: 8/56, Profit: 28.43
+Energy: 13/103, Profit: 48.25
+
+========================= MONTH 208 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 25/25, Profit: 2.73
+Energy: 4/5, Profit: 24.79
+Energy: 31/1029, Profit: 167.02
+
+========================= MONTH 209 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 31/31, Profit: 3.14
+Energy: 56/56, Profit: 431.83
+Energy: 103/103, Profit: 811.31
+
+========================= MONTH 210 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 31/31, Profit: 3.54
+Energy: 56/56, Profit: 448.16
+Energy: 103/103, Profit: 842.36
+
+========================= MONTH 211 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 31/31, Profit: 3.68
+Energy: 4/5, Profit: 26.24
+Energy: 1028/1029, Profit: 9120.81
+
+========================= MONTH 212 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1016/1016, Profit: 362.95
+Energy: 5/5, Profit: 35.38
+Energy: 100/100, Profit: 846.26
+
+========================= MONTH 213 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 37/37, Profit: 4.37
+Energy: 5/5, Profit: 36.37
+Energy: 1029/1029, Profit: 9418.58
+
+========================= MONTH 214 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1016/1016, Profit: 367.41
+Energy: 5/5, Profit: 36.80
+Energy: 100/100, Profit: 881.51
+
+========================= MONTH 215 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1016/1016, Profit: 378.68
+Energy: 5/5, Profit: 38.28
+Energy: 100/100, Profit: 913.51
+
+========================= MONTH 216 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 37/37, Profit: 5.19
+Energy: 30/56, Profit: 245.31
+Energy: 39/103, Profit: 314.31
+
+========================= MONTH 217 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1004/1004, Profit: 396.09
+Energy: 5/5, Profit: 38.05
+Energy: 99/99, Profit: 904.72
+
+========================= MONTH 218 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 43/43, Profit: 6.20
+Energy: 56/56, Profit: 504.63
+Energy: 103/103, Profit: 949.15
+
+========================= MONTH 219 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 48/48, Profit: 6.72
+Energy: 56/56, Profit: 508.57
+Energy: 103/103, Profit: 957.16
+
+========================= MONTH 220 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 48/48, Profit: 7.80
+Energy: 5/5, Profit: 40.83
+Energy: 1029/1029, Profit: 10470.85
+
+========================= MONTH 221 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 986/986, Profit: 444.65
+Energy: 5/5, Profit: 41.69
+Energy: 99/99, Profit: 982.06
+
+========================= MONTH 222 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1004/1004, Profit: 463.71
+Energy: 5/5, Profit: 43.12
+Energy: 99/99, Profit: 1011.38
+
+========================= MONTH 223 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 80/80, Profit: 12.23
+Energy: 4/5, Profit: 32.83
+Energy: 1028/1029, Profit: 11078.15
+
+========================= MONTH 224 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 80/80, Profit: 13.08
+Energy: 4/5, Profit: 33.27
+Energy: 1028/1029, Profit: 11190.04
+
+========================= MONTH 225 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 80/80, Profit: 14.46
+Energy: 4/5, Profit: 34.28
+Energy: 1028/1029, Profit: 11452.24
+
+========================= MONTH 226 =========================
+
+Produce: 4/4, Profit: 0.02
+Produce: 80/80, Profit: 15.01
+Energy: 56/56, Profit: 585.82
+Energy: 103/103, Profit: 1106.91
+
+========================= MONTH 227 =========================
+
+Produce: 3/4, Profit: -0.56
+Produce: 818/1004, Profit: 397.57
+Energy: 4/5, Profit: 35.37
+Energy: 1013/1014, Profit: 11577.44
+
+========================= MONTH 228 =========================
+
+Produce: 4/4, Profit: -0.06
+Produce: 80/80, Profit: 13.41
+Energy: 55/56, Profit: 586.67
+Energy: 1028/1029, Profit: 11839.37
+
+========================= MONTH 229 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1004/1004, Profit: 508.85
+Energy: 56/56, Profit: 603.64
+Energy: 102/102, Profit: 1134.31
+
+========================= MONTH 230 =========================
+
+Produce: 3/4, Profit: -0.53
+Produce: 1003/1004, Profit: 521.61
+Energy: 5/5, Profit: 47.59
+Energy: 995/995, Profit: 11584.75
+
+========================= MONTH 231 =========================
+
+Produce: 4/4, Profit: 0.12
+Produce: 986/986, Profit: 531.36
+Energy: 56/56, Profit: 606.26
+Energy: 97/97, Profit: 1091.20
+
+========================= MONTH 232 =========================
+
+Produce: 4/4, Profit: 0.15
+Produce: 84/84, Profit: 18.22
+Energy: 55/56, Profit: 606.66
+Energy: 1028/1029, Profit: 12236.86
+
+========================= MONTH 233 =========================
+
+Produce: 4/4, Profit: 0.11
+Produce: 84/84, Profit: 17.76
+Energy: 55/56, Profit: 618.20
+Energy: 1031/1032, Profit: 12482.25
+
+========================= MONTH 234 =========================
+
+Produce: 4/4, Profit: 0.14
+Produce: 1004/1004, Profit: 569.90
+Energy: 5/5, Profit: 49.92
+Energy: 1000/1000, Profit: 12191.12
+
+========================= MONTH 235 =========================
+
+Produce: 3/4, Profit: -0.53
+Produce: 985/986, Profit: 569.38
+Energy: 5/5, Profit: 50.11
+Energy: 1000/1000, Profit: 12245.91
+
+========================= MONTH 236 =========================
+
+Produce: 4/4, Profit: 0.17
+Produce: 84/84, Profit: 19.60
+Energy: 55/56, Profit: 637.68
+Energy: 1030/1031, Profit: 12856.03
+
+========================= MONTH 237 =========================
+
+Produce: 3/4, Profit: -0.51
+Produce: 720/959, Profit: 412.77
+Energy: 56/56, Profit: 659.71
+Energy: 1002/1002, Profit: 12682.22
+
+========================= MONTH 238 =========================
+
+Produce: 3/4, Profit: -0.59
+Produce: 1003/1004, Profit: 588.53
+Energy: 56/56, Profit: 665.26
+Energy: 990/990, Profit: 12638.79
+
+========================= MONTH 239 =========================
+
+Produce: 3/4, Profit: -0.62
+Produce: 970/1004, Profit: 555.61
+Energy: 56/56, Profit: 677.08
+Energy: 990/990, Profit: 12850.10
+
+========================= MONTH 240 =========================
+
+Produce: 3/4, Profit: -0.68
+Produce: 832/976, Profit: 450.34
+Energy: 55/56, Profit: 682.86
+Energy: 1018/1019, Profit: 13573.91
+
+========================= MONTH 241 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 898/986, Profit: 475.34
+Energy: 55/56, Profit: 706.81
+Energy: 1018/1019, Profit: 14029.71
+
+========================= MONTH 242 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 930/1004, Profit: 470.00
+Energy: 55/56, Profit: 717.84
+Energy: 999/1000, Profit: 13975.03
+
+========================= MONTH 243 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 954/986, Profit: 470.74
+Energy: 55/56, Profit: 728.89
+Energy: 999/1000, Profit: 14186.20
+
+========================= MONTH 244 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 985/986, Profit: 482.03
+Energy: 55/56, Profit: 753.67
+Energy: 997/998, Profit: 14627.55
+
+========================= MONTH 245 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1004/1004, Profit: 486.40
+Energy: 56/56, Profit: 798.28
+Energy: 100/100, Profit: 1464.30
+
+========================= MONTH 246 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 1004/1004, Profit: 490.60
+Energy: 56/56, Profit: 816.54
+Energy: 100/100, Profit: 1496.52
+
+========================= MONTH 247 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 48/48, Profit: 8.64
+Energy: 55/56, Profit: 824.75
+Energy: 1034/1035, Profit: 16507.59
+
+========================= MONTH 248 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 48/48, Profit: 9.29
+Energy: 55/56, Profit: 856.35
+Energy: 1034/1035, Profit: 17108.24
+
+========================= MONTH 249 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 958/959, Profit: 508.72
+Energy: 4/5, Profit: 54.73
+Energy: 997/998, Profit: 16790.20
+
+========================= MONTH 250 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 958/959, Profit: 501.84
+Energy: 4/5, Profit: 57.27
+Energy: 999/1000, Profit: 17484.63
+
+========================= MONTH 251 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 958/959, Profit: 483.79
+Energy: 55/56, Profit: 941.71
+Energy: 972/973, Profit: 17612.43
+
+========================= MONTH 252 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 958/959, Profit: 470.06
+Energy: 55/56, Profit: 979.45
+Energy: 974/975, Profit: 18324.20
+
+========================= MONTH 253 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 958/959, Profit: 455.73
+Energy: 55/56, Profit: 1002.59
+Energy: 976/977, Profit: 18768.17
+
+========================= MONTH 254 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 924/925, Profit: 428.13
+Energy: 55/56, Profit: 1032.55
+Energy: 976/977, Profit: 19308.09
+
+========================= MONTH 255 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 924/925, Profit: 417.42
+Energy: 55/56, Profit: 1069.28
+Energy: 974/975, Profit: 19937.16
+
+========================= MONTH 256 =========================
+
+Produce: 0/0, Profit: 0.00
+Produce: 924/925, Profit: 412.27
+Energy: 55/56, Profit: 1110.32
+Energy: 974/975, Profit: 20677.88

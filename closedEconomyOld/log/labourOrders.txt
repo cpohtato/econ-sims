@@ -1,0 +1,288 @@
+
+========================= MONTH 1 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $9.58
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $4.53
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $4.65
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.78
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 2 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $9.63
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $4.34
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $4.35
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.71
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 3 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $9.31
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $4.12
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $4.24
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.61
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 4 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $9.00
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $3.85
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $3.95
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.58
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 5 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $8.76
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $3.59
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $3.80
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.45
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 6 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $8.50
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $3.46
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $3.62
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.37
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 7 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $8.00
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $3.36
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $3.36
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.29
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 8 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $7.77
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $3.21
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $3.21
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.20
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 9 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $7.62
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $3.14
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $3.07
+
+Labourer Jobs: 400/450 accepted
+Average wage accepted: $1.13
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 10 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $7.71
+
+Administrator Jobs: 15/20 accepted
+Average wage accepted: $2.89
+
+Technologist Jobs: 15/20 accepted
+Average wage accepted: $2.90
+
+Labourer Jobs: 270/450 accepted
+Average wage accepted: $1.10
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 11 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $7.28
+
+Administrator Jobs: 14/20 accepted
+Average wage accepted: $2.80
+
+Technologist Jobs: 12/20 accepted
+Average wage accepted: $2.62
+
+Labourer Jobs: 180/450 accepted
+Average wage accepted: $1.10
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+
+========================= MONTH 12 =========================
+
+Magnate Jobs: 6/10 accepted
+Average wage accepted: $7.06
+
+Administrator Jobs: 10/20 accepted
+Average wage accepted: $2.70
+
+Technologist Jobs: 6/20 accepted
+Average wage accepted: $2.77
+
+Labourer Jobs: 225/450 accepted
+Average wage accepted: $1.03
+
+Operator Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Soldier Jobs: 0/0 accepted
+Average wage accepted: $0.00
+
+Clerk Jobs: 0/0 accepted
+Average wage accepted: $0.00
+

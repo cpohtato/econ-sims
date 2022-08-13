@@ -1,0 +1,2816 @@
+
+========================= MONTH 1 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/5 hired at $4.30
+Technologist Jobs: 4/5 hired at $3.04
+Labourer Jobs: 27/27 hired at $1.01
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 2 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/5 hired at $4.24
+Technologist Jobs: 4/5 hired at $3.04
+Labourer Jobs: 27/27 hired at $1.02
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 3 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/5 hired at $4.22
+Technologist Jobs: 4/5 hired at $3.04
+Labourer Jobs: 27/27 hired at $1.03
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 4 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/5 hired at $4.21
+Technologist Jobs: 4/5 hired at $3.04
+Labourer Jobs: 27/27 hired at $1.05
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 5 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/5 hired at $4.18
+Technologist Jobs: 4/5 hired at $3.04
+Labourer Jobs: 27/27 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 6 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/5 hired at $4.14
+Technologist Jobs: 4/5 hired at $3.04
+Labourer Jobs: 27/27 hired at $1.07
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 7 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/5 hired at $4.07
+Technologist Jobs: 4/4 hired at $3.04
+Labourer Jobs: 28/28 hired at $1.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 8 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/4 hired at $4.05
+Technologist Jobs: 3/3 hired at $3.09
+Labourer Jobs: 30/30 hired at $1.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 9 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/4 hired at $3.98
+Technologist Jobs: 3/3 hired at $3.13
+Labourer Jobs: 30/30 hired at $1.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 10 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/4 hired at $3.93
+Technologist Jobs: 3/3 hired at $3.17
+Labourer Jobs: 30/30 hired at $1.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 11 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/4 hired at $3.91
+Technologist Jobs: 3/3 hired at $3.20
+Labourer Jobs: 30/30 hired at $1.14
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 12 =========================
+
+Magnate Jobs: 4/5 hired at $5.45
+Administrator Jobs: 2/4 hired at $3.85
+Technologist Jobs: 3/3 hired at $3.21
+Labourer Jobs: 30/30 hired at $1.15
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 13 =========================
+
+Magnate Jobs: 4/4 hired at $5.45
+Administrator Jobs: 2/4 hired at $3.82
+Technologist Jobs: 3/3 hired at $3.26
+Labourer Jobs: 30/31 hired at $1.17
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 14 =========================
+
+Magnate Jobs: 4/4 hired at $5.47
+Administrator Jobs: 2/4 hired at $3.81
+Technologist Jobs: 3/3 hired at $3.28
+Labourer Jobs: 30/31 hired at $1.19
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 15 =========================
+
+Magnate Jobs: 4/4 hired at $5.52
+Administrator Jobs: 2/5 hired at $3.80
+Technologist Jobs: 3/3 hired at $3.34
+Labourer Jobs: 29/30 hired at $1.20
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 16 =========================
+
+Magnate Jobs: 4/4 hired at $5.58
+Administrator Jobs: 2/5 hired at $3.73
+Technologist Jobs: 3/3 hired at $3.40
+Labourer Jobs: 29/29 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 17 =========================
+
+Magnate Jobs: 3/3 hired at $5.63
+Administrator Jobs: 2/4 hired at $3.68
+Technologist Jobs: 2/3 hired at $3.46
+Labourer Jobs: 24/30 hired at $1.23
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 18 =========================
+
+Magnate Jobs: 3/3 hired at $5.68
+Administrator Jobs: 2/4 hired at $3.65
+Technologist Jobs: 3/3 hired at $3.46
+Labourer Jobs: 29/29 hired at $1.22
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 19 =========================
+
+Magnate Jobs: 3/3 hired at $5.78
+Administrator Jobs: 2/3 hired at $3.65
+Technologist Jobs: 3/3 hired at $3.47
+Labourer Jobs: 25/30 hired at $1.23
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 20 =========================
+
+Magnate Jobs: 3/3 hired at $5.79
+Administrator Jobs: 2/2 hired at $3.65
+Technologist Jobs: 2/3 hired at $3.49
+Labourer Jobs: 24/29 hired at $1.23
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 21 =========================
+
+Magnate Jobs: 3/3 hired at $5.80
+Administrator Jobs: 2/2 hired at $3.69
+Technologist Jobs: 2/3 hired at $3.49
+Labourer Jobs: 24/29 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 22 =========================
+
+Magnate Jobs: 3/3 hired at $5.84
+Administrator Jobs: 2/3 hired at $3.73
+Technologist Jobs: 2/3 hired at $3.49
+Labourer Jobs: 24/29 hired at $1.20
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 23 =========================
+
+Magnate Jobs: 3/3 hired at $5.84
+Administrator Jobs: 2/3 hired at $3.73
+Technologist Jobs: 2/3 hired at $3.49
+Labourer Jobs: 24/28 hired at $1.18
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 24 =========================
+
+Magnate Jobs: 4/4 hired at $5.87
+Administrator Jobs: 2/4 hired at $3.73
+Technologist Jobs: 3/3 hired at $3.49
+Labourer Jobs: 28/28 hired at $1.17
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 25 =========================
+
+Magnate Jobs: 4/4 hired at $5.91
+Administrator Jobs: 2/4 hired at $3.66
+Technologist Jobs: 3/3 hired at $3.56
+Labourer Jobs: 27/27 hired at $1.19
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 26 =========================
+
+Magnate Jobs: 4/4 hired at $5.95
+Administrator Jobs: 2/4 hired at $3.64
+Technologist Jobs: 3/3 hired at $3.61
+Labourer Jobs: 28/28 hired at $1.19
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 27 =========================
+
+Magnate Jobs: 4/4 hired at $5.97
+Administrator Jobs: 2/4 hired at $3.60
+Technologist Jobs: 3/3 hired at $3.63
+Labourer Jobs: 28/28 hired at $1.20
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 28 =========================
+
+Magnate Jobs: 4/4 hired at $5.99
+Administrator Jobs: 2/4 hired at $3.58
+Technologist Jobs: 4/4 hired at $3.63
+Labourer Jobs: 28/28 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 29 =========================
+
+Magnate Jobs: 3/3 hired at $6.03
+Administrator Jobs: 2/4 hired at $3.55
+Technologist Jobs: 2/4 hired at $3.67
+Labourer Jobs: 25/29 hired at $1.23
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 30 =========================
+
+Magnate Jobs: 3/3 hired at $6.09
+Administrator Jobs: 2/4 hired at $3.52
+Technologist Jobs: 2/4 hired at $3.61
+Labourer Jobs: 25/28 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 31 =========================
+
+Magnate Jobs: 3/3 hired at $6.17
+Administrator Jobs: 2/4 hired at $3.47
+Technologist Jobs: 3/4 hired at $3.57
+Labourer Jobs: 27/28 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 32 =========================
+
+Magnate Jobs: 3/3 hired at $6.18
+Administrator Jobs: 2/4 hired at $3.44
+Technologist Jobs: 2/4 hired at $3.57
+Labourer Jobs: 25/28 hired at $1.23
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 33 =========================
+
+Magnate Jobs: 3/3 hired at $6.25
+Administrator Jobs: 3/4 hired at $3.41
+Technologist Jobs: 2/5 hired at $3.54
+Labourer Jobs: 25/28 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 34 =========================
+
+Magnate Jobs: 3/3 hired at $6.33
+Administrator Jobs: 2/3 hired at $3.41
+Technologist Jobs: 3/5 hired at $3.51
+Labourer Jobs: 27/29 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 35 =========================
+
+Magnate Jobs: 2/2 hired at $6.40
+Administrator Jobs: 2/3 hired at $3.41
+Technologist Jobs: 1/5 hired at $3.50
+Labourer Jobs: 22/29 hired at $1.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 36 =========================
+
+Magnate Jobs: 2/2 hired at $6.45
+Administrator Jobs: 2/3 hired at $3.41
+Technologist Jobs: 1/5 hired at $3.46
+Labourer Jobs: 22/29 hired at $1.20
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 37 =========================
+
+Magnate Jobs: 2/2 hired at $6.52
+Administrator Jobs: 2/4 hired at $3.41
+Technologist Jobs: 1/4 hired at $3.43
+Labourer Jobs: 23/29 hired at $1.19
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 38 =========================
+
+Magnate Jobs: 2/2 hired at $6.60
+Administrator Jobs: 2/4 hired at $3.40
+Technologist Jobs: 1/5 hired at $3.40
+Labourer Jobs: 24/28 hired at $1.18
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 39 =========================
+
+Magnate Jobs: 2/2 hired at $6.65
+Administrator Jobs: 2/4 hired at $3.39
+Technologist Jobs: 1/5 hired at $3.38
+Labourer Jobs: 24/28 hired at $1.17
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 40 =========================
+
+Magnate Jobs: 2/2 hired at $6.77
+Administrator Jobs: 2/3 hired at $3.35
+Technologist Jobs: 1/5 hired at $3.36
+Labourer Jobs: 24/28 hired at $1.16
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 41 =========================
+
+Magnate Jobs: 2/2 hired at $6.90
+Administrator Jobs: 2/4 hired at $3.35
+Technologist Jobs: 1/5 hired at $3.34
+Labourer Jobs: 24/28 hired at $1.14
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 42 =========================
+
+Magnate Jobs: 2/2 hired at $6.95
+Administrator Jobs: 2/3 hired at $3.32
+Technologist Jobs: 2/5 hired at $3.28
+Labourer Jobs: 24/29 hired at $1.13
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 43 =========================
+
+Magnate Jobs: 2/2 hired at $7.05
+Administrator Jobs: 2/4 hired at $3.32
+Technologist Jobs: 2/5 hired at $3.26
+Labourer Jobs: 24/28 hired at $1.13
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 44 =========================
+
+Magnate Jobs: 2/2 hired at $7.14
+Administrator Jobs: 2/5 hired at $3.28
+Technologist Jobs: 2/5 hired at $3.25
+Labourer Jobs: 24/28 hired at $1.13
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 45 =========================
+
+Magnate Jobs: 2/2 hired at $7.23
+Administrator Jobs: 3/4 hired at $3.27
+Technologist Jobs: 2/5 hired at $3.25
+Labourer Jobs: 24/30 hired at $1.13
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 46 =========================
+
+Magnate Jobs: 3/3 hired at $7.29
+Administrator Jobs: 3/3 hired at $3.27
+Technologist Jobs: 3/5 hired at $3.20
+Labourer Jobs: 28/28 hired at $1.11
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 47 =========================
+
+Magnate Jobs: 3/3 hired at $7.35
+Administrator Jobs: 3/3 hired at $3.31
+Technologist Jobs: 3/5 hired at $3.16
+Labourer Jobs: 26/28 hired at $1.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 48 =========================
+
+Magnate Jobs: 2/2 hired at $7.41
+Administrator Jobs: 3/3 hired at $3.32
+Technologist Jobs: 2/5 hired at $3.16
+Labourer Jobs: 24/28 hired at $1.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 49 =========================
+
+Magnate Jobs: 2/2 hired at $7.51
+Administrator Jobs: 3/3 hired at $3.33
+Technologist Jobs: 2/5 hired at $3.15
+Labourer Jobs: 24/27 hired at $1.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 50 =========================
+
+Magnate Jobs: 2/2 hired at $7.57
+Administrator Jobs: 3/3 hired at $3.38
+Technologist Jobs: 2/5 hired at $3.09
+Labourer Jobs: 24/26 hired at $1.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 51 =========================
+
+Magnate Jobs: 2/2 hired at $7.69
+Administrator Jobs: 3/3 hired at $3.44
+Technologist Jobs: 2/6 hired at $3.03
+Labourer Jobs: 25/26 hired at $1.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 52 =========================
+
+Magnate Jobs: 2/2 hired at $7.81
+Administrator Jobs: 3/4 hired at $3.49
+Technologist Jobs: 2/6 hired at $2.98
+Labourer Jobs: 25/27 hired at $1.09
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 53 =========================
+
+Magnate Jobs: 2/2 hired at $7.92
+Administrator Jobs: 3/3 hired at $3.49
+Technologist Jobs: 2/6 hired at $2.93
+Labourer Jobs: 25/27 hired at $1.09
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 54 =========================
+
+Magnate Jobs: 2/2 hired at $7.99
+Administrator Jobs: 3/4 hired at $3.54
+Technologist Jobs: 2/7 hired at $2.90
+Labourer Jobs: 25/26 hired at $1.09
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 55 =========================
+
+Magnate Jobs: 2/2 hired at $8.09
+Administrator Jobs: 3/4 hired at $3.54
+Technologist Jobs: 2/7 hired at $2.86
+Labourer Jobs: 25/27 hired at $1.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 56 =========================
+
+Magnate Jobs: 2/2 hired at $8.25
+Administrator Jobs: 3/4 hired at $3.54
+Technologist Jobs: 2/7 hired at $2.81
+Labourer Jobs: 25/27 hired at $1.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 57 =========================
+
+Magnate Jobs: 2/2 hired at $8.38
+Administrator Jobs: 3/4 hired at $3.54
+Technologist Jobs: 2/6 hired at $2.79
+Labourer Jobs: 25/28 hired at $1.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 58 =========================
+
+Magnate Jobs: 2/2 hired at $8.43
+Administrator Jobs: 3/4 hired at $3.54
+Technologist Jobs: 2/7 hired at $2.76
+Labourer Jobs: 25/28 hired at $1.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 59 =========================
+
+Magnate Jobs: 2/2 hired at $8.52
+Administrator Jobs: 3/3 hired at $3.54
+Technologist Jobs: 2/7 hired at $2.71
+Labourer Jobs: 25/28 hired at $1.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 60 =========================
+
+Magnate Jobs: 2/2 hired at $8.61
+Administrator Jobs: 3/3 hired at $3.57
+Technologist Jobs: 2/7 hired at $2.69
+Labourer Jobs: 25/28 hired at $1.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 61 =========================
+
+Magnate Jobs: 2/2 hired at $8.67
+Administrator Jobs: 3/3 hired at $3.59
+Technologist Jobs: 2/7 hired at $2.66
+Labourer Jobs: 25/28 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 62 =========================
+
+Magnate Jobs: 2/2 hired at $8.74
+Administrator Jobs: 3/3 hired at $3.62
+Technologist Jobs: 2/7 hired at $2.63
+Labourer Jobs: 25/27 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 63 =========================
+
+Magnate Jobs: 2/2 hired at $8.77
+Administrator Jobs: 2/2 hired at $3.66
+Technologist Jobs: 2/7 hired at $2.61
+Labourer Jobs: 25/27 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 64 =========================
+
+Magnate Jobs: 2/2 hired at $8.90
+Administrator Jobs: 2/2 hired at $3.70
+Technologist Jobs: 2/7 hired at $2.58
+Labourer Jobs: 25/27 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 65 =========================
+
+Magnate Jobs: 2/2 hired at $9.06
+Administrator Jobs: 2/3 hired at $3.77
+Technologist Jobs: 2/7 hired at $2.54
+Labourer Jobs: 24/26 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 66 =========================
+
+Magnate Jobs: 2/2 hired at $9.17
+Administrator Jobs: 2/4 hired at $3.77
+Technologist Jobs: 2/6 hired at $2.51
+Labourer Jobs: 24/25 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 67 =========================
+
+Magnate Jobs: 2/2 hired at $9.20
+Administrator Jobs: 2/5 hired at $3.72
+Technologist Jobs: 2/6 hired at $2.51
+Labourer Jobs: 24/25 hired at $1.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 68 =========================
+
+Magnate Jobs: 2/2 hired at $9.21
+Administrator Jobs: 2/5 hired at $3.70
+Technologist Jobs: 2/6 hired at $2.47
+Labourer Jobs: 24/25 hired at $1.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 69 =========================
+
+Magnate Jobs: 1/1 hired at $9.22
+Administrator Jobs: 2/5 hired at $3.68
+Technologist Jobs: 2/6 hired at $2.45
+Labourer Jobs: 25/27 hired at $1.09
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 70 =========================
+
+Magnate Jobs: 1/1 hired at $9.31
+Administrator Jobs: 2/4 hired at $3.64
+Technologist Jobs: 2/7 hired at $2.42
+Labourer Jobs: 25/26 hired at $1.09
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 71 =========================
+
+Magnate Jobs: 1/1 hired at $9.37
+Administrator Jobs: 2/4 hired at $3.58
+Technologist Jobs: 2/7 hired at $2.41
+Labourer Jobs: 25/26 hired at $1.11
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 72 =========================
+
+Magnate Jobs: 1/1 hired at $9.51
+Administrator Jobs: 2/4 hired at $3.57
+Technologist Jobs: 2/7 hired at $2.37
+Labourer Jobs: 25/26 hired at $1.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 73 =========================
+
+Magnate Jobs: 1/1 hired at $9.61
+Administrator Jobs: 2/4 hired at $3.55
+Technologist Jobs: 2/7 hired at $2.34
+Labourer Jobs: 25/26 hired at $1.13
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 74 =========================
+
+Magnate Jobs: 1/1 hired at $9.66
+Administrator Jobs: 2/4 hired at $3.48
+Technologist Jobs: 2/8 hired at $2.32
+Labourer Jobs: 25/26 hired at $1.14
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 75 =========================
+
+Magnate Jobs: 1/1 hired at $9.67
+Administrator Jobs: 2/3 hired at $3.43
+Technologist Jobs: 2/8 hired at $2.31
+Labourer Jobs: 24/27 hired at $1.16
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 76 =========================
+
+Magnate Jobs: 2/2 hired at $9.67
+Administrator Jobs: 2/4 hired at $3.43
+Technologist Jobs: 2/8 hired at $2.30
+Labourer Jobs: 23/27 hired at $1.14
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 77 =========================
+
+Magnate Jobs: 3/3 hired at $9.84
+Administrator Jobs: 3/4 hired at $3.41
+Technologist Jobs: 3/7 hired at $2.29
+Labourer Jobs: 25/28 hired at $1.13
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 78 =========================
+
+Magnate Jobs: 3/3 hired at $9.88
+Administrator Jobs: 3/4 hired at $3.41
+Technologist Jobs: 3/7 hired at $2.29
+Labourer Jobs: 25/27 hired at $1.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 79 =========================
+
+Magnate Jobs: 3/3 hired at $10.01
+Administrator Jobs: 3/5 hired at $3.41
+Technologist Jobs: 3/7 hired at $2.27
+Labourer Jobs: 25/27 hired at $1.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 80 =========================
+
+Magnate Jobs: 3/3 hired at $10.07
+Administrator Jobs: 2/5 hired at $3.34
+Technologist Jobs: 3/7 hired at $2.24
+Labourer Jobs: 26/26 hired at $1.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 81 =========================
+
+Magnate Jobs: 3/3 hired at $10.27
+Administrator Jobs: 2/5 hired at $3.31
+Technologist Jobs: 3/7 hired at $2.23
+Labourer Jobs: 25/25 hired at $1.13
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 82 =========================
+
+Magnate Jobs: 3/3 hired at $10.27
+Administrator Jobs: 2/5 hired at $3.27
+Technologist Jobs: 3/7 hired at $2.22
+Labourer Jobs: 25/25 hired at $1.15
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 83 =========================
+
+Magnate Jobs: 3/3 hired at $10.28
+Administrator Jobs: 2/5 hired at $3.26
+Technologist Jobs: 3/7 hired at $2.18
+Labourer Jobs: 24/24 hired at $1.15
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 84 =========================
+
+Magnate Jobs: 3/3 hired at $10.43
+Administrator Jobs: 3/5 hired at $3.23
+Technologist Jobs: 3/7 hired at $2.18
+Labourer Jobs: 24/24 hired at $1.16
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 85 =========================
+
+Magnate Jobs: 3/3 hired at $10.48
+Administrator Jobs: 3/5 hired at $3.19
+Technologist Jobs: 3/7 hired at $2.15
+Labourer Jobs: 23/23 hired at $1.17
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 86 =========================
+
+Magnate Jobs: 3/3 hired at $10.56
+Administrator Jobs: 3/6 hired at $3.14
+Technologist Jobs: 3/8 hired at $2.13
+Labourer Jobs: 23/23 hired at $1.18
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 87 =========================
+
+Magnate Jobs: 2/2 hired at $10.60
+Administrator Jobs: 3/7 hired at $3.13
+Technologist Jobs: 3/8 hired at $2.10
+Labourer Jobs: 24/24 hired at $1.20
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 88 =========================
+
+Magnate Jobs: 2/2 hired at $10.63
+Administrator Jobs: 3/7 hired at $3.12
+Technologist Jobs: 3/8 hired at $2.09
+Labourer Jobs: 23/23 hired at $1.22
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 89 =========================
+
+Magnate Jobs: 2/2 hired at $10.81
+Administrator Jobs: 3/8 hired at $3.10
+Technologist Jobs: 3/8 hired at $2.07
+Labourer Jobs: 23/23 hired at $1.24
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 90 =========================
+
+Magnate Jobs: 2/2 hired at $10.99
+Administrator Jobs: 3/8 hired at $3.08
+Technologist Jobs: 3/7 hired at $2.07
+Labourer Jobs: 23/23 hired at $1.25
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 91 =========================
+
+Magnate Jobs: 2/2 hired at $11.02
+Administrator Jobs: 3/9 hired at $3.04
+Technologist Jobs: 3/7 hired at $2.04
+Labourer Jobs: 22/22 hired at $1.27
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 92 =========================
+
+Magnate Jobs: 2/2 hired at $11.08
+Administrator Jobs: 3/9 hired at $3.01
+Technologist Jobs: 3/7 hired at $2.02
+Labourer Jobs: 22/22 hired at $1.29
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 93 =========================
+
+Magnate Jobs: 2/2 hired at $11.12
+Administrator Jobs: 3/8 hired at $2.98
+Technologist Jobs: 3/7 hired at $2.00
+Labourer Jobs: 22/22 hired at $1.31
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 94 =========================
+
+Magnate Jobs: 2/2 hired at $11.20
+Administrator Jobs: 3/8 hired at $2.97
+Technologist Jobs: 3/7 hired at $1.97
+Labourer Jobs: 21/21 hired at $1.33
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 95 =========================
+
+Magnate Jobs: 2/2 hired at $11.35
+Administrator Jobs: 3/8 hired at $2.93
+Technologist Jobs: 3/6 hired at $1.95
+Labourer Jobs: 22/22 hired at $1.34
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 96 =========================
+
+Magnate Jobs: 2/2 hired at $11.40
+Administrator Jobs: 3/8 hired at $2.92
+Technologist Jobs: 3/7 hired at $1.95
+Labourer Jobs: 22/22 hired at $1.36
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 97 =========================
+
+Magnate Jobs: 2/2 hired at $11.42
+Administrator Jobs: 4/8 hired at $2.92
+Technologist Jobs: 3/7 hired at $1.91
+Labourer Jobs: 21/21 hired at $1.37
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 98 =========================
+
+Magnate Jobs: 2/2 hired at $11.49
+Administrator Jobs: 4/8 hired at $2.87
+Technologist Jobs: 3/6 hired at $1.88
+Labourer Jobs: 22/22 hired at $1.39
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 99 =========================
+
+Magnate Jobs: 3/3 hired at $11.49
+Administrator Jobs: 5/8 hired at $2.83
+Technologist Jobs: 4/7 hired at $1.85
+Labourer Jobs: 22/22 hired at $1.40
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 100 =========================
+
+Magnate Jobs: 3/3 hired at $11.51
+Administrator Jobs: 5/8 hired at $2.80
+Technologist Jobs: 4/6 hired at $1.84
+Labourer Jobs: 24/24 hired at $1.41
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 101 =========================
+
+Magnate Jobs: 3/3 hired at $11.52
+Administrator Jobs: 5/8 hired at $2.76
+Technologist Jobs: 3/5 hired at $1.83
+Labourer Jobs: 25/25 hired at $1.41
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 102 =========================
+
+Magnate Jobs: 4/4 hired at $11.54
+Administrator Jobs: 7/8 hired at $2.76
+Technologist Jobs: 4/5 hired at $1.82
+Labourer Jobs: 25/25 hired at $1.43
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 103 =========================
+
+Magnate Jobs: 4/4 hired at $11.71
+Administrator Jobs: 7/8 hired at $2.76
+Technologist Jobs: 4/5 hired at $1.82
+Labourer Jobs: 25/25 hired at $1.45
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 104 =========================
+
+Magnate Jobs: 4/4 hired at $11.77
+Administrator Jobs: 7/8 hired at $2.76
+Technologist Jobs: 4/5 hired at $1.82
+Labourer Jobs: 25/25 hired at $1.47
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 105 =========================
+
+Magnate Jobs: 4/4 hired at $11.79
+Administrator Jobs: 7/8 hired at $2.76
+Technologist Jobs: 4/6 hired at $1.82
+Labourer Jobs: 25/25 hired at $1.49
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 106 =========================
+
+Magnate Jobs: 3/3 hired at $11.96
+Administrator Jobs: 6/7 hired at $2.76
+Technologist Jobs: 4/6 hired at $1.81
+Labourer Jobs: 26/26 hired at $1.50
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 107 =========================
+
+Magnate Jobs: 3/3 hired at $12.15
+Administrator Jobs: 6/7 hired at $2.76
+Technologist Jobs: 3/6 hired at $1.80
+Labourer Jobs: 26/26 hired at $1.51
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 108 =========================
+
+Magnate Jobs: 3/3 hired at $12.28
+Administrator Jobs: 6/7 hired at $2.76
+Technologist Jobs: 3/5 hired at $1.80
+Labourer Jobs: 26/27 hired at $1.54
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 109 =========================
+
+Magnate Jobs: 3/3 hired at $12.32
+Administrator Jobs: 6/7 hired at $2.76
+Technologist Jobs: 4/4 hired at $1.78
+Labourer Jobs: 28/28 hired at $1.56
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 110 =========================
+
+Magnate Jobs: 2/2 hired at $12.52
+Administrator Jobs: 5/7 hired at $2.76
+Technologist Jobs: 3/4 hired at $1.78
+Labourer Jobs: 25/28 hired at $1.57
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 111 =========================
+
+Magnate Jobs: 2/2 hired at $12.56
+Administrator Jobs: 5/6 hired at $2.75
+Technologist Jobs: 3/3 hired at $1.78
+Labourer Jobs: 25/29 hired at $1.56
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 112 =========================
+
+Magnate Jobs: 3/3 hired at $12.79
+Administrator Jobs: 6/6 hired at $2.75
+Technologist Jobs: 3/3 hired at $1.81
+Labourer Jobs: 27/29 hired at $1.54
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 113 =========================
+
+Magnate Jobs: 3/3 hired at $13.03
+Administrator Jobs: 6/6 hired at $2.78
+Technologist Jobs: 3/3 hired at $1.84
+Labourer Jobs: 29/29 hired at $1.54
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 114 =========================
+
+Magnate Jobs: 3/3 hired at $13.18
+Administrator Jobs: 6/6 hired at $2.79
+Technologist Jobs: 3/3 hired at $1.87
+Labourer Jobs: 27/28 hired at $1.55
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 115 =========================
+
+Magnate Jobs: 3/3 hired at $13.38
+Administrator Jobs: 6/6 hired at $2.80
+Technologist Jobs: 3/3 hired at $1.87
+Labourer Jobs: 27/28 hired at $1.57
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 116 =========================
+
+Magnate Jobs: 3/3 hired at $13.44
+Administrator Jobs: 6/7 hired at $2.82
+Technologist Jobs: 3/3 hired at $1.89
+Labourer Jobs: 28/28 hired at $1.58
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 117 =========================
+
+Magnate Jobs: 3/3 hired at $13.46
+Administrator Jobs: 6/7 hired at $2.82
+Technologist Jobs: 3/3 hired at $1.90
+Labourer Jobs: 28/28 hired at $1.61
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 118 =========================
+
+Magnate Jobs: 3/3 hired at $13.61
+Administrator Jobs: 7/7 hired at $2.82
+Technologist Jobs: 3/3 hired at $1.91
+Labourer Jobs: 28/28 hired at $1.62
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 119 =========================
+
+Magnate Jobs: 3/3 hired at $13.69
+Administrator Jobs: 7/7 hired at $2.85
+Technologist Jobs: 3/3 hired at $1.93
+Labourer Jobs: 28/28 hired at $1.64
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 120 =========================
+
+Magnate Jobs: 3/3 hired at $13.72
+Administrator Jobs: 8/8 hired at $2.88
+Technologist Jobs: 3/3 hired at $1.96
+Labourer Jobs: 26/28 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 121 =========================
+
+Magnate Jobs: 3/3 hired at $13.92
+Administrator Jobs: 7/7 hired at $2.89
+Technologist Jobs: 3/3 hired at $2.00
+Labourer Jobs: 26/28 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 122 =========================
+
+Magnate Jobs: 3/3 hired at $14.00
+Administrator Jobs: 7/7 hired at $2.92
+Technologist Jobs: 3/3 hired at $2.04
+Labourer Jobs: 26/28 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 123 =========================
+
+Magnate Jobs: 3/3 hired at $14.08
+Administrator Jobs: 8/8 hired at $2.94
+Technologist Jobs: 3/3 hired at $2.06
+Labourer Jobs: 26/28 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 124 =========================
+
+Magnate Jobs: 3/3 hired at $14.20
+Administrator Jobs: 8/8 hired at $2.98
+Technologist Jobs: 3/3 hired at $2.10
+Labourer Jobs: 26/28 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 125 =========================
+
+Magnate Jobs: 3/3 hired at $14.41
+Administrator Jobs: 8/8 hired at $3.00
+Technologist Jobs: 3/3 hired at $2.11
+Labourer Jobs: 28/28 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 126 =========================
+
+Magnate Jobs: 3/3 hired at $14.69
+Administrator Jobs: 8/8 hired at $3.00
+Technologist Jobs: 3/3 hired at $2.13
+Labourer Jobs: 26/28 hired at $1.69
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 127 =========================
+
+Magnate Jobs: 3/3 hired at $14.89
+Administrator Jobs: 8/8 hired at $3.02
+Technologist Jobs: 3/3 hired at $2.14
+Labourer Jobs: 26/28 hired at $1.69
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 128 =========================
+
+Magnate Jobs: 3/3 hired at $14.91
+Administrator Jobs: 8/8 hired at $3.05
+Technologist Jobs: 3/3 hired at $2.15
+Labourer Jobs: 26/28 hired at $1.69
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 129 =========================
+
+Magnate Jobs: 3/3 hired at $14.99
+Administrator Jobs: 7/7 hired at $3.08
+Technologist Jobs: 3/3 hired at $2.18
+Labourer Jobs: 26/29 hired at $1.69
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 130 =========================
+
+Magnate Jobs: 4/4 hired at $15.21
+Administrator Jobs: 7/7 hired at $3.13
+Technologist Jobs: 3/3 hired at $2.22
+Labourer Jobs: 29/29 hired at $1.66
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 131 =========================
+
+Magnate Jobs: 4/4 hired at $15.29
+Administrator Jobs: 7/7 hired at $3.18
+Technologist Jobs: 3/3 hired at $2.24
+Labourer Jobs: 29/29 hired at $1.69
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 132 =========================
+
+Magnate Jobs: 4/4 hired at $15.38
+Administrator Jobs: 7/7 hired at $3.23
+Technologist Jobs: 3/3 hired at $2.25
+Labourer Jobs: 29/29 hired at $1.70
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 133 =========================
+
+Magnate Jobs: 4/4 hired at $15.43
+Administrator Jobs: 6/6 hired at $3.25
+Technologist Jobs: 3/3 hired at $2.25
+Labourer Jobs: 29/29 hired at $1.71
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 134 =========================
+
+Magnate Jobs: 4/4 hired at $15.61
+Administrator Jobs: 5/5 hired at $3.26
+Technologist Jobs: 3/3 hired at $2.29
+Labourer Jobs: 30/30 hired at $1.72
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 135 =========================
+
+Magnate Jobs: 4/4 hired at $15.88
+Administrator Jobs: 5/5 hired at $3.26
+Technologist Jobs: 3/3 hired at $2.31
+Labourer Jobs: 30/30 hired at $1.75
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 136 =========================
+
+Magnate Jobs: 3/3 hired at $15.99
+Administrator Jobs: 5/5 hired at $3.27
+Technologist Jobs: 3/3 hired at $2.34
+Labourer Jobs: 29/31 hired at $1.77
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 137 =========================
+
+Magnate Jobs: 3/3 hired at $16.22
+Administrator Jobs: 5/5 hired at $3.30
+Technologist Jobs: 2/2 hired at $2.38
+Labourer Jobs: 29/32 hired at $1.77
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 138 =========================
+
+Magnate Jobs: 3/3 hired at $16.44
+Administrator Jobs: 5/5 hired at $3.35
+Technologist Jobs: 2/2 hired at $2.41
+Labourer Jobs: 29/32 hired at $1.76
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 139 =========================
+
+Magnate Jobs: 3/3 hired at $16.60
+Administrator Jobs: 5/5 hired at $3.36
+Technologist Jobs: 2/2 hired at $2.45
+Labourer Jobs: 26/31 hired at $1.73
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 140 =========================
+
+Magnate Jobs: 3/3 hired at $16.63
+Administrator Jobs: 5/5 hired at $3.43
+Technologist Jobs: 2/2 hired at $2.47
+Labourer Jobs: 27/30 hired at $1.70
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 141 =========================
+
+Magnate Jobs: 3/3 hired at $16.68
+Administrator Jobs: 4/4 hired at $3.48
+Technologist Jobs: 3/3 hired at $2.50
+Labourer Jobs: 27/29 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 142 =========================
+
+Magnate Jobs: 3/3 hired at $16.72
+Administrator Jobs: 4/4 hired at $3.51
+Technologist Jobs: 3/3 hired at $2.54
+Labourer Jobs: 27/29 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 143 =========================
+
+Magnate Jobs: 3/3 hired at $17.04
+Administrator Jobs: 4/4 hired at $3.55
+Technologist Jobs: 3/3 hired at $2.55
+Labourer Jobs: 28/28 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 144 =========================
+
+Magnate Jobs: 3/3 hired at $17.35
+Administrator Jobs: 4/4 hired at $3.62
+Technologist Jobs: 3/3 hired at $2.55
+Labourer Jobs: 27/27 hired at $1.67
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 145 =========================
+
+Magnate Jobs: 3/3 hired at $17.55
+Administrator Jobs: 5/5 hired at $3.62
+Technologist Jobs: 3/3 hired at $2.60
+Labourer Jobs: 27/27 hired at $1.69
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 146 =========================
+
+Magnate Jobs: 3/3 hired at $17.88
+Administrator Jobs: 6/6 hired at $3.67
+Technologist Jobs: 3/3 hired at $2.64
+Labourer Jobs: 26/27 hired at $1.69
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 147 =========================
+
+Magnate Jobs: 4/4 hired at $18.23
+Administrator Jobs: 6/6 hired at $3.71
+Technologist Jobs: 3/3 hired at $2.66
+Labourer Jobs: 27/27 hired at $1.71
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 148 =========================
+
+Magnate Jobs: 4/4 hired at $18.54
+Administrator Jobs: 5/5 hired at $3.76
+Technologist Jobs: 3/3 hired at $2.70
+Labourer Jobs: 27/27 hired at $1.74
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 149 =========================
+
+Magnate Jobs: 4/4 hired at $18.89
+Administrator Jobs: 6/6 hired at $3.83
+Technologist Jobs: 4/4 hired at $2.70
+Labourer Jobs: 27/27 hired at $1.75
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 150 =========================
+
+Magnate Jobs: 4/4 hired at $18.95
+Administrator Jobs: 6/6 hired at $3.88
+Technologist Jobs: 4/4 hired at $2.72
+Labourer Jobs: 27/27 hired at $1.78
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 151 =========================
+
+Magnate Jobs: 4/4 hired at $19.20
+Administrator Jobs: 6/6 hired at $3.96
+Technologist Jobs: 3/3 hired at $2.74
+Labourer Jobs: 28/28 hired at $1.80
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 152 =========================
+
+Magnate Jobs: 4/4 hired at $19.46
+Administrator Jobs: 6/6 hired at $3.99
+Technologist Jobs: 4/4 hired at $2.74
+Labourer Jobs: 28/28 hired at $1.83
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 153 =========================
+
+Magnate Jobs: 4/4 hired at $19.76
+Administrator Jobs: 5/5 hired at $4.05
+Technologist Jobs: 4/4 hired at $2.75
+Labourer Jobs: 27/27 hired at $1.83
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 154 =========================
+
+Magnate Jobs: 4/4 hired at $19.82
+Administrator Jobs: 6/6 hired at $4.12
+Technologist Jobs: 4/4 hired at $2.76
+Labourer Jobs: 26/26 hired at $1.85
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 155 =========================
+
+Magnate Jobs: 4/4 hired at $19.98
+Administrator Jobs: 6/6 hired at $4.18
+Technologist Jobs: 4/4 hired at $2.81
+Labourer Jobs: 26/26 hired at $1.88
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 156 =========================
+
+Magnate Jobs: 4/4 hired at $20.32
+Administrator Jobs: 6/6 hired at $4.26
+Technologist Jobs: 4/4 hired at $2.83
+Labourer Jobs: 25/25 hired at $1.90
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 157 =========================
+
+Magnate Jobs: 4/4 hired at $20.53
+Administrator Jobs: 6/6 hired at $4.29
+Technologist Jobs: 4/4 hired at $2.84
+Labourer Jobs: 25/25 hired at $1.92
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 158 =========================
+
+Magnate Jobs: 4/4 hired at $20.62
+Administrator Jobs: 6/6 hired at $4.33
+Technologist Jobs: 4/4 hired at $2.87
+Labourer Jobs: 25/25 hired at $1.93
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 159 =========================
+
+Magnate Jobs: 5/5 hired at $20.92
+Administrator Jobs: 7/7 hired at $4.37
+Technologist Jobs: 4/4 hired at $2.90
+Labourer Jobs: 25/25 hired at $1.94
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 160 =========================
+
+Magnate Jobs: 5/5 hired at $21.12
+Administrator Jobs: 8/8 hired at $4.43
+Technologist Jobs: 4/4 hired at $2.92
+Labourer Jobs: 25/25 hired at $1.97
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 161 =========================
+
+Magnate Jobs: 5/5 hired at $21.43
+Administrator Jobs: 7/7 hired at $4.50
+Technologist Jobs: 4/4 hired at $2.96
+Labourer Jobs: 26/26 hired at $2.00
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 162 =========================
+
+Magnate Jobs: 5/5 hired at $21.82
+Administrator Jobs: 6/6 hired at $4.51
+Technologist Jobs: 4/4 hired at $2.97
+Labourer Jobs: 26/26 hired at $2.04
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 163 =========================
+
+Magnate Jobs: 5/5 hired at $21.90
+Administrator Jobs: 5/5 hired at $4.54
+Technologist Jobs: 4/4 hired at $3.01
+Labourer Jobs: 27/27 hired at $2.07
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 164 =========================
+
+Magnate Jobs: 5/5 hired at $22.27
+Administrator Jobs: 5/5 hired at $4.63
+Technologist Jobs: 4/4 hired at $3.03
+Labourer Jobs: 27/27 hired at $2.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 165 =========================
+
+Magnate Jobs: 5/5 hired at $22.47
+Administrator Jobs: 5/5 hired at $4.69
+Technologist Jobs: 4/4 hired at $3.04
+Labourer Jobs: 27/27 hired at $2.11
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 166 =========================
+
+Magnate Jobs: 5/5 hired at $22.73
+Administrator Jobs: 5/5 hired at $4.78
+Technologist Jobs: 4/4 hired at $3.07
+Labourer Jobs: 26/26 hired at $2.12
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 167 =========================
+
+Magnate Jobs: 5/5 hired at $22.94
+Administrator Jobs: 5/5 hired at $4.87
+Technologist Jobs: 4/4 hired at $3.09
+Labourer Jobs: 26/26 hired at $2.15
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 168 =========================
+
+Magnate Jobs: 6/6 hired at $23.36
+Administrator Jobs: 5/5 hired at $4.89
+Technologist Jobs: 4/4 hired at $3.14
+Labourer Jobs: 27/27 hired at $2.15
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 169 =========================
+
+Magnate Jobs: 6/6 hired at $23.57
+Administrator Jobs: 5/5 hired at $4.98
+Technologist Jobs: 4/4 hired at $3.15
+Labourer Jobs: 26/26 hired at $2.19
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 170 =========================
+
+Magnate Jobs: 6/6 hired at $23.58
+Administrator Jobs: 5/5 hired at $5.02
+Technologist Jobs: 4/4 hired at $3.21
+Labourer Jobs: 26/26 hired at $2.21
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 171 =========================
+
+Magnate Jobs: 6/6 hired at $23.93
+Administrator Jobs: 5/5 hired at $5.10
+Technologist Jobs: 4/4 hired at $3.21
+Labourer Jobs: 26/26 hired at $2.23
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 172 =========================
+
+Magnate Jobs: 6/6 hired at $24.12
+Administrator Jobs: 4/4 hired at $5.16
+Technologist Jobs: 4/4 hired at $3.23
+Labourer Jobs: 26/26 hired at $2.24
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 173 =========================
+
+Magnate Jobs: 6/6 hired at $24.45
+Administrator Jobs: 3/3 hired at $5.22
+Technologist Jobs: 4/4 hired at $3.23
+Labourer Jobs: 27/27 hired at $2.26
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 174 =========================
+
+Magnate Jobs: 6/6 hired at $24.52
+Administrator Jobs: 3/3 hired at $5.23
+Technologist Jobs: 3/3 hired at $3.28
+Labourer Jobs: 29/29 hired at $2.27
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 175 =========================
+
+Magnate Jobs: 6/6 hired at $24.81
+Administrator Jobs: 3/3 hired at $5.27
+Technologist Jobs: 3/3 hired at $3.30
+Labourer Jobs: 29/29 hired at $2.31
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 176 =========================
+
+Magnate Jobs: 6/6 hired at $25.16
+Administrator Jobs: 3/3 hired at $5.28
+Technologist Jobs: 3/3 hired at $3.30
+Labourer Jobs: 28/28 hired at $2.35
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 177 =========================
+
+Magnate Jobs: 5/6 hired at $25.46
+Administrator Jobs: 3/3 hired at $5.29
+Technologist Jobs: 4/4 hired at $3.32
+Labourer Jobs: 28/28 hired at $2.38
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 178 =========================
+
+Magnate Jobs: 5/6 hired at $25.46
+Administrator Jobs: 3/3 hired at $5.33
+Technologist Jobs: 4/4 hired at $3.36
+Labourer Jobs: 28/28 hired at $2.41
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 179 =========================
+
+Magnate Jobs: 5/6 hired at $25.46
+Administrator Jobs: 3/3 hired at $5.39
+Technologist Jobs: 4/4 hired at $3.40
+Labourer Jobs: 28/28 hired at $2.43
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 180 =========================
+
+Magnate Jobs: 5/5 hired at $25.46
+Administrator Jobs: 3/3 hired at $5.43
+Technologist Jobs: 4/4 hired at $3.42
+Labourer Jobs: 29/29 hired at $2.47
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 181 =========================
+
+Magnate Jobs: 4/4 hired at $25.79
+Administrator Jobs: 3/3 hired at $5.45
+Technologist Jobs: 4/4 hired at $3.42
+Labourer Jobs: 29/29 hired at $2.47
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 182 =========================
+
+Magnate Jobs: 4/4 hired at $26.29
+Administrator Jobs: 3/3 hired at $5.54
+Technologist Jobs: 4/4 hired at $3.43
+Labourer Jobs: 29/29 hired at $2.50
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 183 =========================
+
+Magnate Jobs: 4/4 hired at $26.48
+Administrator Jobs: 3/3 hired at $5.56
+Technologist Jobs: 4/4 hired at $3.43
+Labourer Jobs: 29/29 hired at $2.55
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 184 =========================
+
+Magnate Jobs: 4/4 hired at $26.76
+Administrator Jobs: 3/3 hired at $5.65
+Technologist Jobs: 4/5 hired at $3.45
+Labourer Jobs: 29/29 hired at $2.57
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 185 =========================
+
+Magnate Jobs: 4/4 hired at $27.22
+Administrator Jobs: 3/3 hired at $5.68
+Technologist Jobs: 4/5 hired at $3.45
+Labourer Jobs: 29/29 hired at $2.60
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 186 =========================
+
+Magnate Jobs: 4/4 hired at $27.65
+Administrator Jobs: 3/3 hired at $5.69
+Technologist Jobs: 4/5 hired at $3.45
+Labourer Jobs: 29/29 hired at $2.65
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 187 =========================
+
+Magnate Jobs: 4/4 hired at $27.70
+Administrator Jobs: 3/3 hired at $5.75
+Technologist Jobs: 4/5 hired at $3.45
+Labourer Jobs: 29/29 hired at $2.68
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 188 =========================
+
+Magnate Jobs: 4/4 hired at $27.79
+Administrator Jobs: 3/3 hired at $5.81
+Technologist Jobs: 4/5 hired at $3.45
+Labourer Jobs: 29/29 hired at $2.73
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 189 =========================
+
+Magnate Jobs: 4/4 hired at $28.03
+Administrator Jobs: 3/3 hired at $5.86
+Technologist Jobs: 4/6 hired at $3.45
+Labourer Jobs: 29/29 hired at $2.74
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 190 =========================
+
+Magnate Jobs: 3/3 hired at $28.34
+Administrator Jobs: 4/4 hired at $5.94
+Technologist Jobs: 4/6 hired at $3.45
+Labourer Jobs: 29/30 hired at $2.74
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 191 =========================
+
+Magnate Jobs: 3/3 hired at $28.47
+Administrator Jobs: 4/4 hired at $6.01
+Technologist Jobs: 4/6 hired at $3.41
+Labourer Jobs: 29/30 hired at $2.76
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 192 =========================
+
+Magnate Jobs: 3/3 hired at $28.53
+Administrator Jobs: 4/4 hired at $6.01
+Technologist Jobs: 4/5 hired at $3.36
+Labourer Jobs: 29/31 hired at $2.80
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 193 =========================
+
+Magnate Jobs: 2/2 hired at $29.02
+Administrator Jobs: 4/4 hired at $6.11
+Technologist Jobs: 4/5 hired at $3.36
+Labourer Jobs: 28/31 hired at $2.80
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 194 =========================
+
+Magnate Jobs: 2/2 hired at $29.15
+Administrator Jobs: 4/4 hired at $6.18
+Technologist Jobs: 2/5 hired at $3.36
+Labourer Jobs: 16/31 hired at $2.80
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 195 =========================
+
+Magnate Jobs: 2/2 hired at $29.24
+Administrator Jobs: 4/4 hired at $6.23
+Technologist Jobs: 4/5 hired at $3.36
+Labourer Jobs: 29/31 hired at $2.76
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 196 =========================
+
+Magnate Jobs: 2/2 hired at $29.48
+Administrator Jobs: 3/3 hired at $6.27
+Technologist Jobs: 4/5 hired at $3.36
+Labourer Jobs: 29/32 hired at $2.76
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 197 =========================
+
+Magnate Jobs: 2/2 hired at $29.94
+Administrator Jobs: 3/3 hired at $6.28
+Technologist Jobs: 2/5 hired at $3.36
+Labourer Jobs: 16/30 hired at $2.73
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 198 =========================
+
+Magnate Jobs: 2/2 hired at $30.45
+Administrator Jobs: 2/2 hired at $6.38
+Technologist Jobs: 4/5 hired at $3.31
+Labourer Jobs: 29/30 hired at $2.73
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 199 =========================
+
+Magnate Jobs: 1/1 hired at $31.05
+Administrator Jobs: 2/2 hired at $6.38
+Technologist Jobs: 2/5 hired at $3.31
+Labourer Jobs: 16/30 hired at $2.76
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 200 =========================
+
+Magnate Jobs: 1/1 hired at $31.46
+Administrator Jobs: 2/2 hired at $6.48
+Technologist Jobs: 2/5 hired at $3.26
+Labourer Jobs: 16/29 hired at $2.71
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 201 =========================
+
+Magnate Jobs: 1/1 hired at $31.90
+Administrator Jobs: 2/2 hired at $6.49
+Technologist Jobs: 2/6 hired at $3.22
+Labourer Jobs: 16/28 hired at $2.68
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 202 =========================
+
+Magnate Jobs: 1/1 hired at $32.31
+Administrator Jobs: 2/2 hired at $6.58
+Technologist Jobs: 2/6 hired at $3.19
+Labourer Jobs: 16/28 hired at $2.65
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 203 =========================
+
+Magnate Jobs: 1/1 hired at $32.71
+Administrator Jobs: 3/3 hired at $6.62
+Technologist Jobs: 2/6 hired at $3.16
+Labourer Jobs: 16/28 hired at $2.64
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 204 =========================
+
+Magnate Jobs: 1/1 hired at $33.04
+Administrator Jobs: 3/3 hired at $6.63
+Technologist Jobs: 2/6 hired at $3.10
+Labourer Jobs: 17/29 hired at $2.60
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 205 =========================
+
+Magnate Jobs: 1/1 hired at $33.28
+Administrator Jobs: 4/4 hired at $6.73
+Technologist Jobs: 2/6 hired at $3.07
+Labourer Jobs: 17/29 hired at $2.59
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 206 =========================
+
+Magnate Jobs: 1/1 hired at $33.37
+Administrator Jobs: 4/4 hired at $6.83
+Technologist Jobs: 2/6 hired at $3.03
+Labourer Jobs: 17/30 hired at $2.55
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 207 =========================
+
+Magnate Jobs: 1/1 hired at $33.98
+Administrator Jobs: 4/4 hired at $6.91
+Technologist Jobs: 2/6 hired at $3.01
+Labourer Jobs: 18/30 hired at $2.51
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 208 =========================
+
+Magnate Jobs: 1/1 hired at $34.45
+Administrator Jobs: 4/4 hired at $7.02
+Technologist Jobs: 2/6 hired at $2.98
+Labourer Jobs: 19/30 hired at $2.49
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 209 =========================
+
+Magnate Jobs: 1/1 hired at $34.48
+Administrator Jobs: 4/4 hired at $7.07
+Technologist Jobs: 2/6 hired at $2.96
+Labourer Jobs: 20/31 hired at $2.45
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 210 =========================
+
+Magnate Jobs: 1/1 hired at $34.73
+Administrator Jobs: 4/4 hired at $7.20
+Technologist Jobs: 2/6 hired at $2.93
+Labourer Jobs: 20/31 hired at $2.40
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 211 =========================
+
+Magnate Jobs: 1/1 hired at $35.06
+Administrator Jobs: 4/4 hired at $7.25
+Technologist Jobs: 2/6 hired at $2.88
+Labourer Jobs: 20/30 hired at $2.38
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 212 =========================
+
+Magnate Jobs: 1/1 hired at $35.26
+Administrator Jobs: 4/4 hired at $7.36
+Technologist Jobs: 4/6 hired at $2.84
+Labourer Jobs: 30/30 hired at $2.36
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 213 =========================
+
+Magnate Jobs: 1/1 hired at $35.47
+Administrator Jobs: 4/4 hired at $7.50
+Technologist Jobs: 2/6 hired at $2.84
+Labourer Jobs: 21/29 hired at $2.38
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 214 =========================
+
+Magnate Jobs: 1/1 hired at $35.75
+Administrator Jobs: 4/4 hired at $7.61
+Technologist Jobs: 4/6 hired at $2.83
+Labourer Jobs: 29/29 hired at $2.35
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 215 =========================
+
+Magnate Jobs: 1/1 hired at $35.75
+Administrator Jobs: 4/4 hired at $7.73
+Technologist Jobs: 4/6 hired at $2.83
+Labourer Jobs: 29/29 hired at $2.39
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 216 =========================
+
+Magnate Jobs: 1/1 hired at $36.35
+Administrator Jobs: 4/4 hired at $7.76
+Technologist Jobs: 2/6 hired at $2.82
+Labourer Jobs: 21/28 hired at $2.41
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 217 =========================
+
+Magnate Jobs: 1/1 hired at $36.79
+Administrator Jobs: 4/4 hired at $7.90
+Technologist Jobs: 4/6 hired at $2.77
+Labourer Jobs: 27/27 hired at $2.38
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 218 =========================
+
+Magnate Jobs: 1/1 hired at $36.80
+Administrator Jobs: 4/4 hired at $8.03
+Technologist Jobs: 3/5 hired at $2.76
+Labourer Jobs: 21/27 hired at $2.42
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 219 =========================
+
+Magnate Jobs: 1/1 hired at $37.21
+Administrator Jobs: 4/4 hired at $8.09
+Technologist Jobs: 3/6 hired at $2.72
+Labourer Jobs: 22/28 hired at $2.42
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 220 =========================
+
+Magnate Jobs: 1/1 hired at $37.88
+Administrator Jobs: 4/4 hired at $8.17
+Technologist Jobs: 3/6 hired at $2.72
+Labourer Jobs: 22/28 hired at $2.38
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 221 =========================
+
+Magnate Jobs: 1/1 hired at $38.63
+Administrator Jobs: 3/3 hired at $8.20
+Technologist Jobs: 4/6 hired at $2.71
+Labourer Jobs: 28/28 hired at $2.36
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 222 =========================
+
+Magnate Jobs: 1/1 hired at $39.04
+Administrator Jobs: 4/4 hired at $8.24
+Technologist Jobs: 4/6 hired at $2.70
+Labourer Jobs: 27/27 hired at $2.39
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 223 =========================
+
+Magnate Jobs: 1/1 hired at $39.76
+Administrator Jobs: 5/5 hired at $8.27
+Technologist Jobs: 3/5 hired at $2.68
+Labourer Jobs: 25/28 hired at $2.42
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 224 =========================
+
+Magnate Jobs: 1/1 hired at $40.31
+Administrator Jobs: 5/5 hired at $8.29
+Technologist Jobs: 3/5 hired at $2.65
+Labourer Jobs: 25/29 hired at $2.39
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 225 =========================
+
+Magnate Jobs: 1/1 hired at $40.59
+Administrator Jobs: 5/5 hired at $8.33
+Technologist Jobs: 3/6 hired at $2.64
+Labourer Jobs: 25/29 hired at $2.37
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 226 =========================
+
+Magnate Jobs: 1/1 hired at $40.83
+Administrator Jobs: 5/5 hired at $8.42
+Technologist Jobs: 3/6 hired at $2.62
+Labourer Jobs: 26/28 hired at $2.33
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 227 =========================
+
+Magnate Jobs: 2/2 hired at $40.94
+Administrator Jobs: 5/5 hired at $8.42
+Technologist Jobs: 4/5 hired at $2.60
+Labourer Jobs: 28/28 hired at $2.33
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 228 =========================
+
+Magnate Jobs: 2/2 hired at $41.64
+Administrator Jobs: 5/5 hired at $8.53
+Technologist Jobs: 3/4 hired at $2.60
+Labourer Jobs: 26/27 hired at $2.34
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 229 =========================
+
+Magnate Jobs: 2/2 hired at $41.98
+Administrator Jobs: 5/5 hired at $8.63
+Technologist Jobs: 4/4 hired at $2.60
+Labourer Jobs: 27/27 hired at $2.35
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 230 =========================
+
+Magnate Jobs: 2/2 hired at $42.23
+Administrator Jobs: 5/5 hired at $8.79
+Technologist Jobs: 4/5 hired at $2.65
+Labourer Jobs: 27/27 hired at $2.35
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 231 =========================
+
+Magnate Jobs: 2/2 hired at $42.26
+Administrator Jobs: 4/4 hired at $8.93
+Technologist Jobs: 4/5 hired at $2.65
+Labourer Jobs: 26/26 hired at $2.38
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 232 =========================
+
+Magnate Jobs: 2/2 hired at $42.56
+Administrator Jobs: 5/5 hired at $9.00
+Technologist Jobs: 3/4 hired at $2.65
+Labourer Jobs: 27/27 hired at $2.43
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 233 =========================
+
+Magnate Jobs: 2/2 hired at $42.57
+Administrator Jobs: 6/6 hired at $9.11
+Technologist Jobs: 3/4 hired at $2.65
+Labourer Jobs: 27/27 hired at $2.48
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 234 =========================
+
+Magnate Jobs: 2/2 hired at $43.17
+Administrator Jobs: 7/7 hired at $9.17
+Technologist Jobs: 4/4 hired at $2.65
+Labourer Jobs: 27/27 hired at $2.49
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 235 =========================
+
+Magnate Jobs: 2/2 hired at $43.22
+Administrator Jobs: 7/7 hired at $9.21
+Technologist Jobs: 4/4 hired at $2.65
+Labourer Jobs: 26/26 hired at $2.53
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 236 =========================
+
+Magnate Jobs: 2/2 hired at $43.94
+Administrator Jobs: 7/7 hired at $9.35
+Technologist Jobs: 3/5 hired at $2.66
+Labourer Jobs: 26/26 hired at $2.55
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 237 =========================
+
+Magnate Jobs: 3/3 hired at $44.72
+Administrator Jobs: 8/8 hired at $9.47
+Technologist Jobs: 4/5 hired at $2.63
+Labourer Jobs: 25/25 hired at $2.60
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 238 =========================
+
+Magnate Jobs: 3/3 hired at $44.81
+Administrator Jobs: 7/7 hired at $9.56
+Technologist Jobs: 5/5 hired at $2.63
+Labourer Jobs: 26/26 hired at $2.65
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 239 =========================
+
+Magnate Jobs: 3/3 hired at $44.86
+Administrator Jobs: 7/7 hired at $9.70
+Technologist Jobs: 5/5 hired at $2.63
+Labourer Jobs: 26/26 hired at $2.68
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 240 =========================
+
+Magnate Jobs: 3/3 hired at $45.40
+Administrator Jobs: 7/7 hired at $9.72
+Technologist Jobs: 5/5 hired at $2.64
+Labourer Jobs: 26/26 hired at $2.70
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 241 =========================
+
+Magnate Jobs: 3/3 hired at $46.05
+Administrator Jobs: 7/7 hired at $9.78
+Technologist Jobs: 5/5 hired at $2.66
+Labourer Jobs: 25/25 hired at $2.70
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 242 =========================
+
+Magnate Jobs: 3/3 hired at $46.33
+Administrator Jobs: 7/7 hired at $9.93
+Technologist Jobs: 5/5 hired at $2.67
+Labourer Jobs: 25/25 hired at $2.72
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 243 =========================
+
+Magnate Jobs: 3/3 hired at $46.92
+Administrator Jobs: 7/7 hired at $9.97
+Technologist Jobs: 5/6 hired at $2.68
+Labourer Jobs: 24/24 hired at $2.74
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 244 =========================
+
+Magnate Jobs: 3/3 hired at $47.49
+Administrator Jobs: 6/6 hired at $10.09
+Technologist Jobs: 5/6 hired at $2.68
+Labourer Jobs: 24/24 hired at $2.79
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 245 =========================
+
+Magnate Jobs: 2/2 hired at $48.00
+Administrator Jobs: 5/5 hired at $10.20
+Technologist Jobs: 5/7 hired at $2.68
+Labourer Jobs: 25/25 hired at $2.83
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 246 =========================
+
+Magnate Jobs: 2/2 hired at $48.05
+Administrator Jobs: 5/5 hired at $10.40
+Technologist Jobs: 5/6 hired at $2.64
+Labourer Jobs: 25/25 hired at $2.85
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 247 =========================
+
+Magnate Jobs: 2/2 hired at $48.17
+Administrator Jobs: 6/6 hired at $10.43
+Technologist Jobs: 4/6 hired at $2.64
+Labourer Jobs: 21/23 hired at $2.89
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 248 =========================
+
+Magnate Jobs: 2/2 hired at $48.50
+Administrator Jobs: 6/6 hired at $10.54
+Technologist Jobs: 4/6 hired at $2.59
+Labourer Jobs: 21/23 hired at $2.89
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 249 =========================
+
+Magnate Jobs: 2/2 hired at $49.25
+Administrator Jobs: 6/6 hired at $10.58
+Technologist Jobs: 5/5 hired at $2.58
+Labourer Jobs: 23/23 hired at $2.89
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 250 =========================
+
+Magnate Jobs: 2/2 hired at $49.26
+Administrator Jobs: 7/7 hired at $10.71
+Technologist Jobs: 5/5 hired at $2.60
+Labourer Jobs: 23/23 hired at $2.89
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 251 =========================
+
+Magnate Jobs: 3/3 hired at $49.32
+Administrator Jobs: 7/7 hired at $10.91
+Technologist Jobs: 5/6 hired at $2.63
+Labourer Jobs: 22/22 hired at $2.91
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 252 =========================
+
+Magnate Jobs: 3/3 hired at $50.28
+Administrator Jobs: 8/8 hired at $11.11
+Technologist Jobs: 5/5 hired at $2.63
+Labourer Jobs: 22/22 hired at $2.96
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 253 =========================
+
+Magnate Jobs: 3/3 hired at $50.59
+Administrator Jobs: 9/9 hired at $11.21
+Technologist Jobs: 5/5 hired at $2.68
+Labourer Jobs: 22/22 hired at $3.00
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 254 =========================
+
+Magnate Jobs: 3/3 hired at $51.08
+Administrator Jobs: 9/9 hired at $11.21
+Technologist Jobs: 5/5 hired at $2.72
+Labourer Jobs: 21/21 hired at $3.06
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 255 =========================
+
+Magnate Jobs: 3/3 hired at $51.43
+Administrator Jobs: 8/8 hired at $11.35
+Technologist Jobs: 5/6 hired at $2.73
+Labourer Jobs: 21/21 hired at $3.08
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+
+
+========================= MONTH 256 =========================
+
+Magnate Jobs: 3/3 hired at $52.20
+Administrator Jobs: 8/8 hired at $11.46
+Technologist Jobs: 5/6 hired at $2.73
+Labourer Jobs: 21/21 hired at $3.10
+Operator Jobs: 0/0 hired at $1.00
+Soldier Jobs: 0/0 hired at $1.00
+Clerk Jobs: 0/0 hired at $1.00
+

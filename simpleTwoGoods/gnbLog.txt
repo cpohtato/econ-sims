@@ -1,0 +1,3631 @@
+Butter sellers: 5
+Consumers: 20
+
+========================= DAY 1 =========================
+
+Initial butter sell orders
+ID 0: 59 units @ $1.12 ea.
+ID 1: 59 units @ $1.13 ea.
+ID 2: 59 units @ $1.15 ea.
+ID 3: 59 units @ $1.02 ea.
+ID 4: 59 units @ $1.14 ea.
+
+Initial gun sell orders
+ID 0: 21 units @ $2.89 ea.
+ID 1: 21 units @ $2.68 ea.
+ID 2: 21 units @ $2.85 ea.
+ID 3: 21 units @ $3.00 ea.
+ID 4: 21 units @ $2.60 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 46 units @ $1.13 ea.
+ID 2: 59 units @ $1.15 ea.
+ID 4: 59 units @ $1.14 ea.
+
+Gun sell orders
+ID 0: 21 units @ $2.89 ea.
+ID 1: 2 units @ $2.68 ea.
+ID 2: 21 units @ $2.85 ea.
+ID 3: 21 units @ $3.00 ea.
+
+Daily butter sales: 121
+Daily average butter price: 1.08
+
+Daily gun sales: 20
+Daily average gun price: 2.68
+
+Average butter seller profit: 23.69
+Average gun seller profit: 19.10
+
+========================= DAY 2 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $1.32 ea.
+ID 1: 70 units @ $1.19 ea.
+ID 2: 59 units @ $1.09 ea.
+ID 3: 57 units @ $1.10 ea.
+ID 4: 59 units @ $1.04 ea.
+
+Initial gun sell orders
+ID 0: 21 units @ $2.73 ea.
+ID 1: 27 units @ $3.10 ea.
+ID 2: 21 units @ $2.74 ea.
+ID 3: 21 units @ $2.68 ea.
+ID 4: 26 units @ $2.63 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $1.32 ea.
+ID 1: 70 units @ $1.19 ea.
+ID 3: 45 units @ $1.10 ea.
+
+Gun sell orders
+ID 0: 21 units @ $2.73 ea.
+ID 1: 27 units @ $3.10 ea.
+ID 2: 21 units @ $2.74 ea.
+ID 3: 7 units @ $2.68 ea.
+
+Daily butter sales: 120
+Daily average butter price: 1.07
+
+Daily gun sales: 20
+Daily average gun price: 2.67
+
+Average butter seller profit: 13.97
+Average gun seller profit: 0.78
+
+========================= DAY 3 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $1.12 ea.
+ID 1: 70 units @ $1.01 ea.
+ID 2: 57 units @ $1.15 ea.
+ID 3: 68 units @ $1.14 ea.
+ID 4: 57 units @ $1.06 ea.
+
+Initial gun sell orders
+ID 0: 21 units @ $2.59 ea.
+ID 1: 27 units @ $2.84 ea.
+ID 2: 21 units @ $2.46 ea.
+ID 3: 30 units @ $2.93 ea.
+ID 4: 27 units @ $2.63 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 42 units @ $1.12 ea.
+ID 2: 57 units @ $1.15 ea.
+ID 3: 68 units @ $1.14 ea.
+
+Gun sell orders
+ID 0: 2 units @ $2.59 ea.
+ID 1: 27 units @ $2.84 ea.
+ID 3: 30 units @ $2.93 ea.
+ID 4: 27 units @ $2.63 ea.
+
+Daily butter sales: 132
+Daily average butter price: 1.04
+
+Daily gun sales: 20
+Daily average gun price: 2.58
+
+Average butter seller profit: 15.88
+Average gun seller profit: 0.17
+
+========================= DAY 4 =========================
+
+Initial butter sell orders
+ID 0: 71 units @ $1.34 ea.
+ID 1: 58 units @ $1.13 ea.
+ID 2: 57 units @ $1.14 ea.
+ID 3: 68 units @ $1.09 ea.
+ID 4: 57 units @ $1.24 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.68 ea.
+ID 1: 27 units @ $2.35 ea.
+ID 2: 26 units @ $2.78 ea.
+ID 3: 30 units @ $2.37 ea.
+ID 4: 27 units @ $2.45 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 71 units @ $1.34 ea.
+ID 2: 53 units @ $1.14 ea.
+ID 4: 57 units @ $1.24 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.68 ea.
+ID 2: 26 units @ $2.78 ea.
+ID 3: 17 units @ $2.37 ea.
+ID 4: 27 units @ $2.45 ea.
+
+Daily butter sales: 120
+Daily average butter price: 1.11
+
+Daily gun sales: 20
+Daily average gun price: 2.36
+
+Average butter seller profit: 14.44
+Average gun seller profit: -1.55
+
+========================= DAY 5 =========================
+
+Initial butter sell orders
+ID 0: 71 units @ $1.10 ea.
+ID 1: 57 units @ $1.34 ea.
+ID 2: 57 units @ $1.03 ea.
+ID 3: 58 units @ $1.13 ea.
+ID 4: 57 units @ $1.10 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.61 ea.
+ID 1: 27 units @ $2.44 ea.
+ID 2: 26 units @ $2.63 ea.
+ID 3: 36 units @ $2.62 ea.
+ID 4: 27 units @ $2.07 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 2 units @ $1.10 ea.
+ID 1: 57 units @ $1.34 ea.
+ID 3: 58 units @ $1.13 ea.
+ID 4: 57 units @ $1.10 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.61 ea.
+ID 1: 7 units @ $2.44 ea.
+ID 2: 26 units @ $2.63 ea.
+ID 3: 36 units @ $2.62 ea.
+
+Daily butter sales: 116
+Daily average butter price: 1.07
+
+Daily gun sales: 27
+Daily average gun price: 2.34
+
+Average butter seller profit: 15.02
+Average gun seller profit: 2.54
+
+========================= DAY 6 =========================
+
+Initial butter sell orders
+ID 0: 60 units @ $1.20 ea.
+ID 1: 57 units @ $1.07 ea.
+ID 2: 57 units @ $1.14 ea.
+ID 3: 58 units @ $1.00 ea.
+ID 4: 57 units @ $1.00 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.26 ea.
+ID 1: 32 units @ $2.58 ea.
+ID 2: 26 units @ $2.15 ea.
+ID 3: 36 units @ $2.40 ea.
+ID 4: 27 units @ $2.29 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 60 units @ $1.20 ea.
+ID 1: 57 units @ $1.07 ea.
+ID 2: 57 units @ $1.14 ea.
+ID 4: 5 units @ $1.00 ea.
+
+Gun sell orders
+ID 1: 32 units @ $2.58 ea.
+ID 3: 36 units @ $2.40 ea.
+ID 4: 20 units @ $2.29 ea.
+
+Daily butter sales: 100
+Daily average butter price: 1.00
+
+Daily gun sales: 40
+Daily average gun price: 2.25
+
+Average butter seller profit: 10.50
+Average gun seller profit: 5.79
+
+========================= DAY 7 =========================
+
+Initial butter sell orders
+ID 0: 60 units @ $1.03 ea.
+ID 1: 57 units @ $0.96 ea.
+ID 2: 57 units @ $0.94 ea.
+ID 3: 57 units @ $1.02 ea.
+ID 4: 61 units @ $1.15 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.50 ea.
+ID 1: 32 units @ $2.57 ea.
+ID 2: 27 units @ $2.49 ea.
+ID 3: 36 units @ $2.16 ea.
+ID 4: 31 units @ $2.64 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 60 units @ $1.03 ea.
+ID 1: 4 units @ $0.96 ea.
+ID 3: 57 units @ $1.02 ea.
+ID 4: 61 units @ $1.15 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.50 ea.
+ID 1: 32 units @ $2.57 ea.
+ID 2: 3 units @ $2.49 ea.
+ID 4: 31 units @ $2.64 ea.
+
+Daily butter sales: 100
+Daily average butter price: 0.95
+
+Daily gun sales: 40
+Daily average gun price: 2.36
+
+Average butter seller profit: 9.59
+Average gun seller profit: 1.50
+
+========================= DAY 8 =========================
+
+Initial butter sell orders
+ID 0: 60 units @ $0.84 ea.
+ID 1: 60 units @ $1.05 ea.
+ID 2: 57 units @ $0.96 ea.
+ID 3: 57 units @ $0.95 ea.
+ID 4: 61 units @ $1.10 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.42 ea.
+ID 1: 32 units @ $2.10 ea.
+ID 2: 30 units @ $2.57 ea.
+ID 3: 29 units @ $2.17 ea.
+ID 4: 31 units @ $2.33 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 60 units @ $1.05 ea.
+ID 2: 52 units @ $0.96 ea.
+ID 4: 61 units @ $1.10 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.42 ea.
+ID 2: 30 units @ $2.57 ea.
+ID 3: 1 units @ $2.17 ea.
+ID 4: 31 units @ $2.33 ea.
+
+Daily butter sales: 112
+Daily average butter price: 0.90
+
+Daily gun sales: 40
+Daily average gun price: 2.15
+
+Average butter seller profit: 10.57
+Average gun seller profit: 3.19
+
+========================= DAY 9 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.95 ea.
+ID 1: 60 units @ $0.91 ea.
+ID 2: 59 units @ $0.88 ea.
+ID 3: 57 units @ $1.08 ea.
+ID 4: 61 units @ $1.06 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.11 ea.
+ID 1: 28 units @ $2.24 ea.
+ID 2: 30 units @ $2.52 ea.
+ID 3: 29 units @ $2.50 ea.
+ID 4: 31 units @ $2.18 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 46 units @ $0.95 ea.
+ID 3: 57 units @ $1.08 ea.
+ID 4: 61 units @ $1.06 ea.
+
+Gun sell orders
+ID 1: 26 units @ $2.24 ea.
+ID 2: 30 units @ $2.52 ea.
+ID 3: 29 units @ $2.50 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.90
+
+Daily gun sales: 40
+Daily average gun price: 2.17
+
+Average butter seller profit: 11.29
+Average gun seller profit: 3.41
+
+========================= DAY 10 =========================
+
+Initial butter sell orders
+ID 0: 67 units @ $1.11 ea.
+ID 1: 57 units @ $1.00 ea.
+ID 2: 57 units @ $0.91 ea.
+ID 3: 57 units @ $1.03 ea.
+ID 4: 61 units @ $0.90 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.51 ea.
+ID 1: 26 units @ $2.00 ea.
+ID 2: 30 units @ $2.08 ea.
+ID 3: 29 units @ $2.06 ea.
+ID 4: 28 units @ $2.20 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 67 units @ $1.11 ea.
+ID 1: 45 units @ $1.00 ea.
+ID 3: 57 units @ $1.03 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.51 ea.
+ID 2: 25 units @ $2.08 ea.
+ID 4: 28 units @ $2.20 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.91
+
+Daily gun sales: 40
+Daily average gun price: 2.05
+
+Average butter seller profit: 10.25
+Average gun seller profit: 2.43
+
+========================= DAY 11 =========================
+
+Initial butter sell orders
+ID 0: 67 units @ $0.93 ea.
+ID 1: 68 units @ $1.02 ea.
+ID 2: 57 units @ $1.09 ea.
+ID 3: 57 units @ $0.92 ea.
+ID 4: 57 units @ $0.90 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.19 ea.
+ID 1: 27 units @ $2.21 ea.
+ID 2: 29 units @ $2.00 ea.
+ID 3: 28 units @ $2.15 ea.
+ID 4: 28 units @ $2.00 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 51 units @ $0.93 ea.
+ID 1: 68 units @ $1.02 ea.
+ID 2: 57 units @ $1.09 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.19 ea.
+ID 1: 27 units @ $2.21 ea.
+ID 3: 25 units @ $2.15 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.91
+
+Daily gun sales: 40
+Daily average gun price: 2.01
+
+Average butter seller profit: 10.02
+Average gun seller profit: 0.49
+
+========================= DAY 12 =========================
+
+Initial butter sell orders
+ID 0: 76 units @ $0.87 ea.
+ID 1: 68 units @ $0.91 ea.
+ID 2: 57 units @ $1.06 ea.
+ID 3: 57 units @ $1.00 ea.
+ID 4: 57 units @ $0.96 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.00 ea.
+ID 1: 27 units @ $2.20 ea.
+ID 2: 28 units @ $2.33 ea.
+ID 3: 25 units @ $2.15 ea.
+ID 4: 28 units @ $2.37 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 14 units @ $0.91 ea.
+ID 2: 57 units @ $1.06 ea.
+ID 3: 57 units @ $1.00 ea.
+ID 4: 57 units @ $0.96 ea.
+
+Gun sell orders
+ID 1: 19 units @ $2.20 ea.
+ID 2: 28 units @ $2.33 ea.
+ID 4: 28 units @ $2.37 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.89
+
+Daily gun sales: 40
+Daily average gun price: 2.13
+
+Average butter seller profit: 9.15
+Average gun seller profit: 2.67
+
+========================= DAY 13 =========================
+
+Initial butter sell orders
+ID 0: 59 units @ $1.02 ea.
+ID 1: 69 units @ $1.00 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 3: 57 units @ $0.97 ea.
+ID 4: 57 units @ $0.82 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.06 ea.
+ID 1: 32 units @ $2.27 ea.
+ID 2: 28 units @ $2.02 ea.
+ID 3: 27 units @ $2.30 ea.
+ID 4: 28 units @ $2.07 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 59 units @ $1.02 ea.
+ID 1: 69 units @ $1.00 ea.
+ID 3: 41 units @ $0.97 ea.
+
+Gun sell orders
+ID 1: 32 units @ $2.27 ea.
+ID 3: 27 units @ $2.30 ea.
+ID 4: 23 units @ $2.07 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.87
+
+Daily gun sales: 40
+Daily average gun price: 2.05
+
+Average butter seller profit: 11.08
+Average gun seller profit: -2.29
+
+========================= DAY 14 =========================
+
+Initial butter sell orders
+ID 0: 59 units @ $0.83 ea.
+ID 1: 69 units @ $0.95 ea.
+ID 2: 57 units @ $1.00 ea.
+ID 3: 71 units @ $1.03 ea.
+ID 4: 57 units @ $0.89 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.13 ea.
+ID 1: 32 units @ $2.18 ea.
+ID 2: 28 units @ $2.13 ea.
+ID 3: 27 units @ $2.25 ea.
+ID 4: 29 units @ $2.00 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 55 units @ $0.95 ea.
+ID 2: 57 units @ $1.00 ea.
+ID 3: 71 units @ $1.03 ea.
+
+Gun sell orders
+ID 1: 32 units @ $2.18 ea.
+ID 2: 24 units @ $2.13 ea.
+ID 3: 27 units @ $2.25 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.87
+
+Daily gun sales: 40
+Daily average gun price: 2.10
+
+Average butter seller profit: 8.20
+Average gun seller profit: 0.41
+
+========================= DAY 15 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.92 ea.
+ID 1: 74 units @ $0.84 ea.
+ID 2: 57 units @ $0.90 ea.
+ID 3: 71 units @ $0.93 ea.
+ID 4: 57 units @ $1.04 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.20 ea.
+ID 1: 32 units @ $2.04 ea.
+ID 2: 27 units @ $2.00 ea.
+ID 3: 27 units @ $2.16 ea.
+ID 4: 28 units @ $2.27 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.92 ea.
+ID 2: 1 units @ $0.90 ea.
+ID 3: 71 units @ $0.93 ea.
+ID 4: 57 units @ $1.04 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.20 ea.
+ID 3: 26 units @ $2.16 ea.
+ID 4: 28 units @ $2.27 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.87
+
+Daily gun sales: 40
+Daily average gun price: 2.04
+
+Average butter seller profit: 9.21
+Average gun seller profit: 1.09
+
+========================= DAY 16 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.91 ea.
+ID 1: 58 units @ $0.90 ea.
+ID 2: 58 units @ $0.92 ea.
+ID 3: 71 units @ $0.88 ea.
+ID 4: 57 units @ $0.94 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.08 ea.
+ID 1: 28 units @ $2.34 ea.
+ID 2: 27 units @ $2.37 ea.
+ID 3: 26 units @ $2.04 ea.
+ID 4: 28 units @ $2.23 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 56 units @ $0.91 ea.
+ID 2: 58 units @ $0.92 ea.
+ID 4: 57 units @ $0.94 ea.
+
+Gun sell orders
+ID 1: 28 units @ $2.34 ea.
+ID 2: 27 units @ $2.37 ea.
+ID 4: 21 units @ $2.23 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.89
+
+Daily gun sales: 40
+Daily average gun price: 2.10
+
+Average butter seller profit: 11.62
+Average gun seller profit: 2.96
+
+========================= DAY 17 =========================
+
+Initial butter sell orders
+ID 0: 56 units @ $0.81 ea.
+ID 1: 57 units @ $1.04 ea.
+ID 2: 58 units @ $0.79 ea.
+ID 3: 58 units @ $0.94 ea.
+ID 4: 57 units @ $0.86 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.24 ea.
+ID 1: 28 units @ $2.00 ea.
+ID 2: 27 units @ $2.27 ea.
+ID 3: 27 units @ $2.37 ea.
+ID 4: 31 units @ $2.00 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 57 units @ $1.04 ea.
+ID 3: 58 units @ $0.94 ea.
+ID 4: 22 units @ $0.86 ea.
+
+Gun sell orders
+ID 0: 26 units @ $2.24 ea.
+ID 2: 27 units @ $2.27 ea.
+ID 3: 27 units @ $2.37 ea.
+
+Daily butter sales: 139
+Daily average butter price: 0.82
+
+Daily gun sales: 40
+Daily average gun price: 2.01
+
+Average butter seller profit: 12.76
+Average gun seller profit: -1.55
+
+========================= DAY 18 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.95 ea.
+ID 1: 57 units @ $0.87 ea.
+ID 2: 57 units @ $0.91 ea.
+ID 3: 58 units @ $0.89 ea.
+ID 4: 71 units @ $1.03 ea.
+
+Initial gun sell orders
+ID 0: 26 units @ $2.16 ea.
+ID 1: 28 units @ $2.09 ea.
+ID 2: 27 units @ $2.21 ea.
+ID 3: 27 units @ $2.15 ea.
+ID 4: 28 units @ $2.05 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.95 ea.
+ID 2: 42 units @ $0.91 ea.
+ID 4: 71 units @ $1.03 ea.
+
+Gun sell orders
+ID 0: 26 units @ $2.16 ea.
+ID 2: 27 units @ $2.21 ea.
+ID 3: 23 units @ $2.15 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.88
+
+Daily gun sales: 40
+Daily average gun price: 2.09
+
+Average butter seller profit: 6.67
+Average gun seller profit: 2.50
+
+========================= DAY 19 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.84 ea.
+ID 1: 57 units @ $0.91 ea.
+ID 2: 71 units @ $0.98 ea.
+ID 3: 57 units @ $1.01 ea.
+ID 4: 71 units @ $0.97 ea.
+
+Initial gun sell orders
+ID 0: 26 units @ $2.11 ea.
+ID 1: 28 units @ $2.45 ea.
+ID 2: 27 units @ $2.00 ea.
+ID 3: 27 units @ $2.00 ea.
+ID 4: 28 units @ $2.30 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 71 units @ $0.98 ea.
+ID 3: 57 units @ $1.01 ea.
+ID 4: 55 units @ $0.97 ea.
+
+Gun sell orders
+ID 0: 20 units @ $2.11 ea.
+ID 1: 28 units @ $2.45 ea.
+ID 4: 28 units @ $2.30 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.89
+
+Daily gun sales: 40
+Daily average gun price: 2.02
+
+Average butter seller profit: 8.75
+Average gun seller profit: 0.13
+
+========================= DAY 20 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.98 ea.
+ID 1: 57 units @ $0.96 ea.
+ID 2: 71 units @ $0.90 ea.
+ID 3: 57 units @ $0.92 ea.
+ID 4: 77 units @ $0.89 ea.
+
+Initial gun sell orders
+ID 0: 30 units @ $2.53 ea.
+ID 1: 28 units @ $2.18 ea.
+ID 2: 27 units @ $2.12 ea.
+ID 3: 27 units @ $2.05 ea.
+ID 4: 28 units @ $2.08 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.98 ea.
+ID 1: 57 units @ $0.96 ea.
+ID 2: 18 units @ $0.90 ea.
+ID 3: 57 units @ $0.92 ea.
+
+Gun sell orders
+ID 0: 30 units @ $2.53 ea.
+ID 1: 28 units @ $2.18 ea.
+ID 2: 22 units @ $2.12 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.89
+
+Daily gun sales: 40
+Daily average gun price: 2.08
+
+Average butter seller profit: 9.65
+Average gun seller profit: -0.76
+
+========================= DAY 21 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.89 ea.
+ID 1: 57 units @ $0.79 ea.
+ID 2: 73 units @ $0.91 ea.
+ID 3: 57 units @ $0.82 ea.
+ID 4: 59 units @ $0.99 ea.
+
+Initial gun sell orders
+ID 0: 30 units @ $2.50 ea.
+ID 1: 28 units @ $2.00 ea.
+ID 2: 29 units @ $2.11 ea.
+ID 3: 27 units @ $2.37 ea.
+ID 4: 28 units @ $2.22 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 32 units @ $0.89 ea.
+ID 2: 73 units @ $0.91 ea.
+ID 4: 59 units @ $0.99 ea.
+
+Gun sell orders
+ID 0: 30 units @ $2.50 ea.
+ID 3: 27 units @ $2.37 ea.
+ID 4: 25 units @ $2.22 ea.
+
+Daily butter sales: 129
+Daily average butter price: 0.82
+
+Daily gun sales: 40
+Daily average gun price: 2.10
+
+Average butter seller profit: 11.40
+Average gun seller profit: -0.03
+
+========================= DAY 22 =========================
+
+Initial butter sell orders
+ID 0: 74 units @ $1.00 ea.
+ID 1: 57 units @ $0.82 ea.
+ID 2: 73 units @ $0.90 ea.
+ID 3: 57 units @ $0.88 ea.
+ID 4: 59 units @ $0.84 ea.
+
+Initial gun sell orders
+ID 0: 30 units @ $2.08 ea.
+ID 1: 28 units @ $2.31 ea.
+ID 2: 28 units @ $2.16 ea.
+ID 3: 27 units @ $2.05 ea.
+ID 4: 25 units @ $2.20 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 74 units @ $1.00 ea.
+ID 2: 73 units @ $0.90 ea.
+ID 3: 36 units @ $0.88 ea.
+
+Gun sell orders
+ID 1: 28 units @ $2.31 ea.
+ID 2: 25 units @ $2.16 ea.
+ID 4: 25 units @ $2.20 ea.
+
+Daily butter sales: 127
+Daily average butter price: 0.84
+
+Daily gun sales: 40
+Daily average gun price: 2.08
+
+Average butter seller profit: 7.36
+Average gun seller profit: 2.45
+
+========================= DAY 23 =========================
+
+Initial butter sell orders
+ID 0: 74 units @ $0.82 ea.
+ID 1: 57 units @ $0.86 ea.
+ID 2: 73 units @ $0.89 ea.
+ID 3: 73 units @ $1.01 ea.
+ID 4: 57 units @ $0.90 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.33 ea.
+ID 1: 28 units @ $2.21 ea.
+ID 2: 25 units @ $2.00 ea.
+ID 3: 27 units @ $2.19 ea.
+ID 4: 25 units @ $2.17 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 73 units @ $0.89 ea.
+ID 3: 73 units @ $1.01 ea.
+ID 4: 57 units @ $0.90 ea.
+
+Gun sell orders
+ID 0: 28 units @ $2.33 ea.
+ID 1: 28 units @ $2.21 ea.
+ID 3: 17 units @ $2.19 ea.
+
+Daily butter sales: 121
+Daily average butter price: 0.84
+
+Daily gun sales: 40
+Daily average gun price: 2.15
+
+Average butter seller profit: 6.84
+Average gun seller profit: 3.23
+
+========================= DAY 24 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.88 ea.
+ID 1: 57 units @ $0.93 ea.
+ID 2: 73 units @ $0.79 ea.
+ID 3: 73 units @ $0.95 ea.
+ID 4: 57 units @ $0.73 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.27 ea.
+ID 1: 28 units @ $2.00 ea.
+ID 2: 27 units @ $2.30 ea.
+ID 3: 33 units @ $2.37 ea.
+ID 4: 27 units @ $2.41 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 49 units @ $0.88 ea.
+ID 1: 57 units @ $0.93 ea.
+ID 3: 73 units @ $0.95 ea.
+
+Gun sell orders
+ID 2: 23 units @ $2.30 ea.
+ID 3: 33 units @ $2.37 ea.
+ID 4: 27 units @ $2.41 ea.
+
+Daily butter sales: 129
+Daily average butter price: 0.77
+
+Daily gun sales: 40
+Daily average gun price: 2.22
+
+Average butter seller profit: 9.94
+Average gun seller profit: -2.25
+
+========================= DAY 25 =========================
+
+Initial butter sell orders
+ID 0: 65 units @ $0.96 ea.
+ID 1: 57 units @ $0.88 ea.
+ID 2: 58 units @ $0.85 ea.
+ID 3: 73 units @ $0.90 ea.
+ID 4: 57 units @ $0.76 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.66 ea.
+ID 1: 28 units @ $2.34 ea.
+ID 2: 27 units @ $2.08 ea.
+ID 3: 33 units @ $2.00 ea.
+ID 4: 27 units @ $2.38 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 65 units @ $0.96 ea.
+ID 1: 32 units @ $0.88 ea.
+ID 3: 73 units @ $0.90 ea.
+
+Gun sell orders
+ID 0: 28 units @ $2.66 ea.
+ID 1: 28 units @ $2.34 ea.
+ID 4: 27 units @ $2.38 ea.
+
+Daily butter sales: 130
+Daily average butter price: 0.82
+
+Daily gun sales: 40
+Daily average gun price: 2.05
+
+Average butter seller profit: 9.82
+Average gun seller profit: 0.43
+
+========================= DAY 26 =========================
+
+Initial butter sell orders
+ID 0: 65 units @ $0.90 ea.
+ID 1: 74 units @ $1.03 ea.
+ID 2: 57 units @ $0.93 ea.
+ID 3: 73 units @ $0.78 ea.
+ID 4: 57 units @ $0.82 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.37 ea.
+ID 1: 28 units @ $2.00 ea.
+ID 2: 27 units @ $2.21 ea.
+ID 3: 28 units @ $2.40 ea.
+ID 4: 27 units @ $2.09 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 52 units @ $0.90 ea.
+ID 1: 74 units @ $1.03 ea.
+ID 2: 57 units @ $0.93 ea.
+
+Gun sell orders
+ID 0: 28 units @ $2.37 ea.
+ID 2: 22 units @ $2.21 ea.
+ID 3: 28 units @ $2.40 ea.
+
+Daily butter sales: 133
+Daily average butter price: 0.81
+
+Daily gun sales: 40
+Daily average gun price: 2.09
+
+Average butter seller profit: 7.48
+Average gun seller profit: 2.70
+
+========================= DAY 27 =========================
+
+Initial butter sell orders
+ID 0: 72 units @ $0.77 ea.
+ID 1: 74 units @ $0.84 ea.
+ID 2: 57 units @ $0.91 ea.
+ID 3: 58 units @ $0.91 ea.
+ID 4: 57 units @ $0.89 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.01 ea.
+ID 1: 28 units @ $2.00 ea.
+ID 2: 29 units @ $2.00 ea.
+ID 3: 28 units @ $2.00 ea.
+ID 4: 27 units @ $2.30 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 20 units @ $0.84 ea.
+ID 2: 57 units @ $0.91 ea.
+ID 3: 58 units @ $0.91 ea.
+ID 4: 57 units @ $0.89 ea.
+
+Gun sell orders
+ID 0: 28 units @ $2.01 ea.
+ID 3: 13 units @ $2.00 ea.
+ID 4: 27 units @ $2.30 ea.
+
+Daily butter sales: 116
+Daily average butter price: 0.80
+
+Daily gun sales: 52
+Daily average gun price: 2.00
+
+Average butter seller profit: 6.66
+Average gun seller profit: 4.00
+
+========================= DAY 28 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.77 ea.
+ID 1: 75 units @ $0.98 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 3: 58 units @ $0.79 ea.
+ID 4: 57 units @ $0.84 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.00 ea.
+ID 1: 28 units @ $2.37 ea.
+ID 2: 28 units @ $2.21 ea.
+ID 3: 34 units @ $2.29 ea.
+ID 4: 27 units @ $2.00 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 75 units @ $0.98 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 4: 23 units @ $0.84 ea.
+
+Gun sell orders
+ID 1: 28 units @ $2.37 ea.
+ID 2: 23 units @ $2.21 ea.
+ID 3: 34 units @ $2.29 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.80
+
+Daily gun sales: 40
+Daily average gun price: 2.03
+
+Average butter seller profit: 12.51
+Average gun seller profit: -6.59
+
+========================= DAY 29 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.88 ea.
+ID 1: 75 units @ $0.95 ea.
+ID 2: 57 units @ $0.80 ea.
+ID 3: 57 units @ $0.94 ea.
+ID 4: 72 units @ $0.99 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.18 ea.
+ID 1: 28 units @ $2.07 ea.
+ID 2: 29 units @ $2.09 ea.
+ID 3: 34 units @ $2.24 ea.
+ID 4: 27 units @ $2.16 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 75 units @ $0.95 ea.
+ID 3: 37 units @ $0.94 ea.
+ID 4: 72 units @ $0.99 ea.
+
+Gun sell orders
+ID 0: 28 units @ $2.18 ea.
+ID 3: 34 units @ $2.24 ea.
+ID 4: 24 units @ $2.16 ea.
+
+Daily butter sales: 124
+Daily average butter price: 0.86
+
+Daily gun sales: 40
+Daily average gun price: 2.09
+
+Average butter seller profit: 6.61
+Average gun seller profit: 0.61
+
+========================= DAY 30 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $1.00 ea.
+ID 1: 75 units @ $0.84 ea.
+ID 2: 57 units @ $0.83 ea.
+ID 3: 73 units @ $1.04 ea.
+ID 4: 72 units @ $0.98 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.04 ea.
+ID 1: 28 units @ $2.26 ea.
+ID 2: 28 units @ $2.15 ea.
+ID 3: 34 units @ $2.00 ea.
+ID 4: 25 units @ $2.14 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $1.00 ea.
+ID 1: 2 units @ $0.84 ea.
+ID 3: 73 units @ $1.04 ea.
+ID 4: 72 units @ $0.98 ea.
+
+Gun sell orders
+ID 1: 28 units @ $2.26 ea.
+ID 2: 15 units @ $2.15 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.84
+
+Daily gun sales: 40
+Daily average gun price: 2.14
+
+Average butter seller profit: 6.73
+Average gun seller profit: 18.51
+
+========================= DAY 31 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.90 ea.
+ID 1: 60 units @ $0.93 ea.
+ID 2: 57 units @ $0.86 ea.
+ID 3: 73 units @ $0.90 ea.
+ID 4: 72 units @ $0.86 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.12 ea.
+ID 1: 28 units @ $2.21 ea.
+ID 2: 35 units @ $2.43 ea.
+ID 3: 28 units @ $2.03 ea.
+ID 4: 27 units @ $2.15 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 56 units @ $0.90 ea.
+ID 1: 60 units @ $0.93 ea.
+ID 3: 73 units @ $0.90 ea.
+
+Gun sell orders
+ID 1: 11 units @ $2.21 ea.
+ID 2: 35 units @ $2.43 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.86
+
+Daily gun sales: 40
+Daily average gun price: 2.18
+
+Average butter seller profit: 10.87
+Average gun seller profit: 1.16
+
+========================= DAY 32 =========================
+
+Initial butter sell orders
+ID 0: 56 units @ $0.79 ea.
+ID 1: 60 units @ $0.77 ea.
+ID 2: 57 units @ $1.02 ea.
+ID 3: 73 units @ $0.78 ea.
+ID 4: 58 units @ $0.99 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.46 ea.
+ID 1: 34 units @ $2.49 ea.
+ID 2: 35 units @ $2.42 ea.
+ID 3: 28 units @ $2.29 ea.
+ID 4: 27 units @ $2.18 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 56 units @ $0.79 ea.
+ID 2: 57 units @ $1.02 ea.
+ID 3: 3 units @ $0.78 ea.
+ID 4: 58 units @ $0.99 ea.
+
+Gun sell orders
+ID 0: 18 units @ $2.46 ea.
+ID 1: 34 units @ $2.49 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.78
+
+Daily gun sales: 40
+Daily average gun price: 2.43
+
+Average butter seller profit: 8.66
+Average gun seller profit: 4.06
+
+========================= DAY 33 =========================
+
+Initial butter sell orders
+ID 0: 56 units @ $0.71 ea.
+ID 1: 57 units @ $0.82 ea.
+ID 2: 57 units @ $0.83 ea.
+ID 3: 61 units @ $0.82 ea.
+ID 4: 58 units @ $0.95 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $2.90 ea.
+ID 1: 34 units @ $2.15 ea.
+ID 2: 29 units @ $2.47 ea.
+ID 3: 28 units @ $2.54 ea.
+ID 4: 27 units @ $2.51 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 57 units @ $0.83 ea.
+ID 3: 44 units @ $0.82 ea.
+ID 4: 58 units @ $0.95 ea.
+
+Gun sell orders
+ID 0: 34 units @ $2.90 ea.
+ID 3: 18 units @ $2.54 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.78
+
+Daily gun sales: 40
+Daily average gun price: 2.51
+
+Average butter seller profit: 8.59
+Average gun seller profit: 7.58
+
+========================= DAY 34 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.79 ea.
+ID 1: 57 units @ $0.87 ea.
+ID 2: 57 units @ $0.67 ea.
+ID 3: 74 units @ $0.91 ea.
+ID 4: 58 units @ $0.94 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $2.63 ea.
+ID 1: 28 units @ $2.50 ea.
+ID 2: 28 units @ $2.66 ea.
+ID 3: 34 units @ $2.85 ea.
+ID 4: 27 units @ $2.84 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 51 units @ $0.87 ea.
+ID 3: 74 units @ $0.91 ea.
+ID 4: 58 units @ $0.94 ea.
+
+Gun sell orders
+ID 3: 34 units @ $2.85 ea.
+ID 4: 17 units @ $2.84 ea.
+
+Daily butter sales: 110
+Daily average butter price: 0.74
+
+Daily gun sales: 40
+Daily average gun price: 2.70
+
+Average butter seller profit: 3.29
+Average gun seller profit: 12.86
+
+========================= DAY 35 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.88 ea.
+ID 1: 61 units @ $0.85 ea.
+ID 2: 57 units @ $0.73 ea.
+ID 3: 74 units @ $0.80 ea.
+ID 4: 58 units @ $0.80 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.04 ea.
+ID 1: 28 units @ $2.92 ea.
+ID 2: 28 units @ $2.78 ea.
+ID 3: 34 units @ $2.53 ea.
+ID 4: 33 units @ $3.34 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.88 ea.
+ID 1: 61 units @ $0.85 ea.
+ID 3: 21 units @ $0.80 ea.
+ID 4: 58 units @ $0.80 ea.
+
+Gun sell orders
+ID 0: 18 units @ $3.04 ea.
+ID 4: 33 units @ $3.34 ea.
+
+Daily butter sales: 100
+Daily average butter price: 0.77
+
+Daily gun sales: 40
+Daily average gun price: 2.94
+
+Average butter seller profit: 4.40
+Average gun seller profit: 15.20
+
+========================= DAY 36 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.73 ea.
+ID 1: 61 units @ $0.84 ea.
+ID 2: 57 units @ $0.74 ea.
+ID 3: 75 units @ $0.85 ea.
+ID 4: 58 units @ $0.70 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $3.23 ea.
+ID 1: 28 units @ $3.37 ea.
+ID 2: 28 units @ $2.81 ea.
+ID 3: 28 units @ $2.99 ea.
+ID 4: 33 units @ $3.33 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 61 units @ $0.84 ea.
+ID 2: 18 units @ $0.74 ea.
+ID 3: 75 units @ $0.85 ea.
+
+Gun sell orders
+ID 0: 1 units @ $3.23 ea.
+ID 1: 28 units @ $3.37 ea.
+ID 4: 33 units @ $3.33 ea.
+
+Daily butter sales: 144
+Daily average butter price: 0.72
+
+Daily gun sales: 29
+Daily average gun price: 3.23
+
+Average butter seller profit: 11.11
+Average gun seller profit: 13.80
+
+========================= DAY 37 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.85 ea.
+ID 1: 61 units @ $0.78 ea.
+ID 2: 69 units @ $0.79 ea.
+ID 3: 75 units @ $0.71 ea.
+ID 4: 57 units @ $0.72 ea.
+
+Initial gun sell orders
+ID 0: 29 units @ $3.32 ea.
+ID 1: 28 units @ $3.24 ea.
+ID 2: 28 units @ $3.34 ea.
+ID 3: 28 units @ $3.47 ea.
+ID 4: 33 units @ $2.78 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.85 ea.
+ID 1: 3 units @ $0.78 ea.
+ID 2: 69 units @ $0.79 ea.
+
+Gun sell orders
+ID 0: 10 units @ $3.32 ea.
+ID 2: 28 units @ $3.34 ea.
+ID 3: 28 units @ $3.47 ea.
+
+Daily butter sales: 180
+Daily average butter price: 0.74
+
+Daily gun sales: 20
+Daily average gun price: 3.32
+
+Average butter seller profit: 11.41
+Average gun seller profit: 15.51
+
+========================= DAY 38 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.73 ea.
+ID 1: 60 units @ $0.85 ea.
+ID 2: 69 units @ $0.67 ea.
+ID 3: 59 units @ $0.80 ea.
+ID 4: 57 units @ $0.73 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $3.33 ea.
+ID 1: 28 units @ $3.64 ea.
+ID 2: 28 units @ $3.28 ea.
+ID 3: 28 units @ $3.05 ea.
+ID 4: 28 units @ $3.15 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 60 units @ $0.85 ea.
+ID 3: 59 units @ $0.80 ea.
+ID 4: 37 units @ $0.73 ea.
+
+Gun sell orders
+ID 0: 27 units @ $3.33 ea.
+ID 1: 28 units @ $3.64 ea.
+
+Daily butter sales: 136
+Daily average butter price: 0.70
+
+Daily gun sales: 31
+Daily average gun price: 3.29
+
+Average butter seller profit: 3.19
+Average gun seller profit: 25.75
+
+========================= DAY 39 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.75 ea.
+ID 1: 60 units @ $0.79 ea.
+ID 2: 58 units @ $0.77 ea.
+ID 3: 59 units @ $0.72 ea.
+ID 4: 73 units @ $0.80 ea.
+
+Initial gun sell orders
+ID 0: 33 units @ $2.87 ea.
+ID 1: 28 units @ $2.94 ea.
+ID 2: 28 units @ $3.33 ea.
+ID 3: 28 units @ $3.47 ea.
+ID 4: 28 units @ $3.72 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 60 units @ $0.79 ea.
+ID 2: 1 units @ $0.77 ea.
+ID 4: 73 units @ $0.80 ea.
+
+Gun sell orders
+ID 2: 8 units @ $3.33 ea.
+ID 3: 28 units @ $3.47 ea.
+ID 4: 28 units @ $3.72 ea.
+
+Daily butter sales: 163
+Daily average butter price: 0.75
+
+Daily gun sales: 21
+Daily average gun price: 3.31
+
+Average butter seller profit: 10.72
+Average gun seller profit: 12.73
+
+========================= DAY 40 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.87 ea.
+ID 1: 60 units @ $0.66 ea.
+ID 2: 58 units @ $0.92 ea.
+ID 3: 57 units @ $0.74 ea.
+ID 4: 73 units @ $0.65 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.27 ea.
+ID 1: 28 units @ $3.19 ea.
+ID 2: 33 units @ $3.36 ea.
+ID 3: 28 units @ $3.37 ea.
+ID 4: 28 units @ $3.68 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.87 ea.
+ID 2: 58 units @ $0.92 ea.
+ID 3: 48 units @ $0.74 ea.
+
+Gun sell orders
+ID 3: 25 units @ $3.37 ea.
+ID 4: 28 units @ $3.68 ea.
+
+Daily butter sales: 132
+Daily average butter price: 0.66
+
+Daily gun sales: 32
+Daily average gun price: 3.36
+
+Average butter seller profit: 1.64
+Average gun seller profit: 27.97
+
+========================= DAY 41 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.85 ea.
+ID 1: 57 units @ $0.72 ea.
+ID 2: 58 units @ $0.87 ea.
+ID 3: 65 units @ $0.74 ea.
+ID 4: 58 units @ $0.71 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.85 ea.
+ID 1: 28 units @ $3.44 ea.
+ID 2: 28 units @ $3.80 ea.
+ID 3: 25 units @ $2.88 ea.
+ID 4: 28 units @ $3.61 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.85 ea.
+ID 2: 58 units @ $0.87 ea.
+ID 3: 10 units @ $0.74 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.85 ea.
+ID 2: 28 units @ $3.80 ea.
+ID 4: 1 units @ $3.61 ea.
+
+Daily butter sales: 160
+Daily average butter price: 0.72
+
+Daily gun sales: 20
+Daily average gun price: 3.61
+
+Average butter seller profit: 11.38
+Average gun seller profit: 19.56
+
+========================= DAY 42 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.79 ea.
+ID 1: 57 units @ $0.86 ea.
+ID 2: 58 units @ $0.84 ea.
+ID 3: 66 units @ $0.83 ea.
+ID 4: 57 units @ $0.73 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.45 ea.
+ID 1: 28 units @ $3.99 ea.
+ID 2: 28 units @ $3.68 ea.
+ID 3: 27 units @ $3.06 ea.
+ID 4: 28 units @ $4.15 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 57 units @ $0.86 ea.
+ID 2: 58 units @ $0.84 ea.
+ID 3: 21 units @ $0.83 ea.
+
+Gun sell orders
+ID 1: 28 units @ $3.99 ea.
+ID 2: 3 units @ $3.68 ea.
+ID 4: 28 units @ $4.15 ea.
+
+Daily butter sales: 149
+Daily average butter price: 0.78
+
+Daily gun sales: 20
+Daily average gun price: 3.68
+
+Average butter seller profit: 7.80
+Average gun seller profit: 21.44
+
+========================= DAY 43 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.95 ea.
+ID 1: 57 units @ $0.71 ea.
+ID 2: 58 units @ $0.69 ea.
+ID 3: 73 units @ $0.95 ea.
+ID 4: 57 units @ $0.77 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.95 ea.
+ID 1: 28 units @ $3.35 ea.
+ID 2: 30 units @ $4.17 ea.
+ID 3: 27 units @ $3.26 ea.
+ID 4: 28 units @ $3.56 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.95 ea.
+ID 3: 73 units @ $0.95 ea.
+ID 4: 2 units @ $0.77 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.95 ea.
+ID 2: 30 units @ $4.17 ea.
+ID 4: 3 units @ $3.56 ea.
+
+Daily butter sales: 160
+Daily average butter price: 0.72
+
+Daily gun sales: 20
+Daily average gun price: 3.56
+
+Average butter seller profit: 7.97
+Average gun seller profit: 21.36
+
+========================= DAY 44 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.93 ea.
+ID 1: 57 units @ $0.73 ea.
+ID 2: 57 units @ $0.81 ea.
+ID 3: 73 units @ $0.91 ea.
+ID 4: 58 units @ $0.87 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.27 ea.
+ID 1: 28 units @ $3.89 ea.
+ID 2: 30 units @ $3.67 ea.
+ID 3: 27 units @ $3.52 ea.
+ID 4: 30 units @ $3.78 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.93 ea.
+ID 3: 73 units @ $0.91 ea.
+ID 4: 13 units @ $0.87 ea.
+
+Gun sell orders
+ID 1: 28 units @ $3.89 ea.
+ID 2: 5 units @ $3.67 ea.
+ID 4: 30 units @ $3.78 ea.
+
+Daily butter sales: 149
+Daily average butter price: 0.80
+
+Daily gun sales: 20
+Daily average gun price: 3.67
+
+Average butter seller profit: 8.39
+Average gun seller profit: 22.87
+
+========================= DAY 45 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.80 ea.
+ID 1: 57 units @ $0.77 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 3: 73 units @ $0.85 ea.
+ID 4: 67 units @ $0.96 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.34 ea.
+ID 1: 28 units @ $3.78 ea.
+ID 2: 32 units @ $4.15 ea.
+ID 3: 27 units @ $3.77 ea.
+ID 4: 30 units @ $3.63 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 57 units @ $0.88 ea.
+ID 3: 37 units @ $0.85 ea.
+ID 4: 67 units @ $0.96 ea.
+
+Gun sell orders
+ID 1: 28 units @ $3.78 ea.
+ID 2: 32 units @ $4.15 ea.
+ID 3: 5 units @ $3.77 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.80
+
+Daily gun sales: 20
+Daily average gun price: 3.77
+
+Average butter seller profit: 7.22
+Average gun seller profit: 24.27
+
+========================= DAY 46 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.87 ea.
+ID 1: 57 units @ $0.85 ea.
+ID 2: 57 units @ $0.83 ea.
+ID 3: 83 units @ $1.02 ea.
+ID 4: 67 units @ $0.94 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.55 ea.
+ID 1: 28 units @ $3.70 ea.
+ID 2: 32 units @ $3.48 ea.
+ID 3: 31 units @ $3.86 ea.
+ID 4: 28 units @ $4.24 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 21 units @ $0.87 ea.
+ID 3: 83 units @ $1.02 ea.
+ID 4: 67 units @ $0.94 ea.
+
+Gun sell orders
+ID 1: 8 units @ $3.70 ea.
+ID 3: 31 units @ $3.86 ea.
+ID 4: 28 units @ $4.24 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.85
+
+Daily gun sales: 20
+Daily average gun price: 3.70
+
+Average butter seller profit: 9.42
+Average gun seller profit: 24.15
+
+========================= DAY 47 =========================
+
+Initial butter sell orders
+ID 0: 71 units @ $1.00 ea.
+ID 1: 57 units @ $0.90 ea.
+ID 2: 57 units @ $0.93 ea.
+ID 3: 83 units @ $0.91 ea.
+ID 4: 67 units @ $0.80 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.97 ea.
+ID 1: 33 units @ $3.96 ea.
+ID 2: 28 units @ $4.08 ea.
+ID 3: 31 units @ $3.72 ea.
+ID 4: 28 units @ $3.53 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 71 units @ $1.00 ea.
+ID 2: 57 units @ $0.93 ea.
+ID 3: 66 units @ $0.91 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.97 ea.
+ID 1: 12 units @ $3.96 ea.
+ID 2: 28 units @ $4.08 ea.
+
+Daily butter sales: 131
+Daily average butter price: 0.86
+
+Daily gun sales: 20
+Daily average gun price: 3.96
+
+Average butter seller profit: 7.67
+Average gun seller profit: 27.06
+
+========================= DAY 48 =========================
+
+Initial butter sell orders
+ID 0: 71 units @ $0.90 ea.
+ID 1: 57 units @ $1.02 ea.
+ID 2: 57 units @ $0.78 ea.
+ID 3: 81 units @ $0.85 ea.
+ID 4: 58 units @ $0.86 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.36 ea.
+ID 1: 37 units @ $4.08 ea.
+ID 2: 28 units @ $3.41 ea.
+ID 3: 28 units @ $4.17 ea.
+ID 4: 28 units @ $3.97 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 71 units @ $0.90 ea.
+ID 1: 57 units @ $1.02 ea.
+ID 4: 46 units @ $0.86 ea.
+
+Gun sell orders
+ID 1: 37 units @ $4.08 ea.
+ID 3: 28 units @ $4.17 ea.
+ID 4: 4 units @ $3.97 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.83
+
+Daily gun sales: 20
+Daily average gun price: 3.97
+
+Average butter seller profit: 11.73
+Average gun seller profit: 24.57
+
+========================= DAY 49 =========================
+
+Initial butter sell orders
+ID 0: 71 units @ $0.76 ea.
+ID 1: 57 units @ $0.99 ea.
+ID 2: 57 units @ $0.89 ea.
+ID 3: 59 units @ $0.89 ea.
+ID 4: 69 units @ $0.90 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.69 ea.
+ID 1: 37 units @ $3.32 ea.
+ID 2: 28 units @ $3.59 ea.
+ID 3: 28 units @ $3.36 ea.
+ID 4: 31 units @ $4.05 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 57 units @ $0.99 ea.
+ID 3: 32 units @ $0.89 ea.
+ID 4: 69 units @ $0.90 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.69 ea.
+ID 2: 13 units @ $3.59 ea.
+ID 4: 31 units @ $4.05 ea.
+
+Daily butter sales: 145
+Daily average butter price: 0.84
+
+Daily gun sales: 20
+Daily average gun price: 3.53
+
+Average butter seller profit: 11.84
+Average gun seller profit: 20.95
+
+========================= DAY 50 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.81 ea.
+ID 1: 57 units @ $0.84 ea.
+ID 2: 57 units @ $0.98 ea.
+ID 3: 75 units @ $0.97 ea.
+ID 4: 69 units @ $0.88 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.69 ea.
+ID 1: 29 units @ $3.87 ea.
+ID 2: 34 units @ $4.28 ea.
+ID 3: 28 units @ $3.37 ea.
+ID 4: 31 units @ $3.55 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 57 units @ $0.98 ea.
+ID 3: 75 units @ $0.97 ea.
+ID 4: 34 units @ $0.88 ea.
+
+Gun sell orders
+ID 0: 7 units @ $3.69 ea.
+ID 1: 29 units @ $3.87 ea.
+ID 2: 34 units @ $4.28 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.84
+
+Daily gun sales: 20
+Daily average gun price: 3.69
+
+Average butter seller profit: 9.33
+Average gun seller profit: 25.18
+
+========================= DAY 51 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.96 ea.
+ID 1: 57 units @ $0.92 ea.
+ID 2: 57 units @ $0.87 ea.
+ID 3: 75 units @ $0.85 ea.
+ID 4: 81 units @ $1.04 ea.
+
+Initial gun sell orders
+ID 0: 32 units @ $3.96 ea.
+ID 1: 29 units @ $3.78 ea.
+ID 2: 34 units @ $3.51 ea.
+ID 3: 28 units @ $3.47 ea.
+ID 4: 28 units @ $3.72 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.96 ea.
+ID 1: 39 units @ $0.92 ea.
+ID 4: 81 units @ $1.04 ea.
+
+Gun sell orders
+ID 0: 32 units @ $3.96 ea.
+ID 1: 29 units @ $3.78 ea.
+ID 4: 10 units @ $3.72 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.87
+
+Daily gun sales: 20
+Daily average gun price: 3.70
+
+Average butter seller profit: 9.88
+Average gun seller profit: 24.29
+
+========================= DAY 52 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.83 ea.
+ID 1: 72 units @ $0.94 ea.
+ID 2: 57 units @ $0.92 ea.
+ID 3: 59 units @ $0.93 ea.
+ID 4: 81 units @ $0.91 ea.
+
+Initial gun sell orders
+ID 0: 32 units @ $3.40 ea.
+ID 1: 29 units @ $3.26 ea.
+ID 2: 28 units @ $4.16 ea.
+ID 3: 28 units @ $4.10 ea.
+ID 4: 34 units @ $4.31 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 72 units @ $0.94 ea.
+ID 2: 57 units @ $0.92 ea.
+ID 3: 59 units @ $0.93 ea.
+ID 4: 7 units @ $0.91 ea.
+
+Gun sell orders
+ID 2: 28 units @ $4.16 ea.
+ID 3: 9 units @ $4.10 ea.
+ID 4: 34 units @ $4.31 ea.
+
+Daily butter sales: 121
+Daily average butter price: 0.88
+
+Daily gun sales: 20
+Daily average gun price: 4.06
+
+Average butter seller profit: 8.03
+Average gun seller profit: 24.25
+
+========================= DAY 53 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.92 ea.
+ID 1: 72 units @ $0.79 ea.
+ID 2: 57 units @ $0.77 ea.
+ID 3: 59 units @ $0.79 ea.
+ID 4: 65 units @ $0.94 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.57 ea.
+ID 1: 28 units @ $3.52 ea.
+ID 2: 28 units @ $3.91 ea.
+ID 3: 33 units @ $4.76 ea.
+ID 4: 34 units @ $3.66 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.92 ea.
+ID 3: 18 units @ $0.79 ea.
+ID 4: 65 units @ $0.94 ea.
+
+Gun sell orders
+ID 2: 28 units @ $3.91 ea.
+ID 3: 33 units @ $4.76 ea.
+ID 4: 10 units @ $3.66 ea.
+
+Daily butter sales: 160
+Daily average butter price: 0.78
+
+Daily gun sales: 20
+Daily average gun price: 3.66
+
+Average butter seller profit: 15.13
+Average gun seller profit: 25.27
+
+========================= DAY 54 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.82 ea.
+ID 1: 58 units @ $0.88 ea.
+ID 2: 57 units @ $0.80 ea.
+ID 3: 70 units @ $0.95 ea.
+ID 4: 65 units @ $0.83 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $4.09 ea.
+ID 1: 28 units @ $3.69 ea.
+ID 2: 28 units @ $3.27 ea.
+ID 3: 33 units @ $3.93 ea.
+ID 4: 36 units @ $4.30 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 58 units @ $0.88 ea.
+ID 3: 70 units @ $0.95 ea.
+ID 4: 29 units @ $0.83 ea.
+
+Gun sell orders
+ID 0: 28 units @ $4.09 ea.
+ID 3: 9 units @ $3.93 ea.
+ID 4: 36 units @ $4.30 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.82
+
+Daily gun sales: 20
+Daily average gun price: 3.93
+
+Average butter seller profit: 7.74
+Average gun seller profit: 25.04
+
+========================= DAY 55 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.83 ea.
+ID 1: 58 units @ $0.84 ea.
+ID 2: 57 units @ $0.86 ea.
+ID 3: 70 units @ $0.85 ea.
+ID 4: 77 units @ $0.99 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.67 ea.
+ID 1: 28 units @ $4.33 ea.
+ID 2: 28 units @ $3.56 ea.
+ID 3: 35 units @ $4.35 ea.
+ID 4: 36 units @ $3.44 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 57 units @ $0.86 ea.
+ID 3: 35 units @ $0.85 ea.
+ID 4: 77 units @ $0.99 ea.
+
+Gun sell orders
+ID 0: 12 units @ $3.67 ea.
+ID 1: 28 units @ $4.33 ea.
+ID 3: 35 units @ $4.35 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.84
+
+Daily gun sales: 20
+Daily average gun price: 3.65
+
+Average butter seller profit: 8.96
+Average gun seller profit: 23.65
+
+========================= DAY 56 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.96 ea.
+ID 1: 57 units @ $0.88 ea.
+ID 2: 57 units @ $0.77 ea.
+ID 3: 81 units @ $1.02 ea.
+ID 4: 77 units @ $0.83 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $3.89 ea.
+ID 1: 28 units @ $3.85 ea.
+ID 2: 28 units @ $3.87 ea.
+ID 3: 35 units @ $4.32 ea.
+ID 4: 29 units @ $4.10 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.96 ea.
+ID 1: 41 units @ $0.88 ea.
+ID 3: 81 units @ $1.02 ea.
+
+Gun sell orders
+ID 0: 10 units @ $3.89 ea.
+ID 3: 35 units @ $4.32 ea.
+ID 4: 29 units @ $4.10 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.82
+
+Daily gun sales: 20
+Daily average gun price: 3.89
+
+Average butter seller profit: 8.38
+Average gun seller profit: 30.30
+
+========================= DAY 57 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.86 ea.
+ID 1: 71 units @ $0.95 ea.
+ID 2: 57 units @ $0.77 ea.
+ID 3: 81 units @ $0.82 ea.
+ID 4: 59 units @ $0.86 ea.
+
+Initial gun sell orders
+ID 0: 36 units @ $4.46 ea.
+ID 1: 28 units @ $4.51 ea.
+ID 2: 28 units @ $4.34 ea.
+ID 3: 35 units @ $3.74 ea.
+ID 4: 29 units @ $3.94 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 56 units @ $0.86 ea.
+ID 1: 71 units @ $0.95 ea.
+ID 4: 59 units @ $0.86 ea.
+
+Gun sell orders
+ID 0: 36 units @ $4.46 ea.
+ID 1: 28 units @ $4.51 ea.
+ID 2: 12 units @ $4.34 ea.
+
+Daily butter sales: 129
+Daily average butter price: 0.80
+
+Daily gun sales: 20
+Daily average gun price: 4.26
+
+Average butter seller profit: 7.63
+Average gun seller profit: 30.12
+
+========================= DAY 58 =========================
+
+Initial butter sell orders
+ID 0: 56 units @ $0.84 ea.
+ID 1: 71 units @ $0.80 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 3: 59 units @ $0.84 ea.
+ID 4: 59 units @ $0.73 ea.
+
+Initial gun sell orders
+ID 0: 36 units @ $3.77 ea.
+ID 1: 28 units @ $4.02 ea.
+ID 2: 34 units @ $4.69 ea.
+ID 3: 29 units @ $4.04 ea.
+ID 4: 28 units @ $4.14 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 36 units @ $0.84 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 3: 59 units @ $0.84 ea.
+
+Gun sell orders
+ID 2: 34 units @ $4.69 ea.
+ID 3: 13 units @ $4.04 ea.
+ID 4: 28 units @ $4.14 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.78
+
+Daily gun sales: 20
+Daily average gun price: 4.04
+
+Average butter seller profit: 11.73
+Average gun seller profit: 30.98
+
+========================= DAY 59 =========================
+
+Initial butter sell orders
+ID 0: 72 units @ $0.97 ea.
+ID 1: 58 units @ $0.91 ea.
+ID 2: 57 units @ $0.80 ea.
+ID 3: 59 units @ $0.71 ea.
+ID 4: 57 units @ $0.79 ea.
+
+Initial gun sell orders
+ID 0: 29 units @ $4.19 ea.
+ID 1: 28 units @ $4.70 ea.
+ID 2: 34 units @ $4.15 ea.
+ID 3: 35 units @ $4.26 ea.
+ID 4: 28 units @ $3.50 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 72 units @ $0.97 ea.
+ID 1: 58 units @ $0.91 ea.
+ID 2: 23 units @ $0.80 ea.
+
+Gun sell orders
+ID 0: 11 units @ $4.19 ea.
+ID 1: 28 units @ $4.70 ea.
+ID 3: 35 units @ $4.26 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.76
+
+Daily gun sales: 20
+Daily average gun price: 4.19
+
+Average butter seller profit: 7.72
+Average gun seller profit: 31.30
+
+========================= DAY 60 =========================
+
+Initial butter sell orders
+ID 0: 72 units @ $0.90 ea.
+ID 1: 58 units @ $0.81 ea.
+ID 2: 72 units @ $0.84 ea.
+ID 3: 57 units @ $0.76 ea.
+ID 4: 57 units @ $0.80 ea.
+
+Initial gun sell orders
+ID 0: 35 units @ $4.33 ea.
+ID 1: 28 units @ $4.18 ea.
+ID 2: 28 units @ $4.48 ea.
+ID 3: 35 units @ $3.61 ea.
+ID 4: 28 units @ $4.00 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 72 units @ $0.90 ea.
+ID 1: 22 units @ $0.81 ea.
+ID 2: 72 units @ $0.84 ea.
+
+Gun sell orders
+ID 0: 35 units @ $4.33 ea.
+ID 1: 11 units @ $4.18 ea.
+ID 2: 28 units @ $4.48 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.79
+
+Daily gun sales: 20
+Daily average gun price: 4.15
+
+Average butter seller profit: 7.32
+Average gun seller profit: 29.88
+
+========================= DAY 61 =========================
+
+Initial butter sell orders
+ID 0: 72 units @ $0.72 ea.
+ID 1: 72 units @ $0.86 ea.
+ID 2: 72 units @ $0.71 ea.
+ID 3: 57 units @ $0.87 ea.
+ID 4: 57 units @ $0.89 ea.
+
+Initial gun sell orders
+ID 0: 35 units @ $3.56 ea.
+ID 1: 34 units @ $4.59 ea.
+ID 2: 28 units @ $4.46 ea.
+ID 3: 29 units @ $3.71 ea.
+ID 4: 28 units @ $4.77 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 62 units @ $0.86 ea.
+ID 3: 57 units @ $0.87 ea.
+ID 4: 57 units @ $0.89 ea.
+
+Gun sell orders
+ID 1: 34 units @ $4.59 ea.
+ID 2: 12 units @ $4.46 ea.
+ID 4: 28 units @ $4.77 ea.
+
+Daily butter sales: 144
+Daily average butter price: 0.73
+
+Daily gun sales: 20
+Daily average gun price: 4.31
+
+Average butter seller profit: 5.91
+Average gun seller profit: 28.71
+
+========================= DAY 62 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.77 ea.
+ID 1: 69 units @ $0.72 ea.
+ID 2: 58 units @ $0.73 ea.
+ID 3: 57 units @ $0.87 ea.
+ID 4: 57 units @ $0.73 ea.
+
+Initial gun sell orders
+ID 0: 29 units @ $3.67 ea.
+ID 1: 34 units @ $4.35 ea.
+ID 2: 34 units @ $5.18 ea.
+ID 3: 28 units @ $4.40 ea.
+ID 4: 28 units @ $4.60 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 58 units @ $0.77 ea.
+ID 3: 57 units @ $0.87 ea.
+ID 4: 34 units @ $0.73 ea.
+
+Gun sell orders
+ID 2: 34 units @ $5.18 ea.
+ID 3: 11 units @ $4.40 ea.
+ID 4: 28 units @ $4.60 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.73
+
+Daily gun sales: 20
+Daily average gun price: 4.39
+
+Average butter seller profit: 9.46
+Average gun seller profit: 34.23
+
+========================= DAY 63 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.64 ea.
+ID 1: 58 units @ $0.73 ea.
+ID 2: 57 units @ $0.78 ea.
+ID 3: 57 units @ $0.83 ea.
+ID 4: 74 units @ $0.85 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.97 ea.
+ID 1: 28 units @ $4.46 ea.
+ID 2: 34 units @ $4.64 ea.
+ID 3: 34 units @ $5.11 ea.
+ID 4: 28 units @ $4.18 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 17 units @ $0.78 ea.
+ID 3: 57 units @ $0.83 ea.
+ID 4: 74 units @ $0.85 ea.
+
+Gun sell orders
+ID 1: 4 units @ $4.46 ea.
+ID 2: 34 units @ $4.64 ea.
+ID 3: 34 units @ $5.11 ea.
+
+Daily butter sales: 146
+Daily average butter price: 0.71
+
+Daily gun sales: 20
+Daily average gun price: 4.46
+
+Average butter seller profit: 6.63
+Average gun seller profit: 35.45
+
+========================= DAY 64 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.67 ea.
+ID 1: 57 units @ $0.79 ea.
+ID 2: 69 units @ $0.93 ea.
+ID 3: 57 units @ $0.79 ea.
+ID 4: 74 units @ $0.83 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $4.74 ea.
+ID 1: 31 units @ $4.70 ea.
+ID 2: 34 units @ $3.76 ea.
+ID 3: 34 units @ $4.43 ea.
+ID 4: 28 units @ $4.31 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 69 units @ $0.93 ea.
+ID 3: 21 units @ $0.79 ea.
+ID 4: 74 units @ $0.83 ea.
+
+Gun sell orders
+ID 0: 28 units @ $4.74 ea.
+ID 1: 31 units @ $4.70 ea.
+ID 3: 16 units @ $4.43 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.75
+
+Daily gun sales: 20
+Daily average gun price: 4.42
+
+Average butter seller profit: 5.73
+Average gun seller profit: 32.45
+
+========================= DAY 65 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.75 ea.
+ID 1: 57 units @ $0.87 ea.
+ID 2: 69 units @ $0.83 ea.
+ID 3: 71 units @ $0.83 ea.
+ID 4: 74 units @ $0.71 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.80 ea.
+ID 1: 31 units @ $4.35 ea.
+ID 2: 28 units @ $3.83 ea.
+ID 3: 38 units @ $5.13 ea.
+ID 4: 28 units @ $4.76 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 57 units @ $0.87 ea.
+ID 2: 50 units @ $0.83 ea.
+ID 3: 71 units @ $0.83 ea.
+
+Gun sell orders
+ID 1: 7 units @ $4.35 ea.
+ID 3: 38 units @ $5.13 ea.
+ID 4: 28 units @ $4.76 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.74
+
+Daily gun sales: 20
+Daily average gun price: 4.35
+
+Average butter seller profit: 5.81
+Average gun seller profit: 32.41
+
+========================= DAY 66 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.81 ea.
+ID 1: 57 units @ $0.84 ea.
+ID 2: 79 units @ $0.94 ea.
+ID 3: 71 units @ $0.81 ea.
+ID 4: 58 units @ $0.72 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.96 ea.
+ID 1: 33 units @ $4.48 ea.
+ID 2: 28 units @ $3.94 ea.
+ID 3: 38 units @ $4.74 ea.
+ID 4: 28 units @ $4.13 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 57 units @ $0.84 ea.
+ID 2: 79 units @ $0.94 ea.
+ID 3: 36 units @ $0.81 ea.
+
+Gun sell orders
+ID 1: 33 units @ $4.48 ea.
+ID 3: 38 units @ $4.74 ea.
+ID 4: 4 units @ $4.13 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.78
+
+Daily gun sales: 20
+Daily average gun price: 4.13
+
+Average butter seller profit: 8.86
+Average gun seller profit: 31.26
+
+========================= DAY 67 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.96 ea.
+ID 1: 57 units @ $0.71 ea.
+ID 2: 79 units @ $0.87 ea.
+ID 3: 82 units @ $0.87 ea.
+ID 4: 57 units @ $0.77 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $4.58 ea.
+ID 1: 33 units @ $4.04 ea.
+ID 2: 28 units @ $4.31 ea.
+ID 3: 38 units @ $4.56 ea.
+ID 4: 31 units @ $4.31 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.96 ea.
+ID 2: 43 units @ $0.87 ea.
+ID 3: 82 units @ $0.87 ea.
+
+Gun sell orders
+ID 0: 28 units @ $4.58 ea.
+ID 3: 38 units @ $4.56 ea.
+ID 4: 12 units @ $4.31 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.78
+
+Daily gun sales: 20
+Daily average gun price: 4.31
+
+Average butter seller profit: 7.14
+Average gun seller profit: 33.98
+
+========================= DAY 68 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.86 ea.
+ID 1: 57 units @ $0.81 ea.
+ID 2: 88 units @ $0.98 ea.
+ID 3: 82 units @ $0.86 ea.
+ID 4: 57 units @ $0.87 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.89 ea.
+ID 1: 28 units @ $4.12 ea.
+ID 2: 28 units @ $4.69 ea.
+ID 3: 38 units @ $3.89 ea.
+ID 4: 36 units @ $4.96 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 88 units @ $0.98 ea.
+ID 3: 57 units @ $0.86 ea.
+ID 4: 57 units @ $0.87 ea.
+
+Gun sell orders
+ID 1: 14 units @ $4.12 ea.
+ID 2: 28 units @ $4.69 ea.
+ID 4: 36 units @ $4.96 ea.
+
+Daily butter sales: 129
+Daily average butter price: 0.84
+
+Daily gun sales: 20
+Daily average gun price: 4.05
+
+Average butter seller profit: 7.44
+Average gun seller profit: 30.88
+
+========================= DAY 69 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.92 ea.
+ID 1: 57 units @ $0.84 ea.
+ID 2: 88 units @ $0.93 ea.
+ID 3: 88 units @ $0.72 ea.
+ID 4: 57 units @ $0.77 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $4.40 ea.
+ID 1: 35 units @ $4.92 ea.
+ID 2: 28 units @ $4.47 ea.
+ID 3: 29 units @ $4.52 ea.
+ID 4: 36 units @ $4.29 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.92 ea.
+ID 1: 52 units @ $0.84 ea.
+ID 2: 88 units @ $0.93 ea.
+
+Gun sell orders
+ID 1: 35 units @ $4.92 ea.
+ID 2: 12 units @ $4.47 ea.
+ID 3: 29 units @ $4.52 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.74
+
+Daily gun sales: 20
+Daily average gun price: 4.46
+
+Average butter seller profit: 7.79
+Average gun seller profit: 38.63
+
+========================= DAY 70 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.83 ea.
+ID 1: 59 units @ $0.77 ea.
+ID 2: 88 units @ $0.88 ea.
+ID 3: 59 units @ $0.79 ea.
+ID 4: 57 units @ $0.78 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $4.76 ea.
+ID 1: 35 units @ $4.23 ea.
+ID 2: 34 units @ $4.55 ea.
+ID 3: 29 units @ $4.39 ea.
+ID 4: 29 units @ $5.04 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.83 ea.
+ID 2: 88 units @ $0.88 ea.
+ID 3: 25 units @ $0.79 ea.
+
+Gun sell orders
+ID 0: 28 units @ $4.76 ea.
+ID 2: 34 units @ $4.55 ea.
+ID 3: 24 units @ $4.39 ea.
+ID 4: 29 units @ $5.04 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.78
+
+Daily gun sales: 20
+Daily average gun price: 4.27
+
+Average butter seller profit: 11.05
+Average gun seller profit: 2.40
+
+========================= DAY 71 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.69 ea.
+ID 1: 57 units @ $0.88 ea.
+ID 2: 88 units @ $0.82 ea.
+ID 3: 73 units @ $0.92 ea.
+ID 4: 57 units @ $0.78 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $4.73 ea.
+ID 1: 29 units @ $4.71 ea.
+ID 2: 34 units @ $3.65 ea.
+ID 3: 29 units @ $3.67 ea.
+ID 4: 29 units @ $4.57 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 57 units @ $0.88 ea.
+ID 2: 42 units @ $0.82 ea.
+ID 3: 73 units @ $0.92 ea.
+
+Gun sell orders
+ID 0: 28 units @ $4.73 ea.
+ID 1: 29 units @ $4.71 ea.
+ID 3: 23 units @ $3.67 ea.
+ID 4: 29 units @ $4.57 ea.
+
+Daily butter sales: 150
+Daily average butter price: 0.76
+
+Daily gun sales: 20
+Daily average gun price: 3.66
+
+Average butter seller profit: 8.10
+Average gun seller profit: 15.62
+
+========================= DAY 72 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.82 ea.
+ID 1: 57 units @ $0.77 ea.
+ID 2: 92 units @ $0.93 ea.
+ID 3: 73 units @ $0.87 ea.
+ID 4: 57 units @ $0.84 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $4.72 ea.
+ID 1: 29 units @ $4.17 ea.
+ID 2: 28 units @ $3.72 ea.
+ID 3: 30 units @ $3.53 ea.
+ID 4: 29 units @ $3.75 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 92 units @ $0.93 ea.
+ID 3: 73 units @ $0.87 ea.
+ID 4: 12 units @ $0.84 ea.
+
+Gun sell orders
+ID 0: 28 units @ $4.72 ea.
+ID 1: 29 units @ $4.17 ea.
+ID 2: 18 units @ $3.72 ea.
+ID 4: 29 units @ $3.75 ea.
+
+Daily butter sales: 149
+Daily average butter price: 0.81
+
+Daily gun sales: 20
+Daily average gun price: 3.62
+
+Average butter seller profit: 9.29
+Average gun seller profit: 14.62
+
+========================= DAY 73 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.85 ea.
+ID 1: 57 units @ $0.86 ea.
+ID 2: 92 units @ $0.91 ea.
+ID 3: 73 units @ $0.80 ea.
+ID 4: 66 units @ $0.90 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.84 ea.
+ID 1: 29 units @ $3.46 ea.
+ID 2: 34 units @ $4.29 ea.
+ID 3: 28 units @ $4.04 ea.
+ID 4: 29 units @ $3.36 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 28 units @ $0.86 ea.
+ID 2: 92 units @ $0.91 ea.
+ID 4: 66 units @ $0.90 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.84 ea.
+ID 1: 18 units @ $3.46 ea.
+ID 2: 34 units @ $4.29 ea.
+ID 3: 28 units @ $4.04 ea.
+
+Daily butter sales: 149
+Daily average butter price: 0.83
+
+Daily gun sales: 20
+Daily average gun price: 3.42
+
+Average butter seller profit: 9.56
+Average gun seller profit: 9.50
+
+========================= DAY 74 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $1.01 ea.
+ID 1: 73 units @ $1.00 ea.
+ID 2: 92 units @ $0.85 ea.
+ID 3: 58 units @ $0.83 ea.
+ID 4: 66 units @ $0.74 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.62 ea.
+ID 1: 35 units @ $3.48 ea.
+ID 2: 34 units @ $3.49 ea.
+ID 3: 28 units @ $3.60 ea.
+ID 4: 28 units @ $3.86 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $1.01 ea.
+ID 1: 73 units @ $1.00 ea.
+ID 2: 55 units @ $0.85 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.62 ea.
+ID 2: 29 units @ $3.49 ea.
+ID 3: 28 units @ $3.60 ea.
+ID 4: 28 units @ $3.86 ea.
+
+Daily butter sales: 151
+Daily average butter price: 0.80
+
+Daily gun sales: 20
+Daily average gun price: 3.48
+
+Average butter seller profit: 9.69
+Average gun seller profit: 9.85
+
+========================= DAY 75 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.95 ea.
+ID 1: 73 units @ $0.93 ea.
+ID 2: 97 units @ $0.70 ea.
+ID 3: 57 units @ $0.90 ea.
+ID 4: 58 units @ $0.88 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.09 ea.
+ID 1: 29 units @ $4.12 ea.
+ID 2: 29 units @ $3.09 ea.
+ID 3: 28 units @ $2.99 ea.
+ID 4: 28 units @ $3.53 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.95 ea.
+ID 1: 73 units @ $0.93 ea.
+ID 3: 57 units @ $0.90 ea.
+ID 4: 38 units @ $0.88 ea.
+
+Gun sell orders
+ID 1: 29 units @ $4.12 ea.
+ID 2: 28 units @ $3.09 ea.
+ID 4: 28 units @ $3.53 ea.
+
+Daily butter sales: 107
+Daily average butter price: 0.73
+
+Daily gun sales: 37
+Daily average gun price: 3.07
+
+Average butter seller profit: 1.40
+Average gun seller profit: 23.07
+
+========================= DAY 76 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.87 ea.
+ID 1: 73 units @ $0.83 ea.
+ID 2: 60 units @ $0.80 ea.
+ID 3: 57 units @ $0.87 ea.
+ID 4: 74 units @ $1.03 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.60 ea.
+ID 1: 29 units @ $3.44 ea.
+ID 2: 28 units @ $3.07 ea.
+ID 3: 28 units @ $3.04 ea.
+ID 4: 28 units @ $2.93 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 44 units @ $0.87 ea.
+ID 3: 57 units @ $0.87 ea.
+ID 4: 74 units @ $1.03 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.60 ea.
+ID 1: 29 units @ $3.44 ea.
+ID 2: 28 units @ $3.07 ea.
+ID 3: 8 units @ $3.04 ea.
+
+Daily butter sales: 136
+Daily average butter price: 0.82
+
+Daily gun sales: 28
+Daily average gun price: 3.01
+
+Average butter seller profit: 14.38
+Average gun seller profit: 6.17
+
+========================= DAY 77 =========================
+
+Initial butter sell orders
+ID 0: 69 units @ $0.99 ea.
+ID 1: 58 units @ $0.89 ea.
+ID 2: 57 units @ $0.91 ea.
+ID 3: 57 units @ $0.80 ea.
+ID 4: 74 units @ $0.90 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.55 ea.
+ID 1: 29 units @ $3.26 ea.
+ID 2: 28 units @ $2.82 ea.
+ID 3: 33 units @ $3.07 ea.
+ID 4: 28 units @ $3.33 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 69 units @ $0.99 ea.
+ID 2: 57 units @ $0.91 ea.
+ID 4: 54 units @ $0.90 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.55 ea.
+ID 1: 29 units @ $3.26 ea.
+ID 3: 13 units @ $3.07 ea.
+ID 4: 28 units @ $3.33 ea.
+
+Daily butter sales: 125
+Daily average butter price: 0.86
+
+Daily gun sales: 28
+Daily average gun price: 3.00
+
+Average butter seller profit: 9.04
+Average gun seller profit: 6.87
+
+========================= DAY 78 =========================
+
+Initial butter sell orders
+ID 0: 69 units @ $0.89 ea.
+ID 1: 57 units @ $1.04 ea.
+ID 2: 57 units @ $0.89 ea.
+ID 3: 57 units @ $0.86 ea.
+ID 4: 82 units @ $0.90 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.27 ea.
+ID 1: 29 units @ $2.73 ea.
+ID 2: 28 units @ $3.27 ea.
+ID 3: 37 units @ $3.50 ea.
+ID 4: 28 units @ $3.27 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 57 units @ $1.04 ea.
+ID 2: 24 units @ $0.89 ea.
+ID 4: 82 units @ $0.90 ea.
+
+Gun sell orders
+ID 0: 17 units @ $3.27 ea.
+ID 2: 28 units @ $3.27 ea.
+ID 3: 37 units @ $3.50 ea.
+ID 4: 28 units @ $3.27 ea.
+
+Daily butter sales: 149
+Daily average butter price: 0.88
+
+Daily gun sales: 20
+Daily average gun price: 3.03
+
+Average butter seller profit: 13.76
+Average gun seller profit: 2.23
+
+========================= DAY 79 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.95 ea.
+ID 1: 57 units @ $0.90 ea.
+ID 2: 72 units @ $0.91 ea.
+ID 3: 57 units @ $0.89 ea.
+ID 4: 82 units @ $0.75 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $3.68 ea.
+ID 1: 28 units @ $3.08 ea.
+ID 2: 28 units @ $3.14 ea.
+ID 3: 37 units @ $2.82 ea.
+ID 4: 28 units @ $2.99 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 58 units @ $0.95 ea.
+ID 1: 57 units @ $0.90 ea.
+ID 2: 72 units @ $0.91 ea.
+ID 3: 17 units @ $0.89 ea.
+
+Gun sell orders
+ID 0: 34 units @ $3.68 ea.
+ID 1: 28 units @ $3.08 ea.
+ID 2: 28 units @ $3.14 ea.
+ID 4: 10 units @ $2.99 ea.
+
+Daily butter sales: 112
+Daily average butter price: 0.80
+
+Daily gun sales: 35
+Daily average gun price: 2.91
+
+Average butter seller profit: 3.12
+Average gun seller profit: 13.63
+
+========================= DAY 80 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.78 ea.
+ID 1: 57 units @ $0.82 ea.
+ID 2: 72 units @ $0.83 ea.
+ID 3: 69 units @ $0.99 ea.
+ID 4: 59 units @ $0.82 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $3.18 ea.
+ID 1: 28 units @ $2.65 ea.
+ID 2: 28 units @ $2.75 ea.
+ID 3: 29 units @ $3.27 ea.
+ID 4: 34 units @ $3.25 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 72 units @ $0.83 ea.
+ID 3: 69 units @ $0.99 ea.
+ID 4: 52 units @ $0.82 ea.
+
+Gun sell orders
+ID 0: 34 units @ $3.18 ea.
+ID 3: 29 units @ $3.27 ea.
+ID 4: 34 units @ $3.25 ea.
+
+Daily butter sales: 112
+Daily average butter price: 0.80
+
+Daily gun sales: 36
+Daily average gun price: 2.73
+
+Average butter seller profit: 8.44
+Average gun seller profit: 9.04
+
+========================= DAY 81 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.80 ea.
+ID 1: 57 units @ $0.86 ea.
+ID 2: 72 units @ $0.81 ea.
+ID 3: 69 units @ $0.96 ea.
+ID 4: 63 units @ $0.69 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $2.94 ea.
+ID 1: 28 units @ $3.16 ea.
+ID 2: 28 units @ $3.19 ea.
+ID 3: 29 units @ $2.66 ea.
+ID 4: 34 units @ $2.99 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 1 units @ $0.80 ea.
+ID 1: 57 units @ $0.86 ea.
+ID 2: 72 units @ $0.81 ea.
+ID 3: 69 units @ $0.96 ea.
+
+Gun sell orders
+ID 0: 3 units @ $2.94 ea.
+ID 1: 28 units @ $3.16 ea.
+ID 2: 28 units @ $3.19 ea.
+ID 4: 34 units @ $2.99 ea.
+
+Daily butter sales: 109
+Daily average butter price: 0.75
+
+Daily gun sales: 40
+Daily average gun price: 2.88
+
+Average butter seller profit: 5.15
+Average gun seller profit: 11.26
+
+========================= DAY 82 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.87 ea.
+ID 1: 57 units @ $0.78 ea.
+ID 2: 72 units @ $0.69 ea.
+ID 3: 69 units @ $0.88 ea.
+ID 4: 57 units @ $0.81 ea.
+
+Initial gun sell orders
+ID 0: 31 units @ $3.22 ea.
+ID 1: 28 units @ $3.13 ea.
+ID 2: 28 units @ $2.69 ea.
+ID 3: 28 units @ $2.76 ea.
+ID 4: 34 units @ $2.93 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 58 units @ $0.87 ea.
+ID 1: 7 units @ $0.78 ea.
+ID 3: 69 units @ $0.88 ea.
+ID 4: 57 units @ $0.81 ea.
+
+Gun sell orders
+ID 0: 31 units @ $3.22 ea.
+ID 1: 28 units @ $3.13 ea.
+ID 4: 30 units @ $2.93 ea.
+
+Daily butter sales: 112
+Daily average butter price: 0.73
+
+Daily gun sales: 40
+Daily average gun price: 2.76
+
+Average butter seller profit: 6.34
+Average gun seller profit: 10.46
+
+========================= DAY 83 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.72 ea.
+ID 1: 62 units @ $0.86 ea.
+ID 2: 58 units @ $0.70 ea.
+ID 3: 69 units @ $0.75 ea.
+ID 4: 57 units @ $0.70 ea.
+
+Initial gun sell orders
+ID 0: 31 units @ $2.95 ea.
+ID 1: 28 units @ $2.54 ea.
+ID 2: 28 units @ $2.90 ea.
+ID 3: 28 units @ $3.24 ea.
+ID 4: 30 units @ $2.58 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 43 units @ $0.72 ea.
+ID 1: 62 units @ $0.86 ea.
+ID 3: 69 units @ $0.75 ea.
+
+Gun sell orders
+ID 0: 31 units @ $2.95 ea.
+ID 2: 26 units @ $2.90 ea.
+ID 3: 28 units @ $3.24 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.70
+
+Daily gun sales: 40
+Daily average gun price: 2.59
+
+Average butter seller profit: 6.96
+Average gun seller profit: 8.46
+
+========================= DAY 84 =========================
+
+Initial butter sell orders
+ID 0: 71 units @ $0.81 ea.
+ID 1: 62 units @ $0.80 ea.
+ID 2: 57 units @ $0.74 ea.
+ID 3: 69 units @ $0.69 ea.
+ID 4: 57 units @ $0.77 ea.
+
+Initial gun sell orders
+ID 0: 31 units @ $2.59 ea.
+ID 1: 28 units @ $2.67 ea.
+ID 2: 26 units @ $2.38 ea.
+ID 3: 28 units @ $2.77 ea.
+ID 4: 28 units @ $2.92 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 71 units @ $0.81 ea.
+ID 1: 62 units @ $0.80 ea.
+ID 4: 47 units @ $0.77 ea.
+
+Gun sell orders
+ID 1: 25 units @ $2.67 ea.
+ID 3: 28 units @ $2.77 ea.
+ID 4: 28 units @ $2.92 ea.
+
+Daily butter sales: 126
+Daily average butter price: 0.72
+
+Daily gun sales: 40
+Daily average gun price: 2.56
+
+Average butter seller profit: 5.30
+Average gun seller profit: 7.64
+
+========================= DAY 85 =========================
+
+Initial butter sell orders
+ID 0: 71 units @ $0.73 ea.
+ID 1: 62 units @ $0.79 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 3: 58 units @ $0.82 ea.
+ID 4: 66 units @ $0.85 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $3.01 ea.
+ID 1: 25 units @ $2.39 ea.
+ID 2: 27 units @ $2.58 ea.
+ID 3: 28 units @ $2.53 ea.
+ID 4: 28 units @ $2.89 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 3 units @ $0.79 ea.
+ID 2: 57 units @ $0.88 ea.
+ID 3: 58 units @ $0.82 ea.
+ID 4: 66 units @ $0.85 ea.
+
+Gun sell orders
+ID 0: 28 units @ $3.01 ea.
+ID 2: 20 units @ $2.58 ea.
+ID 4: 28 units @ $2.89 ea.
+
+Daily butter sales: 120
+Daily average butter price: 0.76
+
+Daily gun sales: 40
+Daily average gun price: 2.52
+
+Average butter seller profit: 6.29
+Average gun seller profit: 7.73
+
+========================= DAY 86 =========================
+
+Initial butter sell orders
+ID 0: 58 units @ $0.74 ea.
+ID 1: 60 units @ $0.87 ea.
+ID 2: 57 units @ $0.83 ea.
+ID 3: 58 units @ $0.66 ea.
+ID 4: 66 units @ $0.77 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.54 ea.
+ID 1: 27 units @ $2.86 ea.
+ID 2: 31 units @ $3.00 ea.
+ID 3: 28 units @ $2.96 ea.
+ID 4: 28 units @ $2.67 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 60 units @ $0.87 ea.
+ID 2: 57 units @ $0.83 ea.
+ID 4: 56 units @ $0.77 ea.
+
+Gun sell orders
+ID 1: 23 units @ $2.86 ea.
+ID 2: 31 units @ $3.00 ea.
+ID 3: 28 units @ $2.96 ea.
+
+Daily butter sales: 116
+Daily average butter price: 0.71
+
+Daily gun sales: 40
+Daily average gun price: 2.66
+
+Average butter seller profit: 6.28
+Average gun seller profit: 5.06
+
+========================= DAY 87 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.74 ea.
+ID 1: 60 units @ $0.85 ea.
+ID 2: 57 units @ $0.80 ea.
+ID 3: 57 units @ $0.68 ea.
+ID 4: 68 units @ $0.62 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.62 ea.
+ID 1: 27 units @ $2.78 ea.
+ID 2: 31 units @ $2.53 ea.
+ID 3: 28 units @ $2.52 ea.
+ID 4: 28 units @ $3.09 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 33 units @ $0.74 ea.
+ID 1: 60 units @ $0.85 ea.
+ID 2: 57 units @ $0.80 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.62 ea.
+ID 1: 27 units @ $2.78 ea.
+ID 4: 28 units @ $3.09 ea.
+
+Daily butter sales: 139
+Daily average butter price: 0.67
+
+Daily gun sales: 40
+Daily average gun price: 2.53
+
+Average butter seller profit: 7.14
+Average gun seller profit: 6.32
+
+========================= DAY 88 =========================
+
+Initial butter sell orders
+ID 0: 74 units @ $0.78 ea.
+ID 1: 60 units @ $0.83 ea.
+ID 2: 57 units @ $0.64 ea.
+ID 3: 57 units @ $0.81 ea.
+ID 4: 58 units @ $0.69 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.32 ea.
+ID 1: 27 units @ $2.65 ea.
+ID 2: 28 units @ $2.66 ea.
+ID 3: 28 units @ $2.56 ea.
+ID 4: 28 units @ $2.86 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 50 units @ $0.78 ea.
+ID 1: 60 units @ $0.83 ea.
+ID 3: 57 units @ $0.81 ea.
+
+Gun sell orders
+ID 1: 22 units @ $2.65 ea.
+ID 2: 28 units @ $2.66 ea.
+ID 4: 28 units @ $2.86 ea.
+
+Daily butter sales: 129
+Daily average butter price: 0.69
+
+Daily gun sales: 40
+Daily average gun price: 2.53
+
+Average butter seller profit: 3.44
+Average gun seller profit: 7.11
+
+========================= DAY 89 =========================
+
+Initial butter sell orders
+ID 0: 84 units @ $0.90 ea.
+ID 1: 60 units @ $0.70 ea.
+ID 2: 57 units @ $0.69 ea.
+ID 3: 57 units @ $0.78 ea.
+ID 4: 57 units @ $0.81 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.73 ea.
+ID 1: 29 units @ $2.59 ea.
+ID 2: 28 units @ $2.14 ea.
+ID 3: 28 units @ $3.05 ea.
+ID 4: 28 units @ $2.34 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 84 units @ $0.90 ea.
+ID 3: 24 units @ $0.78 ea.
+ID 4: 57 units @ $0.81 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.73 ea.
+ID 1: 25 units @ $2.59 ea.
+ID 3: 28 units @ $3.05 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.72
+
+Daily gun sales: 40
+Daily average gun price: 2.33
+
+Average butter seller profit: 6.61
+Average gun seller profit: 2.36
+
+========================= DAY 90 =========================
+
+Initial butter sell orders
+ID 0: 84 units @ $0.76 ea.
+ID 1: 57 units @ $0.77 ea.
+ID 2: 57 units @ $0.69 ea.
+ID 3: 72 units @ $0.81 ea.
+ID 4: 57 units @ $0.70 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.30 ea.
+ID 1: 27 units @ $2.09 ea.
+ID 2: 28 units @ $2.47 ea.
+ID 3: 28 units @ $2.63 ea.
+ID 4: 28 units @ $2.80 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 48 units @ $0.76 ea.
+ID 1: 57 units @ $0.77 ea.
+ID 3: 72 units @ $0.81 ea.
+
+Gun sell orders
+ID 2: 22 units @ $2.47 ea.
+ID 3: 28 units @ $2.63 ea.
+ID 4: 28 units @ $2.80 ea.
+
+Daily butter sales: 140
+Daily average butter price: 0.71
+
+Daily gun sales: 40
+Daily average gun price: 2.29
+
+Average butter seller profit: 5.12
+Average gun seller profit: 3.47
+
+========================= DAY 91 =========================
+
+Initial butter sell orders
+ID 0: 91 units @ $0.77 ea.
+ID 1: 57 units @ $0.67 ea.
+ID 2: 57 units @ $0.71 ea.
+ID 3: 72 units @ $0.67 ea.
+ID 4: 57 units @ $0.83 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.55 ea.
+ID 1: 27 units @ $2.36 ea.
+ID 2: 30 units @ $2.02 ea.
+ID 3: 28 units @ $2.17 ea.
+ID 4: 28 units @ $2.31 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 91 units @ $0.77 ea.
+ID 2: 57 units @ $0.71 ea.
+ID 3: 13 units @ $0.67 ea.
+ID 4: 57 units @ $0.83 ea.
+
+Gun sell orders
+ID 0: 27 units @ $2.55 ea.
+ID 1: 27 units @ $2.36 ea.
+ID 4: 8 units @ $2.31 ea.
+
+Daily butter sales: 106
+Daily average butter price: 0.67
+
+Daily gun sales: 58
+Daily average gun price: 2.19
+
+Average butter seller profit: -0.16
+Average gun seller profit: 8.71
+
+========================= DAY 92 =========================
+
+Initial butter sell orders
+ID 0: 91 units @ $0.73 ea.
+ID 1: 57 units @ $0.73 ea.
+ID 2: 57 units @ $0.62 ea.
+ID 3: 69 units @ $0.73 ea.
+ID 4: 57 units @ $0.71 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.25 ea.
+ID 1: 27 units @ $2.15 ea.
+ID 2: 28 units @ $2.37 ea.
+ID 3: 28 units @ $2.25 ea.
+ID 4: 33 units @ $2.49 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 73 units @ $0.73 ea.
+ID 1: 57 units @ $0.73 ea.
+ID 3: 69 units @ $0.73 ea.
+
+Gun sell orders
+ID 2: 28 units @ $2.37 ea.
+ID 3: 13 units @ $2.25 ea.
+ID 4: 33 units @ $2.49 ea.
+
+Daily butter sales: 122
+Daily average butter price: 0.68
+
+Daily gun sales: 49
+Daily average gun price: 2.24
+
+Average butter seller profit: 6.49
+Average gun seller profit: -1.89
+
+========================= DAY 93 =========================
+
+Initial butter sell orders
+ID 0: 84 units @ $0.62 ea.
+ID 1: 57 units @ $0.62 ea.
+ID 2: 57 units @ $0.71 ea.
+ID 3: 69 units @ $0.67 ea.
+ID 4: 57 units @ $0.73 ea.
+
+Initial gun sell orders
+ID 0: 27 units @ $2.30 ea.
+ID 1: 27 units @ $2.38 ea.
+ID 2: 28 units @ $2.00 ea.
+ID 3: 34 units @ $2.26 ea.
+ID 4: 33 units @ $2.36 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 31 units @ $0.62 ea.
+ID 2: 57 units @ $0.71 ea.
+ID 3: 69 units @ $0.67 ea.
+ID 4: 57 units @ $0.73 ea.
+
+Gun sell orders
+ID 0: 9 units @ $2.30 ea.
+ID 1: 27 units @ $2.38 ea.
+ID 4: 33 units @ $2.36 ea.
+
+Daily butter sales: 100
+Daily average butter price: 0.62
+
+Daily gun sales: 60
+Daily average gun price: 2.24
+
+Average butter seller profit: 1.14
+Average gun seller profit: 4.85
+
+========================= DAY 94 =========================
+
+Initial butter sell orders
+ID 0: 59 units @ $0.69 ea.
+ID 1: 74 units @ $0.65 ea.
+ID 2: 57 units @ $0.70 ea.
+ID 3: 69 units @ $0.59 ea.
+ID 4: 57 units @ $0.69 ea.
+
+Initial gun sell orders
+ID 0: 33 units @ $2.63 ea.
+ID 1: 27 units @ $2.15 ea.
+ID 2: 28 units @ $2.35 ea.
+ID 3: 28 units @ $2.50 ea.
+ID 4: 33 units @ $2.31 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 59 units @ $0.69 ea.
+ID 1: 9 units @ $0.65 ea.
+ID 2: 57 units @ $0.70 ea.
+ID 4: 57 units @ $0.69 ea.
+
+Gun sell orders
+ID 0: 33 units @ $2.63 ea.
+ID 2: 16 units @ $2.35 ea.
+ID 3: 28 units @ $2.50 ea.
+
+Daily butter sales: 124
+Daily average butter price: 0.62
+
+Daily gun sales: 52
+Daily average gun price: 2.30
+
+Average butter seller profit: 6.39
+Average gun seller profit: 0.50
+
+========================= DAY 95 =========================
+
+Initial butter sell orders
+ID 0: 59 units @ $0.60 ea.
+ID 1: 66 units @ $0.70 ea.
+ID 2: 57 units @ $0.61 ea.
+ID 3: 58 units @ $0.59 ea.
+ID 4: 57 units @ $0.63 ea.
+
+Initial gun sell orders
+ID 0: 33 units @ $2.59 ea.
+ID 1: 27 units @ $2.37 ea.
+ID 2: 34 units @ $2.69 ea.
+ID 3: 28 units @ $2.36 ea.
+ID 4: 28 units @ $2.43 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 66 units @ $0.70 ea.
+ID 2: 4 units @ $0.61 ea.
+ID 4: 57 units @ $0.63 ea.
+
+Gun sell orders
+ID 0: 33 units @ $2.59 ea.
+ID 2: 34 units @ $2.69 ea.
+ID 4: 23 units @ $2.43 ea.
+
+Daily butter sales: 160
+Daily average butter price: 0.60
+
+Daily gun sales: 40
+Daily average gun price: 2.38
+
+Average butter seller profit: 8.89
+Average gun seller profit: -0.76
+
+========================= DAY 96 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.68 ea.
+ID 1: 66 units @ $0.61 ea.
+ID 2: 60 units @ $0.65 ea.
+ID 3: 57 units @ $0.65 ea.
+ID 4: 57 units @ $0.62 ea.
+
+Initial gun sell orders
+ID 0: 33 units @ $2.12 ea.
+ID 1: 27 units @ $2.43 ea.
+ID 2: 34 units @ $2.53 ea.
+ID 3: 28 units @ $2.43 ea.
+ID 4: 29 units @ $2.35 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.68 ea.
+ID 2: 52 units @ $0.65 ea.
+ID 3: 57 units @ $0.65 ea.
+
+Gun sell orders
+ID 1: 16 units @ $2.43 ea.
+ID 2: 34 units @ $2.53 ea.
+ID 3: 28 units @ $2.43 ea.
+
+Daily butter sales: 121
+Daily average butter price: 0.62
+
+Daily gun sales: 53
+Daily average gun price: 2.31
+
+Average butter seller profit: -0.84
+Average gun seller profit: 8.57
+
+========================= DAY 97 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.56 ea.
+ID 1: 58 units @ $0.61 ea.
+ID 2: 64 units @ $0.52 ea.
+ID 3: 57 units @ $0.62 ea.
+ID 4: 57 units @ $0.74 ea.
+
+Initial gun sell orders
+ID 0: 28 units @ $2.41 ea.
+ID 1: 34 units @ $2.86 ea.
+ID 2: 34 units @ $2.05 ea.
+ID 3: 28 units @ $2.06 ea.
+ID 4: 28 units @ $2.63 ea.
+
+After utility maximisation
+Butter sell orders
+ID 1: 47 units @ $0.61 ea.
+ID 3: 57 units @ $0.62 ea.
+ID 4: 57 units @ $0.74 ea.
+
+Gun sell orders
+ID 0: 10 units @ $2.41 ea.
+ID 1: 34 units @ $2.86 ea.
+ID 4: 28 units @ $2.63 ea.
+
+Daily butter sales: 122
+Daily average butter price: 0.55
+
+Daily gun sales: 60
+Daily average gun price: 2.16
+
+Average butter seller profit: 1.68
+Average gun seller profit: 4.55
+
+========================= DAY 98 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.64 ea.
+ID 1: 68 units @ $0.70 ea.
+ID 2: 58 units @ $0.60 ea.
+ID 3: 57 units @ $0.52 ea.
+ID 4: 57 units @ $0.65 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $2.82 ea.
+ID 1: 34 units @ $2.71 ea.
+ID 2: 28 units @ $2.24 ea.
+ID 3: 28 units @ $2.34 ea.
+ID 4: 28 units @ $2.30 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.64 ea.
+ID 1: 68 units @ $0.70 ea.
+ID 2: 5 units @ $0.60 ea.
+ID 4: 57 units @ $0.65 ea.
+
+Gun sell orders
+ID 0: 34 units @ $2.82 ea.
+ID 1: 34 units @ $2.71 ea.
+ID 3: 4 units @ $2.34 ea.
+
+Daily butter sales: 100
+Daily average butter price: 0.56
+
+Daily gun sales: 60
+Daily average gun price: 2.31
+
+Average butter seller profit: -1.31
+Average gun seller profit: 4.66
+
+========================= DAY 99 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.55 ea.
+ID 1: 68 units @ $0.57 ea.
+ID 2: 61 units @ $0.62 ea.
+ID 3: 57 units @ $0.61 ea.
+ID 4: 57 units @ $0.57 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $2.66 ea.
+ID 1: 34 units @ $2.30 ea.
+ID 2: 28 units @ $2.41 ea.
+ID 3: 31 units @ $2.72 ea.
+ID 4: 28 units @ $2.63 ea.
+
+After utility maximisation
+Butter sell orders
+ID 2: 61 units @ $0.62 ea.
+ID 3: 57 units @ $0.61 ea.
+
+Gun sell orders
+ID 0: 34 units @ $2.66 ea.
+ID 3: 31 units @ $2.72 ea.
+ID 4: 28 units @ $2.63 ea.
+
+Daily butter sales: 172
+Daily average butter price: 0.56
+
+Daily gun sales: 42
+Daily average gun price: 2.37
+
+Average butter seller profit: 9.22
+Average gun seller profit: -4.06
+
+========================= DAY 100 =========================
+
+Initial butter sell orders
+ID 0: 57 units @ $0.65 ea.
+ID 1: 58 units @ $0.58 ea.
+ID 2: 61 units @ $0.60 ea.
+ID 3: 57 units @ $0.51 ea.
+ID 4: 57 units @ $0.65 ea.
+
+Initial gun sell orders
+ID 0: 34 units @ $2.42 ea.
+ID 1: 28 units @ $2.67 ea.
+ID 2: 28 units @ $2.55 ea.
+ID 3: 31 units @ $2.59 ea.
+ID 4: 28 units @ $2.33 ea.
+
+After utility maximisation
+Butter sell orders
+ID 0: 57 units @ $0.65 ea.
+ID 2: 32 units @ $0.60 ea.
+ID 4: 57 units @ $0.65 ea.
+
+Gun sell orders
+ID 1: 28 units @ $2.67 ea.
+ID 2: 21 units @ $2.55 ea.
+ID 3: 31 units @ $2.59 ea.
+
+Daily butter sales: 134
+Daily average butter price: 0.56
+
+Daily gun sales: 49
+Daily average gun price: 2.42
+
+Average butter seller profit: -1.18
+Average gun seller profit: 10.67
+
