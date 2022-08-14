@@ -1,4 +1,5 @@
 Farms
+Hydroponics
 Combine
 Co-op
 Cooperative
@@ -18,6 +19,7 @@ Organic
 Grain
 Cereals
 Ag
+AgTech
 Agricultural
 Limited
 LLC

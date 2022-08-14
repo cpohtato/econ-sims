@@ -6,6 +6,13 @@ Mining Co
 Mining Services
 Resources
 Metals
+Metals Group
+Iron
+Steel
+Steel Mills
+Steel Limited
+Copper
+Platinum
 Ores
 Prospecting
 Exploration

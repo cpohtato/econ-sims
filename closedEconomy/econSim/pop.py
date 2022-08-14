@@ -1,4 +1,3 @@
-from ctypes import util
 from .consts import *
 
 class Pop:
