@@ -30,7 +30,7 @@ class NationalEconomy():
 
         for goodType in range(NUM_GOOD_TYPES):
             for firm in range(INIT_FIRMS[goodType]):
-                newFirm = Firm(count, goodType)
+                newFirm = Firm(count, goodType, INIT_PRICE[goodType], INIT_WAGES)
                 listFirms[goodType].append(newFirm)
                 count += 1
 
@@ -58,6 +58,11 @@ class NationalEconomy():
                     self.listFirms[goodType][idx].ownerID = capitalist.popID
                     self.listFirms[goodType][idx].generateName(capitalist.surname)
                     # print(self.listFirms[goodType][idx].name)
+
+                    #   For now, transfer all capitalist savings into business
+                    self.listFirms[goodType][idx].funds = capitalist.funds
+                    capitalist.savings = 0
+
                 else:
                     idx += 1
 
@@ -78,7 +83,7 @@ class NationalEconomy():
         listGoodMarkets = []
 
         for goodType in range(NUM_GOOD_TYPES):
-            listGoodMarkets.append(GoodMarket(goodType))
+            listGoodMarkets.append(GoodMarket(goodType)) 
 
     def monthStep(self, month: int):
         #
@@ -88,7 +93,7 @@ class NationalEconomy():
         #
         # 2. Determine firms entering, exiting, growing/shrinking
         #
-        # 3. Negotiate labour contracts, pay wages
+        # 3. Pay capitalists, negotiate labour contracts, pay wages to workers
         #
         # 4. Govt pays unemployment subsidies
         #
@@ -102,9 +107,112 @@ class NationalEconomy():
         #
         # 9. Govt collects company tax
         #
-        # 10. Calculate monthly income for capitalists
+        # 10. Close accounts, calculate stats
+        #
+
+        self.stepPops()
+        self.stepFirms()
+        self.stepEmployment()
+        self.stepBenefits()
+        self.stepIncomeTax()
+        self.stepProduce()
+        self.stepPublicProcurement()
+        self.stepPrivateProcurement()
+        self.stepCompanyTax()
+        self.stepClose()
         
         return True
+
+    def stepPops(self):
+        #   Pops do not promote yet
+        pass
+
+    def stepFirms(self):
+        #   Firms do not enter, exit or acquire capital equipment yet
+        pass
+
+    def stepEmployment(self):
+
+        self.determineLabourDemand()
+        self.supplyLabour()
+        self.closeLabourMarkets()
+
+    def stepBenefits(self):
+        #   No unemployment subsidies yet
+        pass
+
+    def stepIncomeTax(self):
+        #   No income tax collected yet
+        pass
+
+    def stepProduce(self):
+        pass
+
+    def stepPublicProcurement(self):
+        #   No public procurement yet
+        pass
+
+    def stepPrivateProcurement(self):
+        pass
+
+    def stepCompanyTax(self):
+        #   No company tax yet
+        pass
+
+    def stepClose(self):
+        pass
+
+    def determineLabourDemand(self):
+        # 1. Firms pay owners dividends
+        # 2. Firms determine labour demand and price
+        # 3. Place available contracts in labour markets
+
+        for goodType in range(NUM_GOOD_TYPES):
+            for firm in self.listFirms[goodType]:
+
+                #   Firm pays its owner dividends
+                for capitalist in self.listPops[JOB_CAPITALIST]:
+                    if (firm.ownerID == capitalist.popID):
+                        capitalist.funds += firm.payDividends()
+                        break
+
+                #   Firm determines labour demand
+                firm.determineLabour()
+
+                #   Firm produces labour orders
+                for jobType in range(NUM_JOB_TYPES-1):
+                    self.listLabourMarkets[jobType].addOrder(firm.demandLabour(jobType))
+
+    def supplyLabour(self):
+        # 1. Workers compare highest wage against reserve price
+        # 2. Firms pay workers wages
+
+        listGoodPrices = []
+        for goodType in range(NUM_GOOD_TYPES):
+            listGoodPrices.append(self.listGoodMarkets[goodType].getPrevAvgPrice())
+
+        for jobType in range(NUM_JOB_TYPES-1):
+            highestWage = self.listLabourMarkets[jobType].findHighest()
+            randOrder = list(range(len(self.listPops[jobType])))
+            random.shuffle(randOrder)
+
+            for idx in randOrder:
+                #   If highest wage available is acceptable, then take job
+                if (self.listPops[jobType][idx].offerWage(highestWage, listGoodPrices)):
+                    self.listPops[jobType][idx].acceptJob(self.listLabourMarkets[jobType]
+                    .acceptHighest())
+                    highestWage = self.listLabourMarkets[jobType].findHighest()
+
+    def closeLabourMarkets(self):    
+        for goodType in range(NUM_GOOD_TYPES):
+            for firm in self.listFirms[goodType]:
+                firmID = firm.firmID
+
+                for jobType in range(NUM_JOB_TYPES-1):
+                    firm.receiveLabour(self.listLabourMarkets[jobType].supplyLabour(firmID))
+
+        for jobType in range(NUM_JOB_TYPES-1):
+            self.listLabourMarkets[jobType].close()
 
     def monthlyPrices(self):
         listPrices = []
