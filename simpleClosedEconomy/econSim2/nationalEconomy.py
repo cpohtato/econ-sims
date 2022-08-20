@@ -83,7 +83,9 @@ class NationalEconomy():
         listGoodMarkets = []
 
         for goodType in range(NUM_GOOD_TYPES):
-            listGoodMarkets.append(GoodMarket(goodType)) 
+            listGoodMarkets.append(GoodMarket(goodType, INIT_PRICE[goodType])) 
+
+        return listGoodMarkets
 
     def monthStep(self, month: int):
         #
@@ -164,6 +166,7 @@ class NationalEconomy():
 
     def determineLabourDemand(self):
         # 1. Firms pay owners dividends
+        # 2. Firms price goods competitively
         # 2. Firms determine labour demand and price
         # 3. Place available contracts in labour markets
 
@@ -173,15 +176,20 @@ class NationalEconomy():
                 #   Firm pays its owner dividends
                 for capitalist in self.listPops[JOB_CAPITALIST]:
                     if (firm.ownerID == capitalist.popID):
-                        capitalist.funds += firm.payDividends()
+                        dividends = firm.payDividends()
+                        capitalist.acceptDividends(dividends)
                         break
+
+                #   Firm prices goods
+                firm.updatePrice()
 
                 #   Firm determines labour demand
                 firm.determineLabour()
 
                 #   Firm produces labour orders
                 for jobType in range(NUM_JOB_TYPES-1):
-                    self.listLabourMarkets[jobType].addOrder(firm.demandLabour(jobType))
+                    firmID, vacancies, wage = firm.demandLabour(jobType)
+                    self.listLabourMarkets[jobType].addOrder(firmID, vacancies, wage)
 
     def supplyLabour(self):
         # 1. Workers compare highest wage against reserve price
@@ -199,8 +207,8 @@ class NationalEconomy():
             for idx in randOrder:
                 #   If highest wage available is acceptable, then take job
                 if (self.listPops[jobType][idx].offerWage(highestWage, listGoodPrices)):
-                    self.listPops[jobType][idx].acceptJob(self.listLabourMarkets[jobType]
-                    .acceptHighest())
+                    acceptedWage = self.listLabourMarkets[jobType].acceptHighest()
+                    self.listPops[jobType][idx].acceptJob(acceptedWage)
                     highestWage = self.listLabourMarkets[jobType].findHighest()
 
     def closeLabourMarkets(self):    
