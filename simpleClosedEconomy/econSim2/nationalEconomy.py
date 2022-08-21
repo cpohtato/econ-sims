@@ -148,7 +148,13 @@ class NationalEconomy():
         pass
 
     def stepProduce(self):
-        pass
+        #   Firms by good type order produce goods and place them in market stalls for sale 
+        
+        for goodType in range(NUM_GOOD_TYPES):
+            for firm in self.listFirms[goodType]:
+                firm.acquireRawMaterials()
+                goodQty, goodPrice = firm.produceGoods()
+                self.listGoodMarkets[goodType].placeGoods(firm.firmID, goodQty, goodPrice)
 
     def stepPublicProcurement(self):
         #   No public procurement yet
@@ -207,7 +213,7 @@ class NationalEconomy():
             for idx in randOrder:
                 #   If highest wage available is acceptable, then take job
                 if (self.listPops[jobType][idx].offerWage(highestWage, listGoodPrices)):
-                    acceptedWage = self.listLabourMarkets[jobType].acceptHighest()
+                    acceptedWage, firmID = self.listLabourMarkets[jobType].acceptHighest()
                     self.listPops[jobType][idx].acceptJob(acceptedWage)
                     highestWage = self.listLabourMarkets[jobType].findHighest()
 
@@ -217,7 +223,8 @@ class NationalEconomy():
                 firmID = firm.firmID
 
                 for jobType in range(NUM_JOB_TYPES-1):
-                    firm.receiveLabour(self.listLabourMarkets[jobType].supplyLabour(firmID))
+                    supply = self.listLabourMarkets[jobType].supplyLabour(firmID)
+                    firm.receiveLabour(jobType, supply)
 
         for jobType in range(NUM_JOB_TYPES-1):
             self.listLabourMarkets[jobType].close()

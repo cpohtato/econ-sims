@@ -26,11 +26,12 @@ class Firm():
         # Current step stats, should be reset at the end of every month
         self.currPrice: float = initPrice
         self.currDividends: float = 0.0
-        self.currListWages: list[float] = []
-        self.currListLabourDemand: list[float] = []
-        self.currListLabourReceived: list[float] = []
+        self.currListWages: list[float] = [0 for i in range(NUM_JOB_TYPES-1)]
+        self.currListLabourDemand: list[float] = [0 for i in range(NUM_JOB_TYPES-1)]
+        self.currListLabourReceived: list[float] = [0 for i in range(NUM_JOB_TYPES-1)]
         self.currSales: int = 0
         self.currProduced: int = 0
+        self.currRawMaterials: list[int] = [0 for i in range(NUM_GOOD_TYPES)]
 
     def generateName(self, surname: str):
         if (self.goodType == TYPE_FOOD):
@@ -133,6 +134,7 @@ class Firm():
         return inputCosts
 
     def updatePrice(self):
+        #   TODO: change prevProduced to previous total at stall
         surplus = (((1 - TARGET_SURPLUS) * self.prevProduced)/self.prevSales) - 1
         if (surplus <= 0):
             self.currPrice = self.prevPrice * random.uniform(1, 1 + PRICE_VISCOSITY * (1 + 
@@ -141,7 +143,7 @@ class Firm():
             self.currPrice = self.prevPrice * random.uniform(1 - PRICE_VISCOSITY * (1 + 
             abs(surplus)), 1)
 
-    def demandLabour(self, jobType):
+    def demandLabour(self, jobType: int):
         firmID = self.firmID
         vacancies = self.currListLabourDemand[jobType]
         wage = self.currListWages[jobType]
@@ -149,3 +151,20 @@ class Firm():
         self.funds -= vacancies * wage
 
         return firmID, vacancies, wage
+
+    def receiveLabour(self, jobType: int, supply: int):
+        self.currListLabourReceived[jobType] = supply
+        self.funds += (self.currListLabourDemand[jobType] - supply) * self.currListWages[jobType]
+
+    def acquireRawMaterials(self):
+        #   Do nothing for now
+        pass
+
+    def produceGoods(self):
+        productivity: float = self.calcProductivity(self.currListLabourReceived)
+        self.currProduced: int = 0
+
+        if ((self.goodType == TYPE_FOOD) or (self.goodType == TYPE_ENERGY)):
+            self.currProduced = productivity / PROD_COST[self.goodType]
+
+        return self.currProduced, self.currPrice

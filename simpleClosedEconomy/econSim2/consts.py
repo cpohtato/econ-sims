@@ -12,8 +12,8 @@ NUM_GOOD_TYPES = 2
 TYPE_FOOD = 0
 TYPE_ENERGY = 1
 
-PROD_COST = [0.5, 0.5]
-INIT_PRICE = [0.6, 0.6]
+PROD_COST = [0.3, 0.3]
+INIT_PRICE = [0.4, 0.4]
 
 RESERVE_WAGE_MEAN =         [[1.2, 0],
                              [1.2, 0],

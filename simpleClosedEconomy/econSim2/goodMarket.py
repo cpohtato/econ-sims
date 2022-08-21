@@ -13,3 +13,5 @@ class GoodMarket():
 
     def getPrevAvgPrice(self):
         return self.prevAvgPrice
+
+    def placeGoods(self, firmID)
