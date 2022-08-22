@@ -1,0 +1,1144 @@
+
+========================= MONTH 1 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.56
+Goldberg Limited, Food: 8/8, Profit: 0.10
+Orvis Ranch, Food: 15/15, Profit: 0.55
+Allum Spring, Food: 9/9, Profit: 0.25
+Ivory Farms, Food: 8/8, Profit: 0.10
+Ewing Grain, Food: 15/15, Profit: 0.57
+Gowing Goods, Food: 0/0, Profit: -0.50
+Warren LLC, Food: 0/0, Profit: -0.50
+Rogers Ag, Food: 0/0, Profit: -0.50
+Makin Cereals, Food: 0/0, Profit: -0.50
+
+========================= MONTH 2 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.54
+Goldberg Limited, Food: 8/8, Profit: 0.11
+Orvis Ranch, Food: 15/15, Profit: 0.56
+Allum Spring, Food: 9/9, Profit: 0.26
+Ivory Farms, Food: 8/8, Profit: 0.10
+Ewing Grain, Food: 15/15, Profit: 0.54
+Gowing Goods, Food: 0/0, Profit: -0.48
+Warren LLC, Food: 0/0, Profit: -0.48
+Rogers Ag, Food: 0/0, Profit: -0.48
+Makin Cereals, Food: 0/0, Profit: -0.48
+
+========================= MONTH 3 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.54
+Goldberg Limited, Food: 8/8, Profit: 0.12
+Orvis Ranch, Food: 15/15, Profit: 0.55
+Allum Spring, Food: 9/9, Profit: 0.26
+Ivory Farms, Food: 8/8, Profit: 0.10
+Ewing Grain, Food: 15/15, Profit: 0.52
+Gowing Goods, Food: 17/17, Profit: 0.90
+Warren LLC, Food: 0/0, Profit: -0.45
+Rogers Ag, Food: 0/0, Profit: -0.45
+Makin Cereals, Food: 0/0, Profit: -0.45
+
+========================= MONTH 4 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.55
+Goldberg Limited, Food: 8/8, Profit: 0.14
+Orvis Ranch, Food: 15/15, Profit: 0.54
+Allum Spring, Food: 13/13, Profit: 0.29
+Ivory Farms, Food: 8/8, Profit: 0.09
+Ewing Grain, Food: 15/15, Profit: 0.54
+Gowing Goods, Food: 17/17, Profit: 0.88
+Warren LLC, Food: 0/0, Profit: -0.43
+Rogers Ag, Food: 0/0, Profit: -0.43
+Makin Cereals, Food: 0/0, Profit: -0.43
+
+========================= MONTH 5 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.54
+Goldberg Limited, Food: 8/8, Profit: 0.14
+Orvis Ranch, Food: 15/15, Profit: 0.53
+Allum Spring, Food: 13/13, Profit: 0.30
+Ivory Farms, Food: 8/8, Profit: 0.10
+Ewing Grain, Food: 15/15, Profit: 0.53
+Gowing Goods, Food: 17/17, Profit: 0.85
+Warren LLC, Food: 0/0, Profit: -0.41
+Rogers Ag, Food: 0/0, Profit: -0.41
+Makin Cereals, Food: 0/0, Profit: -0.41
+
+========================= MONTH 6 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.52
+Goldberg Limited, Food: 8/8, Profit: 0.15
+Orvis Ranch, Food: 15/15, Profit: 0.51
+Allum Spring, Food: 13/13, Profit: 0.31
+Ivory Farms, Food: 8/8, Profit: 0.11
+Ewing Grain, Food: 15/15, Profit: 0.54
+Gowing Goods, Food: 17/17, Profit: 0.82
+Warren LLC, Food: 0/0, Profit: -0.39
+Rogers Ag, Food: 0/0, Profit: -0.39
+Makin Cereals, Food: 0/0, Profit: -0.39
+
+========================= MONTH 7 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.50
+Goldberg Limited, Food: 8/8, Profit: 0.15
+Orvis Ranch, Food: 15/15, Profit: 0.52
+Allum Spring, Food: 13/13, Profit: 0.33
+Ivory Farms, Food: 8/8, Profit: 0.11
+Ewing Grain, Food: 15/15, Profit: 0.54
+Gowing Goods, Food: 17/17, Profit: 0.81
+Warren LLC, Food: 0/0, Profit: -0.37
+Rogers Ag, Food: 0/0, Profit: -0.37
+Makin Cereals, Food: 0/0, Profit: -0.37
+
+========================= MONTH 8 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.51
+Goldberg Limited, Food: 8/8, Profit: 0.17
+Orvis Ranch, Food: 15/15, Profit: 0.51
+Allum Spring, Food: 13/13, Profit: 0.35
+Ivory Farms, Food: 8/8, Profit: 0.12
+Ewing Grain, Food: 15/15, Profit: 0.55
+Gowing Goods, Food: 17/17, Profit: 0.81
+Warren LLC, Food: 0/0, Profit: -0.35
+Rogers Ag, Food: 0/0, Profit: -0.35
+Makin Cereals, Food: 0/0, Profit: -0.35
+
+========================= MONTH 9 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.51
+Goldberg Limited, Food: 8/8, Profit: 0.16
+Orvis Ranch, Food: 15/15, Profit: 0.50
+Allum Spring, Food: 13/13, Profit: 0.37
+Ivory Farms, Food: 8/8, Profit: 0.13
+Ewing Grain, Food: 15/15, Profit: 0.57
+Gowing Goods, Food: 21/21, Profit: 0.85
+Warren LLC, Food: 0/0, Profit: -0.33
+Rogers Ag, Food: 0/0, Profit: -0.33
+Makin Cereals, Food: 0/0, Profit: -0.33
+
+========================= MONTH 10 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.51
+Goldberg Limited, Food: 8/8, Profit: 0.15
+Orvis Ranch, Food: 15/15, Profit: 0.51
+Allum Spring, Food: 13/13, Profit: 0.36
+Ivory Farms, Food: 8/8, Profit: 0.13
+Ewing Grain, Food: 15/15, Profit: 0.58
+Gowing Goods, Food: 17/17, Profit: 0.81
+Warren LLC, Food: 0/0, Profit: -0.32
+Rogers Ag, Food: 0/0, Profit: -0.32
+Makin Cereals, Food: 0/0, Profit: -0.32
+
+========================= MONTH 11 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.52
+Goldberg Limited, Food: 8/8, Profit: 0.15
+Orvis Ranch, Food: 15/15, Profit: 0.50
+Allum Spring, Food: 13/13, Profit: 0.35
+Ivory Farms, Food: 8/8, Profit: 0.14
+Ewing Grain, Food: 15/15, Profit: 0.59
+Gowing Goods, Food: 17/17, Profit: 0.79
+Warren LLC, Food: 0/0, Profit: -0.30
+Rogers Ag, Food: 0/0, Profit: -0.30
+Makin Cereals, Food: 0/0, Profit: -0.30
+
+========================= MONTH 12 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.52
+Goldberg Limited, Food: 8/8, Profit: 0.17
+Orvis Ranch, Food: 15/15, Profit: 0.49
+Allum Spring, Food: 13/13, Profit: 0.34
+Ivory Farms, Food: 8/8, Profit: 0.14
+Ewing Grain, Food: 15/15, Profit: 0.61
+Gowing Goods, Food: 17/17, Profit: 0.79
+Warren LLC, Food: 0/0, Profit: -0.28
+Rogers Ag, Food: 0/0, Profit: -0.28
+Makin Cereals, Food: 0/0, Profit: -0.28
+
+========================= MONTH 13 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.54
+Goldberg Limited, Food: 8/8, Profit: 0.17
+Orvis Ranch, Food: 15/15, Profit: 0.49
+Allum Spring, Food: 13/13, Profit: 0.37
+Ivory Farms, Food: 8/8, Profit: 0.14
+Ewing Grain, Food: 15/15, Profit: 0.59
+Gowing Goods, Food: 12/12, Profit: 0.54
+Warren LLC, Food: 0/0, Profit: -0.27
+Rogers Ag, Food: 0/0, Profit: -0.27
+Makin Cereals, Food: 0/0, Profit: -0.27
+
+========================= MONTH 14 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.54
+Goldberg Limited, Food: 8/8, Profit: 0.16
+Orvis Ranch, Food: 19/19, Profit: 0.57
+Allum Spring, Food: 13/13, Profit: 0.37
+Ivory Farms, Food: 8/8, Profit: 0.16
+Ewing Grain, Food: 18/18, Profit: 0.54
+Gowing Goods, Food: 0/0, Profit: -0.89
+Warren LLC, Food: 0/0, Profit: -0.26
+Rogers Ag, Food: 0/0, Profit: -0.26
+Makin Cereals, Food: 0/0, Profit: -0.26
+
+========================= MONTH 15 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.45
+Goldberg Limited, Food: 8/8, Profit: 0.17
+Orvis Ranch, Food: 19/19, Profit: 0.60
+Allum Spring, Food: 13/13, Profit: 0.38
+Ivory Farms, Food: 8/8, Profit: 0.15
+Ewing Grain, Food: 15/15, Profit: 0.58
+Gowing Goods, Food: 0/0, Profit: -0.85
+Warren LLC, Food: 0/0, Profit: -0.24
+Rogers Ag, Food: 0/0, Profit: -0.24
+Makin Cereals, Food: 0/0, Profit: -0.24
+
+========================= MONTH 16 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.45
+Goldberg Limited, Food: 8/8, Profit: 0.17
+Orvis Ranch, Food: 19/19, Profit: 0.60
+Allum Spring, Food: 13/13, Profit: 0.38
+Ivory Farms, Food: 8/8, Profit: 0.17
+Ewing Grain, Food: 15/15, Profit: 0.56
+Gowing Goods, Food: 0/0, Profit: -0.81
+Warren LLC, Food: 0/0, Profit: -0.23
+Rogers Ag, Food: 0/0, Profit: -0.23
+Makin Cereals, Food: 0/0, Profit: -0.23
+
+========================= MONTH 17 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.46
+Goldberg Limited, Food: 8/8, Profit: 0.18
+Orvis Ranch, Food: 19/19, Profit: 0.62
+Allum Spring, Food: 13/13, Profit: 0.40
+Ivory Farms, Food: 11/11, Profit: 0.09
+Ewing Grain, Food: 10/10, Profit: 0.26
+Gowing Goods, Food: 0/0, Profit: -0.77
+Warren LLC, Food: 0/0, Profit: -0.22
+Rogers Ag, Food: 0/0, Profit: -0.22
+Makin Cereals, Food: 0/0, Profit: -0.22
+
+========================= MONTH 18 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.48
+Goldberg Limited, Food: 8/8, Profit: 0.19
+Orvis Ranch, Food: 19/19, Profit: 0.65
+Allum Spring, Food: 13/13, Profit: 0.42
+Ivory Farms, Food: 11/11, Profit: 0.10
+Ewing Grain, Food: 10/10, Profit: 0.27
+Gowing Goods, Food: 0/0, Profit: -0.73
+Warren LLC, Food: 0/0, Profit: -0.21
+Rogers Ag, Food: 0/0, Profit: -0.21
+Makin Cereals, Food: 0/0, Profit: -0.21
+
+========================= MONTH 19 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.47
+Goldberg Limited, Food: 11/11, Profit: 0.14
+Orvis Ranch, Food: 19/19, Profit: 0.64
+Allum Spring, Food: 9/9, Profit: 0.26
+Ivory Farms, Food: 0/0, Profit: -0.61
+Ewing Grain, Food: 0/0, Profit: -0.97
+Gowing Goods, Food: 0/0, Profit: -0.69
+Warren LLC, Food: 0/0, Profit: -0.20
+Rogers Ag, Food: 0/0, Profit: -0.20
+Makin Cereals, Food: 0/0, Profit: -0.20
+
+========================= MONTH 20 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.46
+Goldberg Limited, Food: 11/11, Profit: 0.14
+Orvis Ranch, Food: 19/19, Profit: 0.66
+Allum Spring, Food: 13/13, Profit: 0.40
+Ivory Farms, Food: 11/11, Profit: 0.13
+Ewing Grain, Food: 0/0, Profit: -0.93
+Gowing Goods, Food: 0/0, Profit: -0.66
+Warren LLC, Food: 0/0, Profit: -0.19
+Rogers Ag, Food: 0/0, Profit: -0.19
+Makin Cereals, Food: 0/0, Profit: -0.19
+
+========================= MONTH 21 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.47
+Goldberg Limited, Food: 11/11, Profit: 0.16
+Orvis Ranch, Food: 19/19, Profit: 0.65
+Allum Spring, Food: 13/13, Profit: 0.38
+Ivory Farms, Food: 11/11, Profit: 0.13
+Ewing Grain, Food: 0/0, Profit: -0.88
+Gowing Goods, Food: 0/0, Profit: -0.62
+Warren LLC, Food: 0/0, Profit: -0.18
+Rogers Ag, Food: 0/0, Profit: -0.18
+Makin Cereals, Food: 0/0, Profit: -0.18
+
+========================= MONTH 22 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.46
+Goldberg Limited, Food: 11/11, Profit: 0.19
+Orvis Ranch, Food: 19/19, Profit: 0.64
+Allum Spring, Food: 13/13, Profit: 0.39
+Ivory Farms, Food: 11/11, Profit: 0.13
+Ewing Grain, Food: 15/15, Profit: 0.76
+Gowing Goods, Food: 0/0, Profit: -0.59
+Warren LLC, Food: 0/0, Profit: -0.17
+Rogers Ag, Food: 0/0, Profit: -0.17
+Makin Cereals, Food: 0/0, Profit: -0.17
+
+========================= MONTH 23 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.46
+Goldberg Limited, Food: 11/11, Profit: 0.19
+Orvis Ranch, Food: 19/19, Profit: 0.61
+Allum Spring, Food: 13/13, Profit: 0.38
+Ivory Farms, Food: 11/11, Profit: 0.16
+Ewing Grain, Food: 10/10, Profit: 0.43
+Gowing Goods, Food: 0/0, Profit: -0.56
+Warren LLC, Food: 0/0, Profit: -0.16
+Rogers Ag, Food: 0/0, Profit: -0.16
+Makin Cereals, Food: 0/0, Profit: -0.16
+
+========================= MONTH 24 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.45
+Goldberg Limited, Food: 11/11, Profit: 0.22
+Orvis Ranch, Food: 19/19, Profit: 0.60
+Allum Spring, Food: 13/13, Profit: 0.40
+Ivory Farms, Food: 11/11, Profit: 0.17
+Ewing Grain, Food: 10/10, Profit: 0.44
+Gowing Goods, Food: 0/0, Profit: -0.53
+Warren LLC, Food: 0/0, Profit: -0.15
+Rogers Ag, Food: 0/0, Profit: -0.15
+Makin Cereals, Food: 0/0, Profit: -0.15
+
+========================= MONTH 25 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.49
+Goldberg Limited, Food: 11/11, Profit: 0.23
+Orvis Ranch, Food: 19/19, Profit: 0.61
+Allum Spring, Food: 13/13, Profit: 0.42
+Ivory Farms, Food: 11/11, Profit: 0.18
+Ewing Grain, Food: 10/10, Profit: 0.45
+Gowing Goods, Food: 0/0, Profit: -0.51
+Warren LLC, Food: 0/0, Profit: -0.15
+Rogers Ag, Food: 0/0, Profit: -0.15
+Makin Cereals, Food: 0/0, Profit: -0.15
+
+========================= MONTH 26 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.50
+Goldberg Limited, Food: 11/11, Profit: 0.26
+Orvis Ranch, Food: 19/19, Profit: 0.65
+Allum Spring, Food: 13/13, Profit: 0.41
+Ivory Farms, Food: 11/11, Profit: 0.20
+Ewing Grain, Food: 10/10, Profit: 0.43
+Gowing Goods, Food: 0/0, Profit: -0.48
+Warren LLC, Food: 0/0, Profit: -0.14
+Rogers Ag, Food: 0/0, Profit: -0.14
+Makin Cereals, Food: 0/0, Profit: -0.14
+
+========================= MONTH 27 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.51
+Goldberg Limited, Food: 11/11, Profit: 0.25
+Orvis Ranch, Food: 19/19, Profit: 0.62
+Allum Spring, Food: 13/13, Profit: 0.44
+Ivory Farms, Food: 11/11, Profit: 0.23
+Ewing Grain, Food: 10/10, Profit: 0.42
+Gowing Goods, Food: 0/0, Profit: -0.46
+Warren LLC, Food: 0/0, Profit: -0.13
+Rogers Ag, Food: 0/0, Profit: -0.13
+Makin Cereals, Food: 0/0, Profit: -0.13
+
+========================= MONTH 28 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.53
+Goldberg Limited, Food: 11/11, Profit: 0.25
+Orvis Ranch, Food: 19/19, Profit: 0.66
+Allum Spring, Food: 13/13, Profit: 0.42
+Ivory Farms, Food: 11/11, Profit: 0.25
+Ewing Grain, Food: 15/15, Profit: 0.79
+Gowing Goods, Food: 0/0, Profit: -0.44
+Warren LLC, Food: 0/0, Profit: -0.13
+Rogers Ag, Food: 0/0, Profit: -0.13
+Makin Cereals, Food: 0/0, Profit: -0.13
+
+========================= MONTH 29 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.56
+Goldberg Limited, Food: 11/11, Profit: 0.24
+Orvis Ranch, Food: 22/22, Profit: 0.69
+Allum Spring, Food: 16/16, Profit: 0.46
+Ivory Farms, Food: 8/8, Profit: 0.29
+Ewing Grain, Food: 0/0, Profit: -1.02
+Gowing Goods, Food: 0/0, Profit: -0.41
+Warren LLC, Food: 0/0, Profit: -0.12
+Rogers Ag, Food: 0/0, Profit: -0.12
+Makin Cereals, Food: 0/0, Profit: -0.12
+
+========================= MONTH 30 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.59
+Goldberg Limited, Food: 11/11, Profit: 0.25
+Orvis Ranch, Food: 22/22, Profit: 0.74
+Allum Spring, Food: 16/16, Profit: 0.47
+Ivory Farms, Food: 8/8, Profit: 0.28
+Ewing Grain, Food: 0/0, Profit: -0.97
+Gowing Goods, Food: 0/0, Profit: -0.39
+Warren LLC, Food: 0/0, Profit: -0.11
+Rogers Ag, Food: 0/0, Profit: -0.11
+Makin Cereals, Food: 0/0, Profit: -0.11
+
+========================= MONTH 31 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.61
+Goldberg Limited, Food: 11/11, Profit: 0.24
+Orvis Ranch, Food: 22/22, Profit: 0.79
+Allum Spring, Food: 16/16, Profit: 0.47
+Ivory Farms, Food: 0/0, Profit: -0.69
+Ewing Grain, Food: 0/0, Profit: -0.92
+Gowing Goods, Food: 0/0, Profit: -0.37
+Warren LLC, Food: 0/0, Profit: -0.11
+Rogers Ag, Food: 0/0, Profit: -0.11
+Makin Cereals, Food: 0/0, Profit: -0.11
+
+========================= MONTH 32 =========================
+
+Atter Ag, Food: 21/21, Profit: 0.64
+Goldberg Limited, Food: 11/11, Profit: 0.27
+Orvis Ranch, Food: 19/19, Profit: 0.72
+Allum Spring, Food: 0/0, Profit: -1.07
+Ivory Farms, Food: 0/0, Profit: -0.65
+Ewing Grain, Food: 0/0, Profit: -0.88
+Gowing Goods, Food: 0/0, Profit: -0.35
+Warren LLC, Food: 0/0, Profit: -0.10
+Rogers Ag, Food: 0/0, Profit: -0.10
+Makin Cereals, Food: 0/0, Profit: -0.10
+
+========================= MONTH 33 =========================
+
+Atter Ag, Food: 21/21, Profit: 0.63
+Goldberg Limited, Food: 11/11, Profit: 0.29
+Orvis Ranch, Food: 22/22, Profit: 0.76
+Allum Spring, Food: 9/9, Profit: 0.26
+Ivory Farms, Food: 0/0, Profit: -0.62
+Ewing Grain, Food: 0/0, Profit: -0.83
+Gowing Goods, Food: 0/0, Profit: -0.34
+Warren LLC, Food: 0/0, Profit: -0.10
+Rogers Ag, Food: 0/0, Profit: -0.10
+Makin Cereals, Food: 0/0, Profit: -0.10
+
+========================= MONTH 34 =========================
+
+Atter Ag, Food: 21/21, Profit: 0.61
+Goldberg Limited, Food: 11/11, Profit: 0.31
+Orvis Ranch, Food: 15/15, Profit: 0.50
+Allum Spring, Food: 0/0, Profit: -1.03
+Ivory Farms, Food: 0/0, Profit: -0.59
+Ewing Grain, Food: 0/0, Profit: -0.79
+Gowing Goods, Food: 0/0, Profit: -0.32
+Warren LLC, Food: 0/0, Profit: -0.09
+Rogers Ag, Food: 0/0, Profit: -0.09
+Makin Cereals, Food: 0/0, Profit: -0.09
+
+========================= MONTH 35 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.59
+Goldberg Limited, Food: 0/0, Profit: -0.82
+Orvis Ranch, Food: 0/0, Profit: -1.52
+Allum Spring, Food: 0/0, Profit: -0.98
+Ivory Farms, Food: 0/0, Profit: -0.56
+Ewing Grain, Food: 0/0, Profit: -0.75
+Gowing Goods, Food: 0/0, Profit: -0.30
+Warren LLC, Food: 0/0, Profit: -0.09
+Rogers Ag, Food: 0/0, Profit: -0.09
+Makin Cereals, Food: 0/0, Profit: -0.09
+
+========================= MONTH 36 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.60
+Goldberg Limited, Food: 0/0, Profit: -0.78
+Orvis Ranch, Food: 0/0, Profit: -1.44
+Allum Spring, Food: 0/0, Profit: -0.93
+Ivory Farms, Food: 0/0, Profit: -0.53
+Ewing Grain, Food: 0/0, Profit: -0.71
+Gowing Goods, Food: 0/0, Profit: -0.29
+Warren LLC, Food: 0/0, Profit: -0.08
+Rogers Ag, Food: 0/0, Profit: -0.08
+Makin Cereals, Food: 0/0, Profit: -0.08
+
+========================= MONTH 37 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.57
+Goldberg Limited, Food: 0/0, Profit: -0.74
+Orvis Ranch, Food: 0/0, Profit: -1.37
+Allum Spring, Food: 0/0, Profit: -0.88
+Ivory Farms, Food: 0/0, Profit: -0.50
+Ewing Grain, Food: 0/0, Profit: -0.68
+Gowing Goods, Food: 0/0, Profit: -0.27
+Warren LLC, Food: 0/0, Profit: -0.08
+Rogers Ag, Food: 0/0, Profit: -0.08
+Makin Cereals, Food: 0/0, Profit: -0.08
+
+========================= MONTH 38 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.62
+Goldberg Limited, Food: 0/0, Profit: -0.70
+Orvis Ranch, Food: 0/0, Profit: -1.30
+Allum Spring, Food: 0/0, Profit: -0.84
+Ivory Farms, Food: 0/0, Profit: -0.48
+Ewing Grain, Food: 0/0, Profit: -0.64
+Gowing Goods, Food: 0/0, Profit: -0.26
+Warren LLC, Food: 0/0, Profit: -0.07
+Rogers Ag, Food: 0/0, Profit: -0.07
+Makin Cereals, Food: 0/0, Profit: -0.07
+
+========================= MONTH 39 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.56
+Goldberg Limited, Food: 0/0, Profit: -0.67
+Orvis Ranch, Food: 0/0, Profit: -1.24
+Allum Spring, Food: 0/0, Profit: -0.80
+Ivory Farms, Food: 0/0, Profit: -0.46
+Ewing Grain, Food: 0/0, Profit: -0.61
+Gowing Goods, Food: 0/0, Profit: -0.25
+Warren LLC, Food: 0/0, Profit: -0.07
+Rogers Ag, Food: 0/0, Profit: -0.07
+Makin Cereals, Food: 0/0, Profit: -0.07
+
+========================= MONTH 40 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.56
+Goldberg Limited, Food: 0/0, Profit: -0.63
+Orvis Ranch, Food: 0/0, Profit: -1.17
+Allum Spring, Food: 0/0, Profit: -0.76
+Ivory Farms, Food: 0/0, Profit: -0.43
+Ewing Grain, Food: 0/0, Profit: -0.58
+Gowing Goods, Food: 0/0, Profit: -0.24
+Warren LLC, Food: 0/0, Profit: -0.07
+Rogers Ag, Food: 0/0, Profit: -0.07
+Makin Cereals, Food: 0/0, Profit: -0.07
+
+========================= MONTH 41 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.56
+Goldberg Limited, Food: 0/0, Profit: -0.60
+Orvis Ranch, Food: 0/0, Profit: -1.11
+Allum Spring, Food: 0/0, Profit: -0.72
+Ivory Farms, Food: 0/0, Profit: -0.41
+Ewing Grain, Food: 0/0, Profit: -0.55
+Gowing Goods, Food: 0/0, Profit: -0.22
+Warren LLC, Food: 0/0, Profit: -0.06
+Rogers Ag, Food: 0/0, Profit: -0.06
+Makin Cereals, Food: 0/0, Profit: -0.06
+
+========================= MONTH 42 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.53
+Goldberg Limited, Food: 0/0, Profit: -0.57
+Orvis Ranch, Food: 0/0, Profit: -1.06
+Allum Spring, Food: 0/0, Profit: -0.68
+Ivory Farms, Food: 0/0, Profit: -0.39
+Ewing Grain, Food: 0/0, Profit: -0.52
+Gowing Goods, Food: 0/0, Profit: -0.21
+Warren LLC, Food: 0/0, Profit: -0.06
+Rogers Ag, Food: 0/0, Profit: -0.06
+Makin Cereals, Food: 0/0, Profit: -0.06
+
+========================= MONTH 43 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.51
+Goldberg Limited, Food: 0/0, Profit: -0.54
+Orvis Ranch, Food: 0/0, Profit: -1.01
+Allum Spring, Food: 0/0, Profit: -0.65
+Ivory Farms, Food: 0/0, Profit: -0.37
+Ewing Grain, Food: 0/0, Profit: -0.50
+Gowing Goods, Food: 0/0, Profit: -0.20
+Warren LLC, Food: 0/0, Profit: -0.06
+Rogers Ag, Food: 0/0, Profit: -0.06
+Makin Cereals, Food: 0/0, Profit: -0.06
+
+========================= MONTH 44 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.51
+Goldberg Limited, Food: 0/0, Profit: -0.52
+Orvis Ranch, Food: 0/0, Profit: -0.96
+Allum Spring, Food: 0/0, Profit: -0.62
+Ivory Farms, Food: 0/0, Profit: -0.35
+Ewing Grain, Food: 0/0, Profit: -0.47
+Gowing Goods, Food: 0/0, Profit: -0.19
+Warren LLC, Food: 0/0, Profit: -0.06
+Rogers Ag, Food: 0/0, Profit: -0.06
+Makin Cereals, Food: 0/0, Profit: -0.06
+
+========================= MONTH 45 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.54
+Goldberg Limited, Food: 0/0, Profit: -0.49
+Orvis Ranch, Food: 0/0, Profit: -0.91
+Allum Spring, Food: 0/0, Profit: -0.59
+Ivory Farms, Food: 0/0, Profit: -0.33
+Ewing Grain, Food: 0/0, Profit: -0.45
+Gowing Goods, Food: 0/0, Profit: -0.18
+Warren LLC, Food: 0/0, Profit: -0.05
+Rogers Ag, Food: 0/0, Profit: -0.05
+Makin Cereals, Food: 0/0, Profit: -0.05
+
+========================= MONTH 46 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.55
+Goldberg Limited, Food: 0/0, Profit: -0.47
+Orvis Ranch, Food: 0/0, Profit: -0.86
+Allum Spring, Food: 0/0, Profit: -0.56
+Ivory Farms, Food: 0/0, Profit: -0.32
+Ewing Grain, Food: 0/0, Profit: -0.43
+Gowing Goods, Food: 0/0, Profit: -0.17
+Warren LLC, Food: 0/0, Profit: -0.05
+Rogers Ag, Food: 0/0, Profit: -0.05
+Makin Cereals, Food: 0/0, Profit: -0.05
+
+========================= MONTH 47 =========================
+
+Atter Ag, Food: 10/10, Profit: 0.03
+Goldberg Limited, Food: 0/0, Profit: -0.44
+Orvis Ranch, Food: 0/0, Profit: -0.82
+Allum Spring, Food: 0/0, Profit: -0.53
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.41
+Gowing Goods, Food: 0/0, Profit: -0.16
+Warren LLC, Food: 0/0, Profit: -0.05
+Rogers Ag, Food: 0/0, Profit: -0.05
+Makin Cereals, Food: 0/0, Profit: -0.05
+
+========================= MONTH 48 =========================
+
+Atter Ag, Food: 10/10, Profit: 0.05
+Goldberg Limited, Food: 0/0, Profit: -0.42
+Orvis Ranch, Food: 0/0, Profit: -0.78
+Allum Spring, Food: 0/0, Profit: -0.50
+Ivory Farms, Food: 0/0, Profit: -0.29
+Ewing Grain, Food: 0/0, Profit: -0.39
+Gowing Goods, Food: 0/0, Profit: -0.16
+Warren LLC, Food: 0/0, Profit: -0.04
+Rogers Ag, Food: 0/0, Profit: -0.04
+Makin Cereals, Food: 0/0, Profit: -0.04
+
+========================= MONTH 49 =========================
+
+Atter Ag, Food: 0/0, Profit: -1.72
+Goldberg Limited, Food: 0/0, Profit: -0.40
+Orvis Ranch, Food: 0/0, Profit: -0.74
+Allum Spring, Food: 0/0, Profit: -0.48
+Ivory Farms, Food: 0/0, Profit: -0.27
+Ewing Grain, Food: 0/0, Profit: -0.37
+Gowing Goods, Food: 0/0, Profit: -0.15
+Warren LLC, Food: 0/0, Profit: -0.04
+Rogers Ag, Food: 0/0, Profit: -0.04
+Makin Cereals, Food: 0/0, Profit: -0.04
+
+========================= MONTH 50 =========================
+
+Atter Ag, Food: 21/21, Profit: 0.81
+Goldberg Limited, Food: 11/11, Profit: 0.68
+Orvis Ranch, Food: 22/22, Profit: 1.65
+Allum Spring, Food: 13/13, Profit: 1.16
+Ivory Farms, Food: 11/11, Profit: 0.74
+Ewing Grain, Food: 15/15, Profit: 1.42
+Gowing Goods, Food: 12/12, Profit: 1.46
+Warren LLC, Food: 0/0, Profit: -0.04
+Rogers Ag, Food: 0/0, Profit: -0.04
+Makin Cereals, Food: 0/0, Profit: -0.04
+
+========================= MONTH 51 =========================
+
+Atter Ag, Food: 18/18, Profit: 0.77
+Goldberg Limited, Food: 0/0, Profit: -0.41
+Orvis Ranch, Food: 0/0, Profit: -0.78
+Allum Spring, Food: 0/0, Profit: -0.51
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.42
+Gowing Goods, Food: 0/0, Profit: -0.21
+Warren LLC, Food: 0/0, Profit: -0.04
+Rogers Ag, Food: 0/0, Profit: -0.04
+Makin Cereals, Food: 0/0, Profit: -0.04
+
+========================= MONTH 52 =========================
+
+Atter Ag, Food: 0/0, Profit: -1.71
+Goldberg Limited, Food: 0/0, Profit: -0.39
+Orvis Ranch, Food: 0/0, Profit: -0.75
+Allum Spring, Food: 0/0, Profit: -0.49
+Ivory Farms, Food: 0/0, Profit: -0.28
+Ewing Grain, Food: 0/0, Profit: -0.40
+Gowing Goods, Food: 0/0, Profit: -0.20
+Warren LLC, Food: 0/0, Profit: -0.04
+Rogers Ag, Food: 0/0, Profit: -0.04
+Makin Cereals, Food: 0/0, Profit: -0.04
+
+========================= MONTH 53 =========================
+
+Atter Ag, Food: 21/21, Profit: 1.00
+Goldberg Limited, Food: 11/11, Profit: 0.73
+Orvis Ranch, Food: 22/22, Profit: 1.69
+Allum Spring, Food: 13/13, Profit: 1.15
+Ivory Farms, Food: 11/11, Profit: 0.77
+Ewing Grain, Food: 15/15, Profit: 1.45
+Gowing Goods, Food: 12/12, Profit: 1.45
+Warren LLC, Food: 0/0, Profit: -0.03
+Rogers Ag, Food: 0/0, Profit: -0.03
+Makin Cereals, Food: 0/0, Profit: -0.03
+
+========================= MONTH 54 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.79
+Goldberg Limited, Food: 0/0, Profit: -0.41
+Orvis Ranch, Food: 0/0, Profit: -0.79
+Allum Spring, Food: 0/0, Profit: -0.52
+Ivory Farms, Food: 0/0, Profit: -0.31
+Ewing Grain, Food: 0/0, Profit: -0.45
+Gowing Goods, Food: 0/0, Profit: -0.27
+Warren LLC, Food: 0/0, Profit: -0.03
+Rogers Ag, Food: 0/0, Profit: -0.03
+Makin Cereals, Food: 0/0, Profit: -0.03
+
+========================= MONTH 55 =========================
+
+Atter Ag, Food: 0/0, Profit: -1.72
+Goldberg Limited, Food: 0/0, Profit: -0.39
+Orvis Ranch, Food: 0/0, Profit: -0.75
+Allum Spring, Food: 0/0, Profit: -0.49
+Ivory Farms, Food: 0/0, Profit: -0.29
+Ewing Grain, Food: 0/0, Profit: -0.43
+Gowing Goods, Food: 0/0, Profit: -0.25
+Warren LLC, Food: 0/0, Profit: -0.03
+Rogers Ag, Food: 0/0, Profit: -0.03
+Makin Cereals, Food: 0/0, Profit: -0.03
+
+========================= MONTH 56 =========================
+
+Atter Ag, Food: 21/21, Profit: 1.03
+Goldberg Limited, Food: 11/11, Profit: 0.78
+Orvis Ranch, Food: 22/22, Profit: 1.73
+Allum Spring, Food: 13/13, Profit: 1.13
+Ivory Farms, Food: 11/11, Profit: 0.76
+Ewing Grain, Food: 15/15, Profit: 1.47
+Gowing Goods, Food: 17/17, Profit: 1.58
+Warren LLC, Food: 0/0, Profit: -0.03
+Rogers Ag, Food: 0/0, Profit: -0.03
+Makin Cereals, Food: 0/0, Profit: -0.03
+
+========================= MONTH 57 =========================
+
+Atter Ag, Food: 21/21, Profit: 1.01
+Goldberg Limited, Food: 11/11, Profit: 0.79
+Orvis Ranch, Food: 0/0, Profit: -0.80
+Allum Spring, Food: 0/0, Profit: -0.52
+Ivory Farms, Food: 0/0, Profit: -0.31
+Ewing Grain, Food: 0/0, Profit: -0.48
+Gowing Goods, Food: 0/0, Profit: -0.32
+Warren LLC, Food: 0/0, Profit: -0.03
+Rogers Ag, Food: 0/0, Profit: -0.03
+Makin Cereals, Food: 0/0, Profit: -0.03
+
+========================= MONTH 58 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.84
+Goldberg Limited, Food: 0/0, Profit: -0.45
+Orvis Ranch, Food: 0/0, Profit: -0.76
+Allum Spring, Food: 0/0, Profit: -0.50
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.46
+Gowing Goods, Food: 0/0, Profit: -0.30
+Warren LLC, Food: 0/0, Profit: -0.03
+Rogers Ag, Food: 0/0, Profit: -0.03
+Makin Cereals, Food: 0/0, Profit: -0.03
+
+========================= MONTH 59 =========================
+
+Atter Ag, Food: 10/10, Profit: 0.20
+Goldberg Limited, Food: 0/0, Profit: -0.43
+Orvis Ranch, Food: 0/0, Profit: -0.72
+Allum Spring, Food: 0/0, Profit: -0.47
+Ivory Farms, Food: 0/0, Profit: -0.28
+Ewing Grain, Food: 0/0, Profit: -0.43
+Gowing Goods, Food: 0/0, Profit: -0.29
+Warren LLC, Food: 0/0, Profit: -0.03
+Rogers Ag, Food: 0/0, Profit: -0.03
+Makin Cereals, Food: 0/0, Profit: -0.03
+
+========================= MONTH 60 =========================
+
+Atter Ag, Food: 0/0, Profit: -1.79
+Goldberg Limited, Food: 0/0, Profit: -0.40
+Orvis Ranch, Food: 0/0, Profit: -0.69
+Allum Spring, Food: 0/0, Profit: -0.45
+Ivory Farms, Food: 0/0, Profit: -0.27
+Ewing Grain, Food: 0/0, Profit: -0.41
+Gowing Goods, Food: 0/0, Profit: -0.27
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 61 =========================
+
+Atter Ag, Food: 21/21, Profit: 1.24
+Goldberg Limited, Food: 11/11, Profit: 0.88
+Orvis Ranch, Food: 22/22, Profit: 1.84
+Allum Spring, Food: 13/13, Profit: 1.23
+Ivory Farms, Food: 11/11, Profit: 0.81
+Ewing Grain, Food: 15/15, Profit: 1.52
+Gowing Goods, Food: 17/17, Profit: 1.58
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 62 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.31
+Goldberg Limited, Food: 11/11, Profit: 0.85
+Orvis Ranch, Food: 11/11, Profit: 1.30
+Allum Spring, Food: 0/0, Profit: -0.49
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.47
+Gowing Goods, Food: 0/0, Profit: -0.34
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 63 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.97
+Goldberg Limited, Food: 0/0, Profit: -0.47
+Orvis Ranch, Food: 0/0, Profit: -0.81
+Allum Spring, Food: 0/0, Profit: -0.46
+Ivory Farms, Food: 0/0, Profit: -0.28
+Ewing Grain, Food: 0/0, Profit: -0.44
+Gowing Goods, Food: 0/0, Profit: -0.32
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 64 =========================
+
+Atter Ag, Food: 0/0, Profit: -1.87
+Goldberg Limited, Food: 0/0, Profit: -0.45
+Orvis Ranch, Food: 0/0, Profit: -0.77
+Allum Spring, Food: 0/0, Profit: -0.44
+Ivory Farms, Food: 0/0, Profit: -0.27
+Ewing Grain, Food: 0/0, Profit: -0.42
+Gowing Goods, Food: 0/0, Profit: -0.31
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 65 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.38
+Goldberg Limited, Food: 11/11, Profit: 0.91
+Orvis Ranch, Food: 22/22, Profit: 1.92
+Allum Spring, Food: 13/13, Profit: 1.30
+Ivory Farms, Food: 11/11, Profit: 0.87
+Ewing Grain, Food: 15/15, Profit: 1.55
+Gowing Goods, Food: 17/17, Profit: 1.63
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 66 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.35
+Goldberg Limited, Food: 11/11, Profit: 0.92
+Orvis Ranch, Food: 11/11, Profit: 1.32
+Allum Spring, Food: 0/0, Profit: -0.48
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.48
+Gowing Goods, Food: 0/0, Profit: -0.37
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 67 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.96
+Goldberg Limited, Food: 0/0, Profit: -0.52
+Orvis Ranch, Food: 0/0, Profit: -0.89
+Allum Spring, Food: 0/0, Profit: -0.46
+Ivory Farms, Food: 0/0, Profit: -0.28
+Ewing Grain, Food: 0/0, Profit: -0.45
+Gowing Goods, Food: 0/0, Profit: -0.35
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 68 =========================
+
+Atter Ag, Food: 0/0, Profit: -1.97
+Goldberg Limited, Food: 0/0, Profit: -0.49
+Orvis Ranch, Food: 0/0, Profit: -0.85
+Allum Spring, Food: 0/0, Profit: -0.44
+Ivory Farms, Food: 0/0, Profit: -0.27
+Ewing Grain, Food: 0/0, Profit: -0.43
+Gowing Goods, Food: 0/0, Profit: -0.34
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 69 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.48
+Goldberg Limited, Food: 11/11, Profit: 0.94
+Orvis Ranch, Food: 22/22, Profit: 1.90
+Allum Spring, Food: 13/13, Profit: 1.40
+Ivory Farms, Food: 11/11, Profit: 0.93
+Ewing Grain, Food: 15/15, Profit: 1.57
+Gowing Goods, Food: 17/17, Profit: 1.59
+Warren LLC, Food: 0/0, Profit: -0.02
+Rogers Ag, Food: 0/0, Profit: -0.02
+Makin Cereals, Food: 0/0, Profit: -0.02
+
+========================= MONTH 70 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.44
+Goldberg Limited, Food: 11/11, Profit: 0.92
+Orvis Ranch, Food: 11/11, Profit: 1.26
+Allum Spring, Food: 0/0, Profit: -0.48
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.49
+Gowing Goods, Food: 0/0, Profit: -0.40
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 71 =========================
+
+Atter Ag, Food: 15/15, Profit: 0.97
+Goldberg Limited, Food: 0/0, Profit: -0.56
+Orvis Ranch, Food: 0/0, Profit: -0.96
+Allum Spring, Food: 0/0, Profit: -0.46
+Ivory Farms, Food: 0/0, Profit: -0.29
+Ewing Grain, Food: 0/0, Profit: -0.46
+Gowing Goods, Food: 0/0, Profit: -0.38
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 72 =========================
+
+Atter Ag, Food: 0/0, Profit: -2.06
+Goldberg Limited, Food: 0/0, Profit: -0.53
+Orvis Ranch, Food: 0/0, Profit: -0.92
+Allum Spring, Food: 0/0, Profit: -0.44
+Ivory Farms, Food: 0/0, Profit: -0.27
+Ewing Grain, Food: 0/0, Profit: -0.44
+Gowing Goods, Food: 0/0, Profit: -0.36
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 73 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.48
+Goldberg Limited, Food: 11/11, Profit: 0.97
+Orvis Ranch, Food: 22/22, Profit: 1.96
+Allum Spring, Food: 13/13, Profit: 1.44
+Ivory Farms, Food: 11/11, Profit: 0.98
+Ewing Grain, Food: 15/15, Profit: 1.61
+Gowing Goods, Food: 17/17, Profit: 1.63
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 74 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.51
+Goldberg Limited, Food: 11/11, Profit: 0.93
+Orvis Ranch, Food: 11/11, Profit: 1.29
+Allum Spring, Food: 0/0, Profit: -0.49
+Ivory Farms, Food: 0/0, Profit: -0.31
+Ewing Grain, Food: 0/0, Profit: -0.50
+Gowing Goods, Food: 0/0, Profit: -0.42
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 75 =========================
+
+Atter Ag, Food: 15/15, Profit: 1.04
+Goldberg Limited, Food: 0/0, Profit: -0.60
+Orvis Ranch, Food: 0/0, Profit: -1.03
+Allum Spring, Food: 0/0, Profit: -0.46
+Ivory Farms, Food: 0/0, Profit: -0.29
+Ewing Grain, Food: 0/0, Profit: -0.47
+Gowing Goods, Food: 0/0, Profit: -0.40
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 76 =========================
+
+Atter Ag, Food: 0/0, Profit: -2.16
+Goldberg Limited, Food: 0/0, Profit: -0.57
+Orvis Ranch, Food: 0/0, Profit: -0.98
+Allum Spring, Food: 0/0, Profit: -0.44
+Ivory Farms, Food: 0/0, Profit: -0.28
+Ewing Grain, Food: 0/0, Profit: -0.45
+Gowing Goods, Food: 0/0, Profit: -0.38
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 77 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.68
+Goldberg Limited, Food: 11/11, Profit: 0.99
+Orvis Ranch, Food: 19/19, Profit: 1.88
+Allum Spring, Food: 13/13, Profit: 1.50
+Ivory Farms, Food: 11/11, Profit: 1.02
+Ewing Grain, Food: 15/15, Profit: 1.65
+Gowing Goods, Food: 17/17, Profit: 1.60
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 78 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.71
+Goldberg Limited, Food: 11/11, Profit: 0.96
+Orvis Ranch, Food: 15/15, Profit: 1.55
+Allum Spring, Food: 0/0, Profit: -0.49
+Ivory Farms, Food: 0/0, Profit: -0.31
+Ewing Grain, Food: 0/0, Profit: -0.51
+Gowing Goods, Food: 0/0, Profit: -0.44
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 79 =========================
+
+Atter Ag, Food: 15/15, Profit: 1.12
+Goldberg Limited, Food: 0/0, Profit: -0.64
+Orvis Ranch, Food: 0/0, Profit: -1.10
+Allum Spring, Food: 0/0, Profit: -0.47
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.48
+Gowing Goods, Food: 0/0, Profit: -0.42
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 80 =========================
+
+Atter Ag, Food: 0/0, Profit: -2.28
+Goldberg Limited, Food: 0/0, Profit: -0.61
+Orvis Ranch, Food: 0/0, Profit: -1.05
+Allum Spring, Food: 0/0, Profit: -0.44
+Ivory Farms, Food: 0/0, Profit: -0.28
+Ewing Grain, Food: 0/0, Profit: -0.46
+Gowing Goods, Food: 0/0, Profit: -0.40
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 81 =========================
+
+Atter Ag, Food: 26/26, Profit: 1.84
+Goldberg Limited, Food: 11/11, Profit: 1.02
+Orvis Ranch, Food: 19/19, Profit: 1.83
+Allum Spring, Food: 13/13, Profit: 1.54
+Ivory Farms, Food: 11/11, Profit: 1.03
+Ewing Grain, Food: 15/15, Profit: 1.75
+Gowing Goods, Food: 17/17, Profit: 1.65
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 82 =========================
+
+Atter Ag, Food: 26/26, Profit: 1.78
+Goldberg Limited, Food: 11/11, Profit: 0.98
+Orvis Ranch, Food: 0/0, Profit: -1.09
+Allum Spring, Food: 0/0, Profit: -0.50
+Ivory Farms, Food: 0/0, Profit: -0.32
+Ewing Grain, Food: 0/0, Profit: -0.53
+Gowing Goods, Food: 0/0, Profit: -0.46
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 83 =========================
+
+Atter Ag, Food: 15/15, Profit: 1.11
+Goldberg Limited, Food: 0/0, Profit: -0.68
+Orvis Ranch, Food: 0/0, Profit: -1.03
+Allum Spring, Food: 0/0, Profit: -0.47
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.50
+Gowing Goods, Food: 0/0, Profit: -0.44
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 84 =========================
+
+Atter Ag, Food: 0/0, Profit: -2.40
+Goldberg Limited, Food: 0/0, Profit: -0.64
+Orvis Ranch, Food: 0/0, Profit: -0.98
+Allum Spring, Food: 0/0, Profit: -0.45
+Ivory Farms, Food: 0/0, Profit: -0.29
+Ewing Grain, Food: 0/0, Profit: -0.47
+Gowing Goods, Food: 0/0, Profit: -0.42
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 85 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.82
+Goldberg Limited, Food: 11/11, Profit: 1.07
+Orvis Ranch, Food: 19/19, Profit: 2.01
+Allum Spring, Food: 13/13, Profit: 1.58
+Ivory Farms, Food: 11/11, Profit: 1.04
+Ewing Grain, Food: 15/15, Profit: 1.81
+Gowing Goods, Food: 17/17, Profit: 1.62
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 86 =========================
+
+Atter Ag, Food: 26/26, Profit: 1.78
+Goldberg Limited, Food: 11/11, Profit: 1.04
+Orvis Ranch, Food: 19/19, Profit: 1.94
+Allum Spring, Food: 9/9, Profit: 1.27
+Ivory Farms, Food: 0/0, Profit: -0.33
+Ewing Grain, Food: 0/0, Profit: -0.54
+Gowing Goods, Food: 0/0, Profit: -0.48
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 87 =========================
+
+Atter Ag, Food: 24/24, Profit: 1.87
+Goldberg Limited, Food: 0/0, Profit: -0.72
+Orvis Ranch, Food: 0/0, Profit: -1.13
+Allum Spring, Food: 0/0, Profit: -0.57
+Ivory Farms, Food: 0/0, Profit: -0.31
+Ewing Grain, Food: 0/0, Profit: -0.51
+Gowing Goods, Food: 0/0, Profit: -0.45
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01
+
+========================= MONTH 88 =========================
+
+Atter Ag, Food: 0/0, Profit: -2.55
+Goldberg Limited, Food: 0/0, Profit: -0.68
+Orvis Ranch, Food: 0/0, Profit: -1.07
+Allum Spring, Food: 0/0, Profit: -0.54
+Ivory Farms, Food: 0/0, Profit: -0.30
+Ewing Grain, Food: 0/0, Profit: -0.49
+Gowing Goods, Food: 0/0, Profit: -0.43
+Warren LLC, Food: 0/0, Profit: -0.01
+Rogers Ag, Food: 0/0, Profit: -0.01
+Makin Cereals, Food: 0/0, Profit: -0.01

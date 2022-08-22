@@ -1,0 +1,440 @@
+
+========================= MONTH 1 =========================
+
+Unskilled Jobs: 9/14 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 2 =========================
+
+Unskilled Jobs: 9/14 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 3 =========================
+
+Unskilled Jobs: 11/14 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 4 =========================
+
+Unskilled Jobs: 12/15 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 5 =========================
+
+Unskilled Jobs: 12/15 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 6 =========================
+
+Unskilled Jobs: 12/15 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 7 =========================
+
+Unskilled Jobs: 12/15 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 8 =========================
+
+Unskilled Jobs: 12/16 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 9 =========================
+
+Unskilled Jobs: 13/16 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 10 =========================
+
+Unskilled Jobs: 12/16 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 11 =========================
+
+Unskilled Jobs: 12/16 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 12 =========================
+
+Unskilled Jobs: 12/16 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 13 =========================
+
+Unskilled Jobs: 11/16 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 14 =========================
+
+Unskilled Jobs: 12/18 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 15 =========================
+
+Unskilled Jobs: 12/19 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 16 =========================
+
+Unskilled Jobs: 12/19 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 17 =========================
+
+Unskilled Jobs: 12/20 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 18 =========================
+
+Unskilled Jobs: 12/20 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 19 =========================
+
+Unskilled Jobs: 9/21 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 20 =========================
+
+Unskilled Jobs: 12/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 21 =========================
+
+Unskilled Jobs: 12/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 22 =========================
+
+Unskilled Jobs: 14/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 23 =========================
+
+Unskilled Jobs: 13/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 24 =========================
+
+Unskilled Jobs: 13/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 25 =========================
+
+Unskilled Jobs: 13/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 26 =========================
+
+Unskilled Jobs: 13/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 27 =========================
+
+Unskilled Jobs: 13/21 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 28 =========================
+
+Unskilled Jobs: 14/20 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 29 =========================
+
+Unskilled Jobs: 13/23 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 30 =========================
+
+Unskilled Jobs: 13/22 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 31 =========================
+
+Unskilled Jobs: 12/22 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 32 =========================
+
+Unskilled Jobs: 9/23 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 33 =========================
+
+Unskilled Jobs: 11/23 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 34 =========================
+
+Unskilled Jobs: 8/21 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 35 =========================
+
+Unskilled Jobs: 2/20 hired at $0.59
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 36 =========================
+
+Unskilled Jobs: 2/20 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 37 =========================
+
+Unskilled Jobs: 2/20 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 38 =========================
+
+Unskilled Jobs: 3/20 hired at $0.60
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 39 =========================
+
+Unskilled Jobs: 2/20 hired at $0.61
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 40 =========================
+
+Unskilled Jobs: 2/20 hired at $0.61
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 41 =========================
+
+Unskilled Jobs: 2/20 hired at $0.62
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 42 =========================
+
+Unskilled Jobs: 2/20 hired at $0.62
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 43 =========================
+
+Unskilled Jobs: 2/20 hired at $0.63
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 44 =========================
+
+Unskilled Jobs: 2/19 hired at $0.63
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 45 =========================
+
+Unskilled Jobs: 2/19 hired at $0.64
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 46 =========================
+
+Unskilled Jobs: 2/18 hired at $0.64
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 47 =========================
+
+Unskilled Jobs: 1/18 hired at $0.64
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 48 =========================
+
+Unskilled Jobs: 1/17 hired at $0.65
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 49 =========================
+
+Unskilled Jobs: 0/17 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 50 =========================
+
+Unskilled Jobs: 17/17 hired at $0.72
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 51 =========================
+
+Unskilled Jobs: 3/18 hired at $0.67
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 52 =========================
+
+Unskilled Jobs: 0/18 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 53 =========================
+
+Unskilled Jobs: 17/17 hired at $0.73
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 54 =========================
+
+Unskilled Jobs: 2/18 hired at $0.67
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 55 =========================
+
+Unskilled Jobs: 0/18 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 56 =========================
+
+Unskilled Jobs: 18/18 hired at $0.76
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 57 =========================
+
+Unskilled Jobs: 6/18 hired at $0.70
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 58 =========================
+
+Unskilled Jobs: 2/18 hired at $0.69
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 59 =========================
+
+Unskilled Jobs: 1/17 hired at $0.69
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 60 =========================
+
+Unskilled Jobs: 0/17 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 61 =========================
+
+Unskilled Jobs: 18/18 hired at $0.78
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 62 =========================
+
+Unskilled Jobs: 8/19 hired at $0.72
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 63 =========================
+
+Unskilled Jobs: 2/19 hired at $0.71
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 64 =========================
+
+Unskilled Jobs: 0/19 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 65 =========================
+
+Unskilled Jobs: 19/19 hired at $0.80
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 66 =========================
+
+Unskilled Jobs: 8/19 hired at $0.74
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 67 =========================
+
+Unskilled Jobs: 2/19 hired at $0.73
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 68 =========================
+
+Unskilled Jobs: 0/19 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 69 =========================
+
+Unskilled Jobs: 19/19 hired at $0.82
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 70 =========================
+
+Unskilled Jobs: 8/19 hired at $0.76
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 71 =========================
+
+Unskilled Jobs: 2/19 hired at $0.74
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 72 =========================
+
+Unskilled Jobs: 0/19 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 73 =========================
+
+Unskilled Jobs: 19/19 hired at $0.84
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 74 =========================
+
+Unskilled Jobs: 8/19 hired at $0.77
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 75 =========================
+
+Unskilled Jobs: 2/19 hired at $0.75
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 76 =========================
+
+Unskilled Jobs: 0/19 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 77 =========================
+
+Unskilled Jobs: 18/18 hired at $0.87
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 78 =========================
+
+Unskilled Jobs: 9/19 hired at $0.79
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 79 =========================
+
+Unskilled Jobs: 2/18 hired at $0.76
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 80 =========================
+
+Unskilled Jobs: 0/19 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 81 =========================
+
+Unskilled Jobs: 19/19 hired at $0.88
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 82 =========================
+
+Unskilled Jobs: 8/19 hired at $0.78
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 83 =========================
+
+Unskilled Jobs: 2/19 hired at $0.76
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 84 =========================
+
+Unskilled Jobs: 0/18 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 85 =========================
+
+Unskilled Jobs: 18/18 hired at $0.92
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 86 =========================
+
+Unskilled Jobs: 12/19 hired at $0.84
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 87 =========================
+
+Unskilled Jobs: 5/19 hired at $0.79
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 88 =========================
+
+Unskilled Jobs: 0/19 hired at $0.00
+Skilled Jobs: 0/0 hired at $0.00

@@ -61,7 +61,7 @@ class NationalEconomy():
 
                     #   For now, transfer all capitalist savings into business
                     self.listFirms[goodType][idx].funds = capitalist.funds
-                    capitalist.savings = 0
+                    capitalist.funds = 0
 
                 else:
                     idx += 1
@@ -109,8 +109,12 @@ class NationalEconomy():
         #
         # 9. Govt collects company tax
         #
-        # 10. Close accounts, calculate stats
+        # 10. Firms collect money from market stalls
         #
+        # 11. Close accounts, calculate stats
+        #
+
+        self.logHeader(month)
 
         self.stepPops()
         self.stepFirms()
@@ -120,8 +124,9 @@ class NationalEconomy():
         self.stepProduce()
         self.stepPublicProcurement()
         self.stepPrivateProcurement()
+        self.stepCloseMarkets()
         self.stepCompanyTax()
-        self.stepClose()
+        self.stepReset()
         
         return True
 
@@ -137,7 +142,7 @@ class NationalEconomy():
 
         self.determineLabourDemand()
         self.supplyLabour()
-        self.closeLabourMarkets()
+        self.settleLabour()
 
     def stepBenefits(self):
         #   No unemployment subsidies yet
@@ -161,14 +166,72 @@ class NationalEconomy():
         pass
 
     def stepPrivateProcurement(self):
-        pass
+        #   Consoom
 
+        #   Find total number of pops and randomise order
+        numPops = 0
+        for jobType in range(NUM_JOB_TYPES):
+            numPops += len(self.listPops[jobType])
+        randOrder = list(range(numPops))
+        random.shuffle(randOrder)
+
+        #   Find goods available
+        listPrices = self.getPriceList()
+
+        popsDone = 0
+        while not (popsDone == numPops):
+            popsDone = 0
+
+            for idx in randOrder:
+
+                #   First, find randomly selected pop in 2D list
+                jobType = 0
+                listIdx = idx
+                popSelected = False
+
+                while not (popSelected):
+                    if (listIdx >= len(self.listPops[jobType])):
+                        listIdx -= len(self.listPops[jobType])
+                        jobType += 1
+                    else:
+                        popSelected = True
+
+                bought, boughtGoodType = self.listPops[jobType][listIdx].maximiseUtility(
+                    listPrices)
+
+                if (bought):
+                    self.listGoodMarkets[boughtGoodType].buyLowest()
+                    listPrices = self.getPriceList()
+                else:
+                    popsDone += 1
+
+    def stepCloseMarkets(self):
+        #   Give firms money from stalls
+        for market in self.listGoodMarkets:
+            for stall in market.listStalls:
+                firmID = stall.firmID
+
+                foundFirm = False
+                for goodType in range(NUM_GOOD_TYPES):
+                    if not foundFirm:
+                        for firm in self.listFirms[goodType]:
+                            if (firm.firmID == firmID):
+                                firm.receiveRevenue(stall.funds, stall.sales, stall.qty)
+                                foundFirm = True
+                                break
+                    else:
+                        break
+                            
+    
     def stepCompanyTax(self):
         #   No company tax yet
         pass
 
-    def stepClose(self):
-        pass
+    def stepReset(self):
+        self.resetPops()
+        self.resetFirms()
+        self.resetLabourMarkets()
+        self.resetGoodMarkets()
 
     def determineLabourDemand(self):
         # 1. Firms pay owners dividends
@@ -217,7 +280,7 @@ class NationalEconomy():
                     self.listPops[jobType][idx].acceptJob(acceptedWage)
                     highestWage = self.listLabourMarkets[jobType].findHighest()
 
-    def closeLabourMarkets(self):    
+    def settleLabour(self):    
         for goodType in range(NUM_GOOD_TYPES):
             for firm in self.listFirms[goodType]:
                 firmID = firm.firmID
@@ -229,34 +292,104 @@ class NationalEconomy():
         for jobType in range(NUM_JOB_TYPES-1):
             self.listLabourMarkets[jobType].close()
 
+    def getPriceList(self):
+        listPrices = []
+        for goodType in range(NUM_GOOD_TYPES):
+            price = self.listGoodMarkets[goodType].findLowest()
+            listPrices.append(price)
+        return listPrices
+
+    def resetPops(self):
+        numPops = 0
+        avgUtils = 0
+        for jobType in range(NUM_JOB_TYPES):
+            for pop in self.listPops[jobType]:
+                pop.consumeGoods()
+                pop.reset()
+                numPops += 1
+                avgUtils += pop.utils
+                pop.log()
+        avgUtils /= numPops
+
+        with open("simpleClosedEconomy/log/pops.txt", "a") as logFile:
+            logFile.write("Avg. utils: " + "{:.2f}".format(avgUtils) + " \n")
+
+    def resetFirms(self):
+        for goodType in range(NUM_GOOD_TYPES):
+            for firm in self.listFirms[goodType]:
+                firm.reset()
+                firm.log()
+
+    def resetLabourMarkets(self):
+        for market in self.listLabourMarkets:
+            market.reset()
+            market.log()
+
+    def resetGoodMarkets(self):
+        for market in self.listGoodMarkets:
+            market.reset()
+            market.log()
+
     def monthlyPrices(self):
         listPrices = []
 
-        for market in range(NUM_GOOD_TYPES):
-            listPrices.append(random.randint(1,10))
+        for market in self.listGoodMarkets:
+            listPrices.append(market.prevAvgPrice)
 
         return listPrices
 
     def monthlySales(self):
         listSales = []
 
-        for market in range(NUM_GOOD_TYPES):
-            listSales.append(random.randint(1,10))
+        for market in self.listGoodMarkets:
+            listSales.append(market.prevSales)
 
         return listSales
 
     def monthlyWages(self):
         listWages = []
 
-        for market in range(NUM_JOB_TYPES):
-            listWages.append(random.randint(1,10))
+        for market in self.listLabourMarkets:
+            listWages.append(market.prevAvgWage)
+
+        numCapitalists = len(self.listPops[JOB_CAPITALIST])
+        avgCapitalistIncome = 0
+        if (numCapitalists > 0):
+            for capitalist in self.listPops[JOB_CAPITALIST]:
+                avgCapitalistIncome += capitalist.prevIncome
+            avgCapitalistIncome /= numCapitalists
+        listWages.append(avgCapitalistIncome)
 
         return listWages
 
     def monthlyJobs(self):
         listHired = []
 
-        for market in range(NUM_JOB_TYPES):
-            listHired.append(random.randint(1,10))
+        for market in self.listLabourMarkets:
+            listHired.append(market.prevTotalHires)
+
+        numCapitalists = len(self.listPops[JOB_CAPITALIST])
+        listHired.append(numCapitalists)
 
         return listHired
+
+    def logHeader(self, month):
+        with open("simpleClosedEconomy/log/jobs.txt", "a") as logFile:
+            logFile.write("\n")
+            logFile.write("========================= MONTH " + str(month) + " =========================\n")
+            logFile.write("\n")
+
+        with open("simpleClosedEconomy/log/sales.txt", "a") as logFile:
+            logFile.write("\n")
+            logFile.write("========================= MONTH " + str(month) + " =========================\n")
+            logFile.write("\n")
+
+        with open("simpleClosedEconomy/log/firms.txt", "a") as logFile:
+            logFile.write("\n")
+            logFile.write("========================= MONTH " + str(month) + " =========================\n")
+            logFile.write("\n")
+
+        with open("simpleClosedEconomy/log/pops.txt", "a") as logFile:
+            logFile.write("\n")
+            logFile.write("========================= MONTH " + str(month) + " =========================\n")
+            logFile.write("\n")

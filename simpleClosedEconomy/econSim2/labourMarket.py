@@ -24,6 +24,9 @@ class LabourMarket():
     def __init__(self, jobType: int):
         self.jobType: int = jobType
         self.listLabourOrders: list[LabourOrder] = []
+        self.prevAvgWage = 0
+        self.prevTotalHires = 0
+        self.prevTotalOpen = 0
 
     def addOrder(self, firmID: int, vacancies: int, wage: int):
         newOrder = LabourOrder(firmID, vacancies, wage)
@@ -51,6 +54,7 @@ class LabourMarket():
                     # highestWageIdx = idx
                     highestWageFirmID = self.listLabourOrders[idx].firmID
                     self.listLabourOrders[idx].accept()
+                    break
 
         return highestWage, highestWageFirmID
 
@@ -65,16 +69,30 @@ class LabourMarket():
     def close(self):
         self.prevAvgWage = 0
         self.prevTotalHires = 0
+        self.prevTotalOpen = 0
         for order in self.listLabourOrders:
             self.prevTotalHires += order.accepted
             self.prevAvgWage += order.accepted * order.wage
+            self.prevTotalOpen += order.totalVacancies
         
         if (self.prevTotalHires == 0):
-            self.prevAvgWage = None
+            if (self.prevTotalOpen > 0):
+                self.prevAvgWage /= self.prevTotalOpen
+            else:
+                self.prevAvgWage = 0
         else:
             self.prevAvgWage /= self.prevTotalHires
 
         self.listLabourOrders = []
+
+    def reset(self):
+        pass
+
+    def log(self):
+        with open("simpleClosedEconomy/log/jobs.txt", "a") as logFile:
+            logFile.write(DICT_JOB_TITLES[self.jobType] + " Jobs: " + str(self.prevTotalHires) + 
+            "/" + str(self.prevTotalOpen) + " hired at $" + "{:.2f}".format(self.prevAvgWage) + 
+            "\n")
         
 
         

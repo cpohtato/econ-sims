@@ -1,0 +1,2992 @@
+
+========================= MONTH 1 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.62 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.30 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 1.68 utils
+Jules Greenway, Unskilled: 1.56 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.17 utils
+Lafe Broadley, Unskilled: 2.21 utils
+Stanton Wells, Unskilled: 1.99 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.62 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 1.78 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.84 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 1.86 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.50 
+
+========================= MONTH 2 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.62 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 1.27 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.30 utils
+Tommie Watts, Unskilled: 1.68 utils
+Jules Greenway, Unskilled: 1.56 utils
+Edgar Tudor, Unskilled: 1.99 utils
+Neal Saville, Unskilled: 1.17 utils
+Lafe Broadley, Unskilled: 2.21 utils
+Stanton Wells, Unskilled: 1.99 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 2.19 utils
+Halsey Yorke, Unskilled: 1.34 utils
+Roscoe Finlay, Unskilled: 0.84 utils
+Wheeler Brelsford, Unskilled: 1.55 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 1.40 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.50 
+
+========================= MONTH 3 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 2.19 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 1.86 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 1.40 utils
+Anton Rogers, Capitalist: 1.36 utils
+Pinkney Makin, Capitalist: 1.98 utils
+Avg. utils: 1.69 
+
+========================= MONTH 4 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 2.19 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 1.86 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 1.40 utils
+Anton Rogers, Capitalist: 1.36 utils
+Pinkney Makin, Capitalist: 1.98 utils
+Avg. utils: 1.73 
+
+========================= MONTH 5 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 1.27 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 0.81 utils
+Urban Warrington, Unskilled: 1.30 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 0.59 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 1.78 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 1.40 utils
+Anton Rogers, Capitalist: 1.36 utils
+Pinkney Makin, Capitalist: 2.29 utils
+Avg. utils: 1.72 
+
+========================= MONTH 6 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 2.05 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.34 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.37 utils
+Jefferson Warren, Capitalist: 1.40 utils
+Anton Rogers, Capitalist: 1.57 utils
+Pinkney Makin, Capitalist: 1.98 utils
+Avg. utils: 1.52 
+
+========================= MONTH 7 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 3.15 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.49 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.34 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 2.11 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.40 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.09 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.37 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.52 
+
+========================= MONTH 8 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 3.15 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.56 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 2.11 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 2.14 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.51 
+
+========================= MONTH 9 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 2.05 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.49 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.56 utils
+Hector Warrington, Unskilled: 2.34 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.40 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.37 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.58 
+
+========================= MONTH 10 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 2.05 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.49 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.56 utils
+Hector Warrington, Unskilled: 2.34 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.40 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 2.09 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.51 
+
+========================= MONTH 11 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.56 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 2.05 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 3.15 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.49 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.09 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.51 
+
+========================= MONTH 12 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.56 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 2.05 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.49 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.34 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 2.11 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.40 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 2.14 utils
+Saul Gowing, Capitalist: 2.37 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.51 
+
+========================= MONTH 13 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.56 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 2.05 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 2.46 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 2.34 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 2.11 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.09 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 2.14 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.41 
+
+========================= MONTH 14 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.56 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.43 
+
+========================= MONTH 15 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.56 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.49 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.40 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.42 
+
+========================= MONTH 16 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 1.14 utils
+Anton Rogers, Capitalist: 1.11 utils
+Pinkney Makin, Capitalist: 1.62 utils
+Avg. utils: 1.43 
+
+========================= MONTH 17 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.45 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.39 
+
+========================= MONTH 18 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.34 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 2.14 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.40 
+
+========================= MONTH 19 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 1.86 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.07 
+
+========================= MONTH 20 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.34 
+
+========================= MONTH 21 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.33 
+
+========================= MONTH 22 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.83 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.12 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.51 
+
+========================= MONTH 23 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 3.15 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.09 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 2.37 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.45 
+
+========================= MONTH 24 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 2.56 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.65 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 2.11 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.09 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 2.14 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.44 
+
+========================= MONTH 25 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 2.56 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 3.45 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.83 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 2.29 utils
+Chauncey Allum, Capitalist: 2.13 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 2.34 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.44 
+
+========================= MONTH 26 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 3.03 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.65 utils
+Chauncey Allum, Capitalist: 2.13 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 2.71 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.38 
+
+========================= MONTH 27 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 3.03 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.65 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 2.87 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.39 
+
+========================= MONTH 28 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 3.39 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 2.81 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 3.03 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.47 
+
+========================= MONTH 29 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.62 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.48 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 2.14 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.33 
+
+========================= MONTH 30 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.83 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.65 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 2.14 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.35 
+
+========================= MONTH 31 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.62 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.83 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.48 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.25 
+
+========================= MONTH 32 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.97 
+
+========================= MONTH 33 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.40 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.09 utils
+Chauncey Allum, Capitalist: 1.94 utils
+Cliff Ivory, Capitalist: 2.33 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.16 
+
+========================= MONTH 34 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 1.99 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.14 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 0.91 
+
+========================= MONTH 35 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.36 
+
+========================= MONTH 36 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 0.42 
+
+========================= MONTH 37 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.36 
+
+========================= MONTH 38 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 1.68 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.44 
+
+========================= MONTH 39 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 1.19 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 0.43 
+
+========================= MONTH 40 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.35 
+
+========================= MONTH 41 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.36 
+
+========================= MONTH 42 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 0.41 
+
+========================= MONTH 43 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.36 
+
+========================= MONTH 44 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.34 
+
+========================= MONTH 45 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.36 
+
+========================= MONTH 46 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 0.39 
+
+========================= MONTH 47 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.31 
+
+========================= MONTH 48 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.27 
+
+========================= MONTH 49 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 50 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 1.42 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.96 utils
+Eben Moriarty, Unskilled: 1.78 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 3.03 utils
+Elmo Goldberg, Capitalist: 2.14 utils
+Napoleon Orvis, Capitalist: 2.65 utils
+Chauncey Allum, Capitalist: 2.46 utils
+Cliff Ivory, Capitalist: 2.60 utils
+Rolland Ewing, Capitalist: 2.71 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.59 
+
+========================= MONTH 51 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 1.68 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.39 
+
+========================= MONTH 52 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 53 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 1.42 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.77 utils
+Eben Moriarty, Unskilled: 2.52 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 2.83 utils
+Elmo Goldberg, Capitalist: 2.14 utils
+Napoleon Orvis, Capitalist: 2.48 utils
+Chauncey Allum, Capitalist: 2.30 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 2.53 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.69 
+
+========================= MONTH 54 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.35 
+
+========================= MONTH 55 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 56 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 1.20 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 1.65 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.96 utils
+Eben Moriarty, Unskilled: 2.19 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 3.03 utils
+Elmo Goldberg, Capitalist: 2.29 utils
+Napoleon Orvis, Capitalist: 2.65 utils
+Chauncey Allum, Capitalist: 2.46 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 2.53 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.74 
+
+========================= MONTH 57 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.62 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.86 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.68 
+
+========================= MONTH 58 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 1.14 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.39 
+
+========================= MONTH 59 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.07 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.29 
+
+========================= MONTH 60 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 61 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.56 utils
+Eben Moriarty, Unskilled: 2.52 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.19 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 3.55 utils
+Elmo Goldberg, Capitalist: 1.81 utils
+Napoleon Orvis, Capitalist: 3.10 utils
+Chauncey Allum, Capitalist: 2.88 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.76 
+
+========================= MONTH 62 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.55 utils
+Jeff Atter, Capitalist: 2.62 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 2.48 utils
+Chauncey Allum, Capitalist: 2.13 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.83 
+
+========================= MONTH 63 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.35 
+
+========================= MONTH 64 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 65 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 2.29 utils
+Hector Warrington, Unskilled: 2.56 utils
+Eben Moriarty, Unskilled: 2.19 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 4.42 utils
+Elmo Goldberg, Capitalist: 1.40 utils
+Napoleon Orvis, Capitalist: 3.86 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.69 
+
+========================= MONTH 66 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 1.99 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.34 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 3.21 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 2.96 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.82 
+
+========================= MONTH 67 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.36 
+
+========================= MONTH 68 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 69 =========================
+
+Freeman Dunning, Unskilled: 1.46 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.54 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.83 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 2.20 utils
+Edgar Tudor, Unskilled: 2.81 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 2.19 utils
+Halsey Yorke, Unskilled: 1.89 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 4.42 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 3.74 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 2.01 utils
+Rolland Ewing, Capitalist: 1.91 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.76 
+
+========================= MONTH 70 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.62 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 1.68 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 1.99 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.34 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.55 utils
+Jeff Atter, Capitalist: 3.21 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 2.96 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.82 
+
+========================= MONTH 71 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 0.81 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.35 
+
+========================= MONTH 72 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 73 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.63 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 0.83 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 2.52 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 2.19 utils
+Jeff Atter, Capitalist: 4.91 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 3.63 utils
+Chauncey Allum, Capitalist: 1.74 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 0.81 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.74 
+
+========================= MONTH 74 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 3.71 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.83 
+
+========================= MONTH 75 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.05 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.32 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.35 
+
+========================= MONTH 76 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 77 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 2.29 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 1.63 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.56 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 1.18 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 2.09 utils
+Eben Moriarty, Unskilled: 2.52 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 5.57 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.65 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.79 utils
+Pinkney Makin, Capitalist: 1.14 utils
+Avg. utils: 1.69 
+
+========================= MONTH 78 =========================
+
+Freeman Dunning, Unskilled: 1.26 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.55 utils
+Jeff Atter, Capitalist: 3.71 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.91 
+
+========================= MONTH 79 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.35 
+
+========================= MONTH 80 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 81 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 1.56 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.59 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 1.91 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 2.71 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 1.02 utils
+Adolph O'Neal, Unskilled: 1.99 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 2.52 utils
+Halsey Yorke, Unskilled: 1.34 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 5.87 utils
+Elmo Goldberg, Capitalist: 1.81 utils
+Napoleon Orvis, Capitalist: 2.48 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.84 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.70 
+
+========================= MONTH 82 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 1.68 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 1.99 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.64 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.55 utils
+Jeff Atter, Capitalist: 2.83 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.87 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.76 
+
+========================= MONTH 83 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.52 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 0.94 utils
+Chauncey Allum, Capitalist: 0.87 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.36 
+
+========================= MONTH 84 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 
+
+========================= MONTH 85 =========================
+
+Freeman Dunning, Unskilled: 1.63 utils
+Juan Vine, Unskilled: 1.98 utils
+Fletcher Keywood, Unskilled: 1.08 utils
+Hershel Liddle, Unskilled: 1.27 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 1.41 utils
+Urban Warrington, Unskilled: 1.83 utils
+Tommie Watts, Unskilled: 2.37 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 1.43 utils
+Lafe Broadley, Unskilled: 3.13 utils
+Stanton Wells, Unskilled: 2.44 utils
+Lee Bean, Unskilled: 0.83 utils
+Adolph O'Neal, Unskilled: 2.56 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 2.19 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 1.03 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 5.67 utils
+Elmo Goldberg, Capitalist: 1.62 utils
+Napoleon Orvis, Capitalist: 2.65 utils
+Chauncey Allum, Capitalist: 1.51 utils
+Cliff Ivory, Capitalist: 1.64 utils
+Rolland Ewing, Capitalist: 1.66 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.64 
+
+========================= MONTH 86 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 1.62 utils
+Fletcher Keywood, Unskilled: 0.93 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 1.59 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 1.68 utils
+Jules Greenway, Unskilled: 1.56 utils
+Edgar Tudor, Unskilled: 2.44 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 2.21 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 1.62 utils
+Hector Warrington, Unskilled: 1.81 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 1.34 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 1.90 utils
+Jeff Atter, Capitalist: 5.25 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 1.35 utils
+Saul Gowing, Capitalist: 1.50 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 1.10 
+
+========================= MONTH 87 =========================
+
+Freeman Dunning, Unskilled: 1.03 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.76 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 2.05 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 1.99 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 1.48 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 1.86 utils
+Elmo Goldberg, Capitalist: 1.14 utils
+Napoleon Orvis, Capitalist: 1.62 utils
+Chauncey Allum, Capitalist: 1.23 utils
+Cliff Ivory, Capitalist: 1.16 utils
+Rolland Ewing, Capitalist: 0.96 utils
+Saul Gowing, Capitalist: 1.06 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.54 
+
+========================= MONTH 88 =========================
+
+Freeman Dunning, Unskilled: 0.00 utils
+Juan Vine, Unskilled: 0.00 utils
+Fletcher Keywood, Unskilled: 0.00 utils
+Hershel Liddle, Unskilled: 0.00 utils
+Olaf Lopez, Unskilled: 0.00 utils
+Glenn Strickland, Unskilled: 0.00 utils
+Urban Warrington, Unskilled: 0.00 utils
+Tommie Watts, Unskilled: 0.00 utils
+Jules Greenway, Unskilled: 0.00 utils
+Edgar Tudor, Unskilled: 0.00 utils
+Neal Saville, Unskilled: 0.00 utils
+Lafe Broadley, Unskilled: 0.00 utils
+Stanton Wells, Unskilled: 0.00 utils
+Lee Bean, Unskilled: 0.00 utils
+Adolph O'Neal, Unskilled: 0.00 utils
+Hector Warrington, Unskilled: 0.00 utils
+Eben Moriarty, Unskilled: 0.00 utils
+Halsey Yorke, Unskilled: 0.00 utils
+Roscoe Finlay, Unskilled: 0.00 utils
+Wheeler Brelsford, Unskilled: 0.00 utils
+Jeff Atter, Capitalist: 0.00 utils
+Elmo Goldberg, Capitalist: 0.00 utils
+Napoleon Orvis, Capitalist: 0.00 utils
+Chauncey Allum, Capitalist: 0.00 utils
+Cliff Ivory, Capitalist: 0.00 utils
+Rolland Ewing, Capitalist: 0.00 utils
+Saul Gowing, Capitalist: 0.00 utils
+Jefferson Warren, Capitalist: 0.00 utils
+Anton Rogers, Capitalist: 0.00 utils
+Pinkney Makin, Capitalist: 0.00 utils
+Avg. utils: 0.00 

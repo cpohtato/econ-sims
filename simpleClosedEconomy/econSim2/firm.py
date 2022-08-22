@@ -15,6 +15,9 @@ class Firm():
             self.jobProd.append(random.gauss(JOB_PROD_MEAN[jobType], 
             JOB_PROD_NORM_STD_DEV[jobType] * JOB_PROD_MEAN[jobType]))
 
+        self.remaining: int = 0
+        self.rawMaterials: list[int] = [0 for i in range(NUM_GOOD_TYPES)]
+
         # Previous step stats, should be updated at the end of every month
         self.prevPrice: float = initPrice
         self.prevListWages: list[float] = initWages
@@ -22,6 +25,7 @@ class Firm():
         self.prevListLabourReceived: list[int] = [1, 0]
         self.prevSales: int = initSales
         self.prevProduced: int = initProduced
+        self.prevProfit: float = 0.0
 
         # Current step stats, should be reset at the end of every month
         self.currPrice: float = initPrice
@@ -31,7 +35,8 @@ class Firm():
         self.currListLabourReceived: list[float] = [0 for i in range(NUM_JOB_TYPES-1)]
         self.currSales: int = 0
         self.currProduced: int = 0
-        self.currRawMaterials: list[int] = [0 for i in range(NUM_GOOD_TYPES)]
+
+        
 
     def generateName(self, surname: str):
         if (self.goodType == TYPE_FOOD):
@@ -60,14 +65,14 @@ class Firm():
             received = self.prevListLabourReceived[jobType]
             if (demanded == received):
                 #   Firms will try to squeeze workers on wages if full employment
-                self.currListWages[jobType] *= random.uniform(1 - WAGE_VISCOSITY, 1)
-                self.currListWages[jobType] = round(self.currListWages[jobType], 2)
+                self.currListWages[jobType] *= random.uniform(1 - 0.1*WAGE_VISCOSITY, 1)
+                # self.currListWages[jobType] = round(self.currListWages[jobType], 2)
             else:
                 #   Firms will raise wages to get more workers
                 #   Larger labour shortfall will make firm raise wages higher
                 shortfall: float = 1 - (float(received)/float(demanded))
                 self.currListWages[jobType] *= random.uniform(1, 1 + WAGE_VISCOSITY*(1+shortfall))
-                self.currListWages[jobType] = round(self.currListWages[jobType], 2)
+                # self.currListWages[jobType] = round(self.currListWages[jobType], 2)
 
         #   Calculate MPW condition
         outputPrice = self.currPrice
@@ -134,14 +139,27 @@ class Firm():
         return inputCosts
 
     def updatePrice(self):
-        #   TODO: change prevProduced to previous total at stall
-        surplus = (((1 - TARGET_SURPLUS) * self.prevProduced)/self.prevSales) - 1
+
+        if (self.prevProduced > 0):
+            # surplus = self.remaining/(TARGET_SURPLUS * self.prevProduced) - 1
+            surplus = (self.prevProduced - self.prevSales)/(TARGET_SURPLUS * self.prevProduced) - 1
+        else:
+            surplus = -0.2
+
+        if (surplus > 1):
+            surplus = 1
+        elif (surplus < -1):
+            surplus = -1
+
         if (surplus <= 0):
             self.currPrice = self.prevPrice * random.uniform(1, 1 + PRICE_VISCOSITY * (1 + 
             abs(surplus)))
         else:
             self.currPrice = self.prevPrice * random.uniform(1 - PRICE_VISCOSITY * (1 + 
             abs(surplus)), 1)
+
+        if (self.currPrice < 0):
+            print("Error: negative price")
 
     def demandLabour(self, jobType: int):
         firmID = self.firmID
@@ -165,6 +183,39 @@ class Firm():
         self.currProduced: int = 0
 
         if ((self.goodType == TYPE_FOOD) or (self.goodType == TYPE_ENERGY)):
-            self.currProduced = productivity / PROD_COST[self.goodType]
+            self.currProduced = math.floor(productivity / PROD_COST[self.goodType])
 
         return self.currProduced, self.currPrice
+
+    def receiveRevenue(self, revenue: float, sales: int, qtyRemaining: int):
+        self.funds += revenue
+        self.currSales = sales
+        self.remaining = qtyRemaining
+
+    def reset(self):
+        self.prevProfit = (self.currSales*self.currPrice) - self.currDividends
+        for jobType in range(NUM_JOB_TYPES-1):
+            self.prevProfit -= self.currListLabourReceived[jobType] * self.currListWages[jobType]
+
+        # Previous step stats, should be updated at the end of every month
+        self.prevPrice: float = self.currPrice
+        self.prevListWages: list[float] = self.currListWages
+        self.prevListLabourDemand: list[int] = self.currListLabourDemand
+        self.prevListLabourReceived: list[int] = self.currListLabourReceived
+        self.prevSales: int = self.currSales
+        self.prevProduced: int = self.currProduced
+
+        # Current step stats, should be reset at the end of every month
+        self.currPrice: float = 0
+        self.currDividends: float = 0.0
+        self.currListWages: list[float] = [0 for i in range(NUM_JOB_TYPES-1)]
+        self.currListLabourDemand: list[float] = [0 for i in range(NUM_JOB_TYPES-1)]
+        self.currListLabourReceived: list[float] = [0 for i in range(NUM_JOB_TYPES-1)]
+        self.currSales: int = 0
+        self.currProduced: int = 0
+
+    def log(self):
+        with open("simpleClosedEconomy/log/firms.txt", "a") as logFile:
+            logFile.write(self.name + ", " + DICT_GOOD_NAMES[self.goodType] + ": " + str(self.
+            prevSales) + "/" + str(self.prevProduced) + ", Profit: " + "{:.2f}".format(self.
+            prevProfit) + "\n")

@@ -10,6 +10,9 @@ def wipeLogs():
     with open("simpleClosedEconomy/log/firms.txt", "w") as logFile:
         logFile.write("")
 
+    with open("simpleClosedEconomy/log/pops.txt", "w") as logFile:
+        logFile.write("")
+
 def generatePopName():
     popName = random.choice(MALE_FIRST_NAMES_DATA) + " " + random.choice(SURNAMES_DATA)
     popName = popName.rstrip()
