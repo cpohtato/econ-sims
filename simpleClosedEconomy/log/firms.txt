@@ -1,1144 +1,3328 @@
 
 ========================= MONTH 1 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.56
-Goldberg Limited, Food: 8/8, Profit: 0.10
-Orvis Ranch, Food: 15/15, Profit: 0.55
-Allum Spring, Food: 9/9, Profit: 0.25
-Ivory Farms, Food: 8/8, Profit: 0.10
-Ewing Grain, Food: 15/15, Profit: 0.57
-Gowing Goods, Food: 0/0, Profit: -0.50
-Warren LLC, Food: 0/0, Profit: -0.50
-Rogers Ag, Food: 0/0, Profit: -0.50
-Makin Cereals, Food: 0/0, Profit: -0.50
+Astbury Place, Food: 48/48, Profit: 1.09
+Thurston Farms, Food: 86/86, Profit: 2.63
+Newsome Goods, Food: 102/102, Profit: 3.19
+Nanson Corp, Food: 115/115, Profit: 3.62
+Roden Organic, Food: 32/32, Profit: 0.59
+Lavery Hills, Food: 69/69, Profit: 2.09
+Francis Ag, Food: 49/49, Profit: 1.14
+Ainsworth Goods, Food: 52/52, Profit: 1.45
+Roff Organic, Food: 64/64, Profit: 1.74
+Elston AgTech, Food: 95/95, Profit: 2.77
 
 ========================= MONTH 2 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.54
-Goldberg Limited, Food: 8/8, Profit: 0.11
-Orvis Ranch, Food: 15/15, Profit: 0.56
-Allum Spring, Food: 9/9, Profit: 0.26
-Ivory Farms, Food: 8/8, Profit: 0.10
-Ewing Grain, Food: 15/15, Profit: 0.54
-Gowing Goods, Food: 0/0, Profit: -0.48
-Warren LLC, Food: 0/0, Profit: -0.48
-Rogers Ag, Food: 0/0, Profit: -0.48
-Makin Cereals, Food: 0/0, Profit: -0.48
+Astbury Place, Food: 48/48, Profit: 1.17
+Thurston Farms, Food: 94/94, Profit: 2.89
+Newsome Goods, Food: 110/110, Profit: 3.43
+Nanson Corp, Food: 115/115, Profit: 3.53
+Roden Organic, Food: 32/32, Profit: 0.73
+Lavery Hills, Food: 69/69, Profit: 2.02
+Francis Ag, Food: 49/49, Profit: 1.34
+Ainsworth Goods, Food: 60/60, Profit: 1.51
+Roff Organic, Food: 64/64, Profit: 1.89
+Elston AgTech, Food: 95/95, Profit: 2.73
 
 ========================= MONTH 3 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.54
-Goldberg Limited, Food: 8/8, Profit: 0.12
-Orvis Ranch, Food: 15/15, Profit: 0.55
-Allum Spring, Food: 9/9, Profit: 0.26
-Ivory Farms, Food: 8/8, Profit: 0.10
-Ewing Grain, Food: 15/15, Profit: 0.52
-Gowing Goods, Food: 17/17, Profit: 0.90
-Warren LLC, Food: 0/0, Profit: -0.45
-Rogers Ag, Food: 0/0, Profit: -0.45
-Makin Cereals, Food: 0/0, Profit: -0.45
+Astbury Place, Food: 48/48, Profit: 1.32
+Thurston Farms, Food: 94/94, Profit: 2.83
+Newsome Goods, Food: 118/118, Profit: 3.75
+Nanson Corp, Food: 115/115, Profit: 3.56
+Roden Organic, Food: 32/32, Profit: 0.75
+Lavery Hills, Food: 77/77, Profit: 2.32
+Francis Ag, Food: 49/49, Profit: 1.31
+Ainsworth Goods, Food: 60/60, Profit: 1.66
+Roff Organic, Food: 64/64, Profit: 1.88
+Elston AgTech, Food: 95/95, Profit: 2.99
 
 ========================= MONTH 4 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.55
-Goldberg Limited, Food: 8/8, Profit: 0.14
-Orvis Ranch, Food: 15/15, Profit: 0.54
-Allum Spring, Food: 13/13, Profit: 0.29
-Ivory Farms, Food: 8/8, Profit: 0.09
-Ewing Grain, Food: 15/15, Profit: 0.54
-Gowing Goods, Food: 17/17, Profit: 0.88
-Warren LLC, Food: 0/0, Profit: -0.43
-Rogers Ag, Food: 0/0, Profit: -0.43
-Makin Cereals, Food: 0/0, Profit: -0.43
+Astbury Place, Food: 48/48, Profit: 1.33
+Thurston Farms, Food: 101/101, Profit: 3.09
+Newsome Goods, Food: 125/125, Profit: 4.17
+Nanson Corp, Food: 123/123, Profit: 3.50
+Roden Organic, Food: 32/32, Profit: 0.76
+Lavery Hills, Food: 77/77, Profit: 2.26
+Francis Ag, Food: 49/49, Profit: 1.29
+Ainsworth Goods, Food: 60/60, Profit: 1.76
+Roff Organic, Food: 72/72, Profit: 1.91
+Elston AgTech, Food: 78/78, Profit: 3.06
 
 ========================= MONTH 5 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.54
-Goldberg Limited, Food: 8/8, Profit: 0.14
-Orvis Ranch, Food: 15/15, Profit: 0.53
-Allum Spring, Food: 13/13, Profit: 0.30
-Ivory Farms, Food: 8/8, Profit: 0.10
-Ewing Grain, Food: 15/15, Profit: 0.53
-Gowing Goods, Food: 17/17, Profit: 0.85
-Warren LLC, Food: 0/0, Profit: -0.41
-Rogers Ag, Food: 0/0, Profit: -0.41
-Makin Cereals, Food: 0/0, Profit: -0.41
+Astbury Place, Food: 55/55, Profit: 1.48
+Thurston Farms, Food: 101/101, Profit: 3.23
+Newsome Goods, Food: 18/125, Profit: -5.05
+Nanson Corp, Food: 130/130, Profit: 3.86
+Roden Organic, Food: 32/32, Profit: 0.74
+Lavery Hills, Food: 85/85, Profit: 2.40
+Francis Ag, Food: 49/49, Profit: 1.23
+Ainsworth Goods, Food: 60/60, Profit: 1.69
+Roff Organic, Food: 72/72, Profit: 1.85
+Elston AgTech, Food: 0/39, Profit: -1.69
 
 ========================= MONTH 6 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.52
-Goldberg Limited, Food: 8/8, Profit: 0.15
-Orvis Ranch, Food: 15/15, Profit: 0.51
-Allum Spring, Food: 13/13, Profit: 0.31
-Ivory Farms, Food: 8/8, Profit: 0.11
-Ewing Grain, Food: 15/15, Profit: 0.54
-Gowing Goods, Food: 17/17, Profit: 0.82
-Warren LLC, Food: 0/0, Profit: -0.39
-Rogers Ag, Food: 0/0, Profit: -0.39
-Makin Cereals, Food: 0/0, Profit: -0.39
+Astbury Place, Food: 0/55, Profit: -3.20
+Thurston Farms, Food: 0/108, Profit: -5.99
+Newsome Goods, Food: 225/118, Profit: 12.03
+Nanson Corp, Food: 130/130, Profit: 3.92
+Roden Organic, Food: 4/39, Profit: -2.12
+Lavery Hills, Food: 0/85, Profit: -4.61
+Francis Ag, Food: 57/57, Profit: 1.54
+Ainsworth Goods, Food: 0/67, Profit: -3.88
+Roff Organic, Food: 55/55, Profit: 1.67
+Elston AgTech, Food: 39/0, Profit: 2.26
 
 ========================= MONTH 7 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.50
-Goldberg Limited, Food: 8/8, Profit: 0.15
-Orvis Ranch, Food: 15/15, Profit: 0.52
-Allum Spring, Food: 13/13, Profit: 0.33
-Ivory Farms, Food: 8/8, Profit: 0.11
-Ewing Grain, Food: 15/15, Profit: 0.54
-Gowing Goods, Food: 17/17, Profit: 0.81
-Warren LLC, Food: 0/0, Profit: -0.37
-Rogers Ag, Food: 0/0, Profit: -0.37
-Makin Cereals, Food: 0/0, Profit: -0.37
+Astbury Place, Food: 110/55, Profit: 5.76
+Thurston Farms, Food: 0/101, Profit: -5.10
+Newsome Goods, Food: 118/118, Profit: 3.14
+Nanson Corp, Food: 0/137, Profit: -7.54
+Roden Organic, Food: 0/32, Profit: -1.76
+Lavery Hills, Food: 125/85, Profit: 5.71
+Francis Ag, Food: 0/57, Profit: -3.26
+Ainsworth Goods, Food: 127/60, Profit: 7.11
+Roff Organic, Food: 0/72, Profit: -4.01
+Elston AgTech, Food: 0/0, Profit: -1.11
 
 ========================= MONTH 8 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.51
-Goldberg Limited, Food: 8/8, Profit: 0.17
-Orvis Ranch, Food: 15/15, Profit: 0.51
-Allum Spring, Food: 13/13, Profit: 0.35
-Ivory Farms, Food: 8/8, Profit: 0.12
-Ewing Grain, Food: 15/15, Profit: 0.55
-Gowing Goods, Food: 17/17, Profit: 0.81
-Warren LLC, Food: 0/0, Profit: -0.35
-Rogers Ag, Food: 0/0, Profit: -0.35
-Makin Cereals, Food: 0/0, Profit: -0.35
+Astbury Place, Food: 0/55, Profit: -3.31
+Thurston Farms, Food: 256/101, Profit: 15.77
+Newsome Goods, Food: 0/125, Profit: -7.06
+Nanson Corp, Food: 0/130, Profit: -6.56
+Roden Organic, Food: 99/32, Profit: 6.14
+Lavery Hills, Food: 0/85, Profit: -4.66
+Francis Ag, Food: 0/57, Profit: -3.09
+Ainsworth Goods, Food: 0/67, Profit: -4.04
+Roff Organic, Food: 136/64, Profit: 7.44
+Elston AgTech, Food: 0/0, Profit: -1.05
 
 ========================= MONTH 9 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.51
-Goldberg Limited, Food: 8/8, Profit: 0.16
-Orvis Ranch, Food: 15/15, Profit: 0.50
-Allum Spring, Food: 13/13, Profit: 0.37
-Ivory Farms, Food: 8/8, Profit: 0.13
-Ewing Grain, Food: 15/15, Profit: 0.57
-Gowing Goods, Food: 21/21, Profit: 0.85
-Warren LLC, Food: 0/0, Profit: -0.33
-Rogers Ag, Food: 0/0, Profit: -0.33
-Makin Cereals, Food: 0/0, Profit: -0.33
+Astbury Place, Food: 103/48, Profit: 5.31
+Thurston Farms, Food: 0/101, Profit: -5.61
+Newsome Goods, Food: 0/118, Profit: -6.11
+Nanson Corp, Food: 390/123, Profit: 23.99
+Roden Organic, Food: 0/39, Profit: -2.56
+Lavery Hills, Food: 0/85, Profit: -4.42
+Francis Ag, Food: 27/57, Profit: -0.82
+Ainsworth Goods, Food: 0/67, Profit: -3.83
+Roff Organic, Food: 0/64, Profit: -3.66
+Elston AgTech, Food: 0/55, Profit: -2.36
 
 ========================= MONTH 10 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.51
-Goldberg Limited, Food: 8/8, Profit: 0.15
-Orvis Ranch, Food: 15/15, Profit: 0.51
-Allum Spring, Food: 13/13, Profit: 0.36
-Ivory Farms, Food: 8/8, Profit: 0.13
-Ewing Grain, Food: 15/15, Profit: 0.58
-Gowing Goods, Food: 17/17, Profit: 0.81
-Warren LLC, Food: 0/0, Profit: -0.32
-Rogers Ag, Food: 0/0, Profit: -0.32
-Makin Cereals, Food: 0/0, Profit: -0.32
+Astbury Place, Food: 0/48, Profit: -2.82
+Thurston Farms, Food: 0/94, Profit: -4.73
+Newsome Goods, Food: 353/110, Profit: 21.27
+Nanson Corp, Food: 0/123, Profit: -6.81
+Roden Organic, Food: 0/32, Profit: -1.84
+Lavery Hills, Food: 0/77, Profit: -3.60
+Francis Ag, Food: 34/49, Profit: 0.30
+Ainsworth Goods, Food: 0/60, Profit: -3.04
+Roff Organic, Food: 128/64, Profit: 5.88
+Elston AgTech, Food: 0/87, Profit: -4.43
 
 ========================= MONTH 11 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.52
-Goldberg Limited, Food: 8/8, Profit: 0.15
-Orvis Ranch, Food: 15/15, Profit: 0.50
-Allum Spring, Food: 13/13, Profit: 0.35
-Ivory Farms, Food: 8/8, Profit: 0.14
-Ewing Grain, Food: 15/15, Profit: 0.59
-Gowing Goods, Food: 17/17, Profit: 0.79
-Warren LLC, Food: 0/0, Profit: -0.30
-Rogers Ag, Food: 0/0, Profit: -0.30
-Makin Cereals, Food: 0/0, Profit: -0.30
+Astbury Place, Food: 96/48, Profit: 4.27
+Thurston Farms, Food: 335/86, Profit: 19.86
+Newsome Goods, Food: 0/118, Profit: -6.86
+Nanson Corp, Food: 0/123, Profit: -6.46
+Roden Organic, Food: 0/32, Profit: -1.75
+Lavery Hills, Food: 0/77, Profit: -3.42
+Francis Ag, Food: 46/49, Profit: 1.08
+Ainsworth Goods, Food: 0/60, Profit: -2.88
+Roff Organic, Food: 64/64, Profit: 0.92
+Elston AgTech, Food: 0/87, Profit: -4.20
 
 ========================= MONTH 12 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.52
-Goldberg Limited, Food: 8/8, Profit: 0.17
-Orvis Ranch, Food: 15/15, Profit: 0.49
-Allum Spring, Food: 13/13, Profit: 0.34
-Ivory Farms, Food: 8/8, Profit: 0.14
-Ewing Grain, Food: 15/15, Profit: 0.61
-Gowing Goods, Food: 17/17, Profit: 0.79
-Warren LLC, Food: 0/0, Profit: -0.28
-Rogers Ag, Food: 0/0, Profit: -0.28
-Makin Cereals, Food: 0/0, Profit: -0.28
+Astbury Place, Food: 0/48, Profit: -2.88
+Thurston Farms, Food: 0/94, Profit: -5.48
+Newsome Goods, Food: 0/110, Profit: -5.91
+Nanson Corp, Food: 361/115, Profit: 20.51
+Roden Organic, Food: 0/32, Profit: -1.66
+Lavery Hills, Food: 153/69, Profit: 8.67
+Francis Ag, Food: 0/49, Profit: -2.36
+Ainsworth Goods, Food: 0/60, Profit: -2.73
+Roff Organic, Food: 0/64, Profit: -3.81
+Elston AgTech, Food: 0/87, Profit: -3.98
 
 ========================= MONTH 13 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.54
-Goldberg Limited, Food: 8/8, Profit: 0.17
-Orvis Ranch, Food: 15/15, Profit: 0.49
-Allum Spring, Food: 13/13, Profit: 0.37
-Ivory Farms, Food: 8/8, Profit: 0.14
-Ewing Grain, Food: 15/15, Profit: 0.59
-Gowing Goods, Food: 12/12, Profit: 0.54
-Warren LLC, Food: 0/0, Profit: -0.27
-Rogers Ag, Food: 0/0, Profit: -0.27
-Makin Cereals, Food: 0/0, Profit: -0.27
+Astbury Place, Food: 96/48, Profit: 4.02
+Thurston Farms, Food: 0/94, Profit: -5.20
+Newsome Goods, Food: 248/102, Profit: 12.68
+Nanson Corp, Food: 0/123, Profit: -7.14
+Roden Organic, Food: 167/32, Profit: 10.14
+Lavery Hills, Food: 0/85, Profit: -4.25
+Francis Ag, Food: 0/49, Profit: -2.24
+Ainsworth Goods, Food: 0/52, Profit: -2.00
+Roff Organic, Food: 0/64, Profit: -3.62
+Elston AgTech, Food: 0/67, Profit: -2.37
 
 ========================= MONTH 14 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.54
-Goldberg Limited, Food: 8/8, Profit: 0.16
-Orvis Ranch, Food: 19/19, Profit: 0.57
-Allum Spring, Food: 13/13, Profit: 0.37
-Ivory Farms, Food: 8/8, Profit: 0.16
-Ewing Grain, Food: 18/18, Profit: 0.54
-Gowing Goods, Food: 0/0, Profit: -0.89
-Warren LLC, Food: 0/0, Profit: -0.26
-Rogers Ag, Food: 0/0, Profit: -0.26
-Makin Cereals, Food: 0/0, Profit: -0.26
+Astbury Place, Food: 0/48, Profit: -2.93
+Thurston Farms, Food: 274/86, Profit: 14.33
+Newsome Goods, Food: 0/110, Profit: -6.23
+Nanson Corp, Food: 0/115, Profit: -6.19
+Roden Organic, Food: 0/32, Profit: -2.08
+Lavery Hills, Food: 0/77, Profit: -3.44
+Francis Ag, Food: 0/49, Profit: -2.13
+Ainsworth Goods, Food: 197/42, Profit: 12.54
+Roff Organic, Food: 0/64, Profit: -3.43
+Elston AgTech, Food: 0/39, Profit: -0.84
 
 ========================= MONTH 15 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.45
-Goldberg Limited, Food: 8/8, Profit: 0.17
-Orvis Ranch, Food: 19/19, Profit: 0.60
-Allum Spring, Food: 13/13, Profit: 0.38
-Ivory Farms, Food: 8/8, Profit: 0.15
-Ewing Grain, Food: 15/15, Profit: 0.58
-Gowing Goods, Food: 0/0, Profit: -0.85
-Warren LLC, Food: 0/0, Profit: -0.24
-Rogers Ag, Food: 0/0, Profit: -0.24
-Makin Cereals, Food: 0/0, Profit: -0.24
+Astbury Place, Food: 0/48, Profit: -2.79
+Thurston Farms, Food: 0/86, Profit: -5.06
+Newsome Goods, Food: 0/110, Profit: -5.92
+Nanson Corp, Food: 344/106, Profit: 17.81
+Roden Organic, Food: 0/32, Profit: -1.97
+Lavery Hills, Food: 0/69, Profit: -2.69
+Francis Ag, Food: 149/49, Profit: 8.20
+Ainsworth Goods, Food: 0/60, Profit: -3.11
+Roff Organic, Food: 0/64, Profit: -3.26
+Elston AgTech, Food: 0/39, Profit: -0.79
 
 ========================= MONTH 16 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.45
-Goldberg Limited, Food: 8/8, Profit: 0.17
-Orvis Ranch, Food: 19/19, Profit: 0.60
-Allum Spring, Food: 13/13, Profit: 0.38
-Ivory Farms, Food: 8/8, Profit: 0.17
-Ewing Grain, Food: 15/15, Profit: 0.56
-Gowing Goods, Food: 0/0, Profit: -0.81
-Warren LLC, Food: 0/0, Profit: -0.23
-Rogers Ag, Food: 0/0, Profit: -0.23
-Makin Cereals, Food: 0/0, Profit: -0.23
+Astbury Place, Food: 0/48, Profit: -2.65
+Thurston Farms, Food: 0/86, Profit: -4.80
+Newsome Goods, Food: 0/102, Profit: -5.04
+Nanson Corp, Food: 0/106, Profit: -6.18
+Roden Organic, Food: 18/32, Profit: -0.68
+Lavery Hills, Food: 0/60, Profit: -1.97
+Francis Ag, Food: 0/49, Profit: -2.43
+Ainsworth Goods, Food: 0/52, Profit: -2.37
+Roff Organic, Food: 0/64, Profit: -3.09
+Elston AgTech, Food: 461/0, Profit: 29.30
 
 ========================= MONTH 17 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.46
-Goldberg Limited, Food: 8/8, Profit: 0.18
-Orvis Ranch, Food: 19/19, Profit: 0.62
-Allum Spring, Food: 13/13, Profit: 0.40
-Ivory Farms, Food: 11/11, Profit: 0.09
-Ewing Grain, Food: 10/10, Profit: 0.26
-Gowing Goods, Food: 0/0, Profit: -0.77
-Warren LLC, Food: 0/0, Profit: -0.22
-Rogers Ag, Food: 0/0, Profit: -0.22
-Makin Cereals, Food: 0/0, Profit: -0.22
+Astbury Place, Food: 0/48, Profit: -2.51
+Thurston Farms, Food: 0/86, Profit: -4.55
+Newsome Goods, Food: 0/102, Profit: -4.78
+Nanson Corp, Food: 212/106, Profit: 8.00
+Roden Organic, Food: 110/32, Profit: 5.18
+Lavery Hills, Food: 0/34, Profit: -0.70
+Francis Ag, Food: 0/49, Profit: -2.30
+Ainsworth Goods, Food: 0/52, Profit: -2.24
+Roff Organic, Food: 151/55, Profit: 7.60
+Elston AgTech, Food: 0/67, Profit: -3.61
 
 ========================= MONTH 18 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.48
-Goldberg Limited, Food: 8/8, Profit: 0.19
-Orvis Ranch, Food: 19/19, Profit: 0.65
-Allum Spring, Food: 13/13, Profit: 0.42
-Ivory Farms, Food: 11/11, Profit: 0.10
-Ewing Grain, Food: 10/10, Profit: 0.27
-Gowing Goods, Food: 0/0, Profit: -0.73
-Warren LLC, Food: 0/0, Profit: -0.21
-Rogers Ag, Food: 0/0, Profit: -0.21
-Makin Cereals, Food: 0/0, Profit: -0.21
+Astbury Place, Food: 231/39, Profit: 12.87
+Thurston Farms, Food: 0/86, Profit: -4.32
+Newsome Goods, Food: 0/102, Profit: -4.54
+Nanson Corp, Food: 0/115, Profit: -6.84
+Roden Organic, Food: 32/32, Profit: 0.01
+Lavery Hills, Food: 82/34, Profit: 4.73
+Francis Ag, Food: 0/49, Profit: -2.18
+Ainsworth Goods, Food: 0/52, Profit: -2.13
+Roff Organic, Food: 0/55, Profit: -2.71
+Elston AgTech, Food: 134/67, Profit: 5.05
 
 ========================= MONTH 19 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.47
-Goldberg Limited, Food: 11/11, Profit: 0.14
-Orvis Ranch, Food: 19/19, Profit: 0.64
-Allum Spring, Food: 9/9, Profit: 0.26
-Ivory Farms, Food: 0/0, Profit: -0.61
-Ewing Grain, Food: 0/0, Profit: -0.97
-Gowing Goods, Food: 0/0, Profit: -0.69
-Warren LLC, Food: 0/0, Profit: -0.20
-Rogers Ag, Food: 0/0, Profit: -0.20
-Makin Cereals, Food: 0/0, Profit: -0.20
+Astbury Place, Food: 0/48, Profit: -3.02
+Thurston Farms, Food: 0/86, Profit: -4.09
+Newsome Goods, Food: 509/93, Profit: 27.62
+Nanson Corp, Food: 0/106, Profit: -5.91
+Roden Organic, Food: 0/32, Profit: -2.09
+Lavery Hills, Food: 0/69, Profit: -2.65
+Francis Ag, Food: 0/40, Profit: -1.49
+Ainsworth Goods, Food: 0/52, Profit: -2.02
+Roff Organic, Food: 0/55, Profit: -2.57
+Elston AgTech, Food: 0/67, Profit: -3.68
 
 ========================= MONTH 20 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.46
-Goldberg Limited, Food: 11/11, Profit: 0.14
-Orvis Ranch, Food: 19/19, Profit: 0.66
-Allum Spring, Food: 13/13, Profit: 0.40
-Ivory Farms, Food: 11/11, Profit: 0.13
-Ewing Grain, Food: 0/0, Profit: -0.93
-Gowing Goods, Food: 0/0, Profit: -0.66
-Warren LLC, Food: 0/0, Profit: -0.19
-Rogers Ag, Food: 0/0, Profit: -0.19
-Makin Cereals, Food: 0/0, Profit: -0.19
+Astbury Place, Food: 0/39, Profit: -2.29
+Thurston Farms, Food: 0/77, Profit: -3.30
+Newsome Goods, Food: 0/93, Profit: -5.10
+Nanson Corp, Food: 0/106, Profit: -5.61
+Roden Organic, Food: 0/32, Profit: -1.98
+Lavery Hills, Food: 0/49, Profit: -1.35
+Francis Ag, Food: 436/40, Profit: 24.49
+Ainsworth Goods, Food: 35/42, Profit: 0.75
+Roff Organic, Food: 0/55, Profit: -2.44
+Elston AgTech, Food: 0/67, Profit: -3.49
 
 ========================= MONTH 21 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.47
-Goldberg Limited, Food: 11/11, Profit: 0.16
-Orvis Ranch, Food: 19/19, Profit: 0.65
-Allum Spring, Food: 13/13, Profit: 0.38
-Ivory Farms, Food: 11/11, Profit: 0.13
-Ewing Grain, Food: 0/0, Profit: -0.88
-Gowing Goods, Food: 0/0, Profit: -0.62
-Warren LLC, Food: 0/0, Profit: -0.18
-Rogers Ag, Food: 0/0, Profit: -0.18
-Makin Cereals, Food: 0/0, Profit: -0.18
+Astbury Place, Food: 0/39, Profit: -2.17
+Thurston Farms, Food: 0/77, Profit: -3.13
+Newsome Goods, Food: 0/93, Profit: -4.84
+Nanson Corp, Food: 0/106, Profit: -5.32
+Roden Organic, Food: 0/32, Profit: -1.88
+Lavery Hills, Food: 0/34, Profit: -0.70
+Francis Ag, Food: 0/40, Profit: -2.64
+Ainsworth Goods, Food: 487/42, Profit: 26.43
+Roff Organic, Food: 0/55, Profit: -2.32
+Elston AgTech, Food: 0/67, Profit: -3.31
 
 ========================= MONTH 22 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.46
-Goldberg Limited, Food: 11/11, Profit: 0.19
-Orvis Ranch, Food: 19/19, Profit: 0.64
-Allum Spring, Food: 13/13, Profit: 0.39
-Ivory Farms, Food: 11/11, Profit: 0.13
-Ewing Grain, Food: 15/15, Profit: 0.76
-Gowing Goods, Food: 0/0, Profit: -0.59
-Warren LLC, Food: 0/0, Profit: -0.17
-Rogers Ag, Food: 0/0, Profit: -0.17
-Makin Cereals, Food: 0/0, Profit: -0.17
+Astbury Place, Food: 0/39, Profit: -2.06
+Thurston Farms, Food: 476/66, Profit: 23.68
+Newsome Goods, Food: 0/83, Profit: -4.01
+Nanson Corp, Food: 0/106, Profit: -5.06
+Roden Organic, Food: 0/22, Profit: -1.21
+Lavery Hills, Food: 0/34, Profit: -0.66
+Francis Ag, Food: 0/40, Profit: -2.50
+Ainsworth Goods, Food: 0/42, Profit: -2.69
+Roff Organic, Food: 0/55, Profit: -2.20
+Elston AgTech, Food: 0/67, Profit: -3.15
 
 ========================= MONTH 23 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.46
-Goldberg Limited, Food: 11/11, Profit: 0.19
-Orvis Ranch, Food: 19/19, Profit: 0.61
-Allum Spring, Food: 13/13, Profit: 0.38
-Ivory Farms, Food: 11/11, Profit: 0.16
-Ewing Grain, Food: 10/10, Profit: 0.43
-Gowing Goods, Food: 0/0, Profit: -0.56
-Warren LLC, Food: 0/0, Profit: -0.16
-Rogers Ag, Food: 0/0, Profit: -0.16
-Makin Cereals, Food: 0/0, Profit: -0.16
+Astbury Place, Food: 0/39, Profit: -1.96
+Thurston Farms, Food: 0/77, Profit: -4.16
+Newsome Goods, Food: 456/83, Profit: 21.13
+Nanson Corp, Food: 0/106, Profit: -4.80
+Roden Organic, Food: 0/22, Profit: -1.15
+Lavery Hills, Food: 0/0, Profit: -0.05
+Francis Ag, Food: 0/40, Profit: -2.38
+Ainsworth Goods, Food: 0/42, Profit: -2.55
+Roff Organic, Food: 0/45, Profit: -1.48
+Elston AgTech, Food: 0/55, Profit: -2.29
 
 ========================= MONTH 24 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.45
-Goldberg Limited, Food: 11/11, Profit: 0.22
-Orvis Ranch, Food: 19/19, Profit: 0.60
-Allum Spring, Food: 13/13, Profit: 0.40
-Ivory Farms, Food: 11/11, Profit: 0.17
-Ewing Grain, Food: 10/10, Profit: 0.44
-Gowing Goods, Food: 0/0, Profit: -0.53
-Warren LLC, Food: 0/0, Profit: -0.15
-Rogers Ag, Food: 0/0, Profit: -0.15
-Makin Cereals, Food: 0/0, Profit: -0.15
+Astbury Place, Food: 0/39, Profit: -1.86
+Thurston Farms, Food: 0/66, Profit: -3.37
+Newsome Goods, Food: 0/83, Profit: -4.86
+Nanson Corp, Food: 0/97, Profit: -3.98
+Roden Organic, Food: 74/22, Profit: 2.85
+Lavery Hills, Food: 0/0, Profit: -0.05
+Francis Ag, Food: 0/40, Profit: -2.26
+Ainsworth Goods, Food: 0/42, Profit: -2.42
+Roff Organic, Food: 0/45, Profit: -1.41
+Elston AgTech, Food: 378/55, Profit: 17.35
 
 ========================= MONTH 25 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.49
-Goldberg Limited, Food: 11/11, Profit: 0.23
-Orvis Ranch, Food: 19/19, Profit: 0.61
-Allum Spring, Food: 13/13, Profit: 0.42
-Ivory Farms, Food: 11/11, Profit: 0.18
-Ewing Grain, Food: 10/10, Profit: 0.45
-Gowing Goods, Food: 0/0, Profit: -0.51
-Warren LLC, Food: 0/0, Profit: -0.15
-Rogers Ag, Food: 0/0, Profit: -0.15
-Makin Cereals, Food: 0/0, Profit: -0.15
+Astbury Place, Food: 0/39, Profit: -1.76
+Thurston Farms, Food: 0/66, Profit: -3.20
+Newsome Goods, Food: 243/72, Profit: 8.39
+Nanson Corp, Food: 0/97, Profit: -3.78
+Roden Organic, Food: 0/22, Profit: -1.23
+Lavery Hills, Food: 0/0, Profit: -0.05
+Francis Ag, Food: 0/40, Profit: -2.14
+Ainsworth Goods, Food: 0/42, Profit: -2.30
+Roff Organic, Food: 202/45, Profit: 9.07
+Elston AgTech, Food: 0/55, Profit: -3.04
 
 ========================= MONTH 26 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.50
-Goldberg Limited, Food: 11/11, Profit: 0.26
-Orvis Ranch, Food: 19/19, Profit: 0.65
-Allum Spring, Food: 13/13, Profit: 0.41
-Ivory Farms, Food: 11/11, Profit: 0.20
-Ewing Grain, Food: 10/10, Profit: 0.43
-Gowing Goods, Food: 0/0, Profit: -0.48
-Warren LLC, Food: 0/0, Profit: -0.14
-Rogers Ag, Food: 0/0, Profit: -0.14
-Makin Cereals, Food: 0/0, Profit: -0.14
+Astbury Place, Food: 0/39, Profit: -1.67
+Thurston Farms, Food: 0/66, Profit: -3.03
+Newsome Goods, Food: 0/83, Profit: -5.02
+Nanson Corp, Food: 0/97, Profit: -3.58
+Roden Organic, Food: 0/22, Profit: -1.17
+Lavery Hills, Food: 0/0, Profit: -0.05
+Francis Ag, Food: 240/40, Profit: 9.68
+Ainsworth Goods, Food: 233/42, Profit: 9.65
+Roff Organic, Food: 0/45, Profit: -1.79
+Elston AgTech, Food: 0/55, Profit: -2.89
 
 ========================= MONTH 27 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.51
-Goldberg Limited, Food: 11/11, Profit: 0.25
-Orvis Ranch, Food: 19/19, Profit: 0.62
-Allum Spring, Food: 13/13, Profit: 0.44
-Ivory Farms, Food: 11/11, Profit: 0.23
-Ewing Grain, Food: 10/10, Profit: 0.42
-Gowing Goods, Food: 0/0, Profit: -0.46
-Warren LLC, Food: 0/0, Profit: -0.13
-Rogers Ag, Food: 0/0, Profit: -0.13
-Makin Cereals, Food: 0/0, Profit: -0.13
+Astbury Place, Food: 0/39, Profit: -1.59
+Thurston Farms, Food: 483/66, Profit: 19.96
+Newsome Goods, Food: 0/83, Profit: -4.77
+Nanson Corp, Food: 0/87, Profit: -2.82
+Roden Organic, Food: 0/22, Profit: -1.11
+Lavery Hills, Food: 0/0, Profit: -0.04
+Francis Ag, Food: 0/40, Profit: -2.52
+Ainsworth Goods, Food: 0/42, Profit: -2.66
+Roff Organic, Food: 0/45, Profit: -1.69
+Elston AgTech, Food: 0/55, Profit: -2.74
 
 ========================= MONTH 28 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.53
-Goldberg Limited, Food: 11/11, Profit: 0.25
-Orvis Ranch, Food: 19/19, Profit: 0.66
-Allum Spring, Food: 13/13, Profit: 0.42
-Ivory Farms, Food: 11/11, Profit: 0.25
-Ewing Grain, Food: 15/15, Profit: 0.79
-Gowing Goods, Food: 0/0, Profit: -0.44
-Warren LLC, Food: 0/0, Profit: -0.13
-Rogers Ag, Food: 0/0, Profit: -0.13
-Makin Cereals, Food: 0/0, Profit: -0.13
+Astbury Place, Food: 0/27, Profit: -0.93
+Thurston Farms, Food: 0/66, Profit: -3.88
+Newsome Goods, Food: 0/72, Profit: -3.95
+Nanson Corp, Food: 0/87, Profit: -2.68
+Roden Organic, Food: 176/22, Profit: 7.22
+Lavery Hills, Food: 0/0, Profit: -0.04
+Francis Ag, Food: 68/28, Profit: 1.36
+Ainsworth Goods, Food: 0/42, Profit: -2.53
+Roff Organic, Food: 0/45, Profit: -1.61
+Elston AgTech, Food: 207/55, Profit: 7.13
 
 ========================= MONTH 29 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.56
-Goldberg Limited, Food: 11/11, Profit: 0.24
-Orvis Ranch, Food: 22/22, Profit: 0.69
-Allum Spring, Food: 16/16, Profit: 0.46
-Ivory Farms, Food: 8/8, Profit: 0.29
-Ewing Grain, Food: 0/0, Profit: -1.02
-Gowing Goods, Food: 0/0, Profit: -0.41
-Warren LLC, Food: 0/0, Profit: -0.12
-Rogers Ag, Food: 0/0, Profit: -0.12
-Makin Cereals, Food: 0/0, Profit: -0.12
+Astbury Place, Food: 121/27, Profit: 4.94
+Thurston Farms, Food: 0/66, Profit: -3.68
+Newsome Goods, Food: 310/72, Profit: 10.43
+Nanson Corp, Food: 0/75, Profit: -1.97
+Roden Organic, Food: 22/22, Profit: -0.37
+Lavery Hills, Food: 0/0, Profit: -0.04
+Francis Ag, Food: 0/40, Profit: -2.45
+Ainsworth Goods, Food: 0/42, Profit: -2.40
+Roff Organic, Food: 0/45, Profit: -1.53
+Elston AgTech, Food: 0/55, Profit: -2.95
 
 ========================= MONTH 30 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.59
-Goldberg Limited, Food: 11/11, Profit: 0.25
-Orvis Ranch, Food: 22/22, Profit: 0.74
-Allum Spring, Food: 16/16, Profit: 0.47
-Ivory Farms, Food: 8/8, Profit: 0.28
-Ewing Grain, Food: 0/0, Profit: -0.97
-Gowing Goods, Food: 0/0, Profit: -0.39
-Warren LLC, Food: 0/0, Profit: -0.11
-Rogers Ag, Food: 0/0, Profit: -0.11
-Makin Cereals, Food: 0/0, Profit: -0.11
+Astbury Place, Food: 0/39, Profit: -1.70
+Thurston Farms, Food: 0/66, Profit: -3.50
+Newsome Goods, Food: 0/72, Profit: -4.27
+Nanson Corp, Food: 0/61, Profit: -1.30
+Roden Organic, Food: 0/22, Profit: -1.39
+Lavery Hills, Food: 0/0, Profit: -0.04
+Francis Ag, Food: 0/28, Profit: -1.76
+Ainsworth Goods, Food: 0/42, Profit: -2.28
+Roff Organic, Food: 448/45, Profit: 19.16
+Elston AgTech, Food: 0/55, Profit: -2.81
 
 ========================= MONTH 31 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.61
-Goldberg Limited, Food: 11/11, Profit: 0.24
-Orvis Ranch, Food: 22/22, Profit: 0.79
-Allum Spring, Food: 16/16, Profit: 0.47
-Ivory Farms, Food: 0/0, Profit: -0.69
-Ewing Grain, Food: 0/0, Profit: -0.92
-Gowing Goods, Food: 0/0, Profit: -0.37
-Warren LLC, Food: 0/0, Profit: -0.11
-Rogers Ag, Food: 0/0, Profit: -0.11
-Makin Cereals, Food: 0/0, Profit: -0.11
+Astbury Place, Food: 0/27, Profit: -1.04
+Thurston Farms, Food: 192/54, Profit: 5.95
+Newsome Goods, Food: 0/72, Profit: -4.05
+Nanson Corp, Food: 0/43, Profit: -0.66
+Roden Organic, Food: 0/22, Profit: -1.32
+Lavery Hills, Food: 0/0, Profit: -0.04
+Francis Ag, Food: 0/28, Profit: -1.67
+Ainsworth Goods, Food: 216/30, Profit: 7.98
+Roff Organic, Food: 0/45, Profit: -2.40
+Elston AgTech, Food: 0/55, Profit: -2.66
 
 ========================= MONTH 32 =========================
 
-Atter Ag, Food: 21/21, Profit: 0.64
-Goldberg Limited, Food: 11/11, Profit: 0.27
-Orvis Ranch, Food: 19/19, Profit: 0.72
-Allum Spring, Food: 0/0, Profit: -1.07
-Ivory Farms, Food: 0/0, Profit: -0.65
-Ewing Grain, Food: 0/0, Profit: -0.88
-Gowing Goods, Food: 0/0, Profit: -0.35
-Warren LLC, Food: 0/0, Profit: -0.10
-Rogers Ag, Food: 0/0, Profit: -0.10
-Makin Cereals, Food: 0/0, Profit: -0.10
+Astbury Place, Food: 0/27, Profit: -0.99
+Thurston Farms, Food: 0/66, Profit: -3.61
+Newsome Goods, Food: 216/72, Profit: 5.71
+Nanson Corp, Food: 194/0, Profit: 8.57
+Roden Organic, Food: 0/22, Profit: -1.26
+Lavery Hills, Food: 0/0, Profit: -0.03
+Francis Ag, Food: 0/28, Profit: -1.59
+Ainsworth Goods, Food: 0/30, Profit: -1.99
+Roff Organic, Food: 0/45, Profit: -2.28
+Elston AgTech, Food: 0/55, Profit: -2.53
 
 ========================= MONTH 33 =========================
 
-Atter Ag, Food: 21/21, Profit: 0.63
-Goldberg Limited, Food: 11/11, Profit: 0.29
-Orvis Ranch, Food: 22/22, Profit: 0.76
-Allum Spring, Food: 9/9, Profit: 0.26
-Ivory Farms, Food: 0/0, Profit: -0.62
-Ewing Grain, Food: 0/0, Profit: -0.83
-Gowing Goods, Food: 0/0, Profit: -0.34
-Warren LLC, Food: 0/0, Profit: -0.10
-Rogers Ag, Food: 0/0, Profit: -0.10
-Makin Cereals, Food: 0/0, Profit: -0.10
+Astbury Place, Food: 0/27, Profit: -0.94
+Thurston Farms, Food: 0/54, Profit: -2.86
+Newsome Goods, Food: 0/72, Profit: -4.13
+Nanson Corp, Food: 0/75, Profit: -2.20
+Roden Organic, Food: 0/22, Profit: -1.19
+Lavery Hills, Food: 0/0, Profit: -0.03
+Francis Ag, Food: 92/28, Profit: 2.48
+Ainsworth Goods, Food: 60/30, Profit: 0.68
+Roff Organic, Food: 0/32, Profit: -1.58
+Elston AgTech, Food: 288/55, Profit: 9.84
 
 ========================= MONTH 34 =========================
 
-Atter Ag, Food: 21/21, Profit: 0.61
-Goldberg Limited, Food: 11/11, Profit: 0.31
-Orvis Ranch, Food: 15/15, Profit: 0.50
-Allum Spring, Food: 0/0, Profit: -1.03
-Ivory Farms, Food: 0/0, Profit: -0.59
-Ewing Grain, Food: 0/0, Profit: -0.79
-Gowing Goods, Food: 0/0, Profit: -0.32
-Warren LLC, Food: 0/0, Profit: -0.09
-Rogers Ag, Food: 0/0, Profit: -0.09
-Makin Cereals, Food: 0/0, Profit: -0.09
+Astbury Place, Food: 79/27, Profit: 2.44
+Thurston Farms, Food: 0/54, Profit: -2.72
+Newsome Goods, Food: 0/72, Profit: -3.92
+Nanson Corp, Food: 0/75, Profit: -2.08
+Roden Organic, Food: 0/22, Profit: -1.13
+Lavery Hills, Food: 0/0, Profit: -0.03
+Francis Ag, Food: 0/28, Profit: -1.63
+Ainsworth Goods, Food: 0/30, Profit: -1.93
+Roff Organic, Food: 363/32, Profit: 13.76
+Elston AgTech, Food: 0/55, Profit: -2.89
 
 ========================= MONTH 35 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.59
-Goldberg Limited, Food: 0/0, Profit: -0.82
-Orvis Ranch, Food: 0/0, Profit: -1.52
-Allum Spring, Food: 0/0, Profit: -0.98
-Ivory Farms, Food: 0/0, Profit: -0.56
-Ewing Grain, Food: 0/0, Profit: -0.75
-Gowing Goods, Food: 0/0, Profit: -0.30
-Warren LLC, Food: 0/0, Profit: -0.09
-Rogers Ag, Food: 0/0, Profit: -0.09
-Makin Cereals, Food: 0/0, Profit: -0.09
+Astbury Place, Food: 0/27, Profit: -1.01
+Thurston Farms, Food: 97/54, Profit: 1.64
+Newsome Goods, Food: 0/72, Profit: -3.73
+Nanson Corp, Food: 0/75, Profit: -1.97
+Roden Organic, Food: 132/22, Profit: 4.32
+Lavery Hills, Food: 0/0, Profit: -0.03
+Francis Ag, Food: 116/28, Profit: 3.18
+Ainsworth Goods, Food: 0/30, Profit: -1.83
+Roff Organic, Food: 0/32, Profit: -2.18
+Elston AgTech, Food: 94/39, Profit: 1.69
 
 ========================= MONTH 36 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.60
-Goldberg Limited, Food: 0/0, Profit: -0.78
-Orvis Ranch, Food: 0/0, Profit: -1.44
-Allum Spring, Food: 0/0, Profit: -0.93
-Ivory Farms, Food: 0/0, Profit: -0.53
-Ewing Grain, Food: 0/0, Profit: -0.71
-Gowing Goods, Food: 0/0, Profit: -0.29
-Warren LLC, Food: 0/0, Profit: -0.08
-Rogers Ag, Food: 0/0, Profit: -0.08
-Makin Cereals, Food: 0/0, Profit: -0.08
+Astbury Place, Food: 415/27, Profit: 15.85
+Thurston Farms, Food: 0/54, Profit: -2.66
+Newsome Goods, Food: 0/59, Profit: -2.97
+Nanson Corp, Food: 0/61, Profit: -1.31
+Roden Organic, Food: 0/22, Profit: -1.29
+Lavery Hills, Food: 0/0, Profit: -0.03
+Francis Ag, Food: 0/28, Profit: -1.70
+Ainsworth Goods, Food: 0/30, Profit: -1.74
+Roff Organic, Food: 0/32, Profit: -2.07
+Elston AgTech, Food: 0/39, Profit: -2.15
 
 ========================= MONTH 37 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.57
-Goldberg Limited, Food: 0/0, Profit: -0.74
-Orvis Ranch, Food: 0/0, Profit: -1.37
-Allum Spring, Food: 0/0, Profit: -0.88
-Ivory Farms, Food: 0/0, Profit: -0.50
-Ewing Grain, Food: 0/0, Profit: -0.68
-Gowing Goods, Food: 0/0, Profit: -0.27
-Warren LLC, Food: 0/0, Profit: -0.08
-Rogers Ag, Food: 0/0, Profit: -0.08
-Makin Cereals, Food: 0/0, Profit: -0.08
+Astbury Place, Food: 0/27, Profit: -1.75
+Thurston Farms, Food: 0/54, Profit: -2.52
+Newsome Goods, Food: 334/59, Profit: 9.91
+Nanson Corp, Food: 0/43, Profit: -0.67
+Roden Organic, Food: 0/22, Profit: -1.22
+Lavery Hills, Food: 0/0, Profit: -0.03
+Francis Ag, Food: 56/28, Profit: 0.61
+Ainsworth Goods, Food: 36/30, Profit: -0.22
+Roff Organic, Food: 0/32, Profit: -1.97
+Elston AgTech, Food: 0/39, Profit: -2.04
 
 ========================= MONTH 38 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.62
-Goldberg Limited, Food: 0/0, Profit: -0.70
-Orvis Ranch, Food: 0/0, Profit: -1.30
-Allum Spring, Food: 0/0, Profit: -0.84
-Ivory Farms, Food: 0/0, Profit: -0.48
-Ewing Grain, Food: 0/0, Profit: -0.64
-Gowing Goods, Food: 0/0, Profit: -0.26
-Warren LLC, Food: 0/0, Profit: -0.07
-Rogers Ag, Food: 0/0, Profit: -0.07
-Makin Cereals, Food: 0/0, Profit: -0.07
+Astbury Place, Food: 0/27, Profit: -1.66
+Thurston Farms, Food: 0/54, Profit: -2.40
+Newsome Goods, Food: 59/59, Profit: -1.04
+Nanson Corp, Food: 119/43, Profit: 4.02
+Roden Organic, Food: 0/22, Profit: -1.16
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 0/28, Profit: -1.65
+Ainsworth Goods, Food: 0/30, Profit: -1.64
+Roff Organic, Food: 128/32, Profit: 3.10
+Elston AgTech, Food: 117/39, Profit: 2.43
 
 ========================= MONTH 39 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.56
-Goldberg Limited, Food: 0/0, Profit: -0.67
-Orvis Ranch, Food: 0/0, Profit: -1.24
-Allum Spring, Food: 0/0, Profit: -0.80
-Ivory Farms, Food: 0/0, Profit: -0.46
-Ewing Grain, Food: 0/0, Profit: -0.61
-Gowing Goods, Food: 0/0, Profit: -0.25
-Warren LLC, Food: 0/0, Profit: -0.07
-Rogers Ag, Food: 0/0, Profit: -0.07
-Makin Cereals, Food: 0/0, Profit: -0.07
+Astbury Place, Food: 0/27, Profit: -1.58
+Thurston Farms, Food: 439/54, Profit: 14.53
+Newsome Goods, Food: 0/59, Profit: -3.26
+Nanson Corp, Food: 0/75, Profit: -1.96
+Roden Organic, Food: 0/22, Profit: -1.10
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 17/28, Profit: -0.90
+Ainsworth Goods, Food: 0/30, Profit: -1.55
+Roff Organic, Food: 0/32, Profit: -2.02
+Elston AgTech, Food: 0/39, Profit: -2.06
 
 ========================= MONTH 40 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.56
-Goldberg Limited, Food: 0/0, Profit: -0.63
-Orvis Ranch, Food: 0/0, Profit: -1.17
-Allum Spring, Food: 0/0, Profit: -0.76
-Ivory Farms, Food: 0/0, Profit: -0.43
-Ewing Grain, Food: 0/0, Profit: -0.58
-Gowing Goods, Food: 0/0, Profit: -0.24
-Warren LLC, Food: 0/0, Profit: -0.07
-Rogers Ag, Food: 0/0, Profit: -0.07
-Makin Cereals, Food: 0/0, Profit: -0.07
+Astbury Place, Food: 108/27, Profit: 2.56
+Thurston Farms, Food: 0/54, Profit: -3.00
+Newsome Goods, Food: 0/59, Profit: -3.09
+Nanson Corp, Food: 0/61, Profit: -1.30
+Roden Organic, Food: 38/22, Profit: 0.43
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 67/28, Profit: 1.01
+Ainsworth Goods, Food: 174/30, Profit: 5.02
+Roff Organic, Food: 64/32, Profit: 0.44
+Elston AgTech, Food: 0/39, Profit: -1.95
 
 ========================= MONTH 41 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.56
-Goldberg Limited, Food: 0/0, Profit: -0.60
-Orvis Ranch, Food: 0/0, Profit: -1.11
-Allum Spring, Food: 0/0, Profit: -0.72
-Ivory Farms, Food: 0/0, Profit: -0.41
-Ewing Grain, Food: 0/0, Profit: -0.55
-Gowing Goods, Food: 0/0, Profit: -0.22
-Warren LLC, Food: 0/0, Profit: -0.06
-Rogers Ag, Food: 0/0, Profit: -0.06
-Makin Cereals, Food: 0/0, Profit: -0.06
+Astbury Place, Food: 27/27, Profit: -0.61
+Thurston Farms, Food: 108/54, Profit: 1.12
+Newsome Goods, Food: 177/59, Profit: 3.44
+Nanson Corp, Food: 0/43, Profit: -0.67
+Roden Organic, Food: 0/22, Profit: -1.07
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 0/28, Profit: -1.57
+Ainsworth Goods, Food: 30/30, Profit: -0.59
+Roff Organic, Food: 32/32, Profit: -0.73
+Elston AgTech, Food: 63/39, Profit: 0.56
 
 ========================= MONTH 42 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.53
-Goldberg Limited, Food: 0/0, Profit: -0.57
-Orvis Ranch, Food: 0/0, Profit: -1.06
-Allum Spring, Food: 0/0, Profit: -0.68
-Ivory Farms, Food: 0/0, Profit: -0.39
-Ewing Grain, Food: 0/0, Profit: -0.52
-Gowing Goods, Food: 0/0, Profit: -0.21
-Warren LLC, Food: 0/0, Profit: -0.06
-Rogers Ag, Food: 0/0, Profit: -0.06
-Makin Cereals, Food: 0/0, Profit: -0.06
+Astbury Place, Food: 27/27, Profit: -0.55
+Thurston Farms, Food: 54/54, Profit: -0.85
+Newsome Goods, Food: 59/59, Profit: -0.87
+Nanson Corp, Food: 168/43, Profit: 5.88
+Roden Organic, Food: 0/22, Profit: -1.01
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 56/28, Profit: 0.67
+Ainsworth Goods, Food: 30/30, Profit: -0.56
+Roff Organic, Food: 32/32, Profit: -0.67
+Elston AgTech, Food: 0/39, Profit: -1.88
 
 ========================= MONTH 43 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.51
-Goldberg Limited, Food: 0/0, Profit: -0.54
-Orvis Ranch, Food: 0/0, Profit: -1.01
-Allum Spring, Food: 0/0, Profit: -0.65
-Ivory Farms, Food: 0/0, Profit: -0.37
-Ewing Grain, Food: 0/0, Profit: -0.50
-Gowing Goods, Food: 0/0, Profit: -0.20
-Warren LLC, Food: 0/0, Profit: -0.06
-Rogers Ag, Food: 0/0, Profit: -0.06
-Makin Cereals, Food: 0/0, Profit: -0.06
+Astbury Place, Food: 0/27, Profit: -1.57
+Thurston Farms, Food: 54/54, Profit: -0.80
+Newsome Goods, Food: 59/59, Profit: -0.82
+Nanson Corp, Food: 0/75, Profit: -2.05
+Roden Organic, Food: 138/22, Profit: 4.47
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 27/28, Profit: -0.41
+Ainsworth Goods, Food: 30/30, Profit: -0.49
+Roff Organic, Food: 0/32, Profit: -1.87
+Elston AgTech, Food: 132/39, Profit: 3.46
 
 ========================= MONTH 44 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.51
-Goldberg Limited, Food: 0/0, Profit: -0.52
-Orvis Ranch, Food: 0/0, Profit: -0.96
-Allum Spring, Food: 0/0, Profit: -0.62
-Ivory Farms, Food: 0/0, Profit: -0.35
-Ewing Grain, Food: 0/0, Profit: -0.47
-Gowing Goods, Food: 0/0, Profit: -0.19
-Warren LLC, Food: 0/0, Profit: -0.06
-Rogers Ag, Food: 0/0, Profit: -0.06
-Makin Cereals, Food: 0/0, Profit: -0.06
+Astbury Place, Food: 0/27, Profit: -1.49
+Thurston Farms, Food: 54/54, Profit: -0.75
+Newsome Goods, Food: 0/59, Profit: -3.02
+Nanson Corp, Food: 398/61, Profit: 14.07
+Roden Organic, Food: 0/22, Profit: -1.19
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 0/28, Profit: -1.50
+Ainsworth Goods, Food: 0/30, Profit: -1.64
+Roff Organic, Food: 0/32, Profit: -1.78
+Elston AgTech, Food: 0/55, Profit: -2.63
 
 ========================= MONTH 45 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.54
-Goldberg Limited, Food: 0/0, Profit: -0.49
-Orvis Ranch, Food: 0/0, Profit: -0.91
-Allum Spring, Food: 0/0, Profit: -0.59
-Ivory Farms, Food: 0/0, Profit: -0.33
-Ewing Grain, Food: 0/0, Profit: -0.45
-Gowing Goods, Food: 0/0, Profit: -0.18
-Warren LLC, Food: 0/0, Profit: -0.05
-Rogers Ag, Food: 0/0, Profit: -0.05
-Makin Cereals, Food: 0/0, Profit: -0.05
+Astbury Place, Food: 0/27, Profit: -1.41
+Thurston Farms, Food: 0/54, Profit: -2.78
+Newsome Goods, Food: 118/59, Profit: 1.86
+Nanson Corp, Food: 19/61, Profit: -1.33
+Roden Organic, Food: 44/22, Profit: 0.57
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 57/28, Profit: 0.82
+Ainsworth Goods, Food: 0/30, Profit: -1.56
+Roff Organic, Food: 96/32, Profit: 1.80
+Elston AgTech, Food: 94/39, Profit: 1.92
 
 ========================= MONTH 46 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.55
-Goldberg Limited, Food: 0/0, Profit: -0.47
-Orvis Ranch, Food: 0/0, Profit: -0.86
-Allum Spring, Food: 0/0, Profit: -0.56
-Ivory Farms, Food: 0/0, Profit: -0.32
-Ewing Grain, Food: 0/0, Profit: -0.43
-Gowing Goods, Food: 0/0, Profit: -0.17
-Warren LLC, Food: 0/0, Profit: -0.05
-Rogers Ag, Food: 0/0, Profit: -0.05
-Makin Cereals, Food: 0/0, Profit: -0.05
+Astbury Place, Food: 0/27, Profit: -1.34
+Thurston Farms, Food: 0/54, Profit: -2.64
+Newsome Goods, Food: 0/72, Profit: -3.52
+Nanson Corp, Food: 460/61, Profit: 15.35
+Roden Organic, Food: 0/22, Profit: -1.15
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 0/28, Profit: -1.46
+Ainsworth Goods, Food: 0/30, Profit: -1.48
+Roff Organic, Food: 0/32, Profit: -1.78
+Elston AgTech, Food: 0/39, Profit: -1.92
 
 ========================= MONTH 47 =========================
 
-Atter Ag, Food: 10/10, Profit: 0.03
-Goldberg Limited, Food: 0/0, Profit: -0.44
-Orvis Ranch, Food: 0/0, Profit: -0.82
-Allum Spring, Food: 0/0, Profit: -0.53
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.41
-Gowing Goods, Food: 0/0, Profit: -0.16
-Warren LLC, Food: 0/0, Profit: -0.05
-Rogers Ag, Food: 0/0, Profit: -0.05
-Makin Cereals, Food: 0/0, Profit: -0.05
+Astbury Place, Food: 135/27, Profit: 3.78
+Thurston Farms, Food: 162/54, Profit: 3.49
+Newsome Goods, Food: 0/59, Profit: -2.79
+Nanson Corp, Food: 0/61, Profit: -2.79
+Roden Organic, Food: 0/22, Profit: -1.10
+Lavery Hills, Food: 0/0, Profit: -0.02
+Francis Ag, Food: 0/28, Profit: -1.39
+Ainsworth Goods, Food: 86/30, Profit: 1.84
+Roff Organic, Food: 64/32, Profit: 0.69
+Elston AgTech, Food: 0/39, Profit: -1.82
 
 ========================= MONTH 48 =========================
 
-Atter Ag, Food: 10/10, Profit: 0.05
-Goldberg Limited, Food: 0/0, Profit: -0.42
-Orvis Ranch, Food: 0/0, Profit: -0.78
-Allum Spring, Food: 0/0, Profit: -0.50
-Ivory Farms, Food: 0/0, Profit: -0.29
-Ewing Grain, Food: 0/0, Profit: -0.39
-Gowing Goods, Food: 0/0, Profit: -0.16
-Warren LLC, Food: 0/0, Profit: -0.04
-Rogers Ag, Food: 0/0, Profit: -0.04
-Makin Cereals, Food: 0/0, Profit: -0.04
+Astbury Place, Food: 0/27, Profit: -1.46
+Thurston Farms, Food: 0/54, Profit: -2.67
+Newsome Goods, Food: 0/59, Profit: -2.64
+Nanson Corp, Food: 120/61, Profit: 1.91
+Roden Organic, Food: 66/22, Profit: 1.41
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 84/28, Profit: 1.80
+Ainsworth Goods, Food: 64/30, Profit: 0.92
+Roff Organic, Food: 0/32, Profit: -1.72
+Elston AgTech, Food: 117/39, Profit: 2.69
 
 ========================= MONTH 49 =========================
 
-Atter Ag, Food: 0/0, Profit: -1.72
-Goldberg Limited, Food: 0/0, Profit: -0.40
-Orvis Ranch, Food: 0/0, Profit: -0.74
-Allum Spring, Food: 0/0, Profit: -0.48
-Ivory Farms, Food: 0/0, Profit: -0.27
-Ewing Grain, Food: 0/0, Profit: -0.37
-Gowing Goods, Food: 0/0, Profit: -0.15
-Warren LLC, Food: 0/0, Profit: -0.04
-Rogers Ag, Food: 0/0, Profit: -0.04
-Makin Cereals, Food: 0/0, Profit: -0.04
+Astbury Place, Food: 54/27, Profit: 0.65
+Thurston Farms, Food: 108/54, Profit: 1.28
+Newsome Goods, Food: 145/59, Profit: 3.10
+Nanson Corp, Food: 0/75, Profit: -3.30
+Roden Organic, Food: 22/22, Profit: -0.29
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 28/28, Profit: -0.33
+Ainsworth Goods, Food: 0/30, Profit: -1.54
+Roff Organic, Food: 64/32, Profit: 0.78
+Elston AgTech, Food: 39/39, Profit: -0.36
 
 ========================= MONTH 50 =========================
 
-Atter Ag, Food: 21/21, Profit: 0.81
-Goldberg Limited, Food: 11/11, Profit: 0.68
-Orvis Ranch, Food: 22/22, Profit: 1.65
-Allum Spring, Food: 13/13, Profit: 1.16
-Ivory Farms, Food: 11/11, Profit: 0.74
-Ewing Grain, Food: 15/15, Profit: 1.42
-Gowing Goods, Food: 12/12, Profit: 1.46
-Warren LLC, Food: 0/0, Profit: -0.04
-Rogers Ag, Food: 0/0, Profit: -0.04
-Makin Cereals, Food: 0/0, Profit: -0.04
+Astbury Place, Food: 0/27, Profit: -1.42
+Thurston Farms, Food: 0/54, Profit: -2.60
+Newsome Goods, Food: 0/59, Profit: -2.66
+Nanson Corp, Food: 446/61, Profit: 14.16
+Roden Organic, Food: 0/22, Profit: -1.09
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 0/28, Profit: -1.39
+Ainsworth Goods, Food: 0/30, Profit: -1.47
+Roff Organic, Food: 0/32, Profit: -1.67
+Elston AgTech, Food: 0/39, Profit: -1.84
 
 ========================= MONTH 51 =========================
 
-Atter Ag, Food: 18/18, Profit: 0.77
-Goldberg Limited, Food: 0/0, Profit: -0.41
-Orvis Ranch, Food: 0/0, Profit: -0.78
-Allum Spring, Food: 0/0, Profit: -0.51
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.42
-Gowing Goods, Food: 0/0, Profit: -0.21
-Warren LLC, Food: 0/0, Profit: -0.04
-Rogers Ag, Food: 0/0, Profit: -0.04
-Makin Cereals, Food: 0/0, Profit: -0.04
+Astbury Place, Food: 0/27, Profit: -1.35
+Thurston Farms, Food: 108/54, Profit: 1.34
+Newsome Goods, Food: 150/59, Profit: 3.35
+Nanson Corp, Food: 0/61, Profit: -3.28
+Roden Organic, Food: 44/22, Profit: 0.58
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 56/28, Profit: 0.83
+Ainsworth Goods, Food: 90/30, Profit: 1.91
+Roff Organic, Food: 0/32, Profit: -1.59
+Elston AgTech, Food: 0/39, Profit: -1.75
 
 ========================= MONTH 52 =========================
 
-Atter Ag, Food: 0/0, Profit: -1.71
-Goldberg Limited, Food: 0/0, Profit: -0.39
-Orvis Ranch, Food: 0/0, Profit: -0.75
-Allum Spring, Food: 0/0, Profit: -0.49
-Ivory Farms, Food: 0/0, Profit: -0.28
-Ewing Grain, Food: 0/0, Profit: -0.40
-Gowing Goods, Food: 0/0, Profit: -0.20
-Warren LLC, Food: 0/0, Profit: -0.04
-Rogers Ag, Food: 0/0, Profit: -0.04
-Makin Cereals, Food: 0/0, Profit: -0.04
+Astbury Place, Food: 81/27, Profit: 1.83
+Thurston Farms, Food: 54/54, Profit: -0.61
+Newsome Goods, Food: 0/59, Profit: -2.69
+Nanson Corp, Food: 42/61, Profit: -1.47
+Roden Organic, Food: 0/22, Profit: -1.07
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 28/28, Profit: -0.28
+Ainsworth Goods, Food: 30/30, Profit: -0.32
+Roff Organic, Food: 96/32, Profit: 2.04
+Elston AgTech, Food: 117/39, Profit: 2.61
 
 ========================= MONTH 53 =========================
 
-Atter Ag, Food: 21/21, Profit: 1.00
-Goldberg Limited, Food: 11/11, Profit: 0.73
-Orvis Ranch, Food: 22/22, Profit: 1.69
-Allum Spring, Food: 13/13, Profit: 1.15
-Ivory Farms, Food: 11/11, Profit: 0.77
-Ewing Grain, Food: 15/15, Profit: 1.45
-Gowing Goods, Food: 12/12, Profit: 1.45
-Warren LLC, Food: 0/0, Profit: -0.03
-Rogers Ag, Food: 0/0, Profit: -0.03
-Makin Cereals, Food: 0/0, Profit: -0.03
+Astbury Place, Food: 0/27, Profit: -1.37
+Thurston Farms, Food: 54/54, Profit: -0.44
+Newsome Goods, Food: 0/59, Profit: -2.56
+Nanson Corp, Food: 303/61, Profit: 8.77
+Roden Organic, Food: 0/22, Profit: -1.01
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 0/28, Profit: -1.35
+Ainsworth Goods, Food: 0/30, Profit: -1.47
+Roff Organic, Food: 32/32, Profit: -0.38
+Elston AgTech, Food: 39/39, Profit: -0.28
 
 ========================= MONTH 54 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.79
-Goldberg Limited, Food: 0/0, Profit: -0.41
-Orvis Ranch, Food: 0/0, Profit: -0.79
-Allum Spring, Food: 0/0, Profit: -0.52
-Ivory Farms, Food: 0/0, Profit: -0.31
-Ewing Grain, Food: 0/0, Profit: -0.45
-Gowing Goods, Food: 0/0, Profit: -0.27
-Warren LLC, Food: 0/0, Profit: -0.03
-Rogers Ag, Food: 0/0, Profit: -0.03
-Makin Cereals, Food: 0/0, Profit: -0.03
+Astbury Place, Food: 54/27, Profit: 0.74
+Thurston Farms, Food: 0/54, Profit: -2.48
+Newsome Goods, Food: 249/59, Profit: 6.67
+Nanson Corp, Food: 0/75, Profit: -4.03
+Roden Organic, Food: 66/22, Profit: 1.54
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 35/28, Profit: 0.07
+Ainsworth Goods, Food: 60/30, Profit: 0.92
+Roff Organic, Food: 0/32, Profit: -1.59
+Elston AgTech, Food: 0/39, Profit: -1.77
 
 ========================= MONTH 55 =========================
 
-Atter Ag, Food: 0/0, Profit: -1.72
-Goldberg Limited, Food: 0/0, Profit: -0.39
-Orvis Ranch, Food: 0/0, Profit: -0.75
-Allum Spring, Food: 0/0, Profit: -0.49
-Ivory Farms, Food: 0/0, Profit: -0.29
-Ewing Grain, Food: 0/0, Profit: -0.43
-Gowing Goods, Food: 0/0, Profit: -0.25
-Warren LLC, Food: 0/0, Profit: -0.03
-Rogers Ag, Food: 0/0, Profit: -0.03
-Makin Cereals, Food: 0/0, Profit: -0.03
+Astbury Place, Food: 27/27, Profit: -0.32
+Thurston Farms, Food: 108/54, Profit: 1.79
+Newsome Goods, Food: 59/59, Profit: -0.56
+Nanson Corp, Food: 27/61, Profit: -2.20
+Roden Organic, Food: 22/22, Profit: -0.20
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 49/28, Profit: 0.64
+Ainsworth Goods, Food: 0/30, Profit: -1.44
+Roff Organic, Food: 64/32, Profit: 0.99
+Elston AgTech, Food: 78/39, Profit: 1.15
 
 ========================= MONTH 56 =========================
 
-Atter Ag, Food: 21/21, Profit: 1.03
-Goldberg Limited, Food: 11/11, Profit: 0.78
-Orvis Ranch, Food: 22/22, Profit: 1.73
-Allum Spring, Food: 13/13, Profit: 1.13
-Ivory Farms, Food: 11/11, Profit: 0.76
-Ewing Grain, Food: 15/15, Profit: 1.47
-Gowing Goods, Food: 17/17, Profit: 1.58
-Warren LLC, Food: 0/0, Profit: -0.03
-Rogers Ag, Food: 0/0, Profit: -0.03
-Makin Cereals, Food: 0/0, Profit: -0.03
+Astbury Place, Food: 27/27, Profit: -0.29
+Thurston Farms, Food: 0/54, Profit: -2.44
+Newsome Goods, Food: 59/59, Profit: -0.52
+Nanson Corp, Food: 249/61, Profit: 6.60
+Roden Organic, Food: 0/22, Profit: -1.03
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 0/28, Profit: -1.31
+Ainsworth Goods, Food: 60/30, Profit: 0.94
+Roff Organic, Food: 0/32, Profit: -1.56
+Elston AgTech, Food: 39/39, Profit: -0.29
 
 ========================= MONTH 57 =========================
 
-Atter Ag, Food: 21/21, Profit: 1.01
-Goldberg Limited, Food: 11/11, Profit: 0.79
-Orvis Ranch, Food: 0/0, Profit: -0.80
-Allum Spring, Food: 0/0, Profit: -0.52
-Ivory Farms, Food: 0/0, Profit: -0.31
-Ewing Grain, Food: 0/0, Profit: -0.48
-Gowing Goods, Food: 0/0, Profit: -0.32
-Warren LLC, Food: 0/0, Profit: -0.03
-Rogers Ag, Food: 0/0, Profit: -0.03
-Makin Cereals, Food: 0/0, Profit: -0.03
+Astbury Place, Food: 27/27, Profit: -0.26
+Thurston Farms, Food: 108/54, Profit: 1.88
+Newsome Goods, Food: 59/59, Profit: -0.42
+Nanson Corp, Food: 77/75, Profit: -0.93
+Roden Organic, Food: 44/22, Profit: 0.73
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 56/28, Profit: 0.99
+Ainsworth Goods, Food: 30/30, Profit: -0.23
+Roff Organic, Food: 0/32, Profit: -1.48
+Elston AgTech, Food: 39/39, Profit: -0.21
 
 ========================= MONTH 58 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.84
-Goldberg Limited, Food: 0/0, Profit: -0.45
-Orvis Ranch, Food: 0/0, Profit: -0.76
-Allum Spring, Food: 0/0, Profit: -0.50
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.46
-Gowing Goods, Food: 0/0, Profit: -0.30
-Warren LLC, Food: 0/0, Profit: -0.03
-Rogers Ag, Food: 0/0, Profit: -0.03
-Makin Cereals, Food: 0/0, Profit: -0.03
+Astbury Place, Food: 27/27, Profit: -0.17
+Thurston Farms, Food: 54/54, Profit: -0.26
+Newsome Goods, Food: 72/72, Profit: -0.25
+Nanson Corp, Food: 72/75, Profit: -0.91
+Roden Organic, Food: 22/22, Profit: -0.13
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 28/28, Profit: -0.13
+Ainsworth Goods, Food: 30/30, Profit: -0.20
+Roff Organic, Food: 96/32, Profit: 2.25
+Elston AgTech, Food: 55/55, Profit: -0.08
 
 ========================= MONTH 59 =========================
 
-Atter Ag, Food: 10/10, Profit: 0.20
-Goldberg Limited, Food: 0/0, Profit: -0.43
-Orvis Ranch, Food: 0/0, Profit: -0.72
-Allum Spring, Food: 0/0, Profit: -0.47
-Ivory Farms, Food: 0/0, Profit: -0.28
-Ewing Grain, Food: 0/0, Profit: -0.43
-Gowing Goods, Food: 0/0, Profit: -0.29
-Warren LLC, Food: 0/0, Profit: -0.03
-Rogers Ag, Food: 0/0, Profit: -0.03
-Makin Cereals, Food: 0/0, Profit: -0.03
+Astbury Place, Food: 27/27, Profit: -0.11
+Thurston Farms, Food: 54/54, Profit: -0.22
+Newsome Goods, Food: 72/72, Profit: -0.21
+Nanson Corp, Food: 106/75, Profit: 0.89
+Roden Organic, Food: 22/22, Profit: -0.08
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 28/28, Profit: -0.09
+Ainsworth Goods, Food: 30/30, Profit: -0.18
+Roff Organic, Food: 32/32, Profit: -0.23
+Elston AgTech, Food: 55/55, Profit: 0.01
 
 ========================= MONTH 60 =========================
 
-Atter Ag, Food: 0/0, Profit: -1.79
-Goldberg Limited, Food: 0/0, Profit: -0.40
-Orvis Ranch, Food: 0/0, Profit: -0.69
-Allum Spring, Food: 0/0, Profit: -0.45
-Ivory Farms, Food: 0/0, Profit: -0.27
-Ewing Grain, Food: 0/0, Profit: -0.41
-Gowing Goods, Food: 0/0, Profit: -0.27
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 27/27, Profit: -0.06
+Thurston Farms, Food: 54/54, Profit: -0.06
+Newsome Goods, Food: 72/72, Profit: -0.03
+Nanson Corp, Food: 103/87, Profit: 0.42
+Roden Organic, Food: 22/22, Profit: -0.06
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 28/28, Profit: -0.09
+Ainsworth Goods, Food: 30/30, Profit: -0.17
+Roff Organic, Food: 32/32, Profit: -0.20
+Elston AgTech, Food: 55/55, Profit: 0.10
 
 ========================= MONTH 61 =========================
 
-Atter Ag, Food: 21/21, Profit: 1.24
-Goldberg Limited, Food: 11/11, Profit: 0.88
-Orvis Ranch, Food: 22/22, Profit: 1.84
-Allum Spring, Food: 13/13, Profit: 1.23
-Ivory Farms, Food: 11/11, Profit: 0.81
-Ewing Grain, Food: 15/15, Profit: 1.52
-Gowing Goods, Food: 17/17, Profit: 1.58
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 39/39, Profit: 0.07
+Thurston Farms, Food: 54/54, Profit: 0.03
+Newsome Goods, Food: 72/72, Profit: 0.16
+Nanson Corp, Food: 86/87, Profit: -0.25
+Roden Organic, Food: 22/22, Profit: -0.04
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 28/28, Profit: -0.05
+Ainsworth Goods, Food: 30/30, Profit: -0.09
+Roff Organic, Food: 45/45, Profit: -0.13
+Elston AgTech, Food: 55/55, Profit: 0.26
 
 ========================= MONTH 62 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.31
-Goldberg Limited, Food: 11/11, Profit: 0.85
-Orvis Ranch, Food: 11/11, Profit: 1.30
-Allum Spring, Food: 0/0, Profit: -0.49
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.47
-Gowing Goods, Food: 0/0, Profit: -0.34
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 39/39, Profit: 0.09
+Thurston Farms, Food: 66/66, Profit: 0.14
+Newsome Goods, Food: 72/72, Profit: 0.27
+Nanson Corp, Food: 82/97, Profit: -0.69
+Roden Organic, Food: 22/22, Profit: 0.03
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 28/28, Profit: -0.04
+Ainsworth Goods, Food: 42/42, Profit: -0.05
+Roff Organic, Food: 45/45, Profit: -0.11
+Elston AgTech, Food: 55/55, Profit: 0.25
 
 ========================= MONTH 63 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.97
-Goldberg Limited, Food: 0/0, Profit: -0.47
-Orvis Ranch, Food: 0/0, Profit: -0.81
-Allum Spring, Food: 0/0, Profit: -0.46
-Ivory Farms, Food: 0/0, Profit: -0.28
-Ewing Grain, Food: 0/0, Profit: -0.44
-Gowing Goods, Food: 0/0, Profit: -0.32
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 0/39, Profit: -1.82
+Thurston Farms, Food: 66/66, Profit: 0.18
+Newsome Goods, Food: 83/83, Profit: 0.43
+Nanson Corp, Food: 98/87, Profit: 0.52
+Roden Organic, Food: 22/22, Profit: 0.10
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 40/40, Profit: 0.08
+Ainsworth Goods, Food: 42/42, Profit: -0.02
+Roff Organic, Food: 45/45, Profit: 0.04
+Elston AgTech, Food: 55/55, Profit: 0.38
 
 ========================= MONTH 64 =========================
 
-Atter Ag, Food: 0/0, Profit: -1.87
-Goldberg Limited, Food: 0/0, Profit: -0.45
-Orvis Ranch, Food: 0/0, Profit: -0.77
-Allum Spring, Food: 0/0, Profit: -0.44
-Ivory Farms, Food: 0/0, Profit: -0.27
-Ewing Grain, Food: 0/0, Profit: -0.42
-Gowing Goods, Food: 0/0, Profit: -0.31
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 78/39, Profit: 2.22
+Thurston Farms, Food: 66/66, Profit: 0.20
+Newsome Goods, Food: 83/83, Profit: 0.58
+Nanson Corp, Food: 24/97, Profit: -3.79
+Roden Organic, Food: 22/22, Profit: 0.13
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 40/40, Profit: 0.18
+Ainsworth Goods, Food: 42/42, Profit: 0.07
+Roff Organic, Food: 45/45, Profit: 0.14
+Elston AgTech, Food: 55/55, Profit: 0.42
 
 ========================= MONTH 65 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.38
-Goldberg Limited, Food: 11/11, Profit: 0.91
-Orvis Ranch, Food: 22/22, Profit: 1.92
-Allum Spring, Food: 13/13, Profit: 1.30
-Ivory Farms, Food: 11/11, Profit: 0.87
-Ewing Grain, Food: 15/15, Profit: 1.55
-Gowing Goods, Food: 17/17, Profit: 1.63
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 0/39, Profit: -1.84
+Thurston Farms, Food: 55/66, Profit: -0.16
+Newsome Goods, Food: 0/83, Profit: -3.81
+Nanson Corp, Food: 353/87, Profit: 12.91
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 0/40, Profit: -1.82
+Ainsworth Goods, Food: 42/42, Profit: 0.12
+Roff Organic, Food: 0/45, Profit: -2.05
+Elston AgTech, Food: 0/55, Profit: -2.42
 
 ========================= MONTH 66 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.35
-Goldberg Limited, Food: 11/11, Profit: 0.92
-Orvis Ranch, Food: 11/11, Profit: 1.32
-Allum Spring, Food: 0/0, Profit: -0.48
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.48
-Gowing Goods, Food: 0/0, Profit: -0.37
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 78/39, Profit: 2.06
+Thurston Farms, Food: 77/66, Profit: 0.79
+Newsome Goods, Food: 0/83, Profit: -3.62
+Nanson Corp, Food: 87/87, Profit: -0.71
+Roden Organic, Food: 0/22, Profit: -0.95
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 0/40, Profit: -1.73
+Ainsworth Goods, Food: 15/42, Profit: -1.15
+Roff Organic, Food: 90/45, Profit: 2.30
+Elston AgTech, Food: 110/55, Profit: 3.04
 
 ========================= MONTH 67 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.96
-Goldberg Limited, Food: 0/0, Profit: -0.52
-Orvis Ranch, Food: 0/0, Profit: -0.89
-Allum Spring, Food: 0/0, Profit: -0.46
-Ivory Farms, Food: 0/0, Profit: -0.28
-Ewing Grain, Food: 0/0, Profit: -0.45
-Gowing Goods, Food: 0/0, Profit: -0.35
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 39/39, Profit: 0.09
+Thurston Farms, Food: 0/66, Profit: -2.97
+Newsome Goods, Food: 83/83, Profit: 0.77
+Nanson Corp, Food: 87/87, Profit: -0.60
+Roden Organic, Food: 66/22, Profit: 2.30
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 0/40, Profit: -1.64
+Ainsworth Goods, Food: 69/42, Profit: 1.59
+Roff Organic, Food: 45/45, Profit: 0.21
+Elston AgTech, Food: 55/55, Profit: 0.26
 
 ========================= MONTH 68 =========================
 
-Atter Ag, Food: 0/0, Profit: -1.97
-Goldberg Limited, Food: 0/0, Profit: -0.49
-Orvis Ranch, Food: 0/0, Profit: -0.85
-Allum Spring, Food: 0/0, Profit: -0.44
-Ivory Farms, Food: 0/0, Profit: -0.27
-Ewing Grain, Food: 0/0, Profit: -0.43
-Gowing Goods, Food: 0/0, Profit: -0.34
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 39/39, Profit: 0.10
+Thurston Farms, Food: 132/66, Profit: 3.56
+Newsome Goods, Food: 0/83, Profit: -3.47
+Nanson Corp, Food: 0/87, Profit: -4.89
+Roden Organic, Food: 22/22, Profit: 0.05
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 149/40, Profit: 6.02
+Ainsworth Goods, Food: 0/42, Profit: -1.93
+Roff Organic, Food: 45/45, Profit: 0.22
+Elston AgTech, Food: 55/55, Profit: 0.33
 
 ========================= MONTH 69 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.48
-Goldberg Limited, Food: 11/11, Profit: 0.94
-Orvis Ranch, Food: 22/22, Profit: 1.90
-Allum Spring, Food: 13/13, Profit: 1.40
-Ivory Farms, Food: 11/11, Profit: 0.93
-Ewing Grain, Food: 15/15, Profit: 1.57
-Gowing Goods, Food: 17/17, Profit: 1.59
-Warren LLC, Food: 0/0, Profit: -0.02
-Rogers Ag, Food: 0/0, Profit: -0.02
-Makin Cereals, Food: 0/0, Profit: -0.02
+Astbury Place, Food: 39/39, Profit: 0.13
+Thurston Farms, Food: 0/66, Profit: -3.00
+Newsome Goods, Food: 321/72, Profit: 12.65
+Nanson Corp, Food: 48/87, Profit: -2.19
+Roden Organic, Food: 0/22, Profit: -1.02
+Lavery Hills, Food: 0/0, Profit: -0.01
+Francis Ag, Food: 0/40, Profit: -1.86
+Ainsworth Goods, Food: 0/42, Profit: -1.83
+Roff Organic, Food: 45/45, Profit: 0.21
+Elston AgTech, Food: 0/67, Profit: -3.11
 
 ========================= MONTH 70 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.44
-Goldberg Limited, Food: 11/11, Profit: 0.92
-Orvis Ranch, Food: 11/11, Profit: 1.26
-Allum Spring, Food: 0/0, Profit: -0.48
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.49
-Gowing Goods, Food: 0/0, Profit: -0.40
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.85
+Thurston Farms, Food: 0/66, Profit: -2.85
+Newsome Goods, Food: 68/83, Profit: -0.45
+Nanson Corp, Food: 213/87, Profit: 5.79
+Roden Organic, Food: 44/22, Profit: 1.17
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.76
+Ainsworth Goods, Food: 126/42, Profit: 4.41
+Roff Organic, Food: 0/45, Profit: -2.09
+Elston AgTech, Food: 0/55, Profit: -2.31
 
 ========================= MONTH 71 =========================
 
-Atter Ag, Food: 15/15, Profit: 0.97
-Goldberg Limited, Food: 0/0, Profit: -0.56
-Orvis Ranch, Food: 0/0, Profit: -0.96
-Allum Spring, Food: 0/0, Profit: -0.46
-Ivory Farms, Food: 0/0, Profit: -0.29
-Ewing Grain, Food: 0/0, Profit: -0.46
-Gowing Goods, Food: 0/0, Profit: -0.38
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.76
+Thurston Farms, Food: 198/66, Profit: 6.97
+Newsome Goods, Food: 98/83, Profit: 0.85
+Nanson Corp, Food: 0/87, Profit: -4.82
+Roden Organic, Food: 0/22, Profit: -1.03
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.67
+Ainsworth Goods, Food: 42/42, Profit: 0.11
+Roff Organic, Food: 0/45, Profit: -1.98
+Elston AgTech, Food: 113/55, Profit: 3.36
 
 ========================= MONTH 72 =========================
 
-Atter Ag, Food: 0/0, Profit: -2.06
-Goldberg Limited, Food: 0/0, Profit: -0.53
-Orvis Ranch, Food: 0/0, Profit: -0.92
-Allum Spring, Food: 0/0, Profit: -0.44
-Ivory Farms, Food: 0/0, Profit: -0.27
-Ewing Grain, Food: 0/0, Profit: -0.44
-Gowing Goods, Food: 0/0, Profit: -0.36
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.67
+Thurston Farms, Food: 0/66, Profit: -3.05
+Newsome Goods, Food: 0/83, Profit: -3.94
+Nanson Corp, Food: 174/87, Profit: 3.57
+Roden Organic, Food: 44/22, Profit: 1.17
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 171/40, Profit: 6.28
+Ainsworth Goods, Food: 0/42, Profit: -1.96
+Roff Organic, Food: 90/45, Profit: 2.57
+Elston AgTech, Food: 0/67, Profit: -3.00
 
 ========================= MONTH 73 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.48
-Goldberg Limited, Food: 11/11, Profit: 0.97
-Orvis Ranch, Food: 22/22, Profit: 1.96
-Allum Spring, Food: 13/13, Profit: 1.44
-Ivory Farms, Food: 11/11, Profit: 0.98
-Ewing Grain, Food: 15/15, Profit: 1.61
-Gowing Goods, Food: 17/17, Profit: 1.63
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 71/39, Profit: 1.94
+Thurston Farms, Food: 0/66, Profit: -2.89
+Newsome Goods, Food: 166/83, Profit: 4.37
+Nanson Corp, Food: 87/87, Profit: -0.57
+Roden Organic, Food: 0/22, Profit: -1.03
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.02
+Ainsworth Goods, Food: 84/42, Profit: 2.29
+Roff Organic, Food: 0/45, Profit: -2.01
+Elston AgTech, Food: 0/55, Profit: -2.21
 
 ========================= MONTH 74 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.51
-Goldberg Limited, Food: 11/11, Profit: 0.93
-Orvis Ranch, Food: 11/11, Profit: 1.29
-Allum Spring, Food: 0/0, Profit: -0.49
-Ivory Farms, Food: 0/0, Profit: -0.31
-Ewing Grain, Food: 0/0, Profit: -0.50
-Gowing Goods, Food: 0/0, Profit: -0.42
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.68
+Thurston Farms, Food: 198/66, Profit: 6.76
+Newsome Goods, Food: 83/83, Profit: 0.11
+Nanson Corp, Food: 0/87, Profit: -4.72
+Roden Organic, Food: 0/22, Profit: -0.98
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.07
+Ainsworth Goods, Food: 0/42, Profit: -1.97
+Roff Organic, Food: 0/45, Profit: -1.91
+Elston AgTech, Food: 131/55, Profit: 4.39
 
 ========================= MONTH 75 =========================
 
-Atter Ag, Food: 15/15, Profit: 1.04
-Goldberg Limited, Food: 0/0, Profit: -0.60
-Orvis Ranch, Food: 0/0, Profit: -1.03
-Allum Spring, Food: 0/0, Profit: -0.46
-Ivory Farms, Food: 0/0, Profit: -0.29
-Ewing Grain, Food: 0/0, Profit: -0.47
-Gowing Goods, Food: 0/0, Profit: -0.40
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 121/39, Profit: 4.42
+Thurston Farms, Food: 0/66, Profit: -3.08
+Newsome Goods, Food: 0/83, Profit: -3.96
+Nanson Corp, Food: 0/87, Profit: -4.47
+Roden Organic, Food: 66/22, Profit: 2.27
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.90
+Ainsworth Goods, Food: 84/42, Profit: 2.16
+Roff Organic, Food: 180/45, Profit: 6.95
+Elston AgTech, Food: 0/55, Profit: -2.32
 
 ========================= MONTH 76 =========================
 
-Atter Ag, Food: 0/0, Profit: -2.16
-Goldberg Limited, Food: 0/0, Profit: -0.57
-Orvis Ranch, Food: 0/0, Profit: -0.98
-Allum Spring, Food: 0/0, Profit: -0.44
-Ivory Farms, Food: 0/0, Profit: -0.28
-Ewing Grain, Food: 0/0, Profit: -0.45
-Gowing Goods, Food: 0/0, Profit: -0.38
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.81
+Thurston Farms, Food: 132/66, Profit: 3.53
+Newsome Goods, Food: 0/83, Profit: -3.76
+Nanson Corp, Food: 261/87, Profit: 7.81
+Roden Organic, Food: 0/22, Profit: -1.04
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 69/40, Profit: 1.58
+Ainsworth Goods, Food: 0/42, Profit: -1.98
+Roff Organic, Food: 0/45, Profit: -2.16
+Elston AgTech, Food: 0/55, Profit: -2.20
 
 ========================= MONTH 77 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.68
-Goldberg Limited, Food: 11/11, Profit: 0.99
-Orvis Ranch, Food: 19/19, Profit: 1.88
-Allum Spring, Food: 13/13, Profit: 1.50
-Ivory Farms, Food: 11/11, Profit: 1.02
-Ewing Grain, Food: 15/15, Profit: 1.65
-Gowing Goods, Food: 17/17, Profit: 1.60
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 120/39, Profit: 4.03
+Thurston Farms, Food: 0/66, Profit: -3.10
+Newsome Goods, Food: 0/83, Profit: -3.57
+Nanson Corp, Food: 0/87, Profit: -4.64
+Roden Organic, Food: 44/22, Profit: 1.04
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.88
+Ainsworth Goods, Food: 84/42, Profit: 2.16
+Roff Organic, Food: 90/45, Profit: 2.25
+Elston AgTech, Food: 122/55, Profit: 3.88
 
 ========================= MONTH 78 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.71
-Goldberg Limited, Food: 11/11, Profit: 0.96
-Orvis Ranch, Food: 15/15, Profit: 1.55
-Allum Spring, Food: 0/0, Profit: -0.49
-Ivory Farms, Food: 0/0, Profit: -0.31
-Ewing Grain, Food: 0/0, Profit: -0.51
-Gowing Goods, Food: 0/0, Profit: -0.44
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.92
+Thurston Farms, Food: 0/66, Profit: -2.95
+Newsome Goods, Food: 271/72, Profit: 10.01
+Nanson Corp, Food: 174/87, Profit: 3.70
+Roden Organic, Food: 22/22, Profit: -0.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.79
+Ainsworth Goods, Food: 0/42, Profit: -1.98
+Roff Organic, Food: 0/45, Profit: -2.16
+Elston AgTech, Food: 0/67, Profit: -2.91
 
 ========================= MONTH 79 =========================
 
-Atter Ag, Food: 15/15, Profit: 1.12
-Goldberg Limited, Food: 0/0, Profit: -0.64
-Orvis Ranch, Food: 0/0, Profit: -1.10
-Allum Spring, Food: 0/0, Profit: -0.47
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.48
-Gowing Goods, Food: 0/0, Profit: -0.42
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.82
+Thurston Farms, Food: 198/66, Profit: 6.22
+Newsome Goods, Food: 0/83, Profit: -3.89
+Nanson Corp, Food: 0/87, Profit: -4.59
+Roden Organic, Food: 0/22, Profit: -1.04
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 131/40, Profit: 4.25
+Ainsworth Goods, Food: 84/42, Profit: 1.98
+Roff Organic, Food: 0/45, Profit: -2.05
+Elston AgTech, Food: 65/55, Profit: 0.96
 
 ========================= MONTH 80 =========================
 
-Atter Ag, Food: 0/0, Profit: -2.28
-Goldberg Limited, Food: 0/0, Profit: -0.61
-Orvis Ranch, Food: 0/0, Profit: -1.05
-Allum Spring, Food: 0/0, Profit: -0.44
-Ivory Farms, Food: 0/0, Profit: -0.28
-Ewing Grain, Food: 0/0, Profit: -0.46
-Gowing Goods, Food: 0/0, Profit: -0.40
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 105/27, Profit: 3.58
+Thurston Farms, Food: 0/66, Profit: -3.10
+Newsome Goods, Food: 205/72, Profit: 6.07
+Nanson Corp, Food: 13/87, Profit: -3.76
+Roden Organic, Food: 0/22, Profit: -0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.91
+Ainsworth Goods, Food: 0/42, Profit: -1.98
+Roff Organic, Food: 135/45, Profit: 4.19
+Elston AgTech, Food: 0/55, Profit: -2.18
 
 ========================= MONTH 81 =========================
 
-Atter Ag, Food: 26/26, Profit: 1.84
-Goldberg Limited, Food: 11/11, Profit: 1.02
-Orvis Ranch, Food: 19/19, Profit: 1.83
-Allum Spring, Food: 13/13, Profit: 1.54
-Ivory Farms, Food: 11/11, Profit: 1.03
-Ewing Grain, Food: 15/15, Profit: 1.75
-Gowing Goods, Food: 17/17, Profit: 1.65
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.91
+Thurston Farms, Food: 0/66, Profit: -2.95
+Newsome Goods, Food: 72/72, Profit: -0.21
+Nanson Corp, Food: 236/75, Profit: 6.53
+Roden Organic, Food: 0/22, Profit: -0.94
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.81
+Ainsworth Goods, Food: 0/42, Profit: -1.88
+Roff Organic, Food: 0/45, Profit: -2.15
+Elston AgTech, Food: 163/55, Profit: 5.38
 
 ========================= MONTH 82 =========================
 
-Atter Ag, Food: 26/26, Profit: 1.78
-Goldberg Limited, Food: 11/11, Profit: 0.98
-Orvis Ranch, Food: 0/0, Profit: -1.09
-Allum Spring, Food: 0/0, Profit: -0.50
-Ivory Farms, Food: 0/0, Profit: -0.32
-Ewing Grain, Food: 0/0, Profit: -0.53
-Gowing Goods, Food: 0/0, Profit: -0.46
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.81
+Thurston Farms, Food: 0/66, Profit: -2.79
+Newsome Goods, Food: 72/72, Profit: -0.15
+Nanson Corp, Food: 75/75, Profit: -0.58
+Roden Organic, Food: 88/22, Profit: 2.89
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 100/40, Profit: 2.87
+Ainsworth Goods, Food: 126/42, Profit: 3.92
+Roff Organic, Food: 0/45, Profit: -2.04
+Elston AgTech, Food: 0/55, Profit: -2.33
 
 ========================= MONTH 83 =========================
 
-Atter Ag, Food: 15/15, Profit: 1.11
-Goldberg Limited, Food: 0/0, Profit: -0.68
-Orvis Ranch, Food: 0/0, Profit: -1.03
-Allum Spring, Food: 0/0, Profit: -0.47
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.50
-Gowing Goods, Food: 0/0, Profit: -0.44
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.72
+Thurston Farms, Food: 202/66, Profit: 6.36
+Newsome Goods, Food: 0/83, Profit: -3.96
+Nanson Corp, Food: 0/87, Profit: -4.46
+Roden Organic, Food: 22/22, Profit: -0.05
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.86
+Ainsworth Goods, Food: 0/42, Profit: -1.98
+Roff Organic, Food: 0/45, Profit: -1.94
+Elston AgTech, Food: 267/55, Profit: 9.65
 
 ========================= MONTH 84 =========================
 
-Atter Ag, Food: 0/0, Profit: -2.40
-Goldberg Limited, Food: 0/0, Profit: -0.64
-Orvis Ranch, Food: 0/0, Profit: -0.98
-Allum Spring, Food: 0/0, Profit: -0.45
-Ivory Farms, Food: 0/0, Profit: -0.29
-Ewing Grain, Food: 0/0, Profit: -0.47
-Gowing Goods, Food: 0/0, Profit: -0.42
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 144/27, Profit: 5.22
+Thurston Farms, Food: 128/66, Profit: 2.81
+Newsome Goods, Food: 0/83, Profit: -3.76
+Nanson Corp, Food: 18/75, Profit: -2.89
+Roden Organic, Food: 0/22, Profit: -1.03
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.77
+Ainsworth Goods, Food: 0/42, Profit: -1.88
+Roff Organic, Food: 180/45, Profit: 5.99
+Elston AgTech, Food: 0/55, Profit: -2.69
 
 ========================= MONTH 85 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.82
-Goldberg Limited, Food: 11/11, Profit: 1.07
-Orvis Ranch, Food: 19/19, Profit: 2.01
-Allum Spring, Food: 13/13, Profit: 1.58
-Ivory Farms, Food: 11/11, Profit: 1.04
-Ewing Grain, Food: 15/15, Profit: 1.81
-Gowing Goods, Food: 17/17, Profit: 1.62
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.89
+Thurston Farms, Food: 0/66, Profit: -3.10
+Newsome Goods, Food: 208/72, Profit: 6.30
+Nanson Corp, Food: 219/75, Profit: 6.03
+Roden Organic, Food: 44/22, Profit: 0.89
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.68
+Ainsworth Goods, Food: 0/42, Profit: -1.78
+Roff Organic, Food: 0/45, Profit: -2.14
+Elston AgTech, Food: 0/55, Profit: -2.56
 
 ========================= MONTH 86 =========================
 
-Atter Ag, Food: 26/26, Profit: 1.78
-Goldberg Limited, Food: 11/11, Profit: 1.04
-Orvis Ranch, Food: 19/19, Profit: 1.94
-Allum Spring, Food: 9/9, Profit: 1.27
-Ivory Farms, Food: 0/0, Profit: -0.33
-Ewing Grain, Food: 0/0, Profit: -0.54
-Gowing Goods, Food: 0/0, Profit: -0.48
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 66/27, Profit: 1.64
+Thurston Farms, Food: 0/66, Profit: -2.94
+Newsome Goods, Food: 0/83, Profit: -3.88
+Nanson Corp, Food: 59/75, Profit: -1.25
+Roden Organic, Food: 0/22, Profit: -1.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 168/28, Profit: 6.32
+Ainsworth Goods, Food: 0/42, Profit: -1.69
+Roff Organic, Food: 0/45, Profit: -2.03
+Elston AgTech, Food: 165/55, Profit: 4.82
 
 ========================= MONTH 87 =========================
 
-Atter Ag, Food: 24/24, Profit: 1.87
-Goldberg Limited, Food: 0/0, Profit: -0.72
-Orvis Ranch, Food: 0/0, Profit: -1.13
-Allum Spring, Food: 0/0, Profit: -0.57
-Ivory Farms, Food: 0/0, Profit: -0.31
-Ewing Grain, Food: 0/0, Profit: -0.51
-Gowing Goods, Food: 0/0, Profit: -0.45
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 0/39, Profit: -1.88
+Thurston Farms, Food: 0/66, Profit: -2.79
+Newsome Goods, Food: 2/72, Profit: -3.06
+Nanson Corp, Food: 91/75, Profit: 0.10
+Roden Organic, Food: 44/22, Profit: 0.98
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.90
+Ainsworth Goods, Food: 198/30, Profit: 7.27
+Roff Organic, Food: 135/45, Profit: 4.11
+Elston AgTech, Food: 0/55, Profit: -2.67
 
 ========================= MONTH 88 =========================
 
-Atter Ag, Food: 0/0, Profit: -2.55
-Goldberg Limited, Food: 0/0, Profit: -0.68
-Orvis Ranch, Food: 0/0, Profit: -1.07
-Allum Spring, Food: 0/0, Profit: -0.54
-Ivory Farms, Food: 0/0, Profit: -0.30
-Ewing Grain, Food: 0/0, Profit: -0.49
-Gowing Goods, Food: 0/0, Profit: -0.43
-Warren LLC, Food: 0/0, Profit: -0.01
-Rogers Ag, Food: 0/0, Profit: -0.01
-Makin Cereals, Food: 0/0, Profit: -0.01
+Astbury Place, Food: 66/27, Profit: 1.62
+Thurston Farms, Food: 0/66, Profit: -2.65
+Newsome Goods, Food: 255/72, Profit: 8.13
+Nanson Corp, Food: 75/75, Profit: -0.49
+Roden Organic, Food: 0/22, Profit: -1.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.81
+Ainsworth Goods, Food: 42/42, Profit: -0.10
+Roff Organic, Food: 0/45, Profit: -2.13
+Elston AgTech, Food: 23/55, Profit: -1.50
+
+========================= MONTH 89 =========================
+
+Astbury Place, Food: 0/27, Profit: -1.34
+Thurston Farms, Food: 282/66, Profit: 9.64
+Newsome Goods, Food: 0/72, Profit: -3.40
+Nanson Corp, Food: 0/87, Profit: -4.29
+Roden Organic, Food: 44/22, Profit: 0.89
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/28, Profit: -1.19
+Ainsworth Goods, Food: 0/42, Profit: -1.96
+Roff Organic, Food: 0/45, Profit: -2.02
+Elston AgTech, Food: 142/55, Profit: 3.64
+
+========================= MONTH 90 =========================
+
+Astbury Place, Food: 54/27, Profit: 1.04
+Thurston Farms, Food: 0/66, Profit: -2.99
+Newsome Goods, Food: 144/72, Profit: 2.87
+Nanson Corp, Food: 0/87, Profit: -4.07
+Roden Organic, Food: 22/22, Profit: -0.05
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 136/28, Profit: 4.45
+Ainsworth Goods, Food: 0/42, Profit: -1.86
+Roff Organic, Food: 61/45, Profit: 0.79
+Elston AgTech, Food: 55/55, Profit: -0.26
+
+========================= MONTH 91 =========================
+
+Astbury Place, Food: 0/27, Profit: -1.32
+Thurston Farms, Food: 54/54, Profit: -0.03
+Newsome Goods, Food: 0/72, Profit: -3.37
+Nanson Corp, Food: 249/75, Profit: 7.06
+Roden Organic, Food: 0/22, Profit: -1.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 28/28, Profit: -0.20
+Ainsworth Goods, Food: 126/42, Profit: 3.55
+Roff Organic, Food: 0/45, Profit: -1.96
+Elston AgTech, Food: 0/55, Profit: -2.62
+
+========================= MONTH 92 =========================
+
+Astbury Place, Food: 35/27, Profit: 0.28
+Thurston Farms, Food: 180/66, Profit: 5.06
+Newsome Goods, Food: 0/72, Profit: -3.20
+Nanson Corp, Food: 0/75, Profit: -3.70
+Roden Organic, Food: 44/22, Profit: 0.94
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 28/28, Profit: -0.14
+Ainsworth Goods, Food: 0/42, Profit: -1.95
+Roff Organic, Food: 164/45, Profit: 5.20
+Elston AgTech, Food: 0/55, Profit: -2.49
+
+========================= MONTH 93 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.79
+Thurston Farms, Food: 0/66, Profit: -3.09
+Newsome Goods, Food: 216/72, Profit: 5.92
+Nanson Corp, Food: 16/75, Profit: -2.81
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.85
+Ainsworth Goods, Food: 84/42, Profit: 1.80
+Roff Organic, Food: 0/45, Profit: -2.12
+Elston AgTech, Food: 165/55, Profit: 4.82
+
+========================= MONTH 94 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.69
+Thurston Farms, Food: 120/54, Profit: 2.63
+Newsome Goods, Food: 72/72, Profit: -0.28
+Nanson Corp, Food: 209/75, Profit: 5.26
+Roden Organic, Food: 0/22, Profit: -0.95
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.76
+Ainsworth Goods, Food: 0/42, Profit: -1.93
+Roff Organic, Food: 78/45, Profit: 1.40
+Elston AgTech, Food: 0/55, Profit: -2.60
+
+========================= MONTH 95 =========================
+
+Astbury Place, Food: 124/27, Profit: 4.34
+Thurston Farms, Food: 0/66, Profit: -3.06
+Newsome Goods, Food: 0/72, Profit: -3.32
+Nanson Corp, Food: 75/75, Profit: -0.52
+Roden Organic, Food: 66/22, Profit: 1.97
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 115/40, Profit: 3.43
+Ainsworth Goods, Food: 84/42, Profit: 1.77
+Roff Organic, Food: 0/45, Profit: -2.08
+Elston AgTech, Food: 0/55, Profit: -2.47
+
+========================= MONTH 96 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.83
+Thurston Farms, Food: 12/66, Profit: -2.38
+Newsome Goods, Food: 144/72, Profit: 2.91
+Nanson Corp, Food: 0/87, Profit: -4.12
+Roden Organic, Food: 22/22, Profit: -0.04
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.84
+Ainsworth Goods, Food: 42/42, Profit: -0.09
+Roff Organic, Food: 102/45, Profit: 2.33
+Elston AgTech, Food: 165/55, Profit: 4.87
+
+========================= MONTH 97 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.73
+Thurston Farms, Food: 174/54, Profit: 4.84
+Newsome Goods, Food: 62/72, Profit: -0.63
+Nanson Corp, Food: 162/75, Profit: 3.37
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 73/28, Profit: 1.88
+Ainsworth Goods, Food: 0/42, Profit: -1.92
+Roff Organic, Food: 0/45, Profit: -2.09
+Elston AgTech, Food: 0/55, Profit: -2.58
+
+========================= MONTH 98 =========================
+
+Astbury Place, Food: 0/27, Profit: -1.13
+Thurston Farms, Food: 66/66, Profit: -0.20
+Newsome Goods, Food: 82/72, Profit: 0.12
+Nanson Corp, Food: 38/75, Profit: -1.88
+Roden Organic, Food: 0/22, Profit: -0.95
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.83
+Ainsworth Goods, Food: 84/42, Profit: 1.84
+Roff Organic, Food: 90/45, Profit: 1.65
+Elston AgTech, Food: 110/55, Profit: 2.35
+
+========================= MONTH 99 =========================
+
+Astbury Place, Food: 132/27, Profit: 4.37
+Thurston Farms, Food: 0/66, Profit: -3.01
+Newsome Goods, Food: 72/72, Profit: -0.17
+Nanson Corp, Food: 112/75, Profit: 1.24
+Roden Organic, Food: 32/22, Profit: 0.52
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 68/28, Profit: 1.61
+Ainsworth Goods, Food: 0/42, Profit: -1.91
+Roff Organic, Food: 45/45, Profit: -0.11
+Elston AgTech, Food: 0/55, Profit: -2.57
+
+========================= MONTH 100 =========================
+
+Astbury Place, Food: 27/27, Profit: -0.10
+Thurston Farms, Food: 132/66, Profit: 2.75
+Newsome Goods, Food: 59/72, Profit: -0.63
+Nanson Corp, Food: 75/75, Profit: -0.36
+Roden Organic, Food: 0/22, Profit: -0.92
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.06
+Ainsworth Goods, Food: 84/42, Profit: 1.78
+Roff Organic, Food: 45/45, Profit: -0.10
+Elston AgTech, Food: 0/55, Profit: -2.43
+
+========================= MONTH 101 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.80
+Thurston Farms, Food: 66/66, Profit: -0.16
+Newsome Goods, Food: 85/72, Profit: 0.41
+Nanson Corp, Food: 46/87, Profit: -1.98
+Roden Organic, Food: 78/22, Profit: 2.55
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.81
+Ainsworth Goods, Food: 42/42, Profit: -0.07
+Roff Organic, Food: 0/45, Profit: -2.05
+Elston AgTech, Food: 165/55, Profit: 4.88
+
+========================= MONTH 102 =========================
+
+Astbury Place, Food: 66/27, Profit: 1.72
+Thurston Farms, Food: 0/66, Profit: -2.98
+Newsome Goods, Food: 57/72, Profit: -0.62
+Nanson Corp, Food: 116/75, Profit: 1.64
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.87
+Ainsworth Goods, Food: 42/42, Profit: -0.00
+Roff Organic, Food: 90/45, Profit: 1.97
+Elston AgTech, Food: 0/55, Profit: -2.55
+
+========================= MONTH 103 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.03
+Thurston Farms, Food: 132/66, Profit: 2.87
+Newsome Goods, Food: 87/72, Profit: 0.60
+Nanson Corp, Food: 87/87, Profit: -0.05
+Roden Organic, Food: 44/22, Profit: 0.92
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.81
+Ainsworth Goods, Food: 0/42, Profit: -1.89
+Roff Organic, Food: 0/45, Profit: -2.04
+Elston AgTech, Food: 86/55, Profit: 1.48
+
+========================= MONTH 104 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.03
+Thurston Farms, Food: 66/66, Profit: -0.07
+Newsome Goods, Food: 83/83, Profit: 0.13
+Nanson Corp, Food: 87/87, Profit: 0.09
+Roden Organic, Food: 22/22, Profit: 0.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.77
+Ainsworth Goods, Food: 4/42, Profit: -1.61
+Roff Organic, Food: 90/45, Profit: 2.12
+Elston AgTech, Food: 0/55, Profit: -2.50
+
+========================= MONTH 105 =========================
+
+Astbury Place, Food: 29/39, Profit: -0.38
+Thurston Farms, Food: 66/66, Profit: 0.16
+Newsome Goods, Food: 0/83, Profit: -3.75
+Nanson Corp, Food: 0/87, Profit: -3.99
+Roden Organic, Food: 22/22, Profit: 0.06
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.05
+Ainsworth Goods, Food: 122/42, Profit: 4.02
+Roff Organic, Food: 45/45, Profit: 0.13
+Elston AgTech, Food: 134/55, Profit: 3.72
+
+========================= MONTH 106 =========================
+
+Astbury Place, Food: 49/39, Profit: 0.56
+Thurston Farms, Food: 0/77, Profit: -3.48
+Newsome Goods, Food: 152/83, Profit: 3.86
+Nanson Corp, Food: 174/87, Profit: 4.45
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.10
+Ainsworth Goods, Food: 0/42, Profit: -1.91
+Roff Organic, Food: 0/55, Profit: -2.58
+Elston AgTech, Food: 55/55, Profit: 0.00
+
+========================= MONTH 107 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.79
+Thurston Farms, Food: 143/66, Profit: 3.95
+Newsome Goods, Food: 0/83, Profit: -3.75
+Nanson Corp, Food: 79/87, Profit: -0.14
+Roden Organic, Food: 44/22, Profit: 1.12
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.13
+Ainsworth Goods, Food: 84/42, Profit: 2.15
+Roff Organic, Food: 0/45, Profit: -1.92
+Elston AgTech, Food: 55/55, Profit: 0.11
+
+========================= MONTH 108 =========================
+
+Astbury Place, Food: 55/39, Profit: 0.95
+Thurston Farms, Food: 66/66, Profit: 0.13
+Newsome Goods, Food: 180/83, Profit: 5.02
+Nanson Corp, Food: 0/87, Profit: -4.00
+Roden Organic, Food: 22/22, Profit: 0.04
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.82
+Ainsworth Goods, Food: 0/42, Profit: -1.92
+Roff Organic, Food: 145/45, Profit: 4.87
+Elston AgTech, Food: 0/67, Profit: -3.16
+
+========================= MONTH 109 =========================
+
+Astbury Place, Food: 62/39, Profit: 1.27
+Thurston Farms, Food: 66/66, Profit: 0.16
+Newsome Goods, Food: 0/83, Profit: -3.81
+Nanson Corp, Food: 0/87, Profit: -3.79
+Roden Organic, Food: 0/22, Profit: -1.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 2.01
+Ainsworth Goods, Food: 77/42, Profit: 1.92
+Roff Organic, Food: 45/45, Profit: 0.09
+Elston AgTech, Food: 122/55, Profit: 3.21
+
+========================= MONTH 110 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.81
+Thurston Farms, Food: 0/66, Profit: -3.00
+Newsome Goods, Food: 155/72, Profit: 3.97
+Nanson Corp, Food: 269/87, Profit: 8.73
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.83
+Ainsworth Goods, Food: 0/42, Profit: -1.92
+Roff Organic, Food: 0/45, Profit: -2.07
+Elston AgTech, Food: 32/55, Profit: -1.08
+
+========================= MONTH 111 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.72
+Thurston Farms, Food: 132/66, Profit: 3.11
+Newsome Goods, Food: 26/83, Profit: -2.60
+Nanson Corp, Food: 87/87, Profit: -0.02
+Roden Organic, Food: 66/22, Profit: 2.16
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.90
+Ainsworth Goods, Food: 0/42, Profit: -1.82
+Roff Organic, Food: 0/45, Profit: -1.96
+Elston AgTech, Food: 78/55, Profit: 1.02
+
+========================= MONTH 112 =========================
+
+Astbury Place, Food: 105/27, Profit: 3.46
+Thurston Farms, Food: 0/66, Profit: -3.01
+Newsome Goods, Food: 129/72, Profit: 2.62
+Nanson Corp, Food: 0/87, Profit: -4.03
+Roden Organic, Food: 22/22, Profit: 0.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.83
+Ainsworth Goods, Food: 133/42, Profit: 4.50
+Roff Organic, Food: 1/45, Profit: -1.82
+Elston AgTech, Food: 55/55, Profit: 0.01
+
+========================= MONTH 113 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.07
+Thurston Farms, Food: 132/66, Profit: 3.33
+Newsome Goods, Food: 83/83, Profit: 0.02
+Nanson Corp, Food: 0/87, Profit: -3.82
+Roden Organic, Food: 0/22, Profit: -1.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 44/40, Profit: 0.34
+Ainsworth Goods, Food: 0/42, Profit: -1.95
+Roff Organic, Food: 179/45, Profit: 6.18
+Elston AgTech, Food: 0/67, Profit: -3.14
+
+========================= MONTH 114 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.05
+Thurston Farms, Food: 0/66, Profit: -3.02
+Newsome Goods, Food: 83/83, Profit: 0.11
+Nanson Corp, Food: 261/87, Profit: 7.90
+Roden Organic, Food: 44/22, Profit: 1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.75
+Ainsworth Goods, Food: 0/42, Profit: -1.85
+Roff Organic, Food: 45/45, Profit: -0.07
+Elston AgTech, Food: 2/55, Profit: -2.29
+
+========================= MONTH 115 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.80
+Thurston Farms, Food: 0/66, Profit: -2.87
+Newsome Goods, Food: 0/83, Profit: -3.81
+Nanson Corp, Food: 0/87, Profit: -4.02
+Roden Organic, Food: 22/22, Profit: -0.03
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 116/40, Profit: 3.71
+Ainsworth Goods, Food: 92/42, Profit: 2.60
+Roff Organic, Food: 45/45, Profit: 0.02
+Elston AgTech, Food: 175/55, Profit: 6.01
+
+========================= MONTH 116 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.71
+Thurston Farms, Food: 133/66, Profit: 3.54
+Newsome Goods, Food: 155/72, Profit: 3.89
+Nanson Corp, Food: 174/87, Profit: 3.79
+Roden Organic, Food: 0/22, Profit: -1.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.85
+Ainsworth Goods, Food: 0/42, Profit: -1.89
+Roff Organic, Food: 0/45, Profit: -2.08
+Elston AgTech, Food: 0/55, Profit: -2.57
+
+========================= MONTH 117 =========================
+
+Astbury Place, Food: 117/39, Profit: 3.56
+Thurston Farms, Food: 0/66, Profit: -2.90
+Newsome Goods, Food: 0/83, Profit: -3.81
+Nanson Corp, Food: 87/87, Profit: -0.10
+Roden Organic, Food: 44/22, Profit: 1.03
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.83
+Ainsworth Goods, Food: 0/42, Profit: -1.79
+Roff Organic, Food: 38/45, Profit: -0.17
+Elston AgTech, Food: 110/55, Profit: 2.62
+
+========================= MONTH 118 =========================
+
+Astbury Place, Food: 7/39, Profit: -1.47
+Thurston Farms, Food: 197/66, Profit: 6.24
+Newsome Goods, Food: 0/83, Profit: -3.62
+Nanson Corp, Food: 87/87, Profit: 0.01
+Roden Organic, Food: 22/22, Profit: -0.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.84
+Ainsworth Goods, Food: 0/42, Profit: -1.70
+Roff Organic, Food: 97/45, Profit: 2.36
+Elston AgTech, Food: 55/55, Profit: -0.01
+
+========================= MONTH 119 =========================
+
+Astbury Place, Food: 71/39, Profit: 1.36
+Thurston Farms, Food: 0/66, Profit: -3.06
+Newsome Goods, Food: 238/72, Profit: 7.75
+Nanson Corp, Food: 0/87, Profit: -3.99
+Roden Organic, Food: 0/22, Profit: -1.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.75
+Ainsworth Goods, Food: 164/42, Profit: 5.77
+Roff Organic, Food: 0/45, Profit: -2.08
+Elston AgTech, Food: 0/67, Profit: -3.15
+
+========================= MONTH 120 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.03
+Thurston Farms, Food: 132/66, Profit: 2.74
+Newsome Goods, Food: 0/83, Profit: -3.82
+Nanson Corp, Food: 174/87, Profit: 4.16
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 53/40, Profit: 0.77
+Ainsworth Goods, Food: 0/42, Profit: -1.90
+Roff Organic, Food: 90/45, Profit: 2.12
+Elston AgTech, Food: 0/67, Profit: -2.99
+
+========================= MONTH 121 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.78
+Thurston Farms, Food: 66/66, Profit: -0.03
+Newsome Goods, Food: 103/83, Profit: 1.19
+Nanson Corp, Food: 0/87, Profit: -3.99
+Roden Organic, Food: 66/22, Profit: 1.88
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.70
+Ainsworth Goods, Food: 0/42, Profit: -1.81
+Roff Organic, Food: 45/45, Profit: -0.02
+Elston AgTech, Food: 189/55, Profit: 6.17
+
+========================= MONTH 122 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.92
+Thurston Farms, Food: 0/77, Profit: -3.53
+Newsome Goods, Food: 0/83, Profit: -3.68
+Nanson Corp, Food: 0/87, Profit: -3.79
+Roden Organic, Food: 22/22, Profit: -0.03
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 104/40, Profit: 3.26
+Ainsworth Goods, Food: 164/42, Profit: 5.72
+Roff Organic, Food: 45/45, Profit: 0.03
+Elston AgTech, Food: 55/55, Profit: -0.00
+
+========================= MONTH 123 =========================
+
+Astbury Place, Food: 17/39, Profit: -0.99
+Thurston Farms, Food: 143/66, Profit: 3.69
+Newsome Goods, Food: 0/83, Profit: -3.49
+Nanson Corp, Food: 261/87, Profit: 7.92
+Roden Organic, Food: 22/22, Profit: -0.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.77
+Ainsworth Goods, Food: 42/42, Profit: -0.09
+Roff Organic, Food: 0/45, Profit: -2.07
+Elston AgTech, Food: 0/67, Profit: -3.14
+
+========================= MONTH 124 =========================
+
+Astbury Place, Food: 61/39, Profit: 0.98
+Thurston Farms, Food: 66/66, Profit: 0.08
+Newsome Goods, Food: 2/83, Profit: -3.22
+Nanson Corp, Food: 87/87, Profit: 0.10
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 123/40, Profit: 3.89
+Ainsworth Goods, Food: 42/42, Profit: -0.06
+Roff Organic, Food: 90/45, Profit: 2.20
+Elston AgTech, Food: 0/67, Profit: -2.98
+
+========================= MONTH 125 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.02
+Thurston Farms, Food: 0/77, Profit: -3.54
+Newsome Goods, Food: 210/83, Profit: 6.66
+Nanson Corp, Food: 0/97, Profit: -4.49
+Roden Organic, Food: 44/22, Profit: 1.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.87
+Ainsworth Goods, Food: 0/42, Profit: -1.99
+Roff Organic, Food: 0/45, Profit: -2.08
+Elston AgTech, Food: 189/55, Profit: 6.42
+
+========================= MONTH 126 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.78
+Thurston Farms, Food: 107/66, Profit: 2.13
+Newsome Goods, Food: 0/83, Profit: -3.48
+Nanson Corp, Food: 184/87, Profit: 4.78
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.78
+Ainsworth Goods, Food: 84/42, Profit: 2.00
+Roff Organic, Food: 0/45, Profit: -1.97
+Elston AgTech, Food: 0/55, Profit: -2.57
+
+========================= MONTH 127 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.84
+Thurston Farms, Food: 0/66, Profit: -2.97
+Newsome Goods, Food: 98/83, Profit: 1.19
+Nanson Corp, Food: 0/87, Profit: -4.00
+Roden Organic, Food: 44/22, Profit: 0.98
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.87
+Ainsworth Goods, Food: 0/42, Profit: -1.99
+Roff Organic, Food: 135/45, Profit: 4.17
+Elston AgTech, Food: 110/55, Profit: 2.60
+
+========================= MONTH 128 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.01
+Thurston Farms, Food: 168/66, Profit: 4.59
+Newsome Goods, Food: 0/83, Profit: -3.36
+Nanson Corp, Food: 174/87, Profit: 4.07
+Roden Organic, Food: 19/22, Profit: -0.12
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.91
+Ainsworth Goods, Food: 0/42, Profit: -1.89
+Roff Organic, Food: 0/45, Profit: -2.08
+Elston AgTech, Food: 0/67, Profit: -3.15
+
+========================= MONTH 129 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.02
+Thurston Farms, Food: 66/66, Profit: -0.06
+Newsome Goods, Food: 259/83, Profit: 8.94
+Nanson Corp, Food: 0/97, Profit: -4.49
+Roden Organic, Food: 25/22, Profit: 0.15
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.86
+Ainsworth Goods, Food: 0/42, Profit: -1.79
+Roff Organic, Food: 90/45, Profit: 2.20
+Elston AgTech, Food: 0/67, Profit: -2.98
+
+========================= MONTH 130 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.78
+Thurston Farms, Food: 0/77, Profit: -3.53
+Newsome Goods, Food: 0/83, Profit: -3.63
+Nanson Corp, Food: 110/87, Profit: 1.39
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.77
+Ainsworth Goods, Food: 168/42, Profit: 6.17
+Roff Organic, Food: 0/45, Profit: -2.09
+Elston AgTech, Food: 189/55, Profit: 6.15
+
+========================= MONTH 131 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.86
+Thurston Farms, Food: 0/77, Profit: -3.36
+Newsome Goods, Food: 136/83, Profit: 2.76
+Nanson Corp, Food: 0/87, Profit: -3.84
+Roden Organic, Food: 0/22, Profit: -0.95
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 120/40, Profit: 3.71
+Ainsworth Goods, Food: 0/42, Profit: -2.01
+Roff Organic, Food: 90/45, Profit: 2.01
+Elston AgTech, Food: 55/55, Profit: -0.08
+
+========================= MONTH 132 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.78
+Thurston Farms, Food: 127/66, Profit: 3.11
+Newsome Goods, Food: 0/83, Profit: -3.58
+Nanson Corp, Food: 248/87, Profit: 7.21
+Roden Organic, Food: 66/22, Profit: 2.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.86
+Ainsworth Goods, Food: 0/42, Profit: -1.91
+Roff Organic, Food: 45/45, Profit: -0.03
+Elston AgTech, Food: 0/67, Profit: -3.13
+
+========================= MONTH 133 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.84
+Thurston Farms, Food: 0/77, Profit: -3.34
+Newsome Goods, Food: 0/83, Profit: -3.40
+Nanson Corp, Food: 87/87, Profit: -0.08
+Roden Organic, Food: 22/22, Profit: -0.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.96
+Ainsworth Goods, Food: 126/42, Profit: 3.85
+Roff Organic, Food: 45/45, Profit: 0.01
+Elston AgTech, Food: 46/67, Profit: -0.83
+
+========================= MONTH 134 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.78
+Thurston Farms, Food: 0/66, Profit: -2.68
+Newsome Goods, Food: 335/72, Profit: 11.97
+Nanson Corp, Food: 0/97, Profit: -4.49
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.86
+Ainsworth Goods, Food: 0/42, Profit: -2.00
+Roff Organic, Food: 0/45, Profit: -2.07
+Elston AgTech, Food: 143/55, Profit: 3.90
+
+========================= MONTH 135 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.69
+Thurston Farms, Food: 302/66, Profit: 10.76
+Newsome Goods, Food: 0/83, Profit: -3.82
+Nanson Corp, Food: 90/87, Profit: 0.28
+Roden Organic, Food: 0/22, Profit: -0.94
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.82
+Ainsworth Goods, Food: 0/42, Profit: -1.90
+Roff Organic, Food: 0/45, Profit: -1.97
+Elston AgTech, Food: 0/55, Profit: -2.54
+
+========================= MONTH 136 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.60
+Thurston Farms, Food: 0/66, Profit: -3.08
+Newsome Goods, Food: 164/83, Profit: 3.66
+Nanson Corp, Food: 0/97, Profit: -4.26
+Roden Organic, Food: 66/22, Profit: 1.87
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.86
+Ainsworth Goods, Food: 126/42, Profit: 3.59
+Roff Organic, Food: 135/45, Profit: 4.00
+Elston AgTech, Food: 0/55, Profit: -2.41
+
+========================= MONTH 137 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.52
+Thurston Farms, Food: 10/66, Profit: -2.48
+Newsome Goods, Food: 0/83, Profit: -3.80
+Nanson Corp, Food: 278/87, Profit: 8.77
+Roden Organic, Food: 22/22, Profit: -0.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.77
+Ainsworth Goods, Food: 0/42, Profit: -1.98
+Roff Organic, Food: 0/45, Profit: -2.07
+Elston AgTech, Food: 165/55, Profit: 5.00
+
+========================= MONTH 138 =========================
+
+Astbury Place, Food: 195/39, Profit: 6.86
+Thurston Farms, Food: 188/66, Profit: 5.26
+Newsome Goods, Food: 0/83, Profit: -3.61
+Nanson Corp, Food: 0/87, Profit: -3.99
+Roden Organic, Food: 0/22, Profit: -0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 22/40, Profit: -0.71
+Ainsworth Goods, Food: 0/42, Profit: -1.88
+Roff Organic, Food: 90/45, Profit: 1.97
+Elston AgTech, Food: 0/67, Profit: -3.11
+
+========================= MONTH 139 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.78
+Thurston Farms, Food: 0/66, Profit: -3.06
+Newsome Goods, Food: 0/83, Profit: -3.43
+Nanson Corp, Food: 174/87, Profit: 3.62
+Roden Organic, Food: 0/22, Profit: -0.94
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 138/40, Profit: 4.06
+Ainsworth Goods, Food: 59/42, Profit: 0.80
+Roff Organic, Food: 0/45, Profit: -2.06
+Elston AgTech, Food: 122/55, Profit: 2.86
+
+========================= MONTH 140 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.69
+Thurston Farms, Food: 0/66, Profit: -2.90
+Newsome Goods, Food: 414/72, Profit: 14.24
+Nanson Corp, Food: 0/87, Profit: -3.97
+Roden Organic, Food: 40/22, Profit: 0.85
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.12
+Ainsworth Goods, Food: 0/42, Profit: -1.82
+Roff Organic, Food: 0/45, Profit: -1.95
+Elston AgTech, Food: 0/55, Profit: -2.53
+
+========================= MONTH 141 =========================
+
+Astbury Place, Food: 105/27, Profit: 3.19
+Thurston Farms, Food: 0/66, Profit: -2.76
+Newsome Goods, Food: 72/72, Profit: -0.48
+Nanson Corp, Food: 174/87, Profit: 3.51
+Roden Organic, Food: 0/22, Profit: -0.93
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.83
+Ainsworth Goods, Food: 0/42, Profit: -1.73
+Roff Organic, Food: 120/45, Profit: 3.23
+Elston AgTech, Food: 0/55, Profit: -2.40
+
+========================= MONTH 142 =========================
+
+Astbury Place, Food: 27/27, Profit: -0.18
+Thurston Farms, Food: 89/66, Profit: 1.16
+Newsome Goods, Food: 0/72, Profit: -3.44
+Nanson Corp, Food: 0/87, Profit: -3.94
+Roden Organic, Food: 0/22, Profit: -0.89
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.74
+Ainsworth Goods, Food: 193/42, Profit: 6.30
+Roff Organic, Food: 0/45, Profit: -2.01
+Elston AgTech, Food: 165/55, Profit: 4.67
+
+========================= MONTH 143 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.75
+Thurston Farms, Food: 0/66, Profit: -2.67
+Newsome Goods, Food: 128/72, Profit: 2.25
+Nanson Corp, Food: 0/87, Profit: -3.74
+Roden Organic, Food: 92/22, Profit: 3.09
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 120/40, Profit: 3.23
+Ainsworth Goods, Food: 42/42, Profit: -0.15
+Roff Organic, Food: 105/45, Profit: 2.41
+Elston AgTech, Food: 0/55, Profit: -2.51
+
+========================= MONTH 144 =========================
+
+Astbury Place, Food: 46/39, Profit: 0.27
+Thurston Farms, Food: 307/66, Profit: 10.28
+Newsome Goods, Food: 0/83, Profit: -3.87
+Nanson Corp, Food: 0/87, Profit: -3.55
+Roden Organic, Food: 0/22, Profit: -0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.14
+Ainsworth Goods, Food: 0/42, Profit: -1.95
+Roff Organic, Food: 0/45, Profit: -2.03
+Elston AgTech, Food: 110/55, Profit: 2.01
+
+========================= MONTH 145 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.68
+Thurston Farms, Food: 0/66, Profit: -3.05
+Newsome Goods, Food: 18/72, Profit: -2.42
+Nanson Corp, Food: 336/75, Profit: 10.87
+Roden Organic, Food: 44/22, Profit: 0.86
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.80
+Ainsworth Goods, Food: 0/42, Profit: -1.85
+Roff Organic, Food: 90/45, Profit: 1.65
+Elston AgTech, Food: 0/55, Profit: -2.48
+
+========================= MONTH 146 =========================
+
+Astbury Place, Food: 14/39, Profit: -1.00
+Thurston Farms, Food: 0/66, Profit: -2.90
+Newsome Goods, Food: 225/72, Profit: 6.23
+Nanson Corp, Food: 0/87, Profit: -3.91
+Roden Organic, Food: 0/22, Profit: -0.98
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.59
+Ainsworth Goods, Food: 126/42, Profit: 3.46
+Roff Organic, Food: 45/45, Profit: -0.21
+Elston AgTech, Food: 0/55, Profit: -2.35
+
+========================= MONTH 147 =========================
+
+Astbury Place, Food: 123/27, Profit: 3.96
+Thurston Farms, Food: 198/66, Profit: 5.43
+Newsome Goods, Food: 0/83, Profit: -3.86
+Nanson Corp, Food: 0/87, Profit: -3.71
+Roden Organic, Food: 6/22, Profit: -0.68
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.79
+Ainsworth Goods, Food: 0/42, Profit: -1.92
+Roff Organic, Food: 0/45, Profit: -2.00
+Elston AgTech, Food: 165/55, Profit: 4.44
+
+========================= MONTH 148 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.74
+Thurston Farms, Food: 0/66, Profit: -3.02
+Newsome Goods, Food: 0/83, Profit: -3.67
+Nanson Corp, Food: 261/87, Profit: 7.17
+Roden Organic, Food: 60/22, Profit: 1.43
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 68/28, Profit: 1.49
+Ainsworth Goods, Food: 0/42, Profit: -1.83
+Roff Organic, Food: 59/45, Profit: 0.57
+Elston AgTech, Food: 55/55, Profit: -0.20
+
+========================= MONTH 149 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.59
+Thurston Farms, Food: 132/66, Profit: 2.69
+Newsome Goods, Food: 45/72, Profit: -1.06
+Nanson Corp, Food: 87/87, Profit: -0.28
+Roden Organic, Food: 22/22, Profit: -0.09
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.77
+Ainsworth Goods, Food: 126/42, Profit: 3.27
+Roff Organic, Food: 0/45, Profit: -1.93
+Elston AgTech, Food: 0/55, Profit: -2.44
+
+========================= MONTH 150 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.73
+Thurston Farms, Food: 0/66, Profit: -3.00
+Newsome Goods, Food: 265/72, Profit: 7.69
+Nanson Corp, Food: 0/87, Profit: -3.86
+Roden Organic, Food: 22/22, Profit: -0.05
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.67
+Ainsworth Goods, Food: 42/42, Profit: -0.20
+Roff Organic, Food: 0/45, Profit: -1.83
+Elston AgTech, Food: 84/55, Profit: 1.21
+
+========================= MONTH 151 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.64
+Thurston Farms, Food: 132/66, Profit: 2.64
+Newsome Goods, Food: 72/72, Profit: -0.33
+Nanson Corp, Food: 97/87, Profit: 0.50
+Roden Organic, Food: 22/22, Profit: -0.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.05
+Ainsworth Goods, Food: 42/42, Profit: -0.13
+Roff Organic, Food: 0/45, Profit: -1.74
+Elston AgTech, Food: 0/55, Profit: -2.38
+
+========================= MONTH 152 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.08
+Thurston Farms, Food: 66/66, Profit: -0.14
+Newsome Goods, Food: 0/83, Profit: -3.78
+Nanson Corp, Food: 0/87, Profit: -3.69
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 1/40, Profit: -1.72
+Ainsworth Goods, Food: 42/42, Profit: -0.06
+Roff Organic, Food: 211/45, Profit: 6.90
+Elston AgTech, Food: 136/55, Profit: 3.37
+
+========================= MONTH 153 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.00
+Thurston Farms, Food: 0/66, Profit: -2.97
+Newsome Goods, Food: 155/72, Profit: 3.51
+Nanson Corp, Food: 19/87, Profit: -2.66
+Roden Organic, Food: 44/22, Profit: 0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 79/40, Profit: 1.51
+Ainsworth Goods, Food: 42/42, Profit: -0.04
+Roff Organic, Food: 45/45, Profit: -0.15
+Elston AgTech, Food: 55/55, Profit: -0.12
+
+========================= MONTH 154 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.72
+Thurston Farms, Food: 132/66, Profit: 2.58
+Newsome Goods, Food: 0/83, Profit: -3.77
+Nanson Corp, Food: 209/87, Profit: 5.75
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.08
+Ainsworth Goods, Food: 0/42, Profit: -1.87
+Roff Organic, Food: 45/45, Profit: -0.06
+Elston AgTech, Food: 55/55, Profit: -0.07
+
+========================= MONTH 155 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.63
+Thurston Farms, Food: 66/66, Profit: -0.24
+Newsome Goods, Food: 0/83, Profit: -3.58
+Nanson Corp, Food: 194/87, Profit: 4.92
+Roden Organic, Food: 0/22, Profit: -0.91
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.06
+Ainsworth Goods, Food: 84/42, Profit: 1.70
+Roff Organic, Food: 45/45, Profit: -0.03
+Elston AgTech, Food: 55/55, Profit: -0.04
+
+========================= MONTH 156 =========================
+
+Astbury Place, Food: 117/39, Profit: 3.37
+Thurston Farms, Food: 66/66, Profit: -0.15
+Newsome Goods, Food: 169/83, Profit: 3.88
+Nanson Corp, Food: 0/97, Profit: -4.36
+Roden Organic, Food: 66/22, Profit: 1.91
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.04
+Ainsworth Goods, Food: 42/42, Profit: -0.12
+Roff Organic, Food: 0/45, Profit: -1.97
+Elston AgTech, Food: 0/55, Profit: -2.41
+
+========================= MONTH 157 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.07
+Thurston Farms, Food: 0/66, Profit: -2.91
+Newsome Goods, Food: 18/83, Profit: -2.80
+Nanson Corp, Food: 187/87, Profit: 4.35
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.74
+Ainsworth Goods, Food: 42/42, Profit: -0.10
+Roff Organic, Food: 90/45, Profit: 1.90
+Elston AgTech, Food: 110/55, Profit: 2.27
+
+========================= MONTH 158 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.71
+Thurston Farms, Food: 84/66, Profit: 0.81
+Newsome Goods, Food: 217/72, Profit: 6.05
+Nanson Corp, Food: 0/87, Profit: -3.88
+Roden Organic, Food: 44/22, Profit: 0.94
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.62
+Ainsworth Goods, Food: 0/42, Profit: -1.84
+Roff Organic, Food: 0/45, Profit: -1.97
+Elston AgTech, Food: 55/55, Profit: -0.09
+
+========================= MONTH 159 =========================
+
+Astbury Place, Food: 34/39, Profit: -0.14
+Thurston Farms, Food: 0/66, Profit: -2.81
+Newsome Goods, Food: 0/83, Profit: -3.74
+Nanson Corp, Food: 174/87, Profit: 3.64
+Roden Organic, Food: 22/22, Profit: -0.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.07
+Ainsworth Goods, Food: 84/42, Profit: 1.71
+Roff Organic, Food: 90/45, Profit: 1.69
+Elston AgTech, Food: 55/55, Profit: -0.04
+
+========================= MONTH 160 =========================
+
+Astbury Place, Food: 83/39, Profit: 1.91
+Thurston Farms, Food: 180/66, Profit: 5.05
+Newsome Goods, Food: 155/72, Profit: 3.37
+Nanson Corp, Food: 22/87, Profit: -2.91
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.72
+Ainsworth Goods, Food: 0/42, Profit: -1.83
+Roff Organic, Food: 45/45, Profit: -0.05
+Elston AgTech, Food: 0/67, Profit: -2.95
+
+========================= MONTH 161 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.71
+Thurston Farms, Food: 0/66, Profit: -2.92
+Newsome Goods, Food: 72/72, Profit: -0.22
+Nanson Corp, Food: 140/75, Profit: 2.32
+Roden Organic, Food: 0/22, Profit: -0.91
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 14/40, Profit: -1.03
+Ainsworth Goods, Food: 84/42, Profit: 1.79
+Roff Organic, Food: 45/45, Profit: -0.04
+Elston AgTech, Food: 122/55, Profit: 2.89
+
+========================= MONTH 162 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.75
+Thurston Farms, Food: 0/66, Profit: -2.77
+Newsome Goods, Food: 83/83, Profit: -0.06
+Nanson Corp, Food: 87/87, Profit: -0.21
+Roden Organic, Food: 66/22, Profit: 1.91
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 106/40, Profit: 2.82
+Ainsworth Goods, Food: 0/42, Profit: -1.83
+Roff Organic, Food: 4/45, Profit: -1.77
+Elston AgTech, Food: 55/55, Profit: 0.04
+
+========================= MONTH 163 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.71
+Thurston Farms, Food: 155/66, Profit: 4.24
+Newsome Goods, Food: 0/83, Profit: -3.70
+Nanson Corp, Food: 87/87, Profit: -0.09
+Roden Organic, Food: 22/22, Profit: 0.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.03
+Ainsworth Goods, Food: 84/42, Profit: 1.84
+Roff Organic, Food: 86/45, Profit: 1.69
+Elston AgTech, Food: 0/55, Profit: -2.38
+
+========================= MONTH 164 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.63
+Thurston Farms, Food: 0/77, Profit: -3.31
+Newsome Goods, Food: 166/83, Profit: 3.79
+Nanson Corp, Food: 49/87, Profit: -1.62
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.72
+Ainsworth Goods, Food: 42/42, Profit: -0.01
+Roff Organic, Food: 45/45, Profit: -0.06
+Elston AgTech, Food: 110/55, Profit: 2.33
+
+========================= MONTH 165 =========================
+
+Astbury Place, Food: 34/39, Profit: -0.19
+Thurston Farms, Food: 186/66, Profit: 5.54
+Newsome Goods, Food: 0/83, Profit: -3.70
+Nanson Corp, Food: 125/87, Profit: 1.53
+Roden Organic, Food: 44/22, Profit: 1.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.63
+Ainsworth Goods, Food: 42/42, Profit: 0.04
+Roff Organic, Food: 45/45, Profit: 0.05
+Elston AgTech, Food: 0/67, Profit: -2.93
+
+========================= MONTH 166 =========================
+
+Astbury Place, Food: 44/39, Profit: 0.19
+Thurston Farms, Food: 0/77, Profit: -3.41
+Newsome Goods, Food: 155/72, Profit: 3.49
+Nanson Corp, Food: 87/87, Profit: -0.05
+Roden Organic, Food: 0/22, Profit: -0.96
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 73/40, Profit: 1.71
+Ainsworth Goods, Food: 0/42, Profit: -1.82
+Roff Organic, Food: 0/45, Profit: -1.94
+Elston AgTech, Food: 122/55, Profit: 2.91
+
+========================= MONTH 167 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.70
+Thurston Farms, Food: 143/66, Profit: 3.33
+Newsome Goods, Food: 83/83, Profit: -0.05
+Nanson Corp, Food: 0/87, Profit: -3.79
+Roden Organic, Food: 0/22, Profit: -0.91
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 20/40, Profit: -0.74
+Ainsworth Goods, Food: 84/42, Profit: 1.75
+Roff Organic, Food: 90/45, Profit: 1.91
+Elston AgTech, Food: 55/55, Profit: 0.03
+
+========================= MONTH 168 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.72
+Thurston Farms, Food: 0/66, Profit: -2.94
+Newsome Goods, Food: 0/83, Profit: -3.68
+Nanson Corp, Food: 174/87, Profit: 3.79
+Roden Organic, Food: 66/22, Profit: 2.01
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 107/40, Profit: 2.81
+Ainsworth Goods, Food: 42/42, Profit: 0.01
+Roff Organic, Food: 31/45, Profit: -0.58
+Elston AgTech, Food: 0/67, Profit: -2.92
+
+========================= MONTH 169 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.03
+Thurston Farms, Food: 132/66, Profit: 2.98
+Newsome Goods, Food: 128/83, Profit: 2.19
+Nanson Corp, Food: 87/87, Profit: -0.03
+Roden Organic, Food: 0/22, Profit: -0.97
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.02
+Ainsworth Goods, Food: 0/42, Profit: -1.82
+Roff Organic, Food: 59/45, Profit: 0.53
+Elston AgTech, Food: 0/67, Profit: -2.77
+
+========================= MONTH 170 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.69
+Thurston Farms, Food: 0/77, Profit: -3.40
+Newsome Goods, Food: 0/83, Profit: -3.60
+Nanson Corp, Food: 87/87, Profit: 0.01
+Roden Organic, Food: 44/22, Profit: 1.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.01
+Ainsworth Goods, Food: 84/42, Profit: 1.84
+Roff Organic, Food: 36/45, Profit: -0.33
+Elston AgTech, Food: 189/55, Profit: 6.04
+
+========================= MONTH 171 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.86
+Thurston Farms, Food: 154/77, Profit: 3.76
+Newsome Goods, Food: 0/83, Profit: -3.42
+Nanson Corp, Food: 87/87, Profit: 0.03
+Roden Organic, Food: 0/22, Profit: -0.97
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.73
+Ainsworth Goods, Food: 42/42, Profit: -0.01
+Roff Organic, Food: 54/45, Profit: 0.35
+Elston AgTech, Food: 67/67, Profit: 0.03
+
+========================= MONTH 172 =========================
+
+Astbury Place, Food: 2/39, Profit: -1.61
+Thurston Farms, Food: 0/77, Profit: -3.41
+Newsome Goods, Food: 287/83, Profit: 9.11
+Nanson Corp, Food: 0/97, Profit: -4.23
+Roden Organic, Food: 44/22, Profit: 0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.81
+Ainsworth Goods, Food: 42/42, Profit: 0.06
+Roff Organic, Food: 45/45, Profit: 0.09
+Elston AgTech, Food: 0/67, Profit: -2.93
+
+========================= MONTH 173 =========================
+
+Astbury Place, Food: 76/39, Profit: 1.55
+Thurston Farms, Food: 0/77, Profit: -3.24
+Newsome Goods, Food: 83/83, Profit: 0.07
+Nanson Corp, Food: 194/97, Profit: 4.67
+Roden Organic, Food: 5/22, Profit: -0.74
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.73
+Ainsworth Goods, Food: 0/42, Profit: -1.81
+Roff Organic, Food: 0/45, Profit: -1.93
+Elston AgTech, Food: 134/67, Profit: 3.15
+
+========================= MONTH 174 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.02
+Thurston Farms, Food: 11/77, Profit: -2.57
+Newsome Goods, Food: 0/93, Profit: -4.16
+Nanson Corp, Food: 97/97, Profit: 0.11
+Roden Organic, Food: 39/22, Profit: 0.78
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.79
+Ainsworth Goods, Food: 84/42, Profit: 2.07
+Roff Organic, Food: 90/45, Profit: 1.94
+Elston AgTech, Food: 67/67, Profit: 0.12
+
+========================= MONTH 175 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.69
+Thurston Farms, Food: 219/77, Profit: 7.08
+Newsome Goods, Food: 176/83, Profit: 4.45
+Nanson Corp, Food: 0/97, Profit: -4.25
+Roden Organic, Food: 0/22, Profit: -0.97
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.04
+Ainsworth Goods, Food: 0/42, Profit: -1.82
+Roff Organic, Food: 45/45, Profit: 0.10
+Elston AgTech, Food: 0/67, Profit: -2.94
+
+========================= MONTH 176 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.77
+Thurston Farms, Food: 0/77, Profit: -3.29
+Newsome Goods, Food: 0/93, Profit: -4.17
+Nanson Corp, Food: 194/97, Profit: 4.90
+Roden Organic, Food: 44/22, Profit: 1.06
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.74
+Ainsworth Goods, Food: 84/42, Profit: 2.11
+Roff Organic, Food: 0/55, Profit: -2.42
+Elston AgTech, Food: 96/67, Profit: 1.69
+
+========================= MONTH 177 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.02
+Thurston Farms, Food: 221/66, Profit: 7.20
+Newsome Goods, Food: 176/83, Profit: 4.58
+Nanson Corp, Food: 0/97, Profit: -4.27
+Roden Organic, Food: 0/22, Profit: -0.97
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.65
+Ainsworth Goods, Food: 0/52, Profit: -2.29
+Roff Organic, Food: 47/45, Profit: 0.35
+Elston AgTech, Food: 0/67, Profit: -2.87
+
+========================= MONTH 178 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.11
+Thurston Farms, Food: 77/77, Profit: 0.09
+Newsome Goods, Food: 93/93, Profit: 0.25
+Nanson Corp, Food: 0/97, Profit: -4.05
+Roden Organic, Food: 44/22, Profit: 1.11
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 120/40, Profit: 3.69
+Ainsworth Goods, Food: 94/42, Profit: 2.63
+Roff Organic, Food: 0/55, Profit: -2.31
+Elston AgTech, Food: 22/67, Profit: -1.67
+
+========================= MONTH 179 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.13
+Thurston Farms, Food: 0/77, Profit: -3.48
+Newsome Goods, Food: 0/93, Profit: -4.19
+Nanson Corp, Food: 45/97, Profit: -1.70
+Roden Organic, Food: 0/22, Profit: -0.97
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.09
+Ainsworth Goods, Food: 0/52, Profit: -2.30
+Roff Organic, Food: 153/45, Profit: 5.09
+Elston AgTech, Food: 217/67, Profit: 7.44
+
+========================= MONTH 180 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.71
+Thurston Farms, Food: 154/77, Profit: 3.79
+Newsome Goods, Food: 0/93, Profit: -3.98
+Nanson Corp, Food: 139/97, Profit: 2.74
+Roden Organic, Food: 44/22, Profit: 1.13
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.75
+Ainsworth Goods, Food: 94/42, Profit: 2.67
+Roff Organic, Food: 45/45, Profit: 0.09
+Elston AgTech, Food: 0/67, Profit: -3.01
+
+========================= MONTH 181 =========================
+
+Astbury Place, Food: 78/39, Profit: 2.04
+Thurston Farms, Food: 45/77, Profit: -1.39
+Newsome Goods, Food: 269/83, Profit: 8.89
+Nanson Corp, Food: 0/106, Profit: -4.35
+Roden Organic, Food: 0/22, Profit: -0.98
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.66
+Ainsworth Goods, Food: 42/42, Profit: 0.11
+Roff Organic, Food: 45/45, Profit: 0.15
+Elston AgTech, Food: 0/67, Profit: -2.86
+
+========================= MONTH 182 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.14
+Thurston Farms, Food: 109/77, Profit: 1.58
+Newsome Goods, Food: 83/83, Profit: 0.12
+Nanson Corp, Food: 0/106, Profit: -4.13
+Roden Organic, Food: 44/22, Profit: 1.08
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 120/40, Profit: 3.64
+Ainsworth Goods, Food: 0/52, Profit: -2.32
+Roff Organic, Food: 0/55, Profit: -2.45
+Elston AgTech, Food: 103/67, Profit: 2.30
+
+========================= MONTH 183 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.73
+Thurston Farms, Food: 77/77, Profit: 0.13
+Newsome Goods, Food: 0/93, Profit: -4.22
+Nanson Corp, Food: 346/97, Profit: 12.99
+Roden Organic, Food: 22/22, Profit: 0.05
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.03
+Ainsworth Goods, Food: 0/52, Profit: -2.20
+Roff Organic, Food: 0/55, Profit: -2.33
+Elston AgTech, Food: 0/67, Profit: -2.83
+
+========================= MONTH 184 =========================
+
+Astbury Place, Food: 78/39, Profit: 2.01
+Thurston Farms, Food: 0/77, Profit: -3.51
+Newsome Goods, Food: 0/93, Profit: -4.00
+Nanson Corp, Food: 0/106, Profit: -4.56
+Roden Organic, Food: 0/22, Profit: -0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.76
+Ainsworth Goods, Food: 146/42, Profit: 5.27
+Roff Organic, Food: 155/45, Profit: 5.52
+Elston AgTech, Food: 101/67, Profit: 2.11
+
+========================= MONTH 185 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.74
+Thurston Farms, Food: 108/77, Profit: 1.66
+Newsome Goods, Food: 269/83, Profit: 8.57
+Nanson Corp, Food: 0/97, Profit: -3.88
+Roden Organic, Food: 44/22, Profit: 1.06
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.92
+Ainsworth Goods, Food: 0/52, Profit: -2.35
+Roff Organic, Food: 0/55, Profit: -2.49
+Elston AgTech, Food: 0/67, Profit: -2.79
+
+========================= MONTH 186 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.65
+Thurston Farms, Food: 0/77, Profit: -3.41
+Newsome Goods, Food: 83/83, Profit: 0.02
+Nanson Corp, Food: 326/97, Profit: 11.27
+Roden Organic, Food: 22/22, Profit: 0.02
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.03
+Ainsworth Goods, Food: 0/42, Profit: -1.78
+Roff Organic, Food: 0/45, Profit: -1.88
+Elston AgTech, Food: 0/67, Profit: -2.65
+
+========================= MONTH 187 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.57
+Thurston Farms, Food: 200/77, Profit: 5.83
+Newsome Goods, Food: 0/93, Profit: -4.22
+Nanson Corp, Food: 0/97, Profit: -4.24
+Roden Organic, Food: 0/22, Profit: -0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.76
+Ainsworth Goods, Food: 136/42, Profit: 4.52
+Roff Organic, Food: 145/45, Profit: 4.48
+Elston AgTech, Food: 13/67, Profit: -1.92
+
+========================= MONTH 188 =========================
+
+Astbury Place, Food: 156/39, Profit: 5.20
+Thurston Farms, Food: 0/77, Profit: -3.52
+Newsome Goods, Food: 0/93, Profit: -4.00
+Nanson Corp, Food: 229/97, Profit: 5.95
+Roden Organic, Food: 0/22, Profit: -0.94
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.75
+Ainsworth Goods, Food: 0/42, Profit: -1.91
+Roff Organic, Food: 45/45, Profit: -0.05
+Elston AgTech, Food: 0/67, Profit: -2.42
+
+========================= MONTH 189 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.75
+Thurston Farms, Food: 0/77, Profit: -3.35
+Newsome Goods, Food: 0/83, Profit: -3.34
+Nanson Corp, Food: 203/97, Profit: 4.62
+Roden Organic, Food: 66/22, Profit: 1.91
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.00
+Ainsworth Goods, Food: 84/42, Profit: 1.81
+Roff Organic, Food: 0/45, Profit: -2.00
+Elston AgTech, Food: 100/67, Profit: 2.15
+
+========================= MONTH 190 =========================
+
+Astbury Place, Food: 46/39, Profit: 0.40
+Thurston Farms, Food: 0/77, Profit: -3.18
+Newsome Goods, Food: 352/83, Profit: 12.29
+Nanson Corp, Food: 0/97, Profit: -4.55
+Roden Organic, Food: 0/22, Profit: -0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.76
+Ainsworth Goods, Food: 0/42, Profit: -1.91
+Roff Organic, Food: 90/45, Profit: 2.06
+Elston AgTech, Food: 0/67, Profit: -2.40
+
+========================= MONTH 191 =========================
+
+Astbury Place, Food: 71/39, Profit: 1.52
+Thurston Farms, Food: 0/77, Profit: -3.01
+Newsome Goods, Food: 83/83, Profit: -0.12
+Nanson Corp, Food: 130/97, Profit: 1.60
+Roden Organic, Food: 44/22, Profit: 0.95
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.90
+Ainsworth Goods, Food: 84/42, Profit: 1.88
+Roff Organic, Food: 0/55, Profit: -2.48
+Elston AgTech, Food: 0/67, Profit: -2.28
+
+========================= MONTH 192 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.75
+Thurston Farms, Food: 0/77, Profit: -2.86
+Newsome Goods, Food: 0/83, Profit: -3.78
+Nanson Corp, Food: 0/97, Profit: -4.39
+Roden Organic, Food: 22/22, Profit: -0.04
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.76
+Ainsworth Goods, Food: 0/42, Profit: -1.90
+Roff Organic, Food: 0/45, Profit: -1.87
+Elston AgTech, Food: 457/67, Profit: 18.33
+
+========================= MONTH 193 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.59
+Thurston Farms, Food: 415/66, Profit: 15.49
+Newsome Goods, Food: 0/83, Profit: -3.59
+Nanson Corp, Food: 0/97, Profit: -4.17
+Roden Organic, Food: 0/22, Profit: -0.98
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.67
+Ainsworth Goods, Food: 0/42, Profit: -1.80
+Roff Organic, Food: 0/45, Profit: -1.78
+Elston AgTech, Food: 0/67, Profit: -3.07
+
+========================= MONTH 194 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.74
+Thurston Farms, Food: 0/77, Profit: -3.49
+Newsome Goods, Food: 0/83, Profit: -3.40
+Nanson Corp, Food: 345/87, Profit: 10.86
+Roden Organic, Food: 0/22, Profit: -0.93
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 37/40, Profit: -0.02
+Ainsworth Goods, Food: 126/42, Profit: 3.47
+Roff Organic, Food: 0/45, Profit: -1.69
+Elston AgTech, Food: 0/67, Profit: -2.92
+
+========================= MONTH 195 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.42
+Thurston Farms, Food: 0/66, Profit: -2.86
+Newsome Goods, Food: 60/83, Profit: -0.69
+Nanson Corp, Food: 0/97, Profit: -4.49
+Roden Organic, Food: 66/22, Profit: 1.87
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.58
+Ainsworth Goods, Food: 0/42, Profit: -1.88
+Roff Organic, Food: 0/45, Profit: -1.60
+Elston AgTech, Food: 286/55, Profit: 9.73
+
+========================= MONTH 196 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.72
+Thurston Farms, Food: 0/66, Profit: -2.71
+Newsome Goods, Food: 326/83, Profit: 9.96
+Nanson Corp, Food: 184/87, Profit: 3.57
+Roden Organic, Food: 0/22, Profit: -0.98
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.50
+Ainsworth Goods, Food: 0/42, Profit: -1.79
+Roff Organic, Food: 0/45, Profit: -1.52
+Elston AgTech, Food: 0/67, Profit: -3.26
+
+========================= MONTH 197 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.63
+Thurston Farms, Food: 225/66, Profit: 6.09
+Newsome Goods, Food: 0/83, Profit: -3.69
+Nanson Corp, Food: 0/97, Profit: -4.45
+Roden Organic, Food: 0/22, Profit: -0.93
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.43
+Ainsworth Goods, Food: 0/42, Profit: -1.69
+Roff Organic, Food: 325/45, Profit: 10.91
+Elston AgTech, Food: 0/67, Profit: -3.09
+
+========================= MONTH 198 =========================
+
+Astbury Place, Food: 105/27, Profit: 2.90
+Thurston Farms, Food: 0/66, Profit: -2.88
+Newsome Goods, Food: 88/72, Profit: 0.45
+Nanson Corp, Food: 0/87, Profit: -3.78
+Roden Organic, Food: 66/22, Profit: 1.56
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 243/40, Profit: 7.72
+Ainsworth Goods, Food: 0/42, Profit: -1.61
+Roff Organic, Food: 0/45, Profit: -1.99
+Elston AgTech, Food: 0/55, Profit: -2.40
+
+========================= MONTH 199 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.20
+Thurston Farms, Food: 122/66, Profit: 2.01
+Newsome Goods, Food: 0/83, Profit: -3.52
+Nanson Corp, Food: 0/87, Profit: -3.59
+Roden Organic, Food: 22/22, Profit: -0.12
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.74
+Ainsworth Goods, Food: 0/42, Profit: -1.53
+Roff Organic, Food: 90/45, Profit: 1.48
+Elston AgTech, Food: 244/55, Profit: 7.17
+
+========================= MONTH 200 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.68
+Thurston Farms, Food: 0/66, Profit: -2.83
+Newsome Goods, Food: 83/72, Profit: 0.21
+Nanson Corp, Food: 346/75, Profit: 9.96
+Roden Organic, Food: 0/22, Profit: -0.95
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 68/28, Profit: 1.29
+Ainsworth Goods, Food: 0/42, Profit: -1.45
+Roff Organic, Food: 0/45, Profit: -1.96
+Elston AgTech, Food: 0/55, Profit: -2.64
+
+========================= MONTH 201 =========================
+
+Astbury Place, Food: 66/27, Profit: 1.31
+Thurston Farms, Food: 0/66, Profit: -2.69
+Newsome Goods, Food: 152/72, Profit: 2.85
+Nanson Corp, Food: 0/87, Profit: -3.90
+Roden Organic, Food: 0/22, Profit: -0.90
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.71
+Ainsworth Goods, Food: 294/42, Profit: 9.52
+Roff Organic, Food: 0/45, Profit: -1.86
+Elston AgTech, Food: 0/55, Profit: -2.51
+
+========================= MONTH 202 =========================
+
+Astbury Place, Food: 0/27, Profit: -1.22
+Thurston Farms, Food: 59/66, Profit: -0.33
+Newsome Goods, Food: 0/72, Profit: -3.04
+Nanson Corp, Food: 174/87, Profit: 2.83
+Roden Organic, Food: 66/22, Profit: 1.48
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 68/28, Profit: 1.31
+Ainsworth Goods, Food: 0/42, Profit: -1.85
+Roff Organic, Food: 135/45, Profit: 3.29
+Elston AgTech, Food: 0/55, Profit: -2.38
+
+========================= MONTH 203 =========================
+
+Astbury Place, Food: 54/27, Profit: 0.73
+Thurston Farms, Food: 289/54, Profit: 8.41
+Newsome Goods, Food: 0/72, Profit: -2.89
+Nanson Corp, Food: 0/87, Profit: -3.84
+Roden Organic, Food: 22/22, Profit: -0.13
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.69
+Ainsworth Goods, Food: 0/42, Profit: -1.76
+Roff Organic, Food: 0/45, Profit: -1.93
+Elston AgTech, Food: 145/55, Profit: 3.09
+
+========================= MONTH 204 =========================
+
+Astbury Place, Food: 0/27, Profit: -1.20
+Thurston Farms, Food: 0/66, Profit: -2.95
+Newsome Goods, Food: 240/72, Profit: 5.83
+Nanson Corp, Food: 162/75, Profit: 2.50
+Roden Organic, Food: 0/22, Profit: -0.92
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.60
+Ainsworth Goods, Food: 126/42, Profit: 2.78
+Roff Organic, Food: 0/45, Profit: -1.83
+Elston AgTech, Food: 0/55, Profit: -2.41
+
+========================= MONTH 205 =========================
+
+Astbury Place, Food: 54/27, Profit: 0.75
+Thurston Farms, Food: 33/66, Profit: -1.60
+Newsome Goods, Food: 0/72, Profit: -3.03
+Nanson Corp, Food: 75/75, Profit: -0.66
+Roden Organic, Food: 44/22, Profit: 0.61
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.52
+Ainsworth Goods, Food: 0/42, Profit: -1.81
+Roff Organic, Food: 122/32, Profit: 2.84
+Elston AgTech, Food: 185/55, Profit: 4.39
+
+========================= MONTH 206 =========================
+
+Astbury Place, Food: 0/27, Profit: -1.17
+Thurston Farms, Food: 153/54, Profit: 2.99
+Newsome Goods, Food: 208/72, Profit: 4.44
+Nanson Corp, Food: 0/75, Profit: -3.30
+Roden Organic, Food: 22/22, Profit: -0.15
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 70/28, Profit: 1.54
+Ainsworth Goods, Food: 0/42, Profit: -1.72
+Roff Organic, Food: 32/32, Profit: -0.30
+Elston AgTech, Food: 0/55, Profit: -2.51
+
+========================= MONTH 207 =========================
+
+Astbury Place, Food: 54/27, Profit: 0.80
+Thurston Farms, Food: 54/54, Profit: -0.52
+Newsome Goods, Food: 72/72, Profit: -0.48
+Nanson Corp, Food: 150/75, Profit: 2.18
+Roden Organic, Food: 0/22, Profit: -0.90
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.52
+Ainsworth Goods, Food: 126/42, Profit: 2.90
+Roff Organic, Food: 45/45, Profit: -0.25
+Elston AgTech, Food: 4/55, Profit: -2.24
+
+========================= MONTH 208 =========================
+
+Astbury Place, Food: 27/27, Profit: -0.17
+Thurston Farms, Food: 54/54, Profit: -0.49
+Newsome Goods, Food: 72/72, Profit: -0.43
+Nanson Corp, Food: 0/87, Profit: -3.67
+Roden Organic, Food: 44/22, Profit: 0.76
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 154/40, Profit: 4.20
+Ainsworth Goods, Food: 0/42, Profit: -1.78
+Roff Organic, Food: 0/45, Profit: -1.85
+Elston AgTech, Food: 161/55, Profit: 3.43
+
+========================= MONTH 209 =========================
+
+Astbury Place, Food: 27/27, Profit: -0.15
+Thurston Farms, Food: 66/66, Profit: -0.33
+Newsome Goods, Food: 18/72, Profit: -2.36
+Nanson Corp, Food: 162/75, Profit: 2.91
+Roden Organic, Food: 0/22, Profit: -0.89
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.65
+Ainsworth Goods, Food: 72/30, Profit: 1.23
+Roff Organic, Food: 90/45, Profit: 1.58
+Elston AgTech, Food: 55/55, Profit: -0.44
+
+========================= MONTH 210 =========================
+
+Astbury Place, Food: 27/39, Profit: -0.51
+Thurston Farms, Food: 0/66, Profit: -2.79
+Newsome Goods, Food: 126/72, Profit: 1.78
+Nanson Corp, Food: 87/87, Profit: -0.21
+Roden Organic, Food: 44/22, Profit: 0.84
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 84/40, Profit: 1.65
+Ainsworth Goods, Food: 42/42, Profit: -0.22
+Roff Organic, Food: 45/45, Profit: -0.14
+Elston AgTech, Food: 55/55, Profit: -0.42
+
+========================= MONTH 211 =========================
+
+Astbury Place, Food: 39/27, Profit: 0.36
+Thurston Farms, Food: 132/66, Profit: 2.51
+Newsome Goods, Food: 72/72, Profit: -0.22
+Nanson Corp, Food: 76/87, Profit: -0.52
+Roden Organic, Food: 22/22, Profit: -0.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.65
+Ainsworth Goods, Food: 42/42, Profit: -0.14
+Roff Organic, Food: 45/45, Profit: -0.06
+Elston AgTech, Food: 55/55, Profit: -0.25
+
+========================= MONTH 212 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.07
+Thurston Farms, Food: 51/66, Profit: -0.68
+Newsome Goods, Food: 72/72, Profit: -0.21
+Nanson Corp, Food: 98/87, Profit: 0.39
+Roden Organic, Food: 0/22, Profit: -0.88
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.64
+Ainsworth Goods, Food: 42/42, Profit: -0.10
+Roff Organic, Food: 45/45, Profit: 0.02
+Elston AgTech, Food: 55/55, Profit: -0.15
+
+========================= MONTH 213 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.05
+Thurston Farms, Food: 81/66, Profit: 0.41
+Newsome Goods, Food: 83/83, Profit: -0.02
+Nanson Corp, Food: 97/97, Profit: 0.11
+Roden Organic, Food: 44/22, Profit: 1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.04
+Ainsworth Goods, Food: 42/42, Profit: -0.05
+Roff Organic, Food: 12/45, Profit: -1.29
+Elston AgTech, Food: 67/67, Profit: -0.08
+
+========================= MONTH 214 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.02
+Thurston Farms, Food: 66/66, Profit: -0.12
+Newsome Goods, Food: 77/83, Profit: -0.02
+Nanson Corp, Food: 97/97, Profit: 0.14
+Roden Organic, Food: 22/22, Profit: 0.05
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.65
+Ainsworth Goods, Food: 42/42, Profit: 0.05
+Roff Organic, Food: 78/45, Profit: 1.53
+Elston AgTech, Food: 67/67, Profit: -0.05
+
+========================= MONTH 215 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.14
+Thurston Farms, Food: 66/66, Profit: 0.02
+Newsome Goods, Food: 39/93, Profit: -2.08
+Nanson Corp, Food: 97/97, Profit: 0.37
+Roden Organic, Food: 0/22, Profit: -0.89
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.83
+Ainsworth Goods, Food: 42/42, Profit: 0.17
+Roff Organic, Food: 45/45, Profit: 0.09
+Elston AgTech, Food: 67/67, Profit: 0.17
+
+========================= MONTH 216 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.26
+Thurston Farms, Food: 77/77, Profit: 0.29
+Newsome Goods, Food: 153/93, Profit: 3.15
+Nanson Corp, Food: 96/106, Profit: 0.02
+Roden Organic, Food: 44/22, Profit: 1.13
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.06
+Ainsworth Goods, Food: 0/52, Profit: -2.16
+Roff Organic, Food: 45/45, Profit: 0.17
+Elston AgTech, Food: 0/67, Profit: -2.88
+
+========================= MONTH 217 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.57
+Thurston Farms, Food: 77/77, Profit: 0.41
+Newsome Goods, Food: 93/93, Profit: 0.55
+Nanson Corp, Food: 0/106, Profit: -4.48
+Roden Organic, Food: 22/22, Profit: 0.09
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.08
+Ainsworth Goods, Food: 104/52, Profit: 2.83
+Roff Organic, Food: 29/55, Profit: -0.91
+Elston AgTech, Food: 134/67, Profit: 3.09
+
+========================= MONTH 218 =========================
+
+Astbury Place, Food: 78/39, Profit: 2.24
+Thurston Farms, Food: 7/86, Profit: -3.31
+Newsome Goods, Food: 0/102, Profit: -4.36
+Nanson Corp, Food: 213/97, Profit: 5.60
+Roden Organic, Food: 32/32, Profit: 0.15
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.16
+Ainsworth Goods, Food: 0/52, Profit: -2.19
+Roff Organic, Food: 81/55, Profit: 1.53
+Elston AgTech, Food: 67/67, Profit: 0.16
+
+========================= MONTH 219 =========================
+
+Astbury Place, Food: 0/48, Profit: -2.04
+Thurston Farms, Food: 156/77, Profit: 4.09
+Newsome Goods, Food: 0/102, Profit: -4.14
+Nanson Corp, Food: 97/97, Profit: 0.24
+Roden Organic, Food: 32/32, Profit: 0.17
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.17
+Ainsworth Goods, Food: 104/52, Profit: 2.79
+Roff Organic, Food: 17/55, Profit: -1.49
+Elston AgTech, Food: 67/67, Profit: 0.30
+
+========================= MONTH 220 =========================
+
+Astbury Place, Food: 0/48, Profit: -1.93
+Thurston Farms, Food: 77/77, Profit: 0.42
+Newsome Goods, Food: 155/93, Profit: 4.01
+Nanson Corp, Food: 106/106, Profit: 0.54
+Roden Organic, Food: 0/32, Profit: -1.35
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/49, Profit: -2.09
+Ainsworth Goods, Food: 0/52, Profit: -2.21
+Roff Organic, Food: 93/55, Profit: 2.13
+Elston AgTech, Food: 67/67, Profit: 0.32
+
+========================= MONTH 221 =========================
+
+Astbury Place, Food: 135/39, Profit: 5.03
+Thurston Farms, Food: 86/86, Profit: 0.52
+Newsome Goods, Food: 0/102, Profit: -4.12
+Nanson Corp, Food: 0/115, Profit: -4.99
+Roden Organic, Food: 64/32, Profit: 1.71
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 89/40, Profit: 2.51
+Ainsworth Goods, Food: 104/52, Profit: 2.73
+Roff Organic, Food: 0/55, Profit: -2.35
+Elston AgTech, Food: 49/78, Profit: -1.00
+
+========================= MONTH 222 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.21
+Thurston Farms, Food: 0/86, Profit: -3.73
+Newsome Goods, Food: 101/93, Profit: 1.40
+Nanson Corp, Food: 221/106, Profit: 6.12
+Roden Organic, Food: 0/32, Profit: -1.37
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 49/49, Profit: 0.18
+Ainsworth Goods, Food: 0/52, Profit: -2.23
+Roff Organic, Food: 0/55, Profit: -2.23
+Elston AgTech, Food: 96/67, Profit: 1.58
+
+========================= MONTH 223 =========================
+
+Astbury Place, Food: 0/48, Profit: -2.09
+Thurston Farms, Food: 0/86, Profit: -3.55
+Newsome Goods, Food: 0/102, Profit: -3.98
+Nanson Corp, Food: 106/106, Profit: 0.53
+Roden Organic, Food: 64/32, Profit: 1.79
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 49/49, Profit: 0.18
+Ainsworth Goods, Food: 104/52, Profit: 2.62
+Roff Organic, Food: 165/55, Profit: 5.75
+Elston AgTech, Food: 45/78, Profit: -1.21
+
+========================= MONTH 224 =========================
+
+Astbury Place, Food: 87/39, Profit: 2.58
+Thurston Farms, Food: 0/86, Profit: -3.37
+Newsome Goods, Food: 321/93, Profit: 12.04
+Nanson Corp, Food: 0/115, Profit: -5.06
+Roden Organic, Food: 0/32, Profit: -1.39
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/49, Profit: -2.13
+Ainsworth Goods, Food: 0/52, Profit: -2.25
+Roff Organic, Food: 0/55, Profit: -2.41
+Elston AgTech, Food: 100/67, Profit: 1.85
+
+========================= MONTH 225 =========================
+
+Astbury Place, Food: 0/48, Profit: -2.11
+Thurston Farms, Food: 164/77, Profit: 4.93
+Newsome Goods, Food: 0/102, Profit: -4.38
+Nanson Corp, Food: 0/115, Profit: -4.80
+Roden Organic, Food: 64/32, Profit: 1.68
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 89/40, Profit: 2.51
+Ainsworth Goods, Food: 104/52, Profit: 2.73
+Roff Organic, Food: 110/55, Profit: 2.86
+Elston AgTech, Food: 0/78, Profit: -3.47
+
+========================= MONTH 226 =========================
+
+Astbury Place, Food: 0/48, Profit: -2.00
+Thurston Farms, Food: 24/86, Profit: -2.28
+Newsome Goods, Food: 305/93, Profit: 10.24
+Nanson Corp, Food: 0/106, Profit: -4.14
+Roden Organic, Food: 0/32, Profit: -1.40
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/49, Profit: -2.14
+Ainsworth Goods, Food: 0/52, Profit: -2.27
+Roff Organic, Food: 55/55, Profit: 0.15
+Elston AgTech, Food: 145/67, Profit: 3.97
+
+========================= MONTH 227 =========================
+
+Astbury Place, Food: 0/48, Profit: -1.90
+Thurston Farms, Food: 310/77, Profit: 11.31
+Newsome Goods, Food: 0/102, Profit: -4.66
+Nanson Corp, Food: 124/106, Profit: 1.86
+Roden Organic, Food: 0/32, Profit: -1.33
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 89/40, Profit: 2.40
+Ainsworth Goods, Food: 0/52, Profit: -2.15
+Roff Organic, Food: 0/55, Profit: -2.43
+Elston AgTech, Food: 0/67, Profit: -2.99
+
+========================= MONTH 228 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.38
+Thurston Farms, Food: 0/86, Profit: -3.89
+Newsome Goods, Food: 0/102, Profit: -4.42
+Nanson Corp, Food: 0/115, Profit: -4.44
+Roden Organic, Food: 96/32, Profit: 3.17
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 35/40, Profit: -0.12
+Ainsworth Goods, Food: 156/52, Profit: 5.15
+Roff Organic, Food: 110/55, Profit: 2.64
+Elston AgTech, Food: 134/67, Profit: 3.30
+
+========================= MONTH 229 =========================
+
+Astbury Place, Food: 222/39, Profit: 8.81
+Thurston Farms, Food: 0/77, Profit: -3.26
+Newsome Goods, Food: 247/93, Profit: 7.51
+Nanson Corp, Food: 0/115, Profit: -4.21
+Roden Organic, Food: 0/32, Profit: -1.42
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 45/40, Profit: 0.28
+Ainsworth Goods, Food: 0/52, Profit: -2.30
+Roff Organic, Food: 0/55, Profit: -2.44
+Elston AgTech, Food: 0/67, Profit: -3.00
+
+========================= MONTH 230 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.75
+Thurston Farms, Food: 0/77, Profit: -3.09
+Newsome Goods, Food: 0/93, Profit: -4.14
+Nanson Corp, Food: 511/106, Profit: 19.66
+Roden Organic, Food: 0/32, Profit: -1.34
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/49, Profit: -2.15
+Ainsworth Goods, Food: 0/52, Profit: -2.18
+Roff Organic, Food: 0/55, Profit: -2.32
+Elston AgTech, Food: 0/67, Profit: -2.84
+
+========================= MONTH 231 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.66
+Thurston Farms, Food: 0/77, Profit: -2.93
+Newsome Goods, Food: 236/93, Profit: 6.32
+Nanson Corp, Food: 0/106, Profit: -4.55
+Roden Organic, Food: 0/32, Profit: -1.27
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 89/40, Profit: 2.27
+Ainsworth Goods, Food: 146/42, Profit: 4.71
+Roff Organic, Food: 56/55, Profit: 0.28
+Elston AgTech, Food: 0/67, Profit: -2.70
+
+========================= MONTH 232 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.58
+Thurston Farms, Food: 115/77, Profit: 2.29
+Newsome Goods, Food: 0/93, Profit: -4.24
+Nanson Corp, Food: 0/97, Profit: -3.90
+Roden Organic, Food: 118/22, Profit: 4.42
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.74
+Ainsworth Goods, Food: 0/52, Profit: -2.30
+Roff Organic, Food: 0/55, Profit: -2.21
+Elston AgTech, Food: 268/67, Profit: 9.00
+
+========================= MONTH 233 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.50
+Thurston Farms, Food: 0/77, Profit: -2.90
+Newsome Goods, Food: 0/93, Profit: -4.03
+Nanson Corp, Food: 432/97, Profit: 14.65
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.74
+Ainsworth Goods, Food: 0/42, Profit: -1.77
+Roff Organic, Food: 0/55, Profit: -2.09
+Elston AgTech, Food: 0/67, Profit: -3.01
+
+========================= MONTH 234 =========================
+
+Astbury Place, Food: 7/39, Profit: -1.12
+Thurston Farms, Food: 0/77, Profit: -2.75
+Newsome Goods, Food: 269/83, Profit: 8.14
+Nanson Corp, Food: 0/97, Profit: -4.43
+Roden Organic, Food: 44/22, Profit: 0.87
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.03
+Ainsworth Goods, Food: 136/42, Profit: 4.11
+Roff Organic, Food: 0/55, Profit: -1.99
+Elston AgTech, Food: 0/67, Profit: -2.86
+
+========================= MONTH 235 =========================
+
+Astbury Place, Food: 227/39, Profit: 7.98
+Thurston Farms, Food: 0/77, Profit: -2.61
+Newsome Goods, Food: 0/93, Profit: -4.23
+Nanson Corp, Food: 205/97, Profit: 4.18
+Roden Organic, Food: 0/22, Profit: -1.00
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/49, Profit: -2.15
+Ainsworth Goods, Food: 0/52, Profit: -2.30
+Roff Organic, Food: 0/45, Profit: -1.44
+Elston AgTech, Food: 101/67, Profit: 1.60
+
+========================= MONTH 236 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.76
+Thurston Farms, Food: 525/66, Profit: 19.66
+Newsome Goods, Food: 0/93, Profit: -4.02
+Nanson Corp, Food: 0/97, Profit: -4.42
+Roden Organic, Food: 0/22, Profit: -0.95
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/49, Profit: -2.04
+Ainsworth Goods, Food: 0/52, Profit: -2.18
+Roff Organic, Food: 0/45, Profit: -1.37
+Elston AgTech, Food: 0/67, Profit: -2.79
+
+========================= MONTH 237 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.67
+Thurston Farms, Food: 0/77, Profit: -3.46
+Newsome Goods, Food: 0/83, Profit: -3.39
+Nanson Corp, Food: 184/87, Profit: 3.56
+Roden Organic, Food: 66/22, Profit: 1.77
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.52
+Ainsworth Goods, Food: 0/42, Profit: -1.65
+Roff Organic, Food: 19/45, Profit: -0.51
+Elston AgTech, Food: 222/55, Profit: 6.70
+
+========================= MONTH 238 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.59
+Thurston Farms, Food: 0/77, Profit: -3.28
+Newsome Goods, Food: 0/83, Profit: -3.22
+Nanson Corp, Food: 0/87, Profit: -3.95
+Roden Organic, Food: 0/22, Profit: -0.99
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 90/40, Profit: 2.10
+Ainsworth Goods, Food: 0/42, Profit: -1.57
+Roff Organic, Food: 435/45, Profit: 15.59
+Elston AgTech, Food: 0/67, Profit: -2.98
+
+========================= MONTH 239 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.51
+Thurston Farms, Food: 0/66, Profit: -2.69
+Newsome Goods, Food: 122/83, Profit: 1.61
+Nanson Corp, Food: 174/87, Profit: 2.80
+Roden Organic, Food: 0/22, Profit: -0.94
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.55
+Ainsworth Goods, Food: 230/42, Profit: 7.18
+Roff Organic, Food: 0/45, Profit: -2.05
+Elston AgTech, Food: 0/67, Profit: -2.83
+
+========================= MONTH 240 =========================
+
+Astbury Place, Food: 195/39, Profit: 6.03
+Thurston Farms, Food: 0/66, Profit: -2.56
+Newsome Goods, Food: 34/83, Profit: -1.83
+Nanson Corp, Food: 0/87, Profit: -3.89
+Roden Organic, Food: 0/22, Profit: -0.89
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.47
+Ainsworth Goods, Food: 0/42, Profit: -1.85
+Roff Organic, Food: 90/45, Profit: 1.41
+Elston AgTech, Food: 189/55, Profit: 5.04
+
+========================= MONTH 241 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.73
+Thurston Farms, Food: 271/66, Profit: 7.86
+Newsome Goods, Food: 0/83, Profit: -3.04
+Nanson Corp, Food: 0/87, Profit: -3.70
+Roden Organic, Food: 0/22, Profit: -0.84
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 208/40, Profit: 6.44
+Ainsworth Goods, Food: 0/42, Profit: -1.75
+Roff Organic, Food: 45/45, Profit: -0.33
+Elston AgTech, Food: 0/67, Profit: -2.94
+
+========================= MONTH 242 =========================
+
+Astbury Place, Food: 78/39, Profit: 1.20
+Thurston Farms, Food: 0/66, Profit: -2.82
+Newsome Goods, Food: 0/83, Profit: -2.89
+Nanson Corp, Food: 261/87, Profit: 5.75
+Roden Organic, Food: 0/22, Profit: -0.80
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.72
+Ainsworth Goods, Food: 126/42, Profit: 3.00
+Roff Organic, Food: 0/45, Profit: -2.00
+Elston AgTech, Food: 69/55, Profit: 0.26
+
+========================= MONTH 243 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.70
+Thurston Farms, Food: 0/66, Profit: -2.67
+Newsome Goods, Food: 396/72, Profit: 12.09
+Nanson Corp, Food: 0/87, Profit: -3.79
+Roden Organic, Food: 132/22, Profit: 3.81
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.63
+Ainsworth Goods, Food: 0/42, Profit: -1.81
+Roff Organic, Food: 0/45, Profit: -1.90
+Elston AgTech, Food: 0/55, Profit: -2.31
+
+========================= MONTH 244 =========================
+
+Astbury Place, Food: 66/27, Profit: 1.15
+Thurston Farms, Food: 318/54, Profit: 8.74
+Newsome Goods, Food: 0/83, Profit: -3.34
+Nanson Corp, Food: 11/87, Profit: -3.20
+Roden Organic, Food: 0/22, Profit: -0.95
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.55
+Ainsworth Goods, Food: 0/42, Profit: -1.72
+Roff Organic, Food: 135/45, Profit: 2.95
+Elston AgTech, Food: 0/55, Profit: -2.19
+
+========================= MONTH 245 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.67
+Thurston Farms, Food: 54/54, Profit: -0.70
+Newsome Goods, Food: 0/72, Profit: -2.75
+Nanson Corp, Food: 238/75, Profit: 5.23
+Roden Organic, Food: 0/22, Profit: -0.90
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.47
+Ainsworth Goods, Food: 0/42, Profit: -1.63
+Roff Organic, Food: 13/45, Profit: -1.48
+Elston AgTech, Food: 218/55, Profit: 5.35
+
+========================= MONTH 246 =========================
+
+Astbury Place, Food: 0/27, Profit: -1.17
+Thurston Farms, Food: 0/66, Profit: -2.94
+Newsome Goods, Food: 0/72, Profit: -2.61
+Nanson Corp, Food: 0/87, Profit: -3.69
+Roden Organic, Food: 66/22, Profit: 1.41
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 200/40, Profit: 5.60
+Ainsworth Goods, Food: 168/42, Profit: 4.07
+Roff Organic, Food: 77/45, Profit: 0.72
+Elston AgTech, Food: 30/55, Profit: -1.29
+
+========================= MONTH 247 =========================
+
+Astbury Place, Food: 93/27, Profit: 1.98
+Thurston Farms, Food: 0/66, Profit: -2.79
+Newsome Goods, Food: 326/72, Profit: 8.77
+Nanson Corp, Food: 0/87, Profit: -3.51
+Roden Organic, Food: 0/22, Profit: -0.92
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.68
+Ainsworth Goods, Food: 0/42, Profit: -1.75
+Roff Organic, Food: 45/45, Profit: -0.36
+Elston AgTech, Food: 80/55, Profit: 0.42
+
+========================= MONTH 248 =========================
+
+Astbury Place, Food: 27/27, Profit: -0.29
+Thurston Farms, Food: 186/54, Profit: 4.06
+Newsome Goods, Food: 0/72, Profit: -2.92
+Nanson Corp, Food: 249/75, Profit: 5.31
+Roden Organic, Food: 44/22, Profit: 0.62
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.59
+Ainsworth Goods, Food: 20/42, Profit: -0.97
+Roff Organic, Food: 0/45, Profit: -1.89
+Elston AgTech, Food: 0/55, Profit: -2.30
+
+========================= MONTH 249 =========================
+
+Astbury Place, Food: 27/27, Profit: -0.24
+Thurston Farms, Food: 10/66, Profit: -2.48
+Newsome Goods, Food: 0/72, Profit: -2.77
+Nanson Corp, Food: 75/75, Profit: -0.68
+Roden Organic, Food: 0/22, Profit: -0.91
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 108/28, Profit: 2.49
+Ainsworth Goods, Food: 106/42, Profit: 1.96
+Roff Organic, Food: 90/45, Profit: 1.30
+Elston AgTech, Food: 110/55, Profit: 1.37
+
+========================= MONTH 250 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.59
+Thurston Farms, Food: 0/66, Profit: -2.72
+Newsome Goods, Food: 393/72, Profit: 10.92
+Nanson Corp, Food: 12/87, Profit: -3.13
+Roden Organic, Food: 0/22, Profit: -0.86
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 28/28, Profit: -0.27
+Ainsworth Goods, Food: 42/42, Profit: -0.23
+Roff Organic, Food: 0/45, Profit: -1.86
+Elston AgTech, Food: 55/55, Profit: -0.36
+
+========================= MONTH 251 =========================
+
+Astbury Place, Food: 0/39, Profit: -1.51
+Thurston Farms, Food: 176/54, Profit: 3.73
+Newsome Goods, Food: 46/72, Profit: -1.59
+Nanson Corp, Food: 150/75, Profit: 2.18
+Roden Organic, Food: 66/22, Profit: 1.39
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.62
+Ainsworth Goods, Food: 0/42, Profit: -1.70
+Roff Organic, Food: 90/45, Profit: 1.31
+Elston AgTech, Food: 0/55, Profit: -2.23
+
+========================= MONTH 252 =========================
+
+Astbury Place, Food: 105/27, Profit: 2.57
+Thurston Farms, Food: 54/54, Profit: -0.53
+Newsome Goods, Food: 98/72, Profit: 0.03
+Nanson Corp, Food: 75/75, Profit: -0.49
+Roden Organic, Food: 22/22, Profit: -0.12
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.20
+Ainsworth Goods, Food: 0/42, Profit: -1.61
+Roff Organic, Food: 0/45, Profit: -1.83
+Elston AgTech, Food: 84/55, Profit: 0.81
+
+========================= MONTH 253 =========================
+
+Astbury Place, Food: 27/27, Profit: -0.21
+Thurston Farms, Food: 66/66, Profit: -0.36
+Newsome Goods, Food: 72/72, Profit: -0.63
+Nanson Corp, Food: 87/87, Profit: -0.26
+Roden Organic, Food: 10/22, Profit: -0.51
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: -0.13
+Ainsworth Goods, Food: 126/42, Profit: 2.86
+Roff Organic, Food: 90/45, Profit: 1.32
+Elston AgTech, Food: 0/55, Profit: -2.16
+
+========================= MONTH 254 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.09
+Thurston Farms, Food: 57/66, Profit: -0.52
+Newsome Goods, Food: 72/72, Profit: -0.52
+Nanson Corp, Food: 87/87, Profit: -0.17
+Roden Organic, Food: 34/22, Profit: 0.38
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 0/40, Profit: -1.58
+Ainsworth Goods, Food: 42/42, Profit: -0.17
+Roff Organic, Food: 45/45, Profit: -0.22
+Elston AgTech, Food: 136/55, Profit: 2.82
+
+========================= MONTH 255 =========================
+
+Astbury Place, Food: 39/39, Profit: -0.06
+Thurston Farms, Food: 75/66, Profit: 0.13
+Newsome Goods, Food: 83/83, Profit: -0.29
+Nanson Corp, Food: 71/97, Profit: -0.96
+Roden Organic, Food: 22/22, Profit: -0.04
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 80/40, Profit: 1.56
+Ainsworth Goods, Food: 42/42, Profit: -0.15
+Roff Organic, Food: 45/45, Profit: -0.09
+Elston AgTech, Food: 55/55, Profit: -0.14
+
+========================= MONTH 256 =========================
+
+Astbury Place, Food: 39/39, Profit: 0.03
+Thurston Farms, Food: 66/66, Profit: -0.21
+Newsome Goods, Food: 83/83, Profit: -0.19
+Nanson Corp, Food: 106/97, Profit: 0.47
+Roden Organic, Food: 22/22, Profit: -0.03
+Lavery Hills, Food: 0/0, Profit: -0.00
+Francis Ag, Food: 40/40, Profit: 0.00
+Ainsworth Goods, Food: 42/42, Profit: -0.04
+Roff Organic, Food: 45/45, Profit: -0.04
+Elston AgTech, Food: 67/67, Profit: -0.05

@@ -12,8 +12,11 @@ class Firm():
         #   Randomly generate labour productivity
         self.jobProd = []
         for jobType in range(NUM_JOB_TYPES-1):
-            self.jobProd.append(random.gauss(JOB_PROD_MEAN[jobType], 
-            JOB_PROD_NORM_STD_DEV[jobType] * JOB_PROD_MEAN[jobType]))
+            labProd = random.gauss(JOB_PROD_MEAN[jobType], 
+            JOB_PROD_NORM_STD_DEV[jobType] * JOB_PROD_MEAN[jobType])
+            if (labProd < 0):
+                labProd = 0
+            self.jobProd.append(labProd)
 
         self.remaining: int = 0
         self.rawMaterials: list[int] = [0 for i in range(NUM_GOOD_TYPES)]
@@ -112,7 +115,8 @@ class Firm():
         productivity: float = 0
 
         for jobType in range(NUM_JOB_TYPES-1):
-            productivity += self.jobProd[jobType] * math.sqrt(listLabour[jobType])
+            productivity += self.jobProd[jobType] * SCALE_FACTOR * math.sqrt(listLabour[jobType]
+            /SCALE_FACTOR)
 
         return productivity
 
