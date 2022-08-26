@@ -77,6 +77,11 @@ class Firm():
                 self.currListWages[jobType] *= random.uniform(1, 1 + WAGE_VISCOSITY*(1+shortfall))
                 # self.currListWages[jobType] = round(self.currListWages[jobType], 2)
 
+                condition = math.floor(self.calcMargProd([0 for i in range(NUM_JOB_TYPES-1)])
+                [jobType]/PROD_COST[self.goodType])*self.currPrice
+                if (self.currListWages[jobType] > condition):
+                    self.currListWages[jobType] = condition
+
         #   Calculate MPW condition
         outputPrice = self.currPrice
         inputCosts = self.calcInputCosts()
@@ -105,7 +110,7 @@ class Firm():
             maxMPWJobType = listMPW.index(maxMPW)
 
             #   If maximum available MPW is higher than condition, hire; otherwise stop
-            if (maxMPW > condition):
+            if (maxMPW >= condition):
                 self.currListLabourDemand[maxMPWJobType] += 1
                 fundsAvailable -= self.currListWages[maxMPWJobType]
             else:
@@ -117,6 +122,8 @@ class Firm():
         for jobType in range(NUM_JOB_TYPES-1):
             productivity += self.jobProd[jobType] * SCALE_FACTOR * math.sqrt(listLabour[jobType]
             /SCALE_FACTOR)
+            # productivity += self.jobProd[jobType] * SCALE_FACTOR * math.pow(listLabour[jobType]/
+            # SCALE_FACTOR, 0.75)
 
         return productivity
 

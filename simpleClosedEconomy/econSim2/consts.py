@@ -12,8 +12,8 @@ NUM_GOOD_TYPES = 2
 TYPE_FOOD = 0
 TYPE_ENERGY = 1
 
-PROD_COST = [0.1, 0.1]
-INIT_PRICE = [0.07, 0.2]
+PROD_COST = [0.1, 0.05]
+INIT_PRICE = [0.07, 0.07]
 
 GOOD_PREF_MEAN = [1, 1]
 GOOD_PREF_NORM_STD_DEV = [0.2, 0.2]
@@ -41,7 +41,7 @@ JOB_CAPITALIST = 2
 #   Set skilled labour to zero productivity for now
 JOB_PROD_MEAN = [1, 0]
 JOB_PROD_NORM_STD_DEV = [0.3, 0]
-SCALE_FACTOR = 10
+SCALE_FACTOR = 5
 
 INIT_WAGES = [0.6, 2]
 
@@ -53,7 +53,7 @@ DICT_JOB_TITLES = {
 
 INIT_POPULATION = [50, 0, 10]
 INIT_SAVINGS = [2, 5, 10]
-INIT_FIRMS = [10, 0]
+INIT_FIRMS = [5, 5]
 
 MALE_FIRST_NAMES_DATA = [line.strip() for line in open("simpleClosedEconomy/econSim2/names/male.txt", 'r')]
 SURNAMES_DATA = [line.strip() for line in open("simpleClosedEconomy/econSim2/names/surnames.txt", 'r')]

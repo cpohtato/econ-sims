@@ -1,1280 +1,2560 @@
 
 ========================= MONTH 1 =========================
 
-Food Market: 712/712 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 124/124 sold at $0.07
+Energy Market: 458/458 sold at $0.07
 
 ========================= MONTH 2 =========================
 
-Food Market: 736/736 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 132/132 sold at $0.08
+Energy Market: 522/522 sold at $0.07
 
 ========================= MONTH 3 =========================
 
-Food Market: 752/752 sold at $0.08
-Energy Market: 0/0 sold at $0.00
+Food Market: 132/132 sold at $0.08
+Energy Market: 546/546 sold at $0.08
 
 ========================= MONTH 4 =========================
 
-Food Market: 765/765 sold at $0.08
-Energy Market: 0/0 sold at $0.00
+Food Market: 132/132 sold at $0.08
+Energy Market: 571/571 sold at $0.08
 
 ========================= MONTH 5 =========================
 
-Food Market: 602/748 sold at $0.08
-Energy Market: 0/0 sold at $0.00
+Food Market: 139/139 sold at $0.08
+Energy Market: 583/583 sold at $0.08
 
 ========================= MONTH 6 =========================
 
-Food Market: 510/860 sold at $0.08
-Energy Market: 0/0 sold at $0.00
+Food Market: 88/139 sold at $0.09
+Energy Market: 421/558 sold at $0.08
 
 ========================= MONTH 7 =========================
 
-Food Market: 480/1067 sold at $0.08
-Energy Market: 0/0 sold at $0.00
+Food Market: 81/204 sold at $0.09
+Energy Market: 385/679 sold at $0.08
 
 ========================= MONTH 8 =========================
 
-Food Market: 491/1303 sold at $0.08
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/262 sold at $0.09
+Energy Market: 384/852 sold at $0.08
 
 ========================= MONTH 9 =========================
 
-Food Market: 520/1569 sold at $0.08
-Energy Market: 0/0 sold at $0.00
+Food Market: 89/324 sold at $0.08
+Energy Market: 379/1020 sold at $0.09
 
 ========================= MONTH 10 =========================
 
-Food Market: 515/1793 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 98/374 sold at $0.08
+Energy Market: 389/1224 sold at $0.08
 
 ========================= MONTH 11 =========================
 
-Food Market: 541/2022 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/415 sold at $0.08
+Energy Market: 371/1374 sold at $0.08
 
 ========================= MONTH 12 =========================
 
-Food Market: 514/2209 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 90/465 sold at $0.08
+Energy Market: 364/1549 sold at $0.08
 
 ========================= MONTH 13 =========================
 
-Food Market: 511/2411 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 103/514 sold at $0.07
+Energy Market: 405/1768 sold at $0.08
 
 ========================= MONTH 14 =========================
 
-Food Market: 471/2562 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 93/543 sold at $0.08
+Energy Market: 386/1924 sold at $0.08
 
 ========================= MONTH 15 =========================
 
-Food Market: 493/2754 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 87/582 sold at $0.08
+Energy Market: 357/2057 sold at $0.08
 
 ========================= MONTH 16 =========================
 
-Food Market: 479/2860 sold at $0.06
-Energy Market: 0/0 sold at $0.00
+Food Market: 93/627 sold at $0.07
+Energy Market: 366/2207 sold at $0.08
 
 ========================= MONTH 17 =========================
 
-Food Market: 473/3012 sold at $0.07
-Energy Market: 0/0 sold at $0.00
+Food Market: 94/666 sold at $0.07
+Energy Market: 377/2348 sold at $0.08
 
 ========================= MONTH 18 =========================
 
-Food Market: 479/3170 sold at $0.06
-Energy Market: 0/0 sold at $0.00
+Food Market: 83/696 sold at $0.07
+Energy Market: 369/2454 sold at $0.07
 
 ========================= MONTH 19 =========================
 
-Food Market: 509/3339 sold at $0.06
-Energy Market: 0/0 sold at $0.00
+Food Market: 86/728 sold at $0.07
+Energy Market: 382/2567 sold at $0.07
 
 ========================= MONTH 20 =========================
 
-Food Market: 471/3430 sold at $0.06
-Energy Market: 0/0 sold at $0.00
+Food Market: 96/757 sold at $0.06
+Energy Market: 372/2676 sold at $0.07
 
 ========================= MONTH 21 =========================
 
-Food Market: 487/3544 sold at $0.06
-Energy Market: 0/0 sold at $0.00
+Food Market: 98/776 sold at $0.06
+Energy Market: 355/2779 sold at $0.07
 
 ========================= MONTH 22 =========================
 
-Food Market: 476/3611 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/778 sold at $0.06
+Energy Market: 316/2835 sold at $0.07
 
 ========================= MONTH 23 =========================
 
-Food Market: 456/3644 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/802 sold at $0.06
+Energy Market: 297/2890 sold at $0.07
 
 ========================= MONTH 24 =========================
 
-Food Market: 452/3677 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 70/850 sold at $0.06
+Energy Market: 303/2933 sold at $0.07
 
 ========================= MONTH 25 =========================
 
-Food Market: 445/3703 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 92/895 sold at $0.06
+Energy Market: 334/3052 sold at $0.07
 
 ========================= MONTH 26 =========================
 
-Food Market: 473/3747 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 88/918 sold at $0.06
+Energy Market: 367/3176 sold at $0.07
 
 ========================= MONTH 27 =========================
 
-Food Market: 483/3753 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 88/945 sold at $0.05
+Energy Market: 316/3200 sold at $0.07
 
 ========================= MONTH 28 =========================
 
-Food Market: 451/3714 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 99/962 sold at $0.05
+Energy Market: 356/3342 sold at $0.07
 
 ========================= MONTH 29 =========================
 
-Food Market: 453/3707 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 83/968 sold at $0.05
+Energy Market: 338/3397 sold at $0.06
 
 ========================= MONTH 30 =========================
 
-Food Market: 448/3684 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 95/1000 sold at $0.05
+Energy Market: 361/3491 sold at $0.06
 
 ========================= MONTH 31 =========================
 
-Food Market: 408/3612 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 85/995 sold at $0.05
+Energy Market: 380/3563 sold at $0.06
 
 ========================= MONTH 32 =========================
 
-Food Market: 410/3549 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 91/1015 sold at $0.05
+Energy Market: 349/3598 sold at $0.06
 
 ========================= MONTH 33 =========================
 
-Food Market: 440/3534 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/1014 sold at $0.05
+Energy Market: 347/3644 sold at $0.06
 
 ========================= MONTH 34 =========================
 
-Food Market: 442/3489 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 98/1035 sold at $0.05
+Energy Market: 362/3712 sold at $0.06
 
 ========================= MONTH 35 =========================
 
-Food Market: 439/3426 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 91/1027 sold at $0.05
+Energy Market: 354/3755 sold at $0.06
 
 ========================= MONTH 36 =========================
 
-Food Market: 415/3339 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 91/1015 sold at $0.05
+Energy Market: 330/3796 sold at $0.06
 
 ========================= MONTH 37 =========================
 
-Food Market: 426/3258 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 91/1003 sold at $0.05
+Energy Market: 326/3861 sold at $0.06
 
 ========================= MONTH 38 =========================
 
-Food Market: 423/3166 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 90/991 sold at $0.05
+Energy Market: 356/3940 sold at $0.06
 
 ========================= MONTH 39 =========================
 
-Food Market: 456/3109 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 90/991 sold at $0.05
+Energy Market: 350/3969 sold at $0.06
 
 ========================= MONTH 40 =========================
 
-Food Market: 451/3005 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 92/980 sold at $0.05
+Energy Market: 365/4014 sold at $0.05
 
 ========================= MONTH 41 =========================
 
-Food Market: 437/2888 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 79/967 sold at $0.04
+Energy Market: 358/4023 sold at $0.05
 
 ========================= MONTH 42 =========================
 
-Food Market: 426/2785 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 101/967 sold at $0.04
+Energy Market: 340/4050 sold at $0.06
 
 ========================= MONTH 43 =========================
 
-Food Market: 440/2725 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 85/945 sold at $0.04
+Energy Market: 345/4074 sold at $0.05
 
 ========================= MONTH 44 =========================
 
-Food Market: 452/2653 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/939 sold at $0.04
+Energy Market: 359/4104 sold at $0.05
 
 ========================= MONTH 45 =========================
 
-Food Market: 428/2553 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 87/934 sold at $0.04
+Energy Market: 347/4109 sold at $0.05
 
 ========================= MONTH 46 =========================
 
-Food Market: 460/2490 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 79/926 sold at $0.04
+Energy Market: 352/4116 sold at $0.05
 
 ========================= MONTH 47 =========================
 
-Food Market: 447/2382 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 83/926 sold at $0.04
+Energy Market: 364/4128 sold at $0.05
 
 ========================= MONTH 48 =========================
 
-Food Market: 451/2287 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/922 sold at $0.04
+Energy Market: 352/4128 sold at $0.05
 
 ========================= MONTH 49 =========================
 
-Food Market: 460/2202 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/919 sold at $0.05
+Energy Market: 353/4140 sold at $0.05
 
 ========================= MONTH 50 =========================
 
-Food Market: 446/2094 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/921 sold at $0.04
+Energy Market: 363/4162 sold at $0.05
 
 ========================= MONTH 51 =========================
 
-Food Market: 448/2000 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/916 sold at $0.04
+Energy Market: 361/4173 sold at $0.05
 
 ========================= MONTH 52 =========================
 
-Food Market: 448/1904 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 87/911 sold at $0.04
+Energy Market: 354/4197 sold at $0.05
 
 ========================= MONTH 53 =========================
 
-Food Market: 428/1808 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 85/903 sold at $0.04
+Energy Market: 357/4218 sold at $0.05
 
 ========================= MONTH 54 =========================
 
-Food Market: 464/1746 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/897 sold at $0.04
+Energy Market: 365/4236 sold at $0.05
 
 ========================= MONTH 55 =========================
 
-Food Market: 434/1634 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 74/899 sold at $0.04
+Energy Market: 359/4235 sold at $0.05
 
 ========================= MONTH 56 =========================
 
-Food Market: 434/1552 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 85/904 sold at $0.05
+Energy Market: 356/4251 sold at $0.05
 
 ========================= MONTH 57 =========================
 
-Food Market: 440/1484 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/898 sold at $0.05
+Energy Market: 361/4259 sold at $0.05
 
 ========================= MONTH 58 =========================
 
-Food Market: 456/1439 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/906 sold at $0.05
+Energy Market: 364/4252 sold at $0.05
 
 ========================= MONTH 59 =========================
 
-Food Market: 426/1378 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/916 sold at $0.05
+Energy Market: 374/4241 sold at $0.05
 
 ========================= MONTH 60 =========================
 
-Food Market: 423/1359 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/926 sold at $0.04
+Energy Market: 361/4210 sold at $0.05
 
 ========================= MONTH 61 =========================
 
-Food Market: 431/1368 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 66/936 sold at $0.05
+Energy Market: 383/4203 sold at $0.05
 
 ========================= MONTH 62 =========================
 
-Food Market: 451/1403 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/949 sold at $0.04
+Energy Market: 359/4151 sold at $0.05
 
 ========================= MONTH 63 =========================
 
-Food Market: 451/1431 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 72/951 sold at $0.04
+Energy Market: 363/4134 sold at $0.05
 
 ========================= MONTH 64 =========================
 
-Food Market: 455/1469 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 74/958 sold at $0.04
+Energy Market: 344/4102 sold at $0.05
 
 ========================= MONTH 65 =========================
 
-Food Market: 450/1493 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 63/949 sold at $0.04
+Energy Market: 370/4099 sold at $0.05
 
 ========================= MONTH 66 =========================
 
-Food Market: 457/1522 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/965 sold at $0.04
+Energy Market: 364/4083 sold at $0.05
 
 ========================= MONTH 67 =========================
 
-Food Market: 444/1544 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 79/948 sold at $0.04
+Energy Market: 359/4083 sold at $0.05
 
 ========================= MONTH 68 =========================
 
-Food Market: 442/1579 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 88/934 sold at $0.04
+Energy Market: 355/4088 sold at $0.05
 
 ========================= MONTH 69 =========================
 
-Food Market: 453/1617 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 86/911 sold at $0.04
+Energy Market: 361/4097 sold at $0.05
 
 ========================= MONTH 70 =========================
 
-Food Market: 451/1643 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 91/890 sold at $0.04
+Energy Market: 354/4089 sold at $0.05
 
 ========================= MONTH 71 =========================
 
-Food Market: 451/1671 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 87/864 sold at $0.04
+Energy Market: 342/4089 sold at $0.05
 
 ========================= MONTH 72 =========================
 
-Food Market: 479/1711 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 90/842 sold at $0.04
+Energy Market: 351/4086 sold at $0.05
 
 ========================= MONTH 73 =========================
 
-Food Market: 448/1711 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 92/817 sold at $0.04
+Energy Market: 351/4089 sold at $0.05
 
 ========================= MONTH 74 =========================
 
-Food Market: 452/1742 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 78/776 sold at $0.04
+Energy Market: 348/4092 sold at $0.05
 
 ========================= MONTH 75 =========================
 
-Food Market: 451/1769 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 85/763 sold at $0.04
+Energy Market: 355/4098 sold at $0.05
 
 ========================= MONTH 76 =========================
 
-Food Market: 462/1797 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 80/743 sold at $0.04
+Energy Market: 367/4096 sold at $0.05
 
 ========================= MONTH 77 =========================
 
-Food Market: 460/1814 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 85/728 sold at $0.04
+Energy Market: 355/4093 sold at $0.05
 
 ========================= MONTH 78 =========================
 
-Food Market: 467/1834 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 81/708 sold at $0.04
+Energy Market: 372/4102 sold at $0.05
 
 ========================= MONTH 79 =========================
 
-Food Market: 478/1846 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 79/678 sold at $0.04
+Energy Market: 346/4094 sold at $0.05
 
 ========================= MONTH 80 =========================
 
-Food Market: 458/1824 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/664 sold at $0.04
+Energy Market: 368/4102 sold at $0.05
 
 ========================= MONTH 81 =========================
 
-Food Market: 471/1822 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/662 sold at $0.04
+Energy Market: 361/4088 sold at $0.05
 
 ========================= MONTH 82 =========================
 
-Food Market: 461/1807 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 73/656 sold at $0.04
+Energy Market: 369/4091 sold at $0.05
 
 ========================= MONTH 83 =========================
 
-Food Market: 491/1825 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 72/634 sold at $0.04
+Energy Market: 366/4086 sold at $0.05
 
 ========================= MONTH 84 =========================
 
-Food Market: 470/1789 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 74/627 sold at $0.04
+Energy Market: 362/4063 sold at $0.05
 
 ========================= MONTH 85 =========================
 
-Food Market: 471/1775 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/618 sold at $0.04
+Energy Market: 360/4055 sold at $0.05
 
 ========================= MONTH 86 =========================
 
-Food Market: 458/1747 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 72/585 sold at $0.04
+Energy Market: 356/4049 sold at $0.05
 
 ========================= MONTH 87 =========================
 
-Food Market: 470/1733 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 72/578 sold at $0.04
+Energy Market: 368/4044 sold at $0.05
 
 ========================= MONTH 88 =========================
 
-Food Market: 461/1707 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/571 sold at $0.04
+Energy Market: 359/4019 sold at $0.05
 
 ========================= MONTH 89 =========================
 
-Food Market: 468/1690 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/546 sold at $0.04
+Energy Market: 355/4024 sold at $0.05
 
 ========================= MONTH 90 =========================
 
-Food Market: 472/1666 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 81/534 sold at $0.04
+Energy Market: 354/4023 sold at $0.05
 
 ========================= MONTH 91 =========================
 
-Food Market: 457/1614 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/504 sold at $0.04
+Energy Market: 362/4023 sold at $0.05
 
 ========================= MONTH 92 =========================
 
-Food Market: 451/1589 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/498 sold at $0.04
+Energy Market: 369/4015 sold at $0.05
 
 ========================= MONTH 93 =========================
 
-Food Market: 481/1594 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/492 sold at $0.04
+Energy Market: 373/3987 sold at $0.05
 
 ========================= MONTH 94 =========================
 
-Food Market: 479/1557 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/496 sold at $0.04
+Energy Market: 372/3955 sold at $0.04
 
 ========================= MONTH 95 =========================
 
-Food Market: 464/1522 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/496 sold at $0.05
+Energy Market: 374/3937 sold at $0.05
 
 ========================= MONTH 96 =========================
 
-Food Market: 487/1526 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 72/508 sold at $0.04
+Energy Market: 369/3905 sold at $0.05
 
 ========================= MONTH 97 =========================
 
-Food Market: 471/1471 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/487 sold at $0.04
+Energy Market: 355/3890 sold at $0.05
 
 ========================= MONTH 98 =========================
 
-Food Market: 470/1444 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 60/482 sold at $0.04
+Energy Market: 378/3886 sold at $0.05
 
 ========================= MONTH 99 =========================
 
-Food Market: 461/1406 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/487 sold at $0.04
+Energy Market: 375/3872 sold at $0.05
 
 ========================= MONTH 100 =========================
 
-Food Market: 462/1389 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/471 sold at $0.05
+Energy Market: 373/3862 sold at $0.05
 
 ========================= MONTH 101 =========================
 
-Food Market: 482/1395 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/471 sold at $0.05
+Energy Market: 371/3843 sold at $0.05
 
 ========================= MONTH 102 =========================
 
-Food Market: 451/1357 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/469 sold at $0.05
+Energy Market: 385/3836 sold at $0.05
 
 ========================= MONTH 103 =========================
 
-Food Market: 475/1374 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 66/481 sold at $0.05
+Energy Market: 368/3803 sold at $0.05
 
 ========================= MONTH 104 =========================
 
-Food Market: 471/1378 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/480 sold at $0.04
+Energy Market: 360/3789 sold at $0.05
 
 ========================= MONTH 105 =========================
 
-Food Market: 458/1386 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 68/473 sold at $0.05
+Energy Market: 362/3793 sold at $0.05
 
 ========================= MONTH 106 =========================
 
-Food Market: 470/1428 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/470 sold at $0.04
+Energy Market: 375/3795 sold at $0.05
 
 ========================= MONTH 107 =========================
 
-Food Market: 445/1437 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/467 sold at $0.05
+Energy Market: 388/3784 sold at $0.05
 
 ========================= MONTH 108 =========================
 
-Food Market: 468/1483 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/480 sold at $0.04
+Energy Market: 372/3738 sold at $0.04
 
 ========================= MONTH 109 =========================
 
-Food Market: 452/1494 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/471 sold at $0.05
+Energy Market: 383/3717 sold at $0.04
 
 ========================= MONTH 110 =========================
 
-Food Market: 456/1510 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 68/486 sold at $0.04
+Energy Market: 387/3688 sold at $0.04
 
 ========================= MONTH 111 =========================
 
-Food Market: 469/1533 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 57/480 sold at $0.04
+Energy Market: 399/3641 sold at $0.04
 
 ========================= MONTH 112 =========================
 
-Food Market: 445/1520 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 59/488 sold at $0.05
+Energy Market: 370/3582 sold at $0.04
 
 ========================= MONTH 113 =========================
 
-Food Market: 477/1566 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/491 sold at $0.04
+Energy Market: 371/3566 sold at $0.05
 
 ========================= MONTH 114 =========================
 
-Food Market: 474/1568 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/494 sold at $0.04
+Energy Market: 366/3559 sold at $0.05
 
 ========================= MONTH 115 =========================
 
-Food Market: 450/1573 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 63/480 sold at $0.04
+Energy Market: 368/3558 sold at $0.05
 
 ========================= MONTH 116 =========================
 
-Food Market: 462/1591 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 74/482 sold at $0.04
+Energy Market: 379/3565 sold at $0.05
 
 ========================= MONTH 117 =========================
 
-Food Market: 476/1608 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 68/459 sold at $0.04
+Energy Market: 368/3561 sold at $0.05
 
 ========================= MONTH 118 =========================
 
-Food Market: 465/1611 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 70/467 sold at $0.04
+Energy Market: 389/3557 sold at $0.05
 
 ========================= MONTH 119 =========================
 
-Food Market: 473/1626 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 63/459 sold at $0.04
+Energy Market: 378/3532 sold at $0.05
 
 ========================= MONTH 120 =========================
 
-Food Market: 488/1644 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 68/472 sold at $0.05
+Energy Market: 388/3518 sold at $0.05
 
 ========================= MONTH 121 =========================
 
-Food Market: 469/1635 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/480 sold at $0.04
+Energy Market: 401/3495 sold at $0.04
 
 ========================= MONTH 122 =========================
 
-Food Market: 468/1656 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/492 sold at $0.04
+Energy Market: 374/3436 sold at $0.04
 
 ========================= MONTH 123 =========================
 
-Food Market: 485/1679 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/503 sold at $0.05
+Energy Market: 394/3426 sold at $0.04
 
 ========================= MONTH 124 =========================
 
-Food Market: 471/1685 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/501 sold at $0.04
+Energy Market: 380/3375 sold at $0.04
 
 ========================= MONTH 125 =========================
 
-Food Market: 482/1714 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/515 sold at $0.05
+Energy Market: 383/3337 sold at $0.04
 
 ========================= MONTH 126 =========================
 
-Food Market: 455/1711 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 57/526 sold at $0.05
+Energy Market: 394/3297 sold at $0.04
 
 ========================= MONTH 127 =========================
 
-Food Market: 465/1735 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 56/545 sold at $0.05
+Energy Market: 402/3257 sold at $0.04
 
 ========================= MONTH 128 =========================
 
-Food Market: 480/1761 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/575 sold at $0.05
+Energy Market: 404/3207 sold at $0.04
 
 ========================= MONTH 129 =========================
 
-Food Market: 479/1782 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 60/599 sold at $0.05
+Energy Market: 408/3157 sold at $0.04
 
 ========================= MONTH 130 =========================
 
-Food Market: 467/1793 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 57/625 sold at $0.05
+Energy Market: 390/3080 sold at $0.04
 
 ========================= MONTH 131 =========================
 
-Food Market: 479/1816 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 55/654 sold at $0.05
+Energy Market: 391/3018 sold at $0.04
 
 ========================= MONTH 132 =========================
 
-Food Market: 486/1828 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 63/685 sold at $0.05
+Energy Market: 413/2991 sold at $0.04
 
 ========================= MONTH 133 =========================
 
-Food Market: 484/1844 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/698 sold at $0.05
+Energy Market: 381/2920 sold at $0.04
 
 ========================= MONTH 134 =========================
 
-Food Market: 478/1838 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 58/723 sold at $0.05
+Energy Market: 406/2892 sold at $0.04
 
 ========================= MONTH 135 =========================
 
-Food Market: 472/1839 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 59/751 sold at $0.05
+Energy Market: 410/2840 sold at $0.04
 
 ========================= MONTH 136 =========================
 
-Food Market: 491/1856 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/768 sold at $0.05
+Energy Market: 400/2794 sold at $0.04
 
 ========================= MONTH 137 =========================
 
-Food Market: 475/1844 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 58/793 sold at $0.05
+Energy Market: 404/2748 sold at $0.04
 
 ========================= MONTH 138 =========================
 
-Food Market: 495/1860 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/821 sold at $0.05
+Energy Market: 401/2708 sold at $0.04
 
 ========================= MONTH 139 =========================
 
-Food Market: 493/1844 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/842 sold at $0.05
+Energy Market: 394/2671 sold at $0.05
 
 ========================= MONTH 140 =========================
 
-Food Market: 494/1819 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 66/856 sold at $0.04
+Energy Market: 393/2641 sold at $0.04
 
 ========================= MONTH 141 =========================
 
-Food Market: 471/1781 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/866 sold at $0.04
+Energy Market: 383/2612 sold at $0.05
 
 ========================= MONTH 142 =========================
 
-Food Market: 474/1766 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 73/873 sold at $0.04
+Energy Market: 386/2594 sold at $0.04
 
 ========================= MONTH 143 =========================
 
-Food Market: 487/1760 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 70/876 sold at $0.04
+Energy Market: 415/2593 sold at $0.04
 
 ========================= MONTH 144 =========================
 
-Food Market: 503/1752 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 81/882 sold at $0.04
+Energy Market: 384/2553 sold at $0.05
 
 ========================= MONTH 145 =========================
 
-Food Market: 488/1705 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 73/877 sold at $0.04
+Energy Market: 382/2554 sold at $0.05
 
 ========================= MONTH 146 =========================
 
-Food Market: 490/1685 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/869 sold at $0.04
+Energy Market: 370/2547 sold at $0.05
 
 ========================= MONTH 147 =========================
 
-Food Market: 492/1662 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 74/876 sold at $0.04
+Energy Market: 373/2552 sold at $0.05
 
 ========================= MONTH 148 =========================
 
-Food Market: 503/1637 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 92/867 sold at $0.04
+Energy Market: 379/2574 sold at $0.05
 
 ========================= MONTH 149 =========================
 
-Food Market: 490/1602 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/840 sold at $0.04
+Energy Market: 370/2580 sold at $0.05
 
 ========================= MONTH 150 =========================
 
-Food Market: 493/1580 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/840 sold at $0.04
+Energy Market: 387/2595 sold at $0.05
 
 ========================= MONTH 151 =========================
 
-Food Market: 483/1555 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 75/828 sold at $0.04
+Energy Market: 372/2583 sold at $0.05
 
 ========================= MONTH 152 =========================
 
-Food Market: 495/1551 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 75/818 sold at $0.04
+Energy Market: 381/2606 sold at $0.05
 
 ========================= MONTH 153 =========================
 
-Food Market: 478/1524 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 79/819 sold at $0.04
+Energy Market: 375/2610 sold at $0.05
 
 ========================= MONTH 154 =========================
 
-Food Market: 481/1525 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/816 sold at $0.04
+Energy Market: 372/2620 sold at $0.05
 
 ========================= MONTH 155 =========================
 
-Food Market: 484/1523 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 73/816 sold at $0.04
+Energy Market: 383/2643 sold at $0.05
 
 ========================= MONTH 156 =========================
 
-Food Market: 500/1528 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/819 sold at $0.04
+Energy Market: 409/2654 sold at $0.05
 
 ========================= MONTH 157 =========================
 
-Food Market: 486/1507 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/828 sold at $0.04
+Energy Market: 381/2630 sold at $0.05
 
 ========================= MONTH 158 =========================
 
-Food Market: 480/1489 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/845 sold at $0.04
+Energy Market: 375/2634 sold at $0.05
 
 ========================= MONTH 159 =========================
 
-Food Market: 499/1488 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 75/855 sold at $0.04
+Energy Market: 400/2654 sold at $0.05
 
 ========================= MONTH 160 =========================
 
-Food Market: 485/1469 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/866 sold at $0.04
+Energy Market: 381/2649 sold at $0.05
 
 ========================= MONTH 161 =========================
 
-Food Market: 477/1440 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 68/876 sold at $0.05
+Energy Market: 393/2663 sold at $0.05
 
 ========================= MONTH 162 =========================
 
-Food Market: 479/1442 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 79/894 sold at $0.04
+Energy Market: 394/2675 sold at $0.05
 
 ========================= MONTH 163 =========================
 
-Food Market: 474/1442 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 72/901 sold at $0.04
+Energy Market: 387/2666 sold at $0.05
 
 ========================= MONTH 164 =========================
 
-Food Market: 490/1458 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 70/915 sold at $0.05
+Energy Market: 383/2664 sold at $0.05
 
 ========================= MONTH 165 =========================
 
-Food Market: 476/1459 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/921 sold at $0.04
+Energy Market: 388/2686 sold at $0.05
 
 ========================= MONTH 166 =========================
 
-Food Market: 481/1462 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/921 sold at $0.04
+Energy Market: 373/2683 sold at $0.05
 
 ========================= MONTH 167 =========================
 
-Food Market: 475/1460 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 90/931 sold at $0.04
+Energy Market: 378/2705 sold at $0.05
 
 ========================= MONTH 168 =========================
 
-Food Market: 498/1476 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 80/917 sold at $0.04
+Energy Market: 381/2712 sold at $0.05
 
 ========================= MONTH 169 =========================
 
-Food Market: 485/1469 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/913 sold at $0.04
+Energy Market: 381/2716 sold at $0.05
 
 ========================= MONTH 170 =========================
 
-Food Market: 480/1474 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 81/907 sold at $0.04
+Energy Market: 380/2730 sold at $0.05
 
 ========================= MONTH 171 =========================
 
-Food Market: 482/1496 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 89/902 sold at $0.04
+Energy Market: 378/2755 sold at $0.05
 
 ========================= MONTH 172 =========================
 
-Food Market: 500/1526 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 93/878 sold at $0.04
+Energy Market: 363/2782 sold at $0.05
 
 ========================= MONTH 173 =========================
 
-Food Market: 492/1538 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/850 sold at $0.04
+Energy Market: 373/2814 sold at $0.05
 
 ========================= MONTH 174 =========================
 
-Food Market: 507/1568 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 93/833 sold at $0.04
+Energy Market: 368/2856 sold at $0.05
 
 ========================= MONTH 175 =========================
 
-Food Market: 480/1573 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 92/816 sold at $0.04
+Energy Market: 388/2893 sold at $0.05
 
 ========================= MONTH 176 =========================
 
-Food Market: 496/1625 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 86/800 sold at $0.04
+Energy Market: 382/2910 sold at $0.05
 
 ========================= MONTH 177 =========================
 
-Food Market: 483/1640 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 91/790 sold at $0.04
+Energy Market: 377/2943 sold at $0.05
 
 ========================= MONTH 178 =========================
 
-Food Market: 489/1689 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 95/775 sold at $0.04
+Energy Market: 365/2981 sold at $0.05
 
 ========================= MONTH 179 =========================
 
-Food Market: 494/1732 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 87/756 sold at $0.04
+Energy Market: 393/3031 sold at $0.05
 
 ========================= MONTH 180 =========================
 
-Food Market: 476/1760 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 96/745 sold at $0.04
+Energy Market: 376/3053 sold at $0.05
 
 ========================= MONTH 181 =========================
 
-Food Market: 479/1805 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/725 sold at $0.04
+Energy Market: 384/3082 sold at $0.05
 
 ========================= MONTH 182 =========================
 
-Food Market: 498/1867 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 83/719 sold at $0.04
+Energy Market: 379/3113 sold at $0.05
 
 ========================= MONTH 183 =========================
 
-Food Market: 485/1911 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 85/712 sold at $0.04
+Energy Market: 386/3159 sold at $0.05
 
 ========================= MONTH 184 =========================
 
-Food Market: 480/1957 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/713 sold at $0.05
+Energy Market: 406/3198 sold at $0.05
 
 ========================= MONTH 185 =========================
 
-Food Market: 501/2009 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 80/723 sold at $0.04
+Energy Market: 411/3197 sold at $0.05
 
 ========================= MONTH 186 =========================
 
-Food Market: 471/2020 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 80/729 sold at $0.04
+Energy Market: 406/3191 sold at $0.05
 
 ========================= MONTH 187 =========================
 
-Food Market: 494/2071 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 79/735 sold at $0.04
+Energy Market: 386/3190 sold at $0.05
 
 ========================= MONTH 188 =========================
 
-Food Market: 510/2099 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 86/742 sold at $0.04
+Energy Market: 392/3209 sold at $0.05
 
 ========================= MONTH 189 =========================
 
-Food Market: 493/2101 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 91/742 sold at $0.04
+Energy Market: 382/3212 sold at $0.05
 
 ========================= MONTH 190 =========================
 
-Food Market: 488/2120 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 86/727 sold at $0.04
+Energy Market: 382/3225 sold at $0.05
 
 ========================= MONTH 191 =========================
 
-Food Market: 492/2154 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/727 sold at $0.04
+Energy Market: 400/3228 sold at $0.04
 
 ========================= MONTH 192 =========================
 
-Food Market: 479/2174 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 73/742 sold at $0.04
+Energy Market: 422/3223 sold at $0.04
 
 ========================= MONTH 193 =========================
 
-Food Market: 493/2196 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/755 sold at $0.04
+Energy Market: 412/3176 sold at $0.04
 
 ========================= MONTH 194 =========================
 
-Food Market: 508/2205 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/772 sold at $0.04
+Energy Market: 419/3139 sold at $0.04
 
 ========================= MONTH 195 =========================
 
-Food Market: 490/2186 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 73/784 sold at $0.04
+Energy Market: 398/3084 sold at $0.04
 
 ========================= MONTH 196 =========================
 
-Food Market: 510/2187 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/787 sold at $0.04
+Energy Market: 399/3050 sold at $0.04
 
 ========================= MONTH 197 =========================
 
-Food Market: 550/2178 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/806 sold at $0.04
+Energy Market: 419/3005 sold at $0.04
 
 ========================= MONTH 198 =========================
 
-Food Market: 502/2084 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 63/830 sold at $0.04
+Energy Market: 412/2940 sold at $0.04
 
 ========================= MONTH 199 =========================
 
-Food Market: 517/2061 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/853 sold at $0.04
+Energy Market: 414/2892 sold at $0.04
 
 ========================= MONTH 200 =========================
 
-Food Market: 497/1988 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/875 sold at $0.04
+Energy Market: 405/2842 sold at $0.04
 
 ========================= MONTH 201 =========================
 
-Food Market: 512/1947 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 66/880 sold at $0.04
+Energy Market: 412/2802 sold at $0.04
 
 ========================= MONTH 202 =========================
 
-Food Market: 502/1879 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 70/890 sold at $0.04
+Energy Market: 411/2754 sold at $0.04
 
 ========================= MONTH 203 =========================
 
-Food Market: 510/1821 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 66/896 sold at $0.04
+Energy Market: 404/2697 sold at $0.04
 
 ========================= MONTH 204 =========================
 
-Food Market: 528/1755 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/895 sold at $0.04
+Energy Market: 420/2644 sold at $0.04
 
 ========================= MONTH 205 =========================
 
-Food Market: 513/1658 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 63/910 sold at $0.04
+Energy Market: 412/2563 sold at $0.04
 
 ========================= MONTH 206 =========================
 
-Food Market: 485/1552 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/909 sold at $0.04
+Energy Market: 413/2494 sold at $0.04
 
 ========================= MONTH 207 =========================
 
-Food Market: 505/1499 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 59/907 sold at $0.04
+Energy Market: 422/2422 sold at $0.04
 
 ========================= MONTH 208 =========================
 
-Food Market: 512/1438 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 59/910 sold at $0.04
+Energy Market: 402/2318 sold at $0.04
 
 ========================= MONTH 209 =========================
 
-Food Market: 490/1358 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 58/902 sold at $0.04
+Energy Market: 390/2245 sold at $0.04
 
 ========================= MONTH 210 =========================
 
-Food Market: 510/1336 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/895 sold at $0.04
+Energy Market: 385/2186 sold at $0.04
 
 ========================= MONTH 211 =========================
 
-Food Market: 483/1282 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/881 sold at $0.04
+Energy Market: 391/2155 sold at $0.04
 
 ========================= MONTH 212 =========================
 
-Food Market: 482/1267 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 66/874 sold at $0.04
+Energy Market: 410/2128 sold at $0.04
 
 ========================= MONTH 213 =========================
 
-Food Market: 505/1286 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 65/859 sold at $0.04
+Energy Market: 391/2072 sold at $0.04
 
 ========================= MONTH 214 =========================
 
-Food Market: 488/1282 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 69/856 sold at $0.04
+Energy Market: 401/2045 sold at $0.04
 
 ========================= MONTH 215 =========================
 
-Food Market: 475/1305 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 64/838 sold at $0.04
+Energy Market: 405/2009 sold at $0.04
 
 ========================= MONTH 216 =========================
 
-Food Market: 494/1371 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/836 sold at $0.04
+Energy Market: 408/1968 sold at $0.04
 
 ========================= MONTH 217 =========================
 
-Food Market: 499/1428 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 70/831 sold at $0.04
+Energy Market: 395/1924 sold at $0.04
 
 ========================= MONTH 218 =========================
 
-Food Market: 518/1499 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 67/823 sold at $0.04
+Energy Market: 397/1893 sold at $0.04
 
 ========================= MONTH 219 =========================
 
-Food Market: 513/1551 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/818 sold at $0.04
+Energy Market: 421/1860 sold at $0.04
 
 ========================= MONTH 220 =========================
 
-Food Market: 498/1617 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 60/818 sold at $0.04
+Energy Market: 410/1803 sold at $0.04
 
 ========================= MONTH 221 =========================
 
-Food Market: 527/1718 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/820 sold at $0.04
+Energy Market: 406/1757 sold at $0.04
 
 ========================= MONTH 222 =========================
 
-Food Market: 506/1770 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/831 sold at $0.04
+Energy Market: 406/1705 sold at $0.04
 
 ========================= MONTH 223 =========================
 
-Food Market: 533/1872 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 61/842 sold at $0.04
+Energy Market: 428/1663 sold at $0.04
 
 ========================= MONTH 224 =========================
 
-Food Market: 508/1927 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 62/853 sold at $0.04
+Energy Market: 423/1589 sold at $0.04
 
 ========================= MONTH 225 =========================
 
-Food Market: 531/2018 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 52/863 sold at $0.04
+Energy Market: 429/1495 sold at $0.04
 
 ========================= MONTH 226 =========================
 
-Food Market: 529/2075 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 54/883 sold at $0.04
+Energy Market: 426/1395 sold at $0.04
 
 ========================= MONTH 227 =========================
 
-Food Market: 523/2125 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 53/901 sold at $0.04
+Energy Market: 433/1275 sold at $0.03
 
 ========================= MONTH 228 =========================
 
-Food Market: 531/2190 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 50/920 sold at $0.04
+Energy Market: 432/1148 sold at $0.03
 
 ========================= MONTH 229 =========================
 
-Food Market: 514/2229 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 51/942 sold at $0.04
+Energy Market: 429/1022 sold at $0.03
 
 ========================= MONTH 230 =========================
 
-Food Market: 511/2285 sold at $0.05
-Energy Market: 0/0 sold at $0.00
+Food Market: 49/963 sold at $0.04
+Energy Market: 431/899 sold at $0.03
 
 ========================= MONTH 231 =========================
 
-Food Market: 527/2325 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 54/986 sold at $0.04
+Energy Market: 418/774 sold at $0.04
 
 ========================= MONTH 232 =========================
 
-Food Market: 501/2340 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 55/1004 sold at $0.04
+Energy Market: 400/673 sold at $0.04
 
 ========================= MONTH 233 =========================
 
-Food Market: 512/2371 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 95/1021 sold at $0.04
+Energy Market: 367/602 sold at $0.04
 
 ========================= MONTH 234 =========================
 
-Food Market: 496/2381 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 96/988 sold at $0.04
+Energy Market: 364/599 sold at $0.04
 
 ========================= MONTH 235 =========================
 
-Food Market: 533/2426 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 95/964 sold at $0.04
+Energy Market: 384/619 sold at $0.04
 
 ========================= MONTH 236 =========================
 
-Food Market: 525/2423 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 80/931 sold at $0.04
+Energy Market: 374/619 sold at $0.04
 
 ========================= MONTH 237 =========================
 
-Food Market: 491/2388 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 96/902 sold at $0.04
+Energy Market: 374/659 sold at $0.05
 
 ========================= MONTH 238 =========================
 
-Food Market: 525/2399 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 95/868 sold at $0.04
+Energy Market: 375/698 sold at $0.05
 
 ========================= MONTH 239 =========================
 
-Food Market: 526/2365 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/835 sold at $0.04
+Energy Market: 382/737 sold at $0.05
 
 ========================= MONTH 240 =========================
 
-Food Market: 508/2318 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/823 sold at $0.04
+Energy Market: 388/779 sold at $0.05
 
 ========================= MONTH 241 =========================
 
-Food Market: 524/2301 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 80/813 sold at $0.04
+Energy Market: 401/824 sold at $0.05
 
 ========================= MONTH 242 =========================
 
-Food Market: 534/2256 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 84/805 sold at $0.04
+Energy Market: 382/857 sold at $0.05
 
 ========================= MONTH 243 =========================
 
-Food Market: 528/2190 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/793 sold at $0.04
+Energy Market: 396/908 sold at $0.05
 
 ========================= MONTH 244 =========================
 
-Food Market: 530/2117 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 74/788 sold at $0.05
+Energy Market: 394/944 sold at $0.05
 
 ========================= MONTH 245 =========================
 
-Food Market: 523/2031 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 78/795 sold at $0.05
+Energy Market: 391/965 sold at $0.05
 
 ========================= MONTH 246 =========================
 
-Food Market: 541/1964 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 68/789 sold at $0.05
+Energy Market: 398/988 sold at $0.04
 
 ========================= MONTH 247 =========================
 
-Food Market: 544/1879 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 71/793 sold at $0.05
+Energy Market: 388/1014 sold at $0.05
 
 ========================= MONTH 248 =========================
 
-Food Market: 526/1767 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/803 sold at $0.05
+Energy Market: 399/1068 sold at $0.05
 
 ========================= MONTH 249 =========================
 
-Food Market: 526/1673 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 82/806 sold at $0.05
+Energy Market: 409/1117 sold at $0.05
 
 ========================= MONTH 250 =========================
 
-Food Market: 530/1603 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 77/804 sold at $0.05
+Energy Market: 411/1158 sold at $0.05
 
 ========================= MONTH 251 =========================
 
-Food Market: 528/1517 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/799 sold at $0.05
+Energy Market: 403/1205 sold at $0.05
 
 ========================= MONTH 252 =========================
 
-Food Market: 518/1421 sold at $0.03
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/804 sold at $0.05
+Energy Market: 405/1244 sold at $0.05
 
 ========================= MONTH 253 =========================
 
-Food Market: 518/1359 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 76/800 sold at $0.05
+Energy Market: 391/1271 sold at $0.05
 
 ========================= MONTH 254 =========================
 
-Food Market: 512/1309 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 74/805 sold at $0.05
+Energy Market: 431/1322 sold at $0.04
 
 ========================= MONTH 255 =========================
 
-Food Market: 512/1286 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 70/803 sold at $0.05
+Energy Market: 398/1314 sold at $0.05
 
 ========================= MONTH 256 =========================
 
-Food Market: 510/1275 sold at $0.04
-Energy Market: 0/0 sold at $0.00
+Food Market: 81/814 sold at $0.04
+Energy Market: 396/1340 sold at $0.05
+
+========================= MONTH 257 =========================
+
+Food Market: 76/814 sold at $0.05
+Energy Market: 409/1377 sold at $0.05
+
+========================= MONTH 258 =========================
+
+Food Market: 71/810 sold at $0.05
+Energy Market: 400/1392 sold at $0.04
+
+========================= MONTH 259 =========================
+
+Food Market: 67/811 sold at $0.05
+Energy Market: 412/1417 sold at $0.04
+
+========================= MONTH 260 =========================
+
+Food Market: 73/825 sold at $0.05
+Energy Market: 409/1429 sold at $0.04
+
+========================= MONTH 261 =========================
+
+Food Market: 73/824 sold at $0.05
+Energy Market: 400/1453 sold at $0.05
+
+========================= MONTH 262 =========================
+
+Food Market: 77/832 sold at $0.05
+Energy Market: 408/1487 sold at $0.05
+
+========================= MONTH 263 =========================
+
+Food Market: 74/827 sold at $0.05
+Energy Market: 425/1527 sold at $0.05
+
+========================= MONTH 264 =========================
+
+Food Market: 87/834 sold at $0.04
+Energy Market: 407/1552 sold at $0.05
+
+========================= MONTH 265 =========================
+
+Food Market: 73/828 sold at $0.05
+Energy Market: 410/1595 sold at $0.05
+
+========================= MONTH 266 =========================
+
+Food Market: 72/827 sold at $0.05
+Energy Market: 422/1633 sold at $0.04
+
+========================= MONTH 267 =========================
+
+Food Market: 75/836 sold at $0.05
+Energy Market: 424/1661 sold at $0.05
+
+========================= MONTH 268 =========================
+
+Food Market: 71/833 sold at $0.05
+Energy Market: 415/1669 sold at $0.04
+
+========================= MONTH 269 =========================
+
+Food Market: 74/843 sold at $0.04
+Energy Market: 415/1685 sold at $0.05
+
+========================= MONTH 270 =========================
+
+Food Market: 74/841 sold at $0.04
+Energy Market: 408/1702 sold at $0.04
+
+========================= MONTH 271 =========================
+
+Food Market: 73/848 sold at $0.04
+Energy Market: 410/1717 sold at $0.04
+
+========================= MONTH 272 =========================
+
+Food Market: 68/847 sold at $0.05
+Energy Market: 419/1737 sold at $0.04
+
+========================= MONTH 273 =========================
+
+Food Market: 76/860 sold at $0.05
+Energy Market: 406/1750 sold at $0.04
+
+========================= MONTH 274 =========================
+
+Food Market: 72/856 sold at $0.05
+Energy Market: 401/1767 sold at $0.04
+
+========================= MONTH 275 =========================
+
+Food Market: 71/865 sold at $0.04
+Energy Market: 416/1790 sold at $0.04
+
+========================= MONTH 276 =========================
+
+Food Market: 63/875 sold at $0.05
+Energy Market: 446/1807 sold at $0.04
+
+========================= MONTH 277 =========================
+
+Food Market: 71/884 sold at $0.04
+Energy Market: 424/1774 sold at $0.04
+
+========================= MONTH 278 =========================
+
+Food Market: 69/894 sold at $0.05
+Energy Market: 416/1773 sold at $0.04
+
+========================= MONTH 279 =========================
+
+Food Market: 68/906 sold at $0.05
+Energy Market: 435/1771 sold at $0.04
+
+========================= MONTH 280 =========================
+
+Food Market: 66/919 sold at $0.05
+Energy Market: 429/1751 sold at $0.04
+
+========================= MONTH 281 =========================
+
+Food Market: 64/934 sold at $0.05
+Energy Market: 438/1727 sold at $0.04
+
+========================= MONTH 282 =========================
+
+Food Market: 58/951 sold at $0.05
+Energy Market: 437/1674 sold at $0.04
+
+========================= MONTH 283 =========================
+
+Food Market: 58/974 sold at $0.04
+Energy Market: 427/1601 sold at $0.04
+
+========================= MONTH 284 =========================
+
+Food Market: 55/997 sold at $0.04
+Energy Market: 443/1538 sold at $0.04
+
+========================= MONTH 285 =========================
+
+Food Market: 51/1023 sold at $0.05
+Energy Market: 442/1459 sold at $0.04
+
+========================= MONTH 286 =========================
+
+Food Market: 50/1053 sold at $0.05
+Energy Market: 456/1381 sold at $0.04
+
+========================= MONTH 287 =========================
+
+Food Market: 51/1084 sold at $0.05
+Energy Market: 446/1279 sold at $0.04
+
+========================= MONTH 288 =========================
+
+Food Market: 56/1114 sold at $0.04
+Energy Market: 448/1197 sold at $0.04
+
+========================= MONTH 289 =========================
+
+Food Market: 53/1139 sold at $0.05
+Energy Market: 444/1124 sold at $0.04
+
+========================= MONTH 290 =========================
+
+Food Market: 53/1175 sold at $0.05
+Energy Market: 462/1044 sold at $0.04
+
+========================= MONTH 291 =========================
+
+Food Market: 53/1203 sold at $0.05
+Energy Market: 441/936 sold at $0.04
+
+========================= MONTH 292 =========================
+
+Food Market: 48/1231 sold at $0.05
+Energy Market: 460/859 sold at $0.04
+
+========================= MONTH 293 =========================
+
+Food Market: 53/1272 sold at $0.05
+Energy Market: 441/763 sold at $0.04
+
+========================= MONTH 294 =========================
+
+Food Market: 53/1300 sold at $0.05
+Energy Market: 434/697 sold at $0.04
+
+========================= MONTH 295 =========================
+
+Food Market: 71/1328 sold at $0.05
+Energy Market: 423/658 sold at $0.04
+
+========================= MONTH 296 =========================
+
+Food Market: 78/1346 sold at $0.05
+Energy Market: 405/640 sold at $0.04
+
+========================= MONTH 297 =========================
+
+Food Market: 68/1357 sold at $0.05
+Energy Market: 424/659 sold at $0.04
+
+========================= MONTH 298 =========================
+
+Food Market: 73/1378 sold at $0.05
+Energy Market: 416/675 sold at $0.04
+
+========================= MONTH 299 =========================
+
+Food Market: 71/1386 sold at $0.05
+Energy Market: 415/699 sold at $0.04
+
+========================= MONTH 300 =========================
+
+Food Market: 67/1404 sold at $0.05
+Energy Market: 423/724 sold at $0.04
+
+========================= MONTH 301 =========================
+
+Food Market: 67/1426 sold at $0.05
+Energy Market: 433/742 sold at $0.04
+
+========================= MONTH 302 =========================
+
+Food Market: 65/1448 sold at $0.05
+Energy Market: 424/750 sold at $0.04
+
+========================= MONTH 303 =========================
+
+Food Market: 66/1472 sold at $0.05
+Energy Market: 439/784 sold at $0.04
+
+========================= MONTH 304 =========================
+
+Food Market: 73/1495 sold at $0.05
+Energy Market: 422/812 sold at $0.05
+
+========================= MONTH 305 =========================
+
+Food Market: 73/1511 sold at $0.05
+Energy Market: 428/873 sold at $0.05
+
+========================= MONTH 306 =========================
+
+Food Market: 74/1527 sold at $0.05
+Energy Market: 424/928 sold at $0.05
+
+========================= MONTH 307 =========================
+
+Food Market: 76/1542 sold at $0.05
+Energy Market: 412/987 sold at $0.05
+
+========================= MONTH 308 =========================
+
+Food Market: 69/1555 sold at $0.05
+Energy Market: 431/1050 sold at $0.05
+
+========================= MONTH 309 =========================
+
+Food Market: 73/1582 sold at $0.05
+Energy Market: 448/1102 sold at $0.05
+
+========================= MONTH 310 =========================
+
+Food Market: 74/1598 sold at $0.05
+Energy Market: 432/1145 sold at $0.05
+
+========================= MONTH 311 =========================
+
+Food Market: 76/1620 sold at $0.05
+Energy Market: 441/1212 sold at $0.05
+
+========================= MONTH 312 =========================
+
+Food Market: 69/1633 sold at $0.05
+Energy Market: 445/1254 sold at $0.05
+
+========================= MONTH 313 =========================
+
+Food Market: 71/1660 sold at $0.05
+Energy Market: 436/1284 sold at $0.05
+
+========================= MONTH 314 =========================
+
+Food Market: 63/1678 sold at $0.05
+Energy Market: 446/1315 sold at $0.04
+
+========================= MONTH 315 =========================
+
+Food Market: 70/1704 sold at $0.05
+Energy Market: 429/1327 sold at $0.04
+
+========================= MONTH 316 =========================
+
+Food Market: 70/1723 sold at $0.05
+Energy Market: 437/1365 sold at $0.04
+
+========================= MONTH 317 =========================
+
+Food Market: 77/1742 sold at $0.05
+Energy Market: 424/1403 sold at $0.05
+
+========================= MONTH 318 =========================
+
+Food Market: 85/1754 sold at $0.04
+Energy Market: 438/1462 sold at $0.05
+
+========================= MONTH 319 =========================
+
+Food Market: 75/1758 sold at $0.05
+Energy Market: 427/1507 sold at $0.05
+
+========================= MONTH 320 =========================
+
+Food Market: 80/1772 sold at $0.05
+Energy Market: 440/1554 sold at $0.04
+
+========================= MONTH 321 =========================
+
+Food Market: 77/1781 sold at $0.05
+Energy Market: 432/1581 sold at $0.04
+
+========================= MONTH 322 =========================
+
+Food Market: 73/1793 sold at $0.05
+Energy Market: 451/1605 sold at $0.04
+
+========================= MONTH 323 =========================
+
+Food Market: 66/1809 sold at $0.05
+Energy Market: 447/1612 sold at $0.04
+
+========================= MONTH 324 =========================
+
+Food Market: 64/1832 sold at $0.05
+Energy Market: 445/1605 sold at $0.04
+
+========================= MONTH 325 =========================
+
+Food Market: 63/1857 sold at $0.05
+Energy Market: 476/1601 sold at $0.04
+
+========================= MONTH 326 =========================
+
+Food Market: 62/1883 sold at $0.05
+Energy Market: 451/1548 sold at $0.04
+
+========================= MONTH 327 =========================
+
+Food Market: 60/1910 sold at $0.05
+Energy Market: 449/1502 sold at $0.04
+
+========================= MONTH 328 =========================
+
+Food Market: 60/1939 sold at $0.05
+Energy Market: 457/1468 sold at $0.04
+
+========================= MONTH 329 =========================
+
+Food Market: 51/1968 sold at $0.05
+Energy Market: 468/1416 sold at $0.04
+
+========================= MONTH 330 =========================
+
+Food Market: 56/2013 sold at $0.05
+Energy Market: 461/1353 sold at $0.04
+
+========================= MONTH 331 =========================
+
+Food Market: 50/2046 sold at $0.05
+Energy Market: 456/1287 sold at $0.04
+
+========================= MONTH 332 =========================
+
+Food Market: 47/2092 sold at $0.05
+Energy Market: 469/1206 sold at $0.04
+
+========================= MONTH 333 =========================
+
+Food Market: 51/2148 sold at $0.05
+Energy Market: 480/1122 sold at $0.04
+
+========================= MONTH 334 =========================
+
+Food Market: 45/2193 sold at $0.05
+Energy Market: 477/1027 sold at $0.04
+
+========================= MONTH 335 =========================
+
+Food Market: 51/2244 sold at $0.05
+Energy Market: 460/935 sold at $0.04
+
+========================= MONTH 336 =========================
+
+Food Market: 50/2296 sold at $0.05
+Energy Market: 465/880 sold at $0.04
+
+========================= MONTH 337 =========================
+
+Food Market: 53/2342 sold at $0.05
+Energy Market: 450/838 sold at $0.04
+
+========================= MONTH 338 =========================
+
+Food Market: 53/2392 sold at $0.05
+Energy Market: 461/828 sold at $0.04
+
+========================= MONTH 339 =========================
+
+Food Market: 58/2442 sold at $0.05
+Energy Market: 460/826 sold at $0.04
+
+========================= MONTH 340 =========================
+
+Food Market: 60/2487 sold at $0.05
+Energy Market: 456/832 sold at $0.04
+
+========================= MONTH 341 =========================
+
+Food Market: 63/2523 sold at $0.05
+Energy Market: 453/835 sold at $0.04
+
+========================= MONTH 342 =========================
+
+Food Market: 61/2563 sold at $0.05
+Energy Market: 472/857 sold at $0.04
+
+========================= MONTH 343 =========================
+
+Food Market: 62/2605 sold at $0.05
+Energy Market: 452/868 sold at $0.05
+
+========================= MONTH 344 =========================
+
+Food Market: 65/2646 sold at $0.05
+Energy Market: 450/907 sold at $0.05
+
+========================= MONTH 345 =========================
+
+Food Market: 64/2691 sold at $0.05
+Energy Market: 470/948 sold at $0.04
+
+========================= MONTH 346 =========================
+
+Food Market: 60/2730 sold at $0.06
+Energy Market: 477/977 sold at $0.04
+
+========================= MONTH 347 =========================
+
+Food Market: 62/2763 sold at $0.05
+Energy Market: 451/998 sold at $0.05
+
+========================= MONTH 348 =========================
+
+Food Market: 64/2810 sold at $0.06
+Energy Market: 471/1053 sold at $0.05
+
+========================= MONTH 349 =========================
+
+Food Market: 61/2856 sold at $0.06
+Energy Market: 477/1081 sold at $0.04
+
+========================= MONTH 350 =========================
+
+Food Market: 65/2911 sold at $0.06
+Energy Market: 468/1103 sold at $0.05
+
+========================= MONTH 351 =========================
+
+Food Market: 64/2962 sold at $0.06
+Energy Market: 488/1133 sold at $0.04
+
+========================= MONTH 352 =========================
+
+Food Market: 58/3008 sold at $0.06
+Energy Market: 470/1127 sold at $0.04
+
+========================= MONTH 353 =========================
+
+Food Market: 58/3066 sold at $0.06
+Energy Market: 476/1140 sold at $0.04
+
+========================= MONTH 354 =========================
+
+Food Market: 57/3117 sold at $0.06
+Energy Market: 481/1139 sold at $0.04
+
+========================= MONTH 355 =========================
+
+Food Market: 54/3170 sold at $0.06
+Energy Market: 463/1116 sold at $0.04
+
+========================= MONTH 356 =========================
+
+Food Market: 51/3218 sold at $0.06
+Energy Market: 463/1103 sold at $0.04
+
+========================= MONTH 357 =========================
+
+Food Market: 54/3283 sold at $0.06
+Energy Market: 487/1088 sold at $0.04
+
+========================= MONTH 358 =========================
+
+Food Market: 52/3324 sold at $0.06
+Energy Market: 461/1051 sold at $0.04
+
+========================= MONTH 359 =========================
+
+Food Market: 51/3357 sold at $0.05
+Energy Market: 466/1032 sold at $0.04
+
+========================= MONTH 360 =========================
+
+Food Market: 55/3416 sold at $0.06
+Energy Market: 472/1016 sold at $0.04
+
+========================= MONTH 361 =========================
+
+Food Market: 54/3456 sold at $0.06
+Energy Market: 473/1003 sold at $0.04
+
+========================= MONTH 362 =========================
+
+Food Market: 54/3505 sold at $0.06
+Energy Market: 463/989 sold at $0.04
+
+========================= MONTH 363 =========================
+
+Food Market: 59/3560 sold at $0.05
+Energy Market: 488/992 sold at $0.04
+
+========================= MONTH 364 =========================
+
+Food Market: 54/3597 sold at $0.06
+Energy Market: 458/971 sold at $0.04
+
+========================= MONTH 365 =========================
+
+Food Market: 53/3636 sold at $0.06
+Energy Market: 464/979 sold at $0.04
+
+========================= MONTH 366 =========================
+
+Food Market: 57/3693 sold at $0.06
+Energy Market: 492/990 sold at $0.04
+
+========================= MONTH 367 =========================
+
+Food Market: 53/3729 sold at $0.06
+Energy Market: 461/965 sold at $0.04
+
+========================= MONTH 368 =========================
+
+Food Market: 54/3786 sold at $0.06
+Energy Market: 478/962 sold at $0.04
+
+========================= MONTH 369 =========================
+
+Food Market: 52/3834 sold at $0.06
+Energy Market: 469/934 sold at $0.04
+
+========================= MONTH 370 =========================
+
+Food Market: 55/3892 sold at $0.06
+Energy Market: 494/929 sold at $0.04
+
+========================= MONTH 371 =========================
+
+Food Market: 54/3930 sold at $0.06
+Energy Market: 457/909 sold at $0.04
+
+========================= MONTH 372 =========================
+
+Food Market: 58/3986 sold at $0.06
+Energy Market: 478/943 sold at $0.04
+
+========================= MONTH 373 =========================
+
+Food Market: 57/4035 sold at $0.06
+Energy Market: 463/948 sold at $0.04
+
+========================= MONTH 374 =========================
+
+Food Market: 60/4094 sold at $0.06
+Energy Market: 477/984 sold at $0.04
+
+========================= MONTH 375 =========================
+
+Food Market: 61/4129 sold at $0.06
+Energy Market: 454/1022 sold at $0.05
+
+========================= MONTH 376 =========================
+
+Food Market: 61/4159 sold at $0.06
+Energy Market: 462/1084 sold at $0.04
+
+========================= MONTH 377 =========================
+
+Food Market: 66/4165 sold at $0.06
+Energy Market: 442/1153 sold at $0.05
+
+========================= MONTH 378 =========================
+
+Food Market: 69/4221 sold at $0.06
+Energy Market: 485/1249 sold at $0.05
+
+========================= MONTH 379 =========================
+
+Food Market: 65/4261 sold at $0.06
+Energy Market: 477/1295 sold at $0.05
+
+========================= MONTH 380 =========================
+
+Food Market: 68/4312 sold at $0.06
+Energy Market: 472/1348 sold at $0.05
+
+========================= MONTH 381 =========================
+
+Food Market: 68/4360 sold at $0.06
+Energy Market: 471/1414 sold at $0.05
+
+========================= MONTH 382 =========================
+
+Food Market: 69/4408 sold at $0.06
+Energy Market: 475/1495 sold at $0.05
+
+========================= MONTH 383 =========================
+
+Food Market: 72/4461 sold at $0.06
+Energy Market: 479/1572 sold at $0.05
+
+========================= MONTH 384 =========================
+
+Food Market: 68/4511 sold at $0.06
+Energy Market: 486/1638 sold at $0.05
+
+========================= MONTH 385 =========================
+
+Food Market: 67/4550 sold at $0.06
+Energy Market: 474/1705 sold at $0.05
+
+========================= MONTH 386 =========================
+
+Food Market: 67/4610 sold at $0.06
+Energy Market: 491/1776 sold at $0.05
+
+========================= MONTH 387 =========================
+
+Food Market: 67/4665 sold at $0.06
+Energy Market: 488/1830 sold at $0.05
+
+========================= MONTH 388 =========================
+
+Food Market: 66/4699 sold at $0.06
+Energy Market: 465/1887 sold at $0.05
+
+========================= MONTH 389 =========================
+
+Food Market: 69/4760 sold at $0.06
+Energy Market: 493/1963 sold at $0.05
+
+========================= MONTH 390 =========================
+
+Food Market: 68/4807 sold at $0.06
+Energy Market: 473/2022 sold at $0.05
+
+========================= MONTH 391 =========================
+
+Food Market: 66/4845 sold at $0.06
+Energy Market: 472/2091 sold at $0.05
+
+========================= MONTH 392 =========================
+
+Food Market: 69/4906 sold at $0.06
+Energy Market: 476/2164 sold at $0.05
+
+========================= MONTH 393 =========================
+
+Food Market: 63/4951 sold at $0.06
+Energy Market: 486/2219 sold at $0.04
+
+========================= MONTH 394 =========================
+
+Food Market: 62/5015 sold at $0.06
+Energy Market: 503/2241 sold at $0.04
+
+========================= MONTH 395 =========================
+
+Food Market: 63/5069 sold at $0.06
+Energy Market: 476/2253 sold at $0.04
+
+========================= MONTH 396 =========================
+
+Food Market: 58/5107 sold at $0.06
+Energy Market: 479/2276 sold at $0.04
+
+========================= MONTH 397 =========================
+
+Food Market: 62/5176 sold at $0.06
+Energy Market: 497/2296 sold at $0.04
+
+========================= MONTH 398 =========================
+
+Food Market: 59/5223 sold at $0.06
+Energy Market: 490/2305 sold at $0.04
+
+========================= MONTH 399 =========================
+
+Food Market: 62/5291 sold at $0.06
+Energy Market: 481/2321 sold at $0.04
+
+========================= MONTH 400 =========================
+
+Food Market: 64/5343 sold at $0.06
+Energy Market: 493/2376 sold at $0.04
+
+========================= MONTH 401 =========================
+
+Food Market: 62/5380 sold at $0.06
+Energy Market: 475/2404 sold at $0.04
+
+========================= MONTH 402 =========================
+
+Food Market: 60/5409 sold at $0.06
+Energy Market: 465/2445 sold at $0.04
+
+========================= MONTH 403 =========================
+
+Food Market: 64/5471 sold at $0.06
+Energy Market: 479/2495 sold at $0.04
+
+========================= MONTH 404 =========================
+
+Food Market: 64/5516 sold at $0.06
+Energy Market: 478/2545 sold at $0.04
+
+========================= MONTH 405 =========================
+
+Food Market: 65/5543 sold at $0.05
+Energy Market: 476/2590 sold at $0.04
+
+========================= MONTH 406 =========================
+
+Food Market: 68/5600 sold at $0.06
+Energy Market: 489/2635 sold at $0.04
+
+========================= MONTH 407 =========================
+
+Food Market: 68/5648 sold at $0.05
+Energy Market: 478/2675 sold at $0.05
+
+========================= MONTH 408 =========================
+
+Food Market: 69/5696 sold at $0.05
+Energy Market: 495/2725 sold at $0.04
+
+========================= MONTH 409 =========================
+
+Food Market: 65/5736 sold at $0.05
+Energy Market: 494/2759 sold at $0.04
+
+========================= MONTH 410 =========================
+
+Food Market: 63/5793 sold at $0.05
+Energy Market: 498/2772 sold at $0.04
+
+========================= MONTH 411 =========================
+
+Food Market: 60/5846 sold at $0.05
+Energy Market: 505/2773 sold at $0.04
+
+========================= MONTH 412 =========================
+
+Food Market: 60/5908 sold at $0.05
+Energy Market: 500/2759 sold at $0.04
+
+========================= MONTH 413 =========================
+
+Food Market: 61/5957 sold at $0.05
+Energy Market: 485/2750 sold at $0.04
+
+========================= MONTH 414 =========================
+
+Food Market: 64/6018 sold at $0.05
+Energy Market: 489/2764 sold at $0.04
+
+========================= MONTH 415 =========================
+
+Food Market: 62/6063 sold at $0.05
+Energy Market: 475/2782 sold at $0.04
+
+========================= MONTH 416 =========================
+
+Food Market: 63/6117 sold at $0.05
+Energy Market: 521/2812 sold at $0.04
+
+========================= MONTH 417 =========================
+
+Food Market: 56/6156 sold at $0.05
+Energy Market: 495/2780 sold at $0.04
+
+========================= MONTH 418 =========================
+
+Food Market: 55/6193 sold at $0.05
+Energy Market: 476/2776 sold at $0.04
+
+========================= MONTH 419 =========================
+
+Food Market: 62/6254 sold at $0.06
+Energy Market: 498/2806 sold at $0.04
+
+========================= MONTH 420 =========================
+
+Food Market: 61/6319 sold at $0.05
+Energy Market: 498/2791 sold at $0.04
+
+========================= MONTH 421 =========================
+
+Food Market: 57/6367 sold at $0.05
+Energy Market: 492/2775 sold at $0.04
+
+========================= MONTH 422 =========================
+
+Food Market: 53/6403 sold at $0.05
+Energy Market: 478/2766 sold at $0.04
+
+========================= MONTH 423 =========================
+
+Food Market: 60/6466 sold at $0.05
+Energy Market: 502/2778 sold at $0.04
+
+========================= MONTH 424 =========================
+
+Food Market: 59/6499 sold at $0.05
+Energy Market: 463/2758 sold at $0.04
+
+========================= MONTH 425 =========================
+
+Food Market: 63/6556 sold at $0.05
+Energy Market: 495/2785 sold at $0.04
+
+========================= MONTH 426 =========================
+
+Food Market: 63/6595 sold at $0.05
+Energy Market: 480/2797 sold at $0.04
+
+========================= MONTH 427 =========================
+
+Food Market: 62/6642 sold at $0.05
+Energy Market: 506/2825 sold at $0.04
+
+========================= MONTH 428 =========================
+
+Food Market: 64/6682 sold at $0.05
+Energy Market: 487/2826 sold at $0.04
+
+========================= MONTH 429 =========================
+
+Food Market: 64/6734 sold at $0.05
+Energy Market: 507/2835 sold at $0.04
+
+========================= MONTH 430 =========================
+
+Food Market: 65/6772 sold at $0.05
+Energy Market: 503/2834 sold at $0.04
+
+========================= MONTH 431 =========================
+
+Food Market: 68/6817 sold at $0.05
+Energy Market: 487/2838 sold at $0.04
+
+========================= MONTH 432 =========================
+
+Food Market: 66/6852 sold at $0.05
+Energy Market: 483/2857 sold at $0.04
+
+========================= MONTH 433 =========================
+
+Food Market: 70/6896 sold at $0.05
+Energy Market: 474/2896 sold at $0.04
+
+========================= MONTH 434 =========================
+
+Food Market: 68/6929 sold at $0.05
+Energy Market: 485/2943 sold at $0.04
+
+========================= MONTH 435 =========================
+
+Food Market: 76/6971 sold at $0.05
+Energy Market: 482/2987 sold at $0.04
+
+========================= MONTH 436 =========================
+
+Food Market: 75/6998 sold at $0.05
+Energy Market: 467/3050 sold at $0.04
+
+========================= MONTH 437 =========================
+
+Food Market: 79/7033 sold at $0.05
+Energy Market: 504/3134 sold at $0.04
+
+========================= MONTH 438 =========================
+
+Food Market: 82/7057 sold at $0.05
+Energy Market: 476/3181 sold at $0.04
+
+========================= MONTH 439 =========================
+
+Food Market: 78/7078 sold at $0.05
+Energy Market: 489/3250 sold at $0.04
+
+========================= MONTH 440 =========================
+
+Food Market: 80/7103 sold at $0.04
+Energy Market: 461/3283 sold at $0.04
+
+========================= MONTH 441 =========================
+
+Food Market: 82/7119 sold at $0.04
+Energy Market: 483/3360 sold at $0.04
+
+========================= MONTH 442 =========================
+
+Food Market: 79/7140 sold at $0.05
+Energy Market: 479/3399 sold at $0.04
+
+========================= MONTH 443 =========================
+
+Food Market: 74/7164 sold at $0.05
+Energy Market: 500/3434 sold at $0.04
+
+========================= MONTH 444 =========================
+
+Food Market: 78/7193 sold at $0.04
+Energy Market: 485/3433 sold at $0.04
+
+========================= MONTH 445 =========================
+
+Food Market: 70/7218 sold at $0.05
+Energy Market: 481/3422 sold at $0.04
+
+========================= MONTH 446 =========================
+
+Food Market: 67/7251 sold at $0.05
+Energy Market: 502/3416 sold at $0.04
+
+========================= MONTH 447 =========================
+
+Food Market: 67/7294 sold at $0.05
+Energy Market: 510/3396 sold at $0.04
+
+========================= MONTH 448 =========================
+
+Food Market: 60/7330 sold at $0.05
+Energy Market: 498/3344 sold at $0.04
+
+========================= MONTH 449 =========================
+
+Food Market: 65/7366 sold at $0.04
+Energy Market: 502/3312 sold at $0.04
+
+========================= MONTH 450 =========================
+
+Food Market: 61/7404 sold at $0.04
+Energy Market: 504/3258 sold at $0.04
+
+========================= MONTH 451 =========================
+
+Food Market: 62/7439 sold at $0.04
+Energy Market: 485/3202 sold at $0.04
+
+========================= MONTH 452 =========================
+
+Food Market: 60/7480 sold at $0.04
+Energy Market: 512/3157 sold at $0.03
+
+========================= MONTH 453 =========================
+
+Food Market: 61/7523 sold at $0.05
+Energy Market: 518/3095 sold at $0.03
+
+========================= MONTH 454 =========================
+
+Food Market: 64/7565 sold at $0.04
+Energy Market: 498/3035 sold at $0.04
+
+========================= MONTH 455 =========================
+
+Food Market: 60/7604 sold at $0.05
+Energy Market: 507/3004 sold at $0.04
+
+========================= MONTH 456 =========================
+
+Food Market: 65/7647 sold at $0.04
+Energy Market: 510/2971 sold at $0.04
+
+========================= MONTH 457 =========================
+
+Food Market: 62/7685 sold at $0.05
+Energy Market: 494/2936 sold at $0.04
+
+========================= MONTH 458 =========================
+
+Food Market: 63/7733 sold at $0.05
+Energy Market: 503/2908 sold at $0.04
+
+========================= MONTH 459 =========================
+
+Food Market: 61/7780 sold at $0.05
+Energy Market: 512/2880 sold at $0.04
+
+========================= MONTH 460 =========================
+
+Food Market: 64/7829 sold at $0.05
+Energy Market: 508/2840 sold at $0.04
+
+========================= MONTH 461 =========================
+
+Food Market: 63/7868 sold at $0.05
+Energy Market: 494/2806 sold at $0.04
+
+========================= MONTH 462 =========================
+
+Food Market: 68/7915 sold at $0.05
+Energy Market: 496/2786 sold at $0.04
+
+========================= MONTH 463 =========================
+
+Food Market: 65/7950 sold at $0.04
+Energy Market: 504/2772 sold at $0.04
+
+========================= MONTH 464 =========================
+
+Food Market: 66/7988 sold at $0.05
+Energy Market: 480/2751 sold at $0.04
+
+========================= MONTH 465 =========================
+
+Food Market: 73/8025 sold at $0.05
+Energy Market: 486/2777 sold at $0.04
+
+========================= MONTH 466 =========================
+
+Food Market: 71/8055 sold at $0.05
+Energy Market: 490/2805 sold at $0.04
+
+========================= MONTH 467 =========================
+
+Food Market: 74/8087 sold at $0.04
+Energy Market: 511/2836 sold at $0.04
+
+========================= MONTH 468 =========================
+
+Food Market: 75/8116 sold at $0.04
+Energy Market: 484/2839 sold at $0.04
+
+========================= MONTH 469 =========================
+
+Food Market: 81/8151 sold at $0.04
+Energy Market: 496/2893 sold at $0.04
+
+========================= MONTH 470 =========================
+
+Food Market: 72/8180 sold at $0.05
+Energy Market: 498/2921 sold at $0.04
+
+========================= MONTH 471 =========================
+
+Food Market: 75/8211 sold at $0.04
+Energy Market: 489/2945 sold at $0.04
+
+========================= MONTH 472 =========================
+
+Food Market: 69/8246 sold at $0.05
+Energy Market: 522/2979 sold at $0.04
+
+========================= MONTH 473 =========================
+
+Food Market: 74/8286 sold at $0.05
+Energy Market: 492/2979 sold at $0.04
+
+========================= MONTH 474 =========================
+
+Food Market: 67/8322 sold at $0.05
+Energy Market: 509/2994 sold at $0.04
+
+========================= MONTH 475 =========================
+
+Food Market: 63/8365 sold at $0.05
+Energy Market: 517/2976 sold at $0.04
+
+========================= MONTH 476 =========================
+
+Food Market: 70/8411 sold at $0.04
+Energy Market: 522/2957 sold at $0.04
+
+========================= MONTH 477 =========================
+
+Food Market: 61/8450 sold at $0.04
+Energy Market: 504/2901 sold at $0.04
+
+========================= MONTH 478 =========================
+
+Food Market: 61/8499 sold at $0.05
+Energy Market: 525/2871 sold at $0.04
+
+========================= MONTH 479 =========================
+
+Food Market: 63/8554 sold at $0.05
+Energy Market: 529/2829 sold at $0.04
+
+========================= MONTH 480 =========================
+
+Food Market: 60/8601 sold at $0.05
+Energy Market: 507/2774 sold at $0.04
+
+========================= MONTH 481 =========================
+
+Food Market: 62/8657 sold at $0.05
+Energy Market: 515/2758 sold at $0.04
+
+========================= MONTH 482 =========================
+
+Food Market: 65/8711 sold at $0.05
+Energy Market: 506/2758 sold at $0.04
+
+========================= MONTH 483 =========================
+
+Food Market: 71/8762 sold at $0.05
+Energy Market: 519/2765 sold at $0.04
+
+========================= MONTH 484 =========================
+
+Food Market: 66/8807 sold at $0.05
+Energy Market: 511/2761 sold at $0.04
+
+========================= MONTH 485 =========================
+
+Food Market: 67/8863 sold at $0.05
+Energy Market: 528/2771 sold at $0.04
+
+========================= MONTH 486 =========================
+
+Food Market: 68/8912 sold at $0.05
+Energy Market: 494/2757 sold at $0.04
+
+========================= MONTH 487 =========================
+
+Food Market: 69/8954 sold at $0.05
+Energy Market: 507/2801 sold at $0.04
+
+========================= MONTH 488 =========================
+
+Food Market: 79/9001 sold at $0.04
+Energy Market: 510/2832 sold at $0.04
+
+========================= MONTH 489 =========================
+
+Food Market: 71/9038 sold at $0.05
+Energy Market: 531/2858 sold at $0.04
+
+========================= MONTH 490 =========================
+
+Food Market: 73/9077 sold at $0.05
+Energy Market: 502/2865 sold at $0.04
+
+========================= MONTH 491 =========================
+
+Food Market: 71/9113 sold at $0.04
+Energy Market: 528/2894 sold at $0.04
+
+========================= MONTH 492 =========================
+
+Food Market: 67/9152 sold at $0.05
+Energy Market: 497/2873 sold at $0.04
+
+========================= MONTH 493 =========================
+
+Food Market: 73/9194 sold at $0.04
+Energy Market: 521/2890 sold at $0.04
+
+========================= MONTH 494 =========================
+
+Food Market: 69/9231 sold at $0.05
+Energy Market: 513/2891 sold at $0.04
+
+========================= MONTH 495 =========================
+
+Food Market: 72/9271 sold at $0.04
+Energy Market: 528/2893 sold at $0.04
+
+========================= MONTH 496 =========================
+
+Food Market: 68/9315 sold at $0.05
+Energy Market: 509/2872 sold at $0.04
+
+========================= MONTH 497 =========================
+
+Food Market: 72/9363 sold at $0.04
+Energy Market: 536/2884 sold at $0.04
+
+========================= MONTH 498 =========================
+
+Food Market: 69/9401 sold at $0.05
+Energy Market: 515/2870 sold at $0.04
+
+========================= MONTH 499 =========================
+
+Food Market: 68/9448 sold at $0.05
+Energy Market: 509/2861 sold at $0.04
+
+========================= MONTH 500 =========================
+
+Food Market: 68/9496 sold at $0.05
+Energy Market: 519/2876 sold at $0.04
+
+========================= MONTH 501 =========================
+
+Food Market: 69/9550 sold at $0.05
+Energy Market: 512/2879 sold at $0.04
+
+========================= MONTH 502 =========================
+
+Food Market: 67/9597 sold at $0.05
+Energy Market: 540/2880 sold at $0.04
+
+========================= MONTH 503 =========================
+
+Food Market: 67/9646 sold at $0.05
+Energy Market: 507/2847 sold at $0.04
+
+========================= MONTH 504 =========================
+
+Food Market: 65/9682 sold at $0.05
+Energy Market: 506/2846 sold at $0.04
+
+========================= MONTH 505 =========================
+
+Food Market: 66/9718 sold at $0.05
+Energy Market: 508/2854 sold at $0.04
+
+========================= MONTH 506 =========================
+
+Food Market: 68/9768 sold at $0.05
+Energy Market: 518/2860 sold at $0.04
+
+========================= MONTH 507 =========================
+
+Food Market: 65/9809 sold at $0.05
+Energy Market: 537/2865 sold at $0.04
+
+========================= MONTH 508 =========================
+
+Food Market: 68/9860 sold at $0.05
+Energy Market: 521/2850 sold at $0.04
+
+========================= MONTH 509 =========================
+
+Food Market: 68/9914 sold at $0.05
+Energy Market: 537/2843 sold at $0.04
+
+========================= MONTH 510 =========================
+
+Food Market: 66/9962 sold at $0.05
+Energy Market: 528/2813 sold at $0.04
+
+========================= MONTH 511 =========================
+
+Food Market: 68/10018 sold at $0.05
+Energy Market: 522/2792 sold at $0.04
+
+========================= MONTH 512 =========================
+
+Food Market: 66/10066 sold at $0.05
+Energy Market: 524/2777 sold at $0.04

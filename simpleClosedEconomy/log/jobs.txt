@@ -1,32 +1,32 @@
 
 ========================= MONTH 1 =========================
 
-Unskilled Jobs: 43/43 hired at $0.60
+Unskilled Jobs: 33/33 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 2 =========================
 
-Unskilled Jobs: 46/46 hired at $0.60
+Unskilled Jobs: 41/41 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 3 =========================
 
-Unskilled Jobs: 48/48 hired at $0.60
+Unskilled Jobs: 44/44 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 4 =========================
 
-Unskilled Jobs: 50/53 hired at $0.60
+Unskilled Jobs: 47/47 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 5 =========================
 
-Unskilled Jobs: 50/57 hired at $0.60
+Unskilled Jobs: 50/51 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 6 =========================
 
-Unskilled Jobs: 50/59 hired at $0.59
+Unskilled Jobs: 50/54 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 7 =========================
@@ -36,372 +36,372 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 8 =========================
 
-Unskilled Jobs: 50/57 hired at $0.59
+Unskilled Jobs: 50/57 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 9 =========================
 
-Unskilled Jobs: 50/54 hired at $0.60
+Unskilled Jobs: 50/56 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 10 =========================
 
-Unskilled Jobs: 47/47 hired at $0.60
+Unskilled Jobs: 50/52 hired at $0.61
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 11 =========================
 
-Unskilled Jobs: 47/47 hired at $0.60
+Unskilled Jobs: 44/44 hired at $0.61
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 12 =========================
 
-Unskilled Jobs: 45/45 hired at $0.60
+Unskilled Jobs: 44/44 hired at $0.61
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 13 =========================
 
-Unskilled Jobs: 44/44 hired at $0.60
+Unskilled Jobs: 50/51 hired at $0.61
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 14 =========================
 
-Unskilled Jobs: 39/39 hired at $0.59
+Unskilled Jobs: 46/46 hired at $0.61
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 15 =========================
 
-Unskilled Jobs: 39/39 hired at $0.59
+Unskilled Jobs: 41/41 hired at $0.61
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 16 =========================
 
-Unskilled Jobs: 35/35 hired at $0.59
+Unskilled Jobs: 42/42 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 17 =========================
 
-Unskilled Jobs: 35/35 hired at $0.59
+Unskilled Jobs: 42/42 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 18 =========================
 
-Unskilled Jobs: 35/35 hired at $0.59
+Unskilled Jobs: 38/38 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 19 =========================
 
-Unskilled Jobs: 36/36 hired at $0.59
+Unskilled Jobs: 37/37 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 20 =========================
 
-Unskilled Jobs: 31/31 hired at $0.59
+Unskilled Jobs: 38/38 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 21 =========================
 
-Unskilled Jobs: 30/30 hired at $0.59
+Unskilled Jobs: 36/36 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 22 =========================
 
-Unskilled Jobs: 27/27 hired at $0.59
+Unskilled Jobs: 28/28 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 23 =========================
 
-Unskilled Jobs: 25/25 hired at $0.59
+Unskilled Jobs: 25/25 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 24 =========================
 
-Unskilled Jobs: 23/23 hired at $0.59
+Unskilled Jobs: 25/25 hired at $0.60
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 25 =========================
 
-Unskilled Jobs: 22/22 hired at $0.59
+Unskilled Jobs: 30/30 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 26 =========================
 
-Unskilled Jobs: 23/23 hired at $0.59
+Unskilled Jobs: 34/34 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 27 =========================
 
-Unskilled Jobs: 22/22 hired at $0.59
+Unskilled Jobs: 27/27 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 28 =========================
 
-Unskilled Jobs: 19/19 hired at $0.59
+Unskilled Jobs: 33/33 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 29 =========================
 
-Unskilled Jobs: 19/19 hired at $0.59
+Unskilled Jobs: 28/28 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 30 =========================
 
-Unskilled Jobs: 18/18 hired at $0.59
+Unskilled Jobs: 31/31 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 31 =========================
 
-Unskilled Jobs: 14/14 hired at $0.59
+Unskilled Jobs: 29/29 hired at $0.59
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 32 =========================
 
-Unskilled Jobs: 14/14 hired at $0.59
+Unskilled Jobs: 28/28 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 33 =========================
 
-Unskilled Jobs: 15/15 hired at $0.59
+Unskilled Jobs: 25/25 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 34 =========================
 
-Unskilled Jobs: 15/15 hired at $0.58
+Unskilled Jobs: 28/28 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 35 =========================
 
-Unskilled Jobs: 14/14 hired at $0.58
+Unskilled Jobs: 26/26 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 36 =========================
 
-Unskilled Jobs: 12/12 hired at $0.58
+Unskilled Jobs: 24/24 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 37 =========================
 
-Unskilled Jobs: 11/11 hired at $0.58
+Unskilled Jobs: 24/24 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 38 =========================
 
-Unskilled Jobs: 11/11 hired at $0.58
+Unskilled Jobs: 25/25 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 39 =========================
 
-Unskilled Jobs: 13/13 hired at $0.57
+Unskilled Jobs: 24/24 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 40 =========================
 
-Unskilled Jobs: 12/12 hired at $0.57
+Unskilled Jobs: 24/24 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 41 =========================
 
-Unskilled Jobs: 11/11 hired at $0.57
+Unskilled Jobs: 22/22 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 42 =========================
 
-Unskilled Jobs: 11/11 hired at $0.57
+Unskilled Jobs: 23/23 hired at $0.58
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 43 =========================
 
-Unskilled Jobs: 13/13 hired at $0.57
+Unskilled Jobs: 21/21 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 44 =========================
 
-Unskilled Jobs: 13/13 hired at $0.58
+Unskilled Jobs: 22/22 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 45 =========================
 
-Unskilled Jobs: 12/12 hired at $0.57
+Unskilled Jobs: 21/21 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 46 =========================
 
-Unskilled Jobs: 13/13 hired at $0.57
+Unskilled Jobs: 20/20 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 47 =========================
 
-Unskilled Jobs: 12/12 hired at $0.57
+Unskilled Jobs: 21/21 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 48 =========================
 
-Unskilled Jobs: 12/12 hired at $0.57
+Unskilled Jobs: 21/21 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 49 =========================
 
-Unskilled Jobs: 13/13 hired at $0.57
+Unskilled Jobs: 21/21 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 50 =========================
 
-Unskilled Jobs: 12/12 hired at $0.57
+Unskilled Jobs: 22/22 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 51 =========================
 
-Unskilled Jobs: 12/12 hired at $0.56
+Unskilled Jobs: 22/22 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 52 =========================
 
-Unskilled Jobs: 12/12 hired at $0.56
+Unskilled Jobs: 23/23 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 53 =========================
 
-Unskilled Jobs: 12/12 hired at $0.56
+Unskilled Jobs: 22/22 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 54 =========================
 
-Unskilled Jobs: 13/13 hired at $0.56
+Unskilled Jobs: 22/22 hired at $0.57
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 55 =========================
 
-Unskilled Jobs: 12/12 hired at $0.56
+Unskilled Jobs: 21/21 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 56 =========================
 
-Unskilled Jobs: 12/12 hired at $0.56
+Unskilled Jobs: 22/22 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 57 =========================
 
-Unskilled Jobs: 13/13 hired at $0.56
+Unskilled Jobs: 21/21 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 58 =========================
 
-Unskilled Jobs: 15/15 hired at $0.56
+Unskilled Jobs: 20/20 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 59 =========================
 
-Unskilled Jobs: 15/15 hired at $0.56
+Unskilled Jobs: 20/20 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 60 =========================
 
-Unskilled Jobs: 16/16 hired at $0.56
+Unskilled Jobs: 19/19 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 61 =========================
 
-Unskilled Jobs: 18/18 hired at $0.56
+Unskilled Jobs: 20/20 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 62 =========================
 
-Unskilled Jobs: 21/21 hired at $0.56
+Unskilled Jobs: 18/18 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 63 =========================
 
-Unskilled Jobs: 22/22 hired at $0.56
+Unskilled Jobs: 19/19 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 64 =========================
 
-Unskilled Jobs: 23/23 hired at $0.55
+Unskilled Jobs: 18/18 hired at $0.56
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 65 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 18/18 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 66 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 20/20 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 67 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 20/20 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 68 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 20/20 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 69 =========================
 
-Unskilled Jobs: 22/22 hired at $0.56
+Unskilled Jobs: 20/20 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 70 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 19/19 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 71 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 19/19 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 72 =========================
 
-Unskilled Jobs: 23/23 hired at $0.55
+Unskilled Jobs: 18/18 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 73 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 19/19 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 74 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 18/18 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 75 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 19/19 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 76 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 19/19 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 77 =========================
 
-Unskilled Jobs: 22/22 hired at $0.54
+Unskilled Jobs: 20/20 hired at $0.55
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 78 =========================
 
-Unskilled Jobs: 22/22 hired at $0.55
+Unskilled Jobs: 20/20 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 79 =========================
 
-Unskilled Jobs: 22/22 hired at $0.54
+Unskilled Jobs: 19/19 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 80 =========================
 
-Unskilled Jobs: 20/20 hired at $0.54
+Unskilled Jobs: 19/19 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 81 =========================
 
-Unskilled Jobs: 20/20 hired at $0.54
+Unskilled Jobs: 19/19 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 82 =========================
@@ -411,22 +411,22 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 83 =========================
 
-Unskilled Jobs: 22/22 hired at $0.54
+Unskilled Jobs: 19/19 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 84 =========================
 
-Unskilled Jobs: 20/20 hired at $0.54
+Unskilled Jobs: 18/18 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 85 =========================
 
-Unskilled Jobs: 20/20 hired at $0.54
+Unskilled Jobs: 19/19 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 86 =========================
 
-Unskilled Jobs: 19/19 hired at $0.54
+Unskilled Jobs: 18/18 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 87 =========================
@@ -436,7 +436,7 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 88 =========================
 
-Unskilled Jobs: 19/19 hired at $0.54
+Unskilled Jobs: 18/18 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 89 =========================
@@ -451,22 +451,22 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 91 =========================
 
-Unskilled Jobs: 17/17 hired at $0.54
+Unskilled Jobs: 18/18 hired at $0.54
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 92 =========================
 
-Unskilled Jobs: 18/18 hired at $0.54
+Unskilled Jobs: 19/19 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 93 =========================
 
-Unskilled Jobs: 20/20 hired at $0.53
+Unskilled Jobs: 18/18 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 94 =========================
 
-Unskilled Jobs: 19/19 hired at $0.53
+Unskilled Jobs: 18/18 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 95 =========================
@@ -476,7 +476,7 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 96 =========================
 
-Unskilled Jobs: 21/21 hired at $0.53
+Unskilled Jobs: 19/19 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 97 =========================
@@ -491,7 +491,7 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 99 =========================
 
-Unskilled Jobs: 18/18 hired at $0.53
+Unskilled Jobs: 20/20 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 100 =========================
@@ -501,77 +501,77 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 101 =========================
 
-Unskilled Jobs: 21/21 hired at $0.53
+Unskilled Jobs: 19/19 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 102 =========================
 
-Unskilled Jobs: 19/19 hired at $0.53
+Unskilled Jobs: 20/20 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 103 =========================
 
-Unskilled Jobs: 21/21 hired at $0.52
+Unskilled Jobs: 20/20 hired at $0.53
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 104 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 19/19 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 105 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 20/20 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 106 =========================
 
-Unskilled Jobs: 24/24 hired at $0.52
+Unskilled Jobs: 20/20 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 107 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 20/20 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 108 =========================
 
-Unskilled Jobs: 23/23 hired at $0.52
+Unskilled Jobs: 19/19 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 109 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 19/19 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 110 =========================
 
-Unskilled Jobs: 21/21 hired at $0.52
+Unskilled Jobs: 20/20 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 111 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 18/18 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 112 =========================
 
-Unskilled Jobs: 20/20 hired at $0.52
+Unskilled Jobs: 18/18 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 113 =========================
 
-Unskilled Jobs: 23/23 hired at $0.52
+Unskilled Jobs: 19/19 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 114 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 20/20 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 115 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 19/19 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 116 =========================
@@ -581,112 +581,112 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 117 =========================
 
-Unskilled Jobs: 22/22 hired at $0.51
+Unskilled Jobs: 20/20 hired at $0.52
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 118 =========================
 
-Unskilled Jobs: 22/22 hired at $0.51
+Unskilled Jobs: 21/21 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 119 =========================
 
-Unskilled Jobs: 22/22 hired at $0.52
+Unskilled Jobs: 20/20 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 120 =========================
 
-Unskilled Jobs: 23/23 hired at $0.51
+Unskilled Jobs: 21/21 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 121 =========================
 
-Unskilled Jobs: 22/22 hired at $0.51
+Unskilled Jobs: 21/21 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 122 =========================
 
-Unskilled Jobs: 23/23 hired at $0.51
+Unskilled Jobs: 19/19 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 123 =========================
 
-Unskilled Jobs: 23/23 hired at $0.51
+Unskilled Jobs: 21/21 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 124 =========================
 
-Unskilled Jobs: 23/23 hired at $0.51
+Unskilled Jobs: 18/18 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 125 =========================
 
-Unskilled Jobs: 24/24 hired at $0.51
+Unskilled Jobs: 19/19 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 126 =========================
 
-Unskilled Jobs: 22/22 hired at $0.51
+Unskilled Jobs: 19/19 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 127 =========================
 
-Unskilled Jobs: 22/22 hired at $0.51
+Unskilled Jobs: 20/20 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 128 =========================
 
-Unskilled Jobs: 23/23 hired at $0.51
+Unskilled Jobs: 21/21 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 129 =========================
 
-Unskilled Jobs: 24/24 hired at $0.51
+Unskilled Jobs: 21/21 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 130 =========================
 
-Unskilled Jobs: 23/23 hired at $0.50
+Unskilled Jobs: 19/19 hired at $0.51
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 131 =========================
 
-Unskilled Jobs: 23/23 hired at $0.50
+Unskilled Jobs: 19/19 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 132 =========================
 
-Unskilled Jobs: 23/23 hired at $0.51
+Unskilled Jobs: 22/22 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 133 =========================
 
-Unskilled Jobs: 24/24 hired at $0.50
+Unskilled Jobs: 19/19 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 134 =========================
 
-Unskilled Jobs: 22/22 hired at $0.50
+Unskilled Jobs: 21/21 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 135 =========================
 
-Unskilled Jobs: 22/22 hired at $0.50
+Unskilled Jobs: 21/21 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 136 =========================
 
-Unskilled Jobs: 23/23 hired at $0.50
+Unskilled Jobs: 21/21 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 137 =========================
 
-Unskilled Jobs: 22/22 hired at $0.50
+Unskilled Jobs: 21/21 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 138 =========================
 
-Unskilled Jobs: 23/23 hired at $0.50
+Unskilled Jobs: 22/22 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 139 =========================
@@ -701,27 +701,27 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 141 =========================
 
-Unskilled Jobs: 20/20 hired at $0.50
+Unskilled Jobs: 21/21 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 142 =========================
 
-Unskilled Jobs: 20/20 hired at $0.50
+Unskilled Jobs: 21/21 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 143 =========================
 
-Unskilled Jobs: 21/21 hired at $0.49
+Unskilled Jobs: 23/23 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 144 =========================
 
-Unskilled Jobs: 22/22 hired at $0.49
+Unskilled Jobs: 22/22 hired at $0.50
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 145 =========================
 
-Unskilled Jobs: 20/20 hired at $0.49
+Unskilled Jobs: 23/23 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 146 =========================
@@ -731,22 +731,22 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 147 =========================
 
-Unskilled Jobs: 21/21 hired at $0.49
+Unskilled Jobs: 22/22 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 148 =========================
 
-Unskilled Jobs: 21/21 hired at $0.49
+Unskilled Jobs: 23/23 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 149 =========================
 
-Unskilled Jobs: 21/21 hired at $0.49
+Unskilled Jobs: 22/22 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 150 =========================
 
-Unskilled Jobs: 21/21 hired at $0.49
+Unskilled Jobs: 23/23 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 151 =========================
@@ -756,82 +756,82 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 152 =========================
 
-Unskilled Jobs: 22/22 hired at $0.49
+Unskilled Jobs: 23/23 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 153 =========================
 
-Unskilled Jobs: 21/21 hired at $0.49
+Unskilled Jobs: 23/23 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 154 =========================
 
-Unskilled Jobs: 22/22 hired at $0.49
+Unskilled Jobs: 23/23 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 155 =========================
 
-Unskilled Jobs: 22/22 hired at $0.49
+Unskilled Jobs: 24/24 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 156 =========================
 
-Unskilled Jobs: 23/23 hired at $0.48
+Unskilled Jobs: 24/24 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 157 =========================
 
-Unskilled Jobs: 22/22 hired at $0.48
+Unskilled Jobs: 23/23 hired at $0.49
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 158 =========================
 
-Unskilled Jobs: 21/21 hired at $0.48
+Unskilled Jobs: 24/24 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 159 =========================
 
-Unskilled Jobs: 22/22 hired at $0.48
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 160 =========================
 
-Unskilled Jobs: 22/22 hired at $0.49
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 161 =========================
 
-Unskilled Jobs: 20/20 hired at $0.48
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 162 =========================
 
-Unskilled Jobs: 22/22 hired at $0.48
+Unskilled Jobs: 26/26 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 163 =========================
 
-Unskilled Jobs: 22/22 hired at $0.48
+Unskilled Jobs: 24/24 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 164 =========================
 
-Unskilled Jobs: 23/23 hired at $0.48
+Unskilled Jobs: 24/24 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 165 =========================
 
-Unskilled Jobs: 23/23 hired at $0.48
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 166 =========================
 
-Unskilled Jobs: 22/22 hired at $0.48
+Unskilled Jobs: 23/23 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 167 =========================
 
-Unskilled Jobs: 22/22 hired at $0.48
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 168 =========================
@@ -846,52 +846,52 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 170 =========================
 
-Unskilled Jobs: 23/23 hired at $0.47
+Unskilled Jobs: 24/24 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 171 =========================
 
-Unskilled Jobs: 24/24 hired at $0.48
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 172 =========================
 
-Unskilled Jobs: 25/25 hired at $0.48
+Unskilled Jobs: 24/24 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 173 =========================
 
-Unskilled Jobs: 25/25 hired at $0.47
+Unskilled Jobs: 23/23 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 174 =========================
 
-Unskilled Jobs: 26/26 hired at $0.47
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 175 =========================
 
-Unskilled Jobs: 25/25 hired at $0.47
+Unskilled Jobs: 25/25 hired at $0.48
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 176 =========================
 
-Unskilled Jobs: 27/27 hired at $0.47
+Unskilled Jobs: 25/25 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 177 =========================
 
-Unskilled Jobs: 25/25 hired at $0.47
+Unskilled Jobs: 26/26 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 178 =========================
 
-Unskilled Jobs: 27/27 hired at $0.47
+Unskilled Jobs: 26/26 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 179 =========================
 
-Unskilled Jobs: 27/27 hired at $0.47
+Unskilled Jobs: 26/26 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 180 =========================
@@ -901,32 +901,32 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 181 =========================
 
-Unskilled Jobs: 26/26 hired at $0.47
+Unskilled Jobs: 25/25 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 182 =========================
 
-Unskilled Jobs: 28/28 hired at $0.47
+Unskilled Jobs: 26/26 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 183 =========================
 
-Unskilled Jobs: 28/28 hired at $0.47
+Unskilled Jobs: 27/27 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 184 =========================
 
-Unskilled Jobs: 27/27 hired at $0.47
+Unskilled Jobs: 28/28 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 185 =========================
 
-Unskilled Jobs: 27/27 hired at $0.47
+Unskilled Jobs: 26/26 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 186 =========================
 
-Unskilled Jobs: 25/25 hired at $0.47
+Unskilled Jobs: 26/26 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 187 =========================
@@ -936,7 +936,7 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 188 =========================
 
-Unskilled Jobs: 26/26 hired at $0.46
+Unskilled Jobs: 26/26 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 189 =========================
@@ -946,12 +946,12 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 190 =========================
 
-Unskilled Jobs: 25/25 hired at $0.46
+Unskilled Jobs: 24/24 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 191 =========================
 
-Unskilled Jobs: 26/26 hired at $0.46
+Unskilled Jobs: 24/24 hired at $0.47
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 192 =========================
@@ -961,57 +961,57 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 193 =========================
 
-Unskilled Jobs: 24/24 hired at $0.46
+Unskilled Jobs: 23/23 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 194 =========================
 
-Unskilled Jobs: 24/24 hired at $0.46
+Unskilled Jobs: 23/23 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 195 =========================
 
-Unskilled Jobs: 23/23 hired at $0.46
+Unskilled Jobs: 21/21 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 196 =========================
 
-Unskilled Jobs: 23/23 hired at $0.46
+Unskilled Jobs: 21/21 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 197 =========================
 
-Unskilled Jobs: 24/24 hired at $0.46
+Unskilled Jobs: 21/21 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 198 =========================
 
-Unskilled Jobs: 20/20 hired at $0.46
+Unskilled Jobs: 21/21 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 199 =========================
 
-Unskilled Jobs: 22/22 hired at $0.45
+Unskilled Jobs: 22/22 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 200 =========================
 
-Unskilled Jobs: 19/19 hired at $0.46
+Unskilled Jobs: 22/22 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 201 =========================
 
-Unskilled Jobs: 20/20 hired at $0.45
+Unskilled Jobs: 21/21 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 202 =========================
 
-Unskilled Jobs: 19/19 hired at $0.45
+Unskilled Jobs: 21/21 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 203 =========================
 
-Unskilled Jobs: 19/19 hired at $0.45
+Unskilled Jobs: 20/20 hired at $0.46
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 204 =========================
@@ -1021,12 +1021,12 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 205 =========================
 
-Unskilled Jobs: 18/18 hired at $0.45
+Unskilled Jobs: 19/19 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 206 =========================
 
-Unskilled Jobs: 16/16 hired at $0.45
+Unskilled Jobs: 18/18 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 207 =========================
@@ -1036,245 +1036,1525 @@ Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 208 =========================
 
-Unskilled Jobs: 19/19 hired at $0.45
+Unskilled Jobs: 16/16 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 209 =========================
 
-Unskilled Jobs: 18/18 hired at $0.45
+Unskilled Jobs: 16/16 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 210 =========================
 
-Unskilled Jobs: 21/21 hired at $0.45
+Unskilled Jobs: 16/16 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 211 =========================
 
-Unskilled Jobs: 20/20 hired at $0.45
+Unskilled Jobs: 18/18 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 212 =========================
 
-Unskilled Jobs: 21/21 hired at $0.45
+Unskilled Jobs: 20/20 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 213 =========================
 
-Unskilled Jobs: 24/24 hired at $0.45
+Unskilled Jobs: 18/18 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 214 =========================
 
-Unskilled Jobs: 24/24 hired at $0.45
+Unskilled Jobs: 20/20 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 215 =========================
 
-Unskilled Jobs: 25/25 hired at $0.45
+Unskilled Jobs: 19/19 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 216 =========================
 
-Unskilled Jobs: 28/28 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 217 =========================
 
-Unskilled Jobs: 29/29 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 218 =========================
 
-Unskilled Jobs: 31/31 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.45
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 219 =========================
 
-Unskilled Jobs: 31/31 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 220 =========================
 
-Unskilled Jobs: 32/32 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 221 =========================
 
-Unskilled Jobs: 34/34 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 222 =========================
 
-Unskilled Jobs: 32/32 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 223 =========================
 
-Unskilled Jobs: 35/35 hired at $0.44
+Unskilled Jobs: 21/21 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 224 =========================
 
-Unskilled Jobs: 33/33 hired at $0.44
+Unskilled Jobs: 20/20 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 225 =========================
 
-Unskilled Jobs: 34/34 hired at $0.44
+Unskilled Jobs: 18/18 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 226 =========================
 
-Unskilled Jobs: 33/33 hired at $0.44
+Unskilled Jobs: 18/18 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 227 =========================
 
-Unskilled Jobs: 32/32 hired at $0.44
+Unskilled Jobs: 16/16 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 228 =========================
 
-Unskilled Jobs: 33/33 hired at $0.44
+Unskilled Jobs: 16/16 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 229 =========================
 
-Unskilled Jobs: 31/31 hired at $0.44
+Unskilled Jobs: 16/16 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 230 =========================
 
-Unskilled Jobs: 31/31 hired at $0.43
+Unskilled Jobs: 16/16 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 231 =========================
 
-Unskilled Jobs: 29/29 hired at $0.43
+Unskilled Jobs: 16/16 hired at $0.44
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 232 =========================
 
-Unskilled Jobs: 28/28 hired at $0.43
+Unskilled Jobs: 17/17 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 233 =========================
 
-Unskilled Jobs: 27/27 hired at $0.43
+Unskilled Jobs: 18/18 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 234 =========================
 
-Unskilled Jobs: 26/26 hired at $0.43
+Unskilled Jobs: 20/20 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 235 =========================
 
-Unskilled Jobs: 28/28 hired at $0.43
+Unskilled Jobs: 23/23 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 236 =========================
 
-Unskilled Jobs: 27/27 hired at $0.43
+Unskilled Jobs: 22/22 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 237 =========================
 
-Unskilled Jobs: 23/23 hired at $0.43
+Unskilled Jobs: 24/24 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 238 =========================
 
-Unskilled Jobs: 24/24 hired at $0.43
+Unskilled Jobs: 25/25 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 239 =========================
 
-Unskilled Jobs: 23/23 hired at $0.43
+Unskilled Jobs: 25/25 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 240 =========================
 
-Unskilled Jobs: 22/22 hired at $0.43
+Unskilled Jobs: 27/27 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 241 =========================
 
-Unskilled Jobs: 23/23 hired at $0.43
+Unskilled Jobs: 28/28 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 242 =========================
 
-Unskilled Jobs: 22/22 hired at $0.43
+Unskilled Jobs: 28/28 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 243 =========================
 
-Unskilled Jobs: 21/21 hired at $0.43
+Unskilled Jobs: 28/28 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 244 =========================
 
-Unskilled Jobs: 20/20 hired at $0.43
+Unskilled Jobs: 28/28 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 245 =========================
 
-Unskilled Jobs: 19/19 hired at $0.43
+Unskilled Jobs: 27/27 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 246 =========================
 
-Unskilled Jobs: 20/20 hired at $0.42
+Unskilled Jobs: 26/26 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 247 =========================
 
-Unskilled Jobs: 20/20 hired at $0.42
+Unskilled Jobs: 27/27 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 248 =========================
 
-Unskilled Jobs: 18/18 hired at $0.42
+Unskilled Jobs: 30/30 hired at $0.43
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 249 =========================
 
-Unskilled Jobs: 18/18 hired at $0.42
+Unskilled Jobs: 31/31 hired at $0.42
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 250 =========================
 
-Unskilled Jobs: 20/20 hired at $0.42
+Unskilled Jobs: 31/31 hired at $0.42
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 251 =========================
 
-Unskilled Jobs: 19/19 hired at $0.42
+Unskilled Jobs: 31/31 hired at $0.42
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 252 =========================
 
-Unskilled Jobs: 18/18 hired at $0.42
+Unskilled Jobs: 30/30 hired at $0.42
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 253 =========================
 
-Unskilled Jobs: 20/20 hired at $0.42
+Unskilled Jobs: 28/28 hired at $0.42
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 254 =========================
 
-Unskilled Jobs: 21/21 hired at $0.42
+Unskilled Jobs: 30/30 hired at $0.42
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 255 =========================
 
-Unskilled Jobs: 23/23 hired at $0.42
+Unskilled Jobs: 27/27 hired at $0.42
 Skilled Jobs: 0/0 hired at $0.00
 
 ========================= MONTH 256 =========================
 
-Unskilled Jobs: 24/24 hired at $0.42
+Unskilled Jobs: 28/28 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 257 =========================
+
+Unskilled Jobs: 29/29 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 258 =========================
+
+Unskilled Jobs: 27/27 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 259 =========================
+
+Unskilled Jobs: 27/27 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 260 =========================
+
+Unskilled Jobs: 28/28 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 261 =========================
+
+Unskilled Jobs: 28/28 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 262 =========================
+
+Unskilled Jobs: 29/29 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 263 =========================
+
+Unskilled Jobs: 30/30 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 264 =========================
+
+Unskilled Jobs: 31/31 hired at $0.42
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 265 =========================
+
+Unskilled Jobs: 31/31 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 266 =========================
+
+Unskilled Jobs: 30/30 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 267 =========================
+
+Unskilled Jobs: 31/31 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 268 =========================
+
+Unskilled Jobs: 28/28 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 269 =========================
+
+Unskilled Jobs: 29/29 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 270 =========================
+
+Unskilled Jobs: 28/28 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 271 =========================
+
+Unskilled Jobs: 28/28 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 272 =========================
+
+Unskilled Jobs: 28/28 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 273 =========================
+
+Unskilled Jobs: 29/29 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 274 =========================
+
+Unskilled Jobs: 27/27 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 275 =========================
+
+Unskilled Jobs: 28/28 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 276 =========================
+
+Unskilled Jobs: 29/29 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 277 =========================
+
+Unskilled Jobs: 26/26 hired at $0.41
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 278 =========================
+
+Unskilled Jobs: 28/28 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 279 =========================
+
+Unskilled Jobs: 27/27 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 280 =========================
+
+Unskilled Jobs: 27/27 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 281 =========================
+
+Unskilled Jobs: 26/26 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 282 =========================
+
+Unskilled Jobs: 24/24 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 283 =========================
+
+Unskilled Jobs: 22/22 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 284 =========================
+
+Unskilled Jobs: 22/22 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 285 =========================
+
+Unskilled Jobs: 22/22 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 286 =========================
+
+Unskilled Jobs: 22/22 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 287 =========================
+
+Unskilled Jobs: 21/21 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 288 =========================
+
+Unskilled Jobs: 22/22 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 289 =========================
+
+Unskilled Jobs: 23/23 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 290 =========================
+
+Unskilled Jobs: 23/23 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 291 =========================
+
+Unskilled Jobs: 21/21 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 292 =========================
+
+Unskilled Jobs: 22/22 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 293 =========================
+
+Unskilled Jobs: 23/23 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 294 =========================
+
+Unskilled Jobs: 23/23 hired at $0.40
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 295 =========================
+
+Unskilled Jobs: 25/25 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 296 =========================
+
+Unskilled Jobs: 27/27 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 297 =========================
+
+Unskilled Jobs: 29/29 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 298 =========================
+
+Unskilled Jobs: 31/31 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 299 =========================
+
+Unskilled Jobs: 30/30 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 300 =========================
+
+Unskilled Jobs: 31/31 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 301 =========================
+
+Unskilled Jobs: 31/31 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 302 =========================
+
+Unskilled Jobs: 31/31 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 303 =========================
+
+Unskilled Jobs: 33/33 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 304 =========================
+
+Unskilled Jobs: 34/34 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 305 =========================
+
+Unskilled Jobs: 36/36 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 306 =========================
+
+Unskilled Jobs: 36/36 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 307 =========================
+
+Unskilled Jobs: 36/36 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 308 =========================
+
+Unskilled Jobs: 35/35 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 309 =========================
+
+Unskilled Jobs: 37/37 hired at $0.39
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 310 =========================
+
+Unskilled Jobs: 37/37 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 311 =========================
+
+Unskilled Jobs: 39/39 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 312 =========================
+
+Unskilled Jobs: 36/36 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 313 =========================
+
+Unskilled Jobs: 36/36 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 314 =========================
+
+Unskilled Jobs: 34/34 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 315 =========================
+
+Unskilled Jobs: 33/33 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 316 =========================
+
+Unskilled Jobs: 34/34 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 317 =========================
+
+Unskilled Jobs: 35/35 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 318 =========================
+
+Unskilled Jobs: 36/36 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 319 =========================
+
+Unskilled Jobs: 36/36 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 320 =========================
+
+Unskilled Jobs: 35/35 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 321 =========================
+
+Unskilled Jobs: 34/34 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 322 =========================
+
+Unskilled Jobs: 33/33 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 323 =========================
+
+Unskilled Jobs: 33/33 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 324 =========================
+
+Unskilled Jobs: 31/31 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 325 =========================
+
+Unskilled Jobs: 31/31 hired at $0.38
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 326 =========================
+
+Unskilled Jobs: 29/29 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 327 =========================
+
+Unskilled Jobs: 27/27 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 328 =========================
+
+Unskilled Jobs: 28/28 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 329 =========================
+
+Unskilled Jobs: 27/27 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 330 =========================
+
+Unskilled Jobs: 28/28 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 331 =========================
+
+Unskilled Jobs: 26/26 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 332 =========================
+
+Unskilled Jobs: 25/25 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 333 =========================
+
+Unskilled Jobs: 27/27 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 334 =========================
+
+Unskilled Jobs: 26/26 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 335 =========================
+
+Unskilled Jobs: 26/26 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 336 =========================
+
+Unskilled Jobs: 29/29 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 337 =========================
+
+Unskilled Jobs: 30/30 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 338 =========================
+
+Unskilled Jobs: 33/33 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 339 =========================
+
+Unskilled Jobs: 35/35 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 340 =========================
+
+Unskilled Jobs: 36/36 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 341 =========================
+
+Unskilled Jobs: 34/34 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 342 =========================
+
+Unskilled Jobs: 37/37 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 343 =========================
+
+Unskilled Jobs: 38/38 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 344 =========================
+
+Unskilled Jobs: 39/39 hired at $0.37
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 345 =========================
+
+Unskilled Jobs: 40/40 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 346 =========================
+
+Unskilled Jobs: 40/40 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 347 =========================
+
+Unskilled Jobs: 39/39 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 348 =========================
+
+Unskilled Jobs: 42/42 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 349 =========================
+
+Unskilled Jobs: 41/41 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 350 =========================
+
+Unskilled Jobs: 42/42 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 351 =========================
+
+Unskilled Jobs: 42/42 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 352 =========================
+
+Unskilled Jobs: 39/39 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 353 =========================
+
+Unskilled Jobs: 40/40 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 354 =========================
+
+Unskilled Jobs: 38/38 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 355 =========================
+
+Unskilled Jobs: 36/36 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 356 =========================
+
+Unskilled Jobs: 34/34 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 357 =========================
+
+Unskilled Jobs: 36/36 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 358 =========================
+
+Unskilled Jobs: 33/33 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 359 =========================
+
+Unskilled Jobs: 31/31 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 360 =========================
+
+Unskilled Jobs: 35/35 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 361 =========================
+
+Unskilled Jobs: 34/34 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 362 =========================
+
+Unskilled Jobs: 35/35 hired at $0.36
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 363 =========================
+
+Unskilled Jobs: 37/37 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 364 =========================
+
+Unskilled Jobs: 35/35 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 365 =========================
+
+Unskilled Jobs: 35/35 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 366 =========================
+
+Unskilled Jobs: 38/38 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 367 =========================
+
+Unskilled Jobs: 35/35 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 368 =========================
+
+Unskilled Jobs: 36/36 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 369 =========================
+
+Unskilled Jobs: 34/34 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 370 =========================
+
+Unskilled Jobs: 37/37 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 371 =========================
+
+Unskilled Jobs: 36/36 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 372 =========================
+
+Unskilled Jobs: 40/40 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 373 =========================
+
+Unskilled Jobs: 39/39 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 374 =========================
+
+Unskilled Jobs: 42/42 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 375 =========================
+
+Unskilled Jobs: 41/41 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 376 =========================
+
+Unskilled Jobs: 41/41 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 377 =========================
+
+Unskilled Jobs: 42/42 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 378 =========================
+
+Unskilled Jobs: 48/48 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 379 =========================
+
+Unskilled Jobs: 45/45 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 380 =========================
+
+Unskilled Jobs: 46/46 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 381 =========================
+
+Unskilled Jobs: 47/47 hired at $0.35
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 382 =========================
+
+Unskilled Jobs: 49/49 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 383 =========================
+
+Unskilled Jobs: 50/50 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 384 =========================
+
+Unskilled Jobs: 49/49 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 385 =========================
+
+Unskilled Jobs: 48/48 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 386 =========================
+
+Unskilled Jobs: 50/50 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 387 =========================
+
+Unskilled Jobs: 49/49 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 388 =========================
+
+Unskilled Jobs: 46/46 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 389 =========================
+
+Unskilled Jobs: 50/52 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 390 =========================
+
+Unskilled Jobs: 49/49 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 391 =========================
+
+Unskilled Jobs: 47/47 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 392 =========================
+
+Unskilled Jobs: 50/50 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 393 =========================
+
+Unskilled Jobs: 46/46 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 394 =========================
+
+Unskilled Jobs: 45/45 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 395 =========================
+
+Unskilled Jobs: 44/44 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 396 =========================
+
+Unskilled Jobs: 40/40 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 397 =========================
+
+Unskilled Jobs: 44/44 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 398 =========================
+
+Unskilled Jobs: 42/42 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 399 =========================
+
+Unskilled Jobs: 45/45 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 400 =========================
+
+Unskilled Jobs: 47/47 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 401 =========================
+
+Unskilled Jobs: 43/43 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 402 =========================
+
+Unskilled Jobs: 41/41 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 403 =========================
+
+Unskilled Jobs: 45/45 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 404 =========================
+
+Unskilled Jobs: 45/45 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 405 =========================
+
+Unskilled Jobs: 42/42 hired at $0.34
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 406 =========================
+
+Unskilled Jobs: 46/46 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 407 =========================
+
+Unskilled Jobs: 46/46 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 408 =========================
+
+Unskilled Jobs: 46/46 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 409 =========================
+
+Unskilled Jobs: 45/45 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 410 =========================
+
+Unskilled Jobs: 44/44 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 411 =========================
+
+Unskilled Jobs: 42/42 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 412 =========================
+
+Unskilled Jobs: 42/42 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 413 =========================
+
+Unskilled Jobs: 40/40 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 414 =========================
+
+Unskilled Jobs: 43/43 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 415 =========================
+
+Unskilled Jobs: 42/42 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 416 =========================
+
+Unskilled Jobs: 43/43 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 417 =========================
+
+Unskilled Jobs: 39/39 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 418 =========================
+
+Unskilled Jobs: 38/38 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 419 =========================
+
+Unskilled Jobs: 43/43 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 420 =========================
+
+Unskilled Jobs: 42/42 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 421 =========================
+
+Unskilled Jobs: 39/39 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 422 =========================
+
+Unskilled Jobs: 37/37 hired at $0.33
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 423 =========================
+
+Unskilled Jobs: 41/41 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 424 =========================
+
+Unskilled Jobs: 37/37 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 425 =========================
+
+Unskilled Jobs: 41/41 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 426 =========================
+
+Unskilled Jobs: 41/41 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 427 =========================
+
+Unskilled Jobs: 42/42 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 428 =========================
+
+Unskilled Jobs: 41/41 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 429 =========================
+
+Unskilled Jobs: 42/42 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 430 =========================
+
+Unskilled Jobs: 41/41 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 431 =========================
+
+Unskilled Jobs: 42/42 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 432 =========================
+
+Unskilled Jobs: 41/41 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 433 =========================
+
+Unskilled Jobs: 44/44 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 434 =========================
+
+Unskilled Jobs: 43/43 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 435 =========================
+
+Unskilled Jobs: 45/45 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 436 =========================
+
+Unskilled Jobs: 46/46 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 437 =========================
+
+Unskilled Jobs: 48/48 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 438 =========================
+
+Unskilled Jobs: 47/47 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 439 =========================
+
+Unskilled Jobs: 46/46 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 440 =========================
+
+Unskilled Jobs: 43/43 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 441 =========================
+
+Unskilled Jobs: 44/44 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 442 =========================
+
+Unskilled Jobs: 43/43 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 443 =========================
+
+Unskilled Jobs: 42/42 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 444 =========================
+
+Unskilled Jobs: 40/40 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 445 =========================
+
+Unskilled Jobs: 37/37 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 446 =========================
+
+Unskilled Jobs: 37/37 hired at $0.32
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 447 =========================
+
+Unskilled Jobs: 39/39 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 448 =========================
+
+Unskilled Jobs: 35/35 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 449 =========================
+
+Unskilled Jobs: 35/35 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 450 =========================
+
+Unskilled Jobs: 34/34 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 451 =========================
+
+Unskilled Jobs: 33/33 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 452 =========================
+
+Unskilled Jobs: 33/33 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 453 =========================
+
+Unskilled Jobs: 34/34 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 454 =========================
+
+Unskilled Jobs: 35/35 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 455 =========================
+
+Unskilled Jobs: 36/36 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 456 =========================
+
+Unskilled Jobs: 37/37 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 457 =========================
+
+Unskilled Jobs: 37/37 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 458 =========================
+
+Unskilled Jobs: 37/37 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 459 =========================
+
+Unskilled Jobs: 38/38 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 460 =========================
+
+Unskilled Jobs: 38/38 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 461 =========================
+
+Unskilled Jobs: 37/37 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 462 =========================
+
+Unskilled Jobs: 38/38 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 463 =========================
+
+Unskilled Jobs: 38/38 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 464 =========================
+
+Unskilled Jobs: 38/38 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 465 =========================
+
+Unskilled Jobs: 41/41 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 466 =========================
+
+Unskilled Jobs: 42/42 hired at $0.31
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 467 =========================
+
+Unskilled Jobs: 43/43 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 468 =========================
+
+Unskilled Jobs: 42/42 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 469 =========================
+
+Unskilled Jobs: 46/46 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 470 =========================
+
+Unskilled Jobs: 44/44 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 471 =========================
+
+Unskilled Jobs: 43/43 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 472 =========================
+
+Unskilled Jobs: 44/44 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 473 =========================
+
+Unskilled Jobs: 44/44 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 474 =========================
+
+Unskilled Jobs: 42/42 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 475 =========================
+
+Unskilled Jobs: 40/40 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 476 =========================
+
+Unskilled Jobs: 41/41 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 477 =========================
+
+Unskilled Jobs: 37/37 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 478 =========================
+
+Unskilled Jobs: 38/38 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 479 =========================
+
+Unskilled Jobs: 40/40 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 480 =========================
+
+Unskilled Jobs: 38/38 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 481 =========================
+
+Unskilled Jobs: 41/41 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 482 =========================
+
+Unskilled Jobs: 44/44 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 483 =========================
+
+Unskilled Jobs: 44/44 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 484 =========================
+
+Unskilled Jobs: 44/44 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 485 =========================
+
+Unskilled Jobs: 46/46 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 486 =========================
+
+Unskilled Jobs: 44/44 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 487 =========================
+
+Unskilled Jobs: 46/46 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 488 =========================
+
+Unskilled Jobs: 47/47 hired at $0.30
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 489 =========================
+
+Unskilled Jobs: 47/47 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 490 =========================
+
+Unskilled Jobs: 46/46 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 491 =========================
+
+Unskilled Jobs: 45/45 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 492 =========================
+
+Unskilled Jobs: 42/42 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 493 =========================
+
+Unskilled Jobs: 43/43 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 494 =========================
+
+Unskilled Jobs: 44/44 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 495 =========================
+
+Unskilled Jobs: 43/43 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 496 =========================
+
+Unskilled Jobs: 43/43 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 497 =========================
+
+Unskilled Jobs: 45/45 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 498 =========================
+
+Unskilled Jobs: 44/44 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 499 =========================
+
+Unskilled Jobs: 43/43 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 500 =========================
+
+Unskilled Jobs: 45/45 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 501 =========================
+
+Unskilled Jobs: 46/46 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 502 =========================
+
+Unskilled Jobs: 44/44 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 503 =========================
+
+Unskilled Jobs: 43/43 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 504 =========================
+
+Unskilled Jobs: 41/41 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 505 =========================
+
+Unskilled Jobs: 42/42 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 506 =========================
+
+Unskilled Jobs: 44/44 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 507 =========================
+
+Unskilled Jobs: 44/44 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 508 =========================
+
+Unskilled Jobs: 45/45 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 509 =========================
+
+Unskilled Jobs: 45/45 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 510 =========================
+
+Unskilled Jobs: 43/43 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 511 =========================
+
+Unskilled Jobs: 44/44 hired at $0.29
+Skilled Jobs: 0/0 hired at $0.00
+
+========================= MONTH 512 =========================
+
+Unskilled Jobs: 43/43 hired at $0.28
 Skilled Jobs: 0/0 hired at $0.00

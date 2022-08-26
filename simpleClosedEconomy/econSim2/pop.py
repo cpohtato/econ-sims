@@ -72,7 +72,10 @@ class Pop():
 
         utility: float = 0
         for goodType in range(NUM_GOOD_TYPES):
-            utility += self.goodPref[goodType] * math.sqrt(basket[goodType])
+            if (goodType == TYPE_FOOD):
+                utility += self.goodPref[goodType] * math.pow(basket[goodType], 0.25)
+            else:
+                utility += self.goodPref[goodType] * math.sqrt(basket[goodType])
 
         utility *= hasFood
 
