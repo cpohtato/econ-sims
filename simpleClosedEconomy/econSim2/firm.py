@@ -29,6 +29,8 @@ class Firm():
         self.prevSales: int = initSales
         self.prevProduced: int = initProduced
         self.prevProfit: float = 0.0
+        self.profitHistory: list[float] = [None for i in range(PROFIT_HISTORY_LENGTH)]
+        self.saleHistory: list[float] = [None for i in range(PROFIT_HISTORY_LENGTH)]
 
         # Current step stats, should be reset at the end of every month
         self.currPrice: float = initPrice
@@ -152,15 +154,15 @@ class Firm():
     def updatePrice(self):
 
         if (self.prevProduced > 0):
-            # surplus = self.remaining/(TARGET_SURPLUS * self.prevProduced) - 1
-            surplus = (self.prevProduced - self.prevSales)/(TARGET_SURPLUS * self.prevProduced) - 1
+            surplus = self.remaining/(TARGET_SURPLUS * self.prevProduced) - 1
+            # surplus = (self.prevProduced - self.prevSales)/(TARGET_SURPLUS * self.prevProduced) - 1
         else:
             surplus = -0.2
 
-        if (surplus > 1):
-            surplus = 1
-        elif (surplus < -1):
-            surplus = -1
+        if (surplus > 3):
+            surplus = 3
+        elif (surplus < -3):
+            surplus = -3
 
         if (surplus <= 0):
             self.currPrice = self.prevPrice * random.uniform(1, 1 + PRICE_VISCOSITY * (1 + 
@@ -208,6 +210,14 @@ class Firm():
         for jobType in range(NUM_JOB_TYPES-1):
             self.prevProfit -= self.currListLabourReceived[jobType] * self.currListWages[jobType]
 
+        for i in range(PROFIT_HISTORY_LENGTH-1):
+            self.profitHistory[i] = self.profitHistory[i + 1]
+        self.profitHistory[PROFIT_HISTORY_LENGTH-1] = self.prevProfit
+
+        for i in range(PROFIT_HISTORY_LENGTH-1):
+            self.saleHistory[i] = self.saleHistory[i + 1]
+        self.saleHistory[PROFIT_HISTORY_LENGTH-1] = self.prevSales
+
         # Previous step stats, should be updated at the end of every month
         self.prevPrice: float = self.currPrice
         self.prevListWages: list[float] = self.currListWages
@@ -226,7 +236,7 @@ class Firm():
         self.currProduced: int = 0
 
     def log(self):
-        with open("simpleClosedEconomy/log/firms.txt", "a") as logFile:
+        with open("log/firms.txt", "a") as logFile:
             logFile.write(self.name + ", " + DICT_GOOD_NAMES[self.goodType] + ": " + str(self.
             prevSales) + "/" + str(self.prevProduced) + ", Profit: " + "{:.2f}".format(self.
             prevProfit) + "\n")

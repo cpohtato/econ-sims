@@ -136,6 +136,6 @@ class Pop():
         self.doneShopping = False
 
     def log(self):
-        with open("simpleClosedEconomy/log/pops.txt", "a") as logFile:
+        with open("log/pops.txt", "a") as logFile:
             logFile.write(self.firstName + " " + self.surname + ", " + DICT_JOB_TITLES[self.
             jobType] + ": " + "{:.2f}".format(self.utils) + " utils\n")

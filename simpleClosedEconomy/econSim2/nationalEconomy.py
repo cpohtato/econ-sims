@@ -135,8 +135,45 @@ class NationalEconomy():
         pass
 
     def stepFirms(self):
-        #   Firms do not enter, exit or acquire capital equipment yet
-        pass
+        #   Firms do not enter or acquire capital equipment yet
+        
+        #   Determine if firms fold due to unprofitability
+
+        #   Find minimum cost of labour
+        listWages = []
+        for market in self.listLabourMarkets:
+            listWages.append(market.prevAvgWage)
+        # minWage = min(listWages)
+        minWage = listWages[JOB_UNSKILLED]
+
+        unprofitableFirms = 0
+        deadFirms = 0
+        for goodType in range(NUM_GOOD_TYPES):
+            for firm in self.listFirms[goodType]:
+
+                #   Profit check
+                avgProfit = 0
+                validPeriods = 0
+                totSales = 0
+                for period in firm.profitHistory:
+                    if (period != None):
+                        avgProfit += period
+                        validPeriods += 1
+                if (validPeriods == 12):
+                    avgProfit /= validPeriods
+                    if (avgProfit < 0):
+                        unprofitableFirms += 1
+
+                for period in firm.saleHistory:
+                    if (period != None):
+                        totSales += period
+
+                if (totSales == 0):
+                    deadFirms += 1
+                
+
+        print(str(unprofitableFirms) + " firms are unprofitable")
+        print(str(deadFirms) + " firms are dead\n")
 
     def stepEmployment(self):
 
@@ -311,7 +348,7 @@ class NationalEconomy():
                 pop.log()
         avgUtils /= numPops
 
-        with open("simpleClosedEconomy/log/pops.txt", "a") as logFile:
+        with open("log/pops.txt", "a") as logFile:
             logFile.write("Avg. utils: " + "{:.2f}".format(avgUtils) + " \n")
 
     def resetFirms(self):
@@ -374,22 +411,22 @@ class NationalEconomy():
         return listHired
 
     def logHeader(self, month):
-        with open("simpleClosedEconomy/log/jobs.txt", "a") as logFile:
+        with open("log/jobs.txt", "a") as logFile:
             logFile.write("\n")
             logFile.write("========================= MONTH " + str(month) + " =========================\n")
             logFile.write("\n")
 
-        with open("simpleClosedEconomy/log/sales.txt", "a") as logFile:
+        with open("log/sales.txt", "a") as logFile:
             logFile.write("\n")
             logFile.write("========================= MONTH " + str(month) + " =========================\n")
             logFile.write("\n")
 
-        with open("simpleClosedEconomy/log/firms.txt", "a") as logFile:
+        with open("log/firms.txt", "a") as logFile:
             logFile.write("\n")
             logFile.write("========================= MONTH " + str(month) + " =========================\n")
             logFile.write("\n")
 
-        with open("simpleClosedEconomy/log/pops.txt", "a") as logFile:
+        with open("log/pops.txt", "a") as logFile:
             logFile.write("\n")
             logFile.write("========================= MONTH " + str(month) + " =========================\n")
             logFile.write("\n")

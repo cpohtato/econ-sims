@@ -89,7 +89,7 @@ class LabourMarket():
         pass
 
     def log(self):
-        with open("simpleClosedEconomy/log/jobs.txt", "a") as logFile:
+        with open("log/jobs.txt", "a") as logFile:
             logFile.write(DICT_JOB_TITLES[self.jobType] + " Jobs: " + str(self.prevTotalHires) + 
             "/" + str(self.prevTotalOpen) + " hired at $" + "{:.2f}".format(self.prevAvgWage) + 
             "\n")

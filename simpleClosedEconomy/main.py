@@ -1,6 +1,6 @@
 from econSim2 import *
 
-SIM_LENGTH = 512
+SIM_LENGTH = 12
 
 def main():
     wipeLogs() 

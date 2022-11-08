@@ -42,6 +42,7 @@ JOB_CAPITALIST = 2
 JOB_PROD_MEAN = [1, 0]
 JOB_PROD_NORM_STD_DEV = [0.3, 0]
 SCALE_FACTOR = 5
+PROFIT_HISTORY_LENGTH = 12
 
 INIT_WAGES = [0.6, 2]
 
@@ -55,7 +56,7 @@ INIT_POPULATION = [50, 0, 10]
 INIT_SAVINGS = [2, 5, 10]
 INIT_FIRMS = [5, 5]
 
-MALE_FIRST_NAMES_DATA = [line.strip() for line in open("simpleClosedEconomy/econSim2/names/male.txt", 'r')]
-SURNAMES_DATA = [line.strip() for line in open("simpleClosedEconomy/econSim2/names/surnames.txt", 'r')]
-FOOD_COMPANY_NAME_DATA = [line.strip() for line in open("simpleClosedEconomy/econSim2/names/food.txt", 'r')]
-ENERGY_COMPANY_NAME_DATA = [line.strip() for line in open("simpleClosedEconomy/econSim2/names/energy.txt", 'r')]
+MALE_FIRST_NAMES_DATA = [line.strip() for line in open("econSim2/names/male.txt", 'r')]
+SURNAMES_DATA = [line.strip() for line in open("econSim2/names/surnames.txt", 'r')]
+FOOD_COMPANY_NAME_DATA = [line.strip() for line in open("econSim2/names/food.txt", 'r')]
+ENERGY_COMPANY_NAME_DATA = [line.strip() for line in open("econSim2/names/energy.txt", 'r')]

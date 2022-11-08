@@ -95,6 +95,6 @@ class GoodMarket():
                 self.prevAvgPrice = 0
 
     def log(self):
-        with open("simpleClosedEconomy/log/sales.txt", "a") as logFile:
+        with open("log/sales.txt", "a") as logFile:
             logFile.write(DICT_GOOD_NAMES[self.goodType] + " Market: " + str(self.prevSales) + "/" 
             + str(self.prevSupply) + " sold at $" + "{:.2f}".format(self.prevAvgPrice) + "\n")

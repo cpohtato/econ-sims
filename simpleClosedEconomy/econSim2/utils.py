@@ -1,16 +1,16 @@
 from .consts import *
 
 def wipeLogs():
-    with open("simpleClosedEconomy/log/jobs.txt", "w") as logFile:
+    with open("log/jobs.txt", "w") as logFile:
         logFile.write("")
         
-    with open("simpleClosedEconomy/log/sales.txt", "w") as logFile:
+    with open("log/sales.txt", "w") as logFile:
         logFile.write("")
 
-    with open("simpleClosedEconomy/log/firms.txt", "w") as logFile:
+    with open("log/firms.txt", "w") as logFile:
         logFile.write("")
 
-    with open("simpleClosedEconomy/log/pops.txt", "w") as logFile:
+    with open("log/pops.txt", "w") as logFile:
         logFile.write("")
 
 def generatePopName():
